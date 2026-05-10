@@ -1,0 +1,3510 @@
+{
+  "deck_id": "eng_word_level2_junior_500",
+  "deck_name": "中2〜中3レベル500語",
+  "direction_mode": "bothWays",
+  "front_label": "英語",
+  "back_label": "日本語",
+  "show_listen": true,
+  "cards": [
+    {
+      "id": "l2_001",
+      "front": "accept",
+      "back": "受け入れる",
+      "example": "Please accept my apology.",
+      "hint_image": "accept.jpg"
+    },
+    {
+      "id": "l2_002",
+      "front": "achieve",
+      "back": "達成する",
+      "example": "She achieved her goal.",
+      "hint_image": "achieve.jpg"
+    },
+    {
+      "id": "l2_003",
+      "front": "add",
+      "back": "加える",
+      "example": "Add some salt to the soup.",
+      "hint_image": "add.jpg"
+    },
+    {
+      "id": "l2_004",
+      "front": "agree",
+      "back": "同意する",
+      "example": "I agree with you.",
+      "hint_image": "agree.jpg"
+    },
+    {
+      "id": "l2_005",
+      "front": "allow",
+      "back": "許可する",
+      "example": "Is photography allowed here?",
+      "hint_image": "allow.jpg"
+    },
+    {
+      "id": "l2_006",
+      "front": "appear",
+      "back": "現れる",
+      "example": "Stars appear at night.",
+      "hint_image": "appear.jpg"
+    },
+    {
+      "id": "l2_007",
+      "front": "apply",
+      "back": "申し込む",
+      "example": "She applied for the job.",
+      "hint_image": "apply.jpg"
+    },
+    {
+      "id": "l2_008",
+      "front": "arrive",
+      "back": "到着する",
+      "example": "The train arrived on time.",
+      "hint_image": "arrive.jpg"
+    },
+    {
+      "id": "l2_009",
+      "front": "ask",
+      "back": "尋ねる",
+      "example": "Ask a question.",
+      "hint_image": "ask.jpg"
+    },
+    {
+      "id": "l2_010",
+      "front": "avoid",
+      "back": "避ける",
+      "example": "Avoid junk food.",
+      "hint_image": "avoid.jpg"
+    },
+    {
+      "id": "l2_011",
+      "front": "become",
+      "back": "〜になる",
+      "example": "She became a doctor.",
+      "hint_image": "become.jpg"
+    },
+    {
+      "id": "l2_012",
+      "front": "begin",
+      "back": "始まる",
+      "example": "Class begins at nine.",
+      "hint_image": "begin.jpg"
+    },
+    {
+      "id": "l2_013",
+      "front": "believe",
+      "back": "信じる",
+      "example": "I believe in you.",
+      "hint_image": "believe.jpg"
+    },
+    {
+      "id": "l2_014",
+      "front": "borrow",
+      "back": "借りる",
+      "example": "Can I borrow your pen?",
+      "hint_image": "borrow.jpg"
+    },
+    {
+      "id": "l2_015",
+      "front": "break",
+      "back": "壊す・折る",
+      "example": "Don't break the glass.",
+      "hint_image": "break.jpg"
+    },
+    {
+      "id": "l2_016",
+      "front": "build",
+      "back": "建てる",
+      "example": "They built a new school.",
+      "hint_image": "build.jpg"
+    },
+    {
+      "id": "l2_017",
+      "front": "call",
+      "back": "呼ぶ・電話する",
+      "example": "Call me tonight.",
+      "hint_image": "call.jpg"
+    },
+    {
+      "id": "l2_018",
+      "front": "change",
+      "back": "変える",
+      "example": "Change your clothes.",
+      "hint_image": "change.jpg"
+    },
+    {
+      "id": "l2_019",
+      "front": "check",
+      "back": "確認する",
+      "example": "Check your answers.",
+      "hint_image": "check.jpg"
+    },
+    {
+      "id": "l2_020",
+      "front": "choose",
+      "back": "選ぶ",
+      "example": "Choose one answer.",
+      "hint_image": "choose.jpg"
+    },
+    {
+      "id": "l2_021",
+      "front": "collect",
+      "back": "集める",
+      "example": "He collects stamps.",
+      "hint_image": "collect.jpg"
+    },
+    {
+      "id": "l2_022",
+      "front": "continue",
+      "back": "続ける",
+      "example": "Continue reading.",
+      "hint_image": "continue.jpg"
+    },
+    {
+      "id": "l2_023",
+      "front": "count",
+      "back": "数える",
+      "example": "Count to twenty.",
+      "hint_image": "count.jpg"
+    },
+    {
+      "id": "l2_024",
+      "front": "cover",
+      "back": "覆う",
+      "example": "Cover the dish.",
+      "hint_image": "cover.jpg"
+    },
+    {
+      "id": "l2_025",
+      "front": "create",
+      "back": "作る",
+      "example": "Create a new account.",
+      "hint_image": "create.jpg"
+    },
+    {
+      "id": "l2_026",
+      "front": "cross",
+      "back": "横切る",
+      "example": "Cross the street.",
+      "hint_image": "cross.jpg"
+    },
+    {
+      "id": "l2_027",
+      "front": "decide",
+      "back": "決める",
+      "example": "Decide what to eat.",
+      "hint_image": "decide.jpg"
+    },
+    {
+      "id": "l2_028",
+      "front": "deliver",
+      "back": "配達する",
+      "example": "He delivers packages.",
+      "hint_image": "deliver.jpg"
+    },
+    {
+      "id": "l2_029",
+      "front": "depend",
+      "back": "頼る",
+      "example": "It depends on you.",
+      "hint_image": "depend.jpg"
+    },
+    {
+      "id": "l2_030",
+      "front": "describe",
+      "back": "描写する",
+      "example": "Describe the picture.",
+      "hint_image": "describe.jpg"
+    },
+    {
+      "id": "l2_031",
+      "front": "discover",
+      "back": "発見する",
+      "example": "He discovered a new planet.",
+      "hint_image": "discover.jpg"
+    },
+    {
+      "id": "l2_032",
+      "front": "discuss",
+      "back": "話し合う",
+      "example": "Let's discuss the plan.",
+      "hint_image": "discuss.jpg"
+    },
+    {
+      "id": "l2_033",
+      "front": "divide",
+      "back": "分ける",
+      "example": "Divide into groups.",
+      "hint_image": "divide.jpg"
+    },
+    {
+      "id": "l2_034",
+      "front": "enjoy",
+      "back": "楽しむ",
+      "example": "Enjoy your meal.",
+      "hint_image": "enjoy.jpg"
+    },
+    {
+      "id": "l2_035",
+      "front": "enter",
+      "back": "入る",
+      "example": "Enter the room.",
+      "hint_image": "enter.jpg"
+    },
+    {
+      "id": "l2_036",
+      "front": "exchange",
+      "back": "交換する",
+      "example": "They exchanged gifts.",
+      "hint_image": "exchange.jpg"
+    },
+    {
+      "id": "l2_037",
+      "front": "expect",
+      "back": "予期する",
+      "example": "I expect you to come.",
+      "hint_image": "expect.jpg"
+    },
+    {
+      "id": "l2_038",
+      "front": "explain",
+      "back": "説明する",
+      "example": "Please explain this.",
+      "hint_image": "explain.jpg"
+    },
+    {
+      "id": "l2_039",
+      "front": "fail",
+      "back": "失敗する",
+      "example": "Don't be afraid to fail.",
+      "hint_image": "fail.jpg"
+    },
+    {
+      "id": "l2_040",
+      "front": "fill",
+      "back": "満たす",
+      "example": "Fill the glass.",
+      "hint_image": "fill.jpg"
+    },
+    {
+      "id": "l2_041",
+      "front": "finish",
+      "back": "終える",
+      "example": "Finish your homework.",
+      "hint_image": "finish.jpg"
+    },
+    {
+      "id": "l2_042",
+      "front": "fix",
+      "back": "修理する",
+      "example": "Fix the computer.",
+      "hint_image": "fix.jpg"
+    },
+    {
+      "id": "l2_043",
+      "front": "follow",
+      "back": "従う",
+      "example": "Follow the rules.",
+      "hint_image": "follow.jpg"
+    },
+    {
+      "id": "l2_044",
+      "front": "forget",
+      "back": "忘れる",
+      "example": "Don't forget your keys.",
+      "hint_image": "forget.jpg"
+    },
+    {
+      "id": "l2_045",
+      "front": "gain",
+      "back": "得る",
+      "example": "Gain experience.",
+      "hint_image": "gain.jpg"
+    },
+    {
+      "id": "l2_046",
+      "front": "gather",
+      "back": "集める",
+      "example": "Gather information.",
+      "hint_image": "gather.jpg"
+    },
+    {
+      "id": "l2_047",
+      "front": "graduate",
+      "back": "卒業する",
+      "example": "She graduated last year.",
+      "hint_image": "graduate.jpg"
+    },
+    {
+      "id": "l2_048",
+      "front": "grow",
+      "back": "育つ",
+      "example": "Plants grow fast here.",
+      "hint_image": "grow.jpg"
+    },
+    {
+      "id": "l2_049",
+      "front": "guess",
+      "back": "推測する",
+      "example": "Guess my age.",
+      "hint_image": "guess.jpg"
+    },
+    {
+      "id": "l2_050",
+      "front": "happen",
+      "back": "起こる",
+      "example": "What happened?",
+      "hint_image": "happen.jpg"
+    },
+    {
+      "id": "l2_051",
+      "front": "hold",
+      "back": "持つ",
+      "example": "Hold my hand.",
+      "hint_image": "hold.jpg"
+    },
+    {
+      "id": "l2_052",
+      "front": "hope",
+      "back": "望む",
+      "example": "I hope you feel better.",
+      "hint_image": "hope.jpg"
+    },
+    {
+      "id": "l2_053",
+      "front": "hurry",
+      "back": "急ぐ",
+      "example": "Hurry up!",
+      "hint_image": "hurry.jpg"
+    },
+    {
+      "id": "l2_054",
+      "front": "improve",
+      "back": "改善する",
+      "example": "I want to improve my English.",
+      "hint_image": "improve.jpg"
+    },
+    {
+      "id": "l2_055",
+      "front": "include",
+      "back": "含む",
+      "example": "The price includes tax.",
+      "hint_image": "include.jpg"
+    },
+    {
+      "id": "l2_056",
+      "front": "increase",
+      "back": "増える",
+      "example": "The price increased.",
+      "hint_image": "increase.jpg"
+    },
+    {
+      "id": "l2_057",
+      "front": "inform",
+      "back": "知らせる",
+      "example": "Please inform me.",
+      "hint_image": "inform.jpg"
+    },
+    {
+      "id": "l2_058",
+      "front": "invite",
+      "back": "招待する",
+      "example": "She invited me.",
+      "hint_image": "invite.jpg"
+    },
+    {
+      "id": "l2_059",
+      "front": "join",
+      "back": "参加する",
+      "example": "Join our club.",
+      "hint_image": "join.jpg"
+    },
+    {
+      "id": "l2_060",
+      "front": "laugh",
+      "back": "笑う",
+      "example": "She laughed loudly.",
+      "hint_image": "laugh.jpg"
+    },
+    {
+      "id": "l2_061",
+      "front": "lead",
+      "back": "率いる",
+      "example": "She leads the team.",
+      "hint_image": "lead.jpg"
+    },
+    {
+      "id": "l2_062",
+      "front": "leave",
+      "back": "去る・出発する",
+      "example": "Leave at eight.",
+      "hint_image": "leave.jpg"
+    },
+    {
+      "id": "l2_063",
+      "front": "lend",
+      "back": "貸す",
+      "example": "Can you lend me money?",
+      "hint_image": "lend.jpg"
+    },
+    {
+      "id": "l2_064",
+      "front": "let",
+      "back": "させる",
+      "example": "Let me help.",
+      "hint_image": "let.jpg"
+    },
+    {
+      "id": "l2_065",
+      "front": "lift",
+      "back": "持ち上げる",
+      "example": "Lift the box.",
+      "hint_image": "lift.jpg"
+    },
+    {
+      "id": "l2_066",
+      "front": "listen",
+      "back": "聴く",
+      "example": "Listen carefully.",
+      "hint_image": "listen.jpg"
+    },
+    {
+      "id": "l2_067",
+      "front": "lose",
+      "back": "失う・負ける",
+      "example": "Don't lose your wallet.",
+      "hint_image": "lose.jpg"
+    },
+    {
+      "id": "l2_068",
+      "front": "matter",
+      "back": "重要である",
+      "example": "It doesn't matter.",
+      "hint_image": "matter.jpg"
+    },
+    {
+      "id": "l2_069",
+      "front": "measure",
+      "back": "測る",
+      "example": "Measure the length.",
+      "hint_image": "measure.jpg"
+    },
+    {
+      "id": "l2_070",
+      "front": "miss",
+      "back": "恋しく思う・乗り遅れる",
+      "example": "I miss you.",
+      "hint_image": "miss.jpg"
+    },
+    {
+      "id": "l2_071",
+      "front": "mix",
+      "back": "混ぜる",
+      "example": "Mix the ingredients.",
+      "hint_image": "mix.jpg"
+    },
+    {
+      "id": "l2_072",
+      "front": "move",
+      "back": "動く",
+      "example": "Move the chair.",
+      "hint_image": "move.jpg"
+    },
+    {
+      "id": "l2_073",
+      "front": "notice",
+      "back": "気づく",
+      "example": "I didn't notice you.",
+      "hint_image": "notice.jpg"
+    },
+    {
+      "id": "l2_074",
+      "front": "offer",
+      "back": "提供する",
+      "example": "She offered help.",
+      "hint_image": "offer.jpg"
+    },
+    {
+      "id": "l2_075",
+      "front": "order",
+      "back": "注文する",
+      "example": "I'd like to order.",
+      "hint_image": "order.jpg"
+    },
+    {
+      "id": "l2_076",
+      "front": "pass",
+      "back": "合格する・通る",
+      "example": "She passed the test.",
+      "hint_image": "pass.jpg"
+    },
+    {
+      "id": "l2_077",
+      "front": "plan",
+      "back": "計画する",
+      "example": "Plan your trip.",
+      "hint_image": "plan.jpg"
+    },
+    {
+      "id": "l2_078",
+      "front": "plant",
+      "back": "植える",
+      "example": "Plant the seeds.",
+      "hint_image": "plant.jpg"
+    },
+    {
+      "id": "l2_079",
+      "front": "point",
+      "back": "指す",
+      "example": "Point to the answer.",
+      "hint_image": "point.jpg"
+    },
+    {
+      "id": "l2_080",
+      "front": "practice",
+      "back": "練習する",
+      "example": "Practice every day.",
+      "hint_image": "practice.jpg"
+    },
+    {
+      "id": "l2_081",
+      "front": "prepare",
+      "back": "準備する",
+      "example": "Prepare for the test.",
+      "hint_image": "prepare.jpg"
+    },
+    {
+      "id": "l2_082",
+      "front": "prevent",
+      "back": "防ぐ",
+      "example": "Prevent accidents.",
+      "hint_image": "prevent.jpg"
+    },
+    {
+      "id": "l2_083",
+      "front": "produce",
+      "back": "生産する",
+      "example": "This farm produces rice.",
+      "hint_image": "produce.jpg"
+    },
+    {
+      "id": "l2_084",
+      "front": "promise",
+      "back": "約束する",
+      "example": "Keep your promises.",
+      "hint_image": "promise.jpg"
+    },
+    {
+      "id": "l2_085",
+      "front": "protect",
+      "back": "守る",
+      "example": "Protect the environment.",
+      "hint_image": "protect.jpg"
+    },
+    {
+      "id": "l2_086",
+      "front": "provide",
+      "back": "提供する",
+      "example": "Provide good service.",
+      "hint_image": "provide.jpg"
+    },
+    {
+      "id": "l2_087",
+      "front": "raise",
+      "back": "上げる",
+      "example": "Raise your hand.",
+      "hint_image": "raise.jpg"
+    },
+    {
+      "id": "l2_088",
+      "front": "reach",
+      "back": "届く",
+      "example": "I can reach the shelf.",
+      "hint_image": "reach.jpg"
+    },
+    {
+      "id": "l2_089",
+      "front": "realize",
+      "back": "気づく",
+      "example": "I realized my mistake.",
+      "hint_image": "realize.jpg"
+    },
+    {
+      "id": "l2_090",
+      "front": "receive",
+      "back": "受け取る",
+      "example": "She received a letter.",
+      "hint_image": "receive.jpg"
+    },
+    {
+      "id": "l2_091",
+      "front": "recycle",
+      "back": "リサイクルする",
+      "example": "Recycle bottles.",
+      "hint_image": "recycle.jpg"
+    },
+    {
+      "id": "l2_092",
+      "front": "reduce",
+      "back": "減らす",
+      "example": "Reduce waste.",
+      "hint_image": "reduce.jpg"
+    },
+    {
+      "id": "l2_093",
+      "front": "refuse",
+      "back": "断る",
+      "example": "She refused to leave.",
+      "hint_image": "refuse.jpg"
+    },
+    {
+      "id": "l2_094",
+      "front": "relax",
+      "back": "くつろぐ",
+      "example": "Just relax.",
+      "hint_image": "relax.jpg"
+    },
+    {
+      "id": "l2_095",
+      "front": "remember",
+      "back": "覚えている",
+      "example": "Remember to call.",
+      "hint_image": "remember.jpg"
+    },
+    {
+      "id": "l2_096",
+      "front": "repeat",
+      "back": "繰り返す",
+      "example": "Repeat after me.",
+      "hint_image": "repeat.jpg"
+    },
+    {
+      "id": "l2_097",
+      "front": "reply",
+      "back": "返事する",
+      "example": "Reply to the email.",
+      "hint_image": "reply.jpg"
+    },
+    {
+      "id": "l2_098",
+      "front": "return",
+      "back": "戻る",
+      "example": "Return home safely.",
+      "hint_image": "return.jpg"
+    },
+    {
+      "id": "l2_099",
+      "front": "rise",
+      "back": "上がる",
+      "example": "The sun rises.",
+      "hint_image": "rise.jpg"
+    },
+    {
+      "id": "l2_100",
+      "front": "seem",
+      "back": "〜のようだ",
+      "example": "It seems cold today.",
+      "hint_image": "seem.jpg"
+    },
+    {
+      "id": "l2_101",
+      "front": "send",
+      "back": "送る",
+      "example": "Send a message.",
+      "hint_image": "send.jpg"
+    },
+    {
+      "id": "l2_102",
+      "front": "serve",
+      "back": "仕える・提供する",
+      "example": "Serve the customers.",
+      "hint_image": "serve.jpg"
+    },
+    {
+      "id": "l2_103",
+      "front": "share",
+      "back": "共有する",
+      "example": "Share your lunch.",
+      "hint_image": "share.jpg"
+    },
+    {
+      "id": "l2_104",
+      "front": "show",
+      "back": "見せる",
+      "example": "Show me the answer.",
+      "hint_image": "show.jpg"
+    },
+    {
+      "id": "l2_105",
+      "front": "sign",
+      "back": "署名する",
+      "example": "Sign the document.",
+      "hint_image": "sign.jpg"
+    },
+    {
+      "id": "l2_106",
+      "front": "solve",
+      "back": "解く",
+      "example": "Solve the problem.",
+      "hint_image": "solve.jpg"
+    },
+    {
+      "id": "l2_107",
+      "front": "spend",
+      "back": "使う・過ごす",
+      "example": "Spend time wisely.",
+      "hint_image": "spend.jpg"
+    },
+    {
+      "id": "l2_108",
+      "front": "support",
+      "back": "支援する",
+      "example": "Support your friends.",
+      "hint_image": "support.jpg"
+    },
+    {
+      "id": "l2_109",
+      "front": "tell",
+      "back": "話す",
+      "example": "Tell me a story.",
+      "hint_image": "tell.jpg"
+    },
+    {
+      "id": "l2_110",
+      "front": "touch",
+      "back": "触る",
+      "example": "Don't touch that.",
+      "hint_image": "touch.jpg"
+    },
+    {
+      "id": "l2_111",
+      "front": "travel",
+      "back": "旅行する",
+      "example": "I love to travel.",
+      "hint_image": "travel.jpg"
+    },
+    {
+      "id": "l2_112",
+      "front": "treat",
+      "back": "扱う・ご馳走する",
+      "example": "Treat others well.",
+      "hint_image": "treat.jpg"
+    },
+    {
+      "id": "l2_113",
+      "front": "understand",
+      "back": "理解する",
+      "example": "Do you understand?",
+      "hint_image": "understand.jpg"
+    },
+    {
+      "id": "l2_114",
+      "front": "visit",
+      "back": "訪問する",
+      "example": "Visit the museum.",
+      "hint_image": "visit.jpg"
+    },
+    {
+      "id": "l2_115",
+      "front": "waste",
+      "back": "無駄にする",
+      "example": "Don't waste food.",
+      "hint_image": "waste.jpg"
+    },
+    {
+      "id": "l2_116",
+      "front": "win",
+      "back": "勝つ",
+      "example": "We can win.",
+      "hint_image": "win.jpg"
+    },
+    {
+      "id": "l2_117",
+      "front": "wish",
+      "back": "望む",
+      "example": "I wish you luck.",
+      "hint_image": "wish.jpg"
+    },
+    {
+      "id": "l2_118",
+      "front": "wonder",
+      "back": "不思議に思う",
+      "example": "I wonder why.",
+      "hint_image": "wonder.jpg"
+    },
+    {
+      "id": "l2_119",
+      "front": "ability",
+      "back": "能力",
+      "example": "She has great ability.",
+      "hint_image": "ability.jpg"
+    },
+    {
+      "id": "l2_120",
+      "front": "accident",
+      "back": "事故",
+      "example": "There was an accident.",
+      "hint_image": "accident.jpg"
+    },
+    {
+      "id": "l2_121",
+      "front": "activity",
+      "back": "活動",
+      "example": "Join club activities.",
+      "hint_image": "activity.jpg"
+    },
+    {
+      "id": "l2_122",
+      "front": "address",
+      "back": "住所",
+      "example": "What is your address?",
+      "hint_image": "address.jpg"
+    },
+    {
+      "id": "l2_123",
+      "front": "adult",
+      "back": "大人",
+      "example": "This film is for adults.",
+      "hint_image": "adult.jpg"
+    },
+    {
+      "id": "l2_124",
+      "front": "advice",
+      "back": "アドバイス",
+      "example": "Give me some advice.",
+      "hint_image": "advice.jpg"
+    },
+    {
+      "id": "l2_125",
+      "front": "apartment",
+      "back": "アパート",
+      "example": "I live in an apartment.",
+      "hint_image": "apartment.jpg"
+    },
+    {
+      "id": "l2_126",
+      "front": "area",
+      "back": "地域",
+      "example": "This area is safe.",
+      "hint_image": "area.jpg"
+    },
+    {
+      "id": "l2_127",
+      "front": "article",
+      "back": "記事",
+      "example": "Read this article.",
+      "hint_image": "article.jpg"
+    },
+    {
+      "id": "l2_128",
+      "front": "artist",
+      "back": "芸術家",
+      "example": "She is an artist.",
+      "hint_image": "artist.jpg"
+    },
+    {
+      "id": "l2_129",
+      "front": "attention",
+      "back": "注意",
+      "example": "Pay attention.",
+      "hint_image": "attention.jpg"
+    },
+    {
+      "id": "l2_130",
+      "front": "aunt",
+      "back": "おば",
+      "example": "My aunt is a nurse.",
+      "hint_image": "aunt.jpg"
+    },
+    {
+      "id": "l2_131",
+      "front": "autumn",
+      "back": "秋",
+      "example": "Leaves fall in autumn.",
+      "hint_image": "autumn.jpg"
+    },
+    {
+      "id": "l2_132",
+      "front": "award",
+      "back": "賞",
+      "example": "She won an award.",
+      "hint_image": "award.jpg"
+    },
+    {
+      "id": "l2_133",
+      "front": "background",
+      "back": "背景",
+      "example": "Tell me your background.",
+      "hint_image": "background.jpg"
+    },
+    {
+      "id": "l2_134",
+      "front": "baseball",
+      "back": "野球",
+      "example": "He plays baseball.",
+      "hint_image": "baseball.jpg"
+    },
+    {
+      "id": "l2_135",
+      "front": "basket",
+      "back": "かご",
+      "example": "Put it in the basket.",
+      "hint_image": "basket.jpg"
+    },
+    {
+      "id": "l2_136",
+      "front": "because",
+      "back": "なぜなら（接続詞）",
+      "example": "I stayed home because it rained.",
+      "hint_image": "because.jpg"
+    },
+    {
+      "id": "l2_137",
+      "front": "bedroom",
+      "back": "寝室",
+      "example": "The bedroom is upstairs.",
+      "hint_image": "bedroom.jpg"
+    },
+    {
+      "id": "l2_138",
+      "front": "bicycle",
+      "back": "自転車",
+      "example": "She rides a bicycle.",
+      "hint_image": "bicycle.jpg"
+    },
+    {
+      "id": "l2_139",
+      "front": "birthday",
+      "back": "誕生日",
+      "example": "Happy birthday!",
+      "hint_image": "birthday.jpg"
+    },
+    {
+      "id": "l2_140",
+      "front": "blog",
+      "back": "ブログ",
+      "example": "She writes a blog.",
+      "hint_image": "blog.jpg"
+    },
+    {
+      "id": "l2_141",
+      "front": "bottle",
+      "back": "ボトル・瓶",
+      "example": "Fill the bottle.",
+      "hint_image": "bottle.jpg"
+    },
+    {
+      "id": "l2_142",
+      "front": "button",
+      "back": "ボタン",
+      "example": "Press the button.",
+      "hint_image": "button.jpg"
+    },
+    {
+      "id": "l2_143",
+      "front": "camera",
+      "back": "カメラ",
+      "example": "Take a photo with this camera.",
+      "hint_image": "camera.jpg"
+    },
+    {
+      "id": "l2_144",
+      "front": "capital",
+      "back": "首都",
+      "example": "Tokyo is the capital.",
+      "hint_image": "capital.jpg"
+    },
+    {
+      "id": "l2_145",
+      "front": "captain",
+      "back": "キャプテン",
+      "example": "She is our captain.",
+      "hint_image": "captain.jpg"
+    },
+    {
+      "id": "l2_146",
+      "front": "care",
+      "back": "世話・注意",
+      "example": "Take care of yourself.",
+      "hint_image": "care.jpg"
+    },
+    {
+      "id": "l2_147",
+      "front": "cause",
+      "back": "原因",
+      "example": "What is the cause?",
+      "hint_image": "cause.jpg"
+    },
+    {
+      "id": "l2_148",
+      "front": "chance",
+      "back": "チャンス",
+      "example": "Give me a chance.",
+      "hint_image": "chance.jpg"
+    },
+    {
+      "id": "l2_149",
+      "front": "chapter",
+      "back": "章",
+      "example": "Read chapter two.",
+      "hint_image": "chapter.jpg"
+    },
+    {
+      "id": "l2_150",
+      "front": "character",
+      "back": "性格",
+      "example": "She has good character.",
+      "hint_image": "character.jpg"
+    },
+    {
+      "id": "l2_151",
+      "front": "chart",
+      "back": "グラフ・表",
+      "example": "Read the chart.",
+      "hint_image": "chart.jpg"
+    },
+    {
+      "id": "l2_152",
+      "front": "childhood",
+      "back": "幼少期",
+      "example": "Happy childhood memories.",
+      "hint_image": "childhood.jpg"
+    },
+    {
+      "id": "l2_153",
+      "front": "choice",
+      "back": "選択",
+      "example": "Make a good choice.",
+      "hint_image": "choice.jpg"
+    },
+    {
+      "id": "l2_154",
+      "front": "circle",
+      "back": "円",
+      "example": "Draw a circle.",
+      "hint_image": "circle.jpg"
+    },
+    {
+      "id": "l2_155",
+      "front": "climate",
+      "back": "気候",
+      "example": "The climate is mild.",
+      "hint_image": "climate.jpg"
+    },
+    {
+      "id": "l2_156",
+      "front": "coach",
+      "back": "コーチ",
+      "example": "Our coach is strict.",
+      "hint_image": "coach.jpg"
+    },
+    {
+      "id": "l2_157",
+      "front": "college",
+      "back": "大学",
+      "example": "She goes to college.",
+      "hint_image": "college.jpg"
+    },
+    {
+      "id": "l2_158",
+      "front": "concert",
+      "back": "コンサート",
+      "example": "I went to a concert.",
+      "hint_image": "concert.jpg"
+    },
+    {
+      "id": "l2_159",
+      "front": "contest",
+      "back": "コンテスト",
+      "example": "Enter the contest.",
+      "hint_image": "contest.jpg"
+    },
+    {
+      "id": "l2_160",
+      "front": "corner",
+      "back": "角",
+      "example": "Turn at the corner.",
+      "hint_image": "corner.jpg"
+    },
+    {
+      "id": "l2_161",
+      "front": "costume",
+      "back": "衣装",
+      "example": "She wore a costume.",
+      "hint_image": "costume.jpg"
+    },
+    {
+      "id": "l2_162",
+      "front": "couple",
+      "back": "カップル・2つ",
+      "example": "A couple of days.",
+      "hint_image": "couple.jpg"
+    },
+    {
+      "id": "l2_163",
+      "front": "cousin",
+      "back": "いとこ",
+      "example": "She is my cousin.",
+      "hint_image": "cousin.jpg"
+    },
+    {
+      "id": "l2_164",
+      "front": "crowd",
+      "back": "群衆",
+      "example": "A crowd gathered.",
+      "hint_image": "crowd.jpg"
+    },
+    {
+      "id": "l2_165",
+      "front": "culture",
+      "back": "文化",
+      "example": "Japanese culture is unique.",
+      "hint_image": "culture.jpg"
+    },
+    {
+      "id": "l2_166",
+      "front": "custom",
+      "back": "習慣",
+      "example": "A local custom.",
+      "hint_image": "custom.jpg"
+    },
+    {
+      "id": "l2_167",
+      "front": "customer",
+      "back": "客",
+      "example": "The customer smiled.",
+      "hint_image": "customer.jpg"
+    },
+    {
+      "id": "l2_168",
+      "front": "danger",
+      "back": "危険",
+      "example": "There is danger ahead.",
+      "hint_image": "danger.jpg"
+    },
+    {
+      "id": "l2_169",
+      "front": "daughter",
+      "back": "娘",
+      "example": "She is my daughter.",
+      "hint_image": "daughter.jpg"
+    },
+    {
+      "id": "l2_170",
+      "front": "decision",
+      "back": "決断",
+      "example": "Make a good decision.",
+      "hint_image": "decision.jpg"
+    },
+    {
+      "id": "l2_171",
+      "front": "design",
+      "back": "デザイン",
+      "example": "I like this design.",
+      "hint_image": "design.jpg"
+    },
+    {
+      "id": "l2_172",
+      "front": "diary",
+      "back": "日記",
+      "example": "She keeps a diary.",
+      "hint_image": "diary.jpg"
+    },
+    {
+      "id": "l2_173",
+      "front": "dictionary",
+      "back": "辞書",
+      "example": "Check the dictionary.",
+      "hint_image": "dictionary.jpg"
+    },
+    {
+      "id": "l2_174",
+      "front": "difference",
+      "back": "違い",
+      "example": "What is the difference?",
+      "hint_image": "difference.jpg"
+    },
+    {
+      "id": "l2_175",
+      "front": "difficulty",
+      "back": "困難",
+      "example": "I had difficulty.",
+      "hint_image": "difficulty.jpg"
+    },
+    {
+      "id": "l2_176",
+      "front": "direction",
+      "back": "方向",
+      "example": "Go in that direction.",
+      "hint_image": "direction.jpg"
+    },
+    {
+      "id": "l2_177",
+      "front": "distance",
+      "back": "距離",
+      "example": "The distance is long.",
+      "hint_image": "distance.jpg"
+    },
+    {
+      "id": "l2_178",
+      "front": "downtown",
+      "back": "繁華街",
+      "example": "Let's go downtown.",
+      "hint_image": "downtown.jpg"
+    },
+    {
+      "id": "l2_179",
+      "front": "dream",
+      "back": "夢",
+      "example": "Follow your dream.",
+      "hint_image": "dream.jpg"
+    },
+    {
+      "id": "l2_180",
+      "front": "either",
+      "back": "どちらか",
+      "example": "Either one is fine.",
+      "hint_image": "either.jpg"
+    },
+    {
+      "id": "l2_181",
+      "front": "else",
+      "back": "他の",
+      "example": "Anything else?",
+      "hint_image": "else.jpg"
+    },
+    {
+      "id": "l2_182",
+      "front": "energy",
+      "back": "エネルギー",
+      "example": "Save energy.",
+      "hint_image": "energy.jpg"
+    },
+    {
+      "id": "l2_183",
+      "front": "environment",
+      "back": "環境",
+      "example": "Protect the environment.",
+      "hint_image": "environment.jpg"
+    },
+    {
+      "id": "l2_184",
+      "front": "error",
+      "back": "エラー",
+      "example": "There is an error.",
+      "hint_image": "error.jpg"
+    },
+    {
+      "id": "l2_185",
+      "front": "event",
+      "back": "イベント",
+      "example": "The event is fun.",
+      "hint_image": "event.jpg"
+    },
+    {
+      "id": "l2_186",
+      "front": "exam",
+      "back": "試験",
+      "example": "I passed the exam.",
+      "hint_image": "exam.jpg"
+    },
+    {
+      "id": "l2_187",
+      "front": "example",
+      "back": "例",
+      "example": "Give an example.",
+      "hint_image": "example.jpg"
+    },
+    {
+      "id": "l2_188",
+      "front": "fact",
+      "back": "事実",
+      "example": "That is a fact.",
+      "hint_image": "fact.jpg"
+    },
+    {
+      "id": "l2_189",
+      "front": "factory",
+      "back": "工場",
+      "example": "He works in a factory.",
+      "hint_image": "factory.jpg"
+    },
+    {
+      "id": "l2_190",
+      "front": "fashion",
+      "back": "ファッション",
+      "example": "She loves fashion.",
+      "hint_image": "fashion.jpg"
+    },
+    {
+      "id": "l2_191",
+      "front": "festival",
+      "back": "祭り",
+      "example": "The festival is fun.",
+      "hint_image": "festival.jpg"
+    },
+    {
+      "id": "l2_192",
+      "front": "field",
+      "back": "分野・野原",
+      "example": "A green field.",
+      "hint_image": "field.jpg"
+    },
+    {
+      "id": "l2_193",
+      "front": "figure",
+      "back": "数字・形",
+      "example": "Look at this figure.",
+      "hint_image": "figure.jpg"
+    },
+    {
+      "id": "l2_194",
+      "front": "foreign",
+      "back": "外国の（形容詞）",
+      "example": "Foreign languages.",
+      "hint_image": "foreign.jpg"
+    },
+    {
+      "id": "l2_195",
+      "front": "frame",
+      "back": "フレーム",
+      "example": "A picture frame.",
+      "hint_image": "frame.jpg"
+    },
+    {
+      "id": "l2_196",
+      "front": "freedom",
+      "back": "自由",
+      "example": "Freedom is important.",
+      "hint_image": "freedom.jpg"
+    },
+    {
+      "id": "l2_197",
+      "front": "future",
+      "back": "将来",
+      "example": "What is your future plan?",
+      "hint_image": "future.jpg"
+    },
+    {
+      "id": "l2_198",
+      "front": "gesture",
+      "back": "ジェスチャー",
+      "example": "She made a gesture.",
+      "hint_image": "gesture.jpg"
+    },
+    {
+      "id": "l2_199",
+      "front": "glasses",
+      "back": "眼鏡",
+      "example": "She wears glasses.",
+      "hint_image": "glasses.jpg"
+    },
+    {
+      "id": "l2_200",
+      "front": "gloves",
+      "back": "手袋",
+      "example": "Wear gloves.",
+      "hint_image": "gloves.jpg"
+    },
+    {
+      "id": "l2_201",
+      "front": "government",
+      "back": "政府",
+      "example": "The government decided.",
+      "hint_image": "government.jpg"
+    },
+    {
+      "id": "l2_202",
+      "front": "grade",
+      "back": "成績・学年",
+      "example": "A good grade.",
+      "hint_image": "grade.jpg"
+    },
+    {
+      "id": "l2_203",
+      "front": "grandma",
+      "back": "おばあちゃん",
+      "example": "My grandma is kind.",
+      "hint_image": "grandma.jpg"
+    },
+    {
+      "id": "l2_204",
+      "front": "grandpa",
+      "back": "おじいちゃん",
+      "example": "Grandpa tells stories.",
+      "hint_image": "grandpa.jpg"
+    },
+    {
+      "id": "l2_205",
+      "front": "guard",
+      "back": "警備員",
+      "example": "A guard is at the gate.",
+      "hint_image": "guard.jpg"
+    },
+    {
+      "id": "l2_206",
+      "front": "guide",
+      "back": "ガイド",
+      "example": "She is our guide.",
+      "hint_image": "guide.jpg"
+    },
+    {
+      "id": "l2_207",
+      "front": "guitar",
+      "back": "ギター",
+      "example": "He plays guitar.",
+      "hint_image": "guitar.jpg"
+    },
+    {
+      "id": "l2_208",
+      "front": "habit",
+      "back": "習慣",
+      "example": "A bad habit.",
+      "hint_image": "habit.jpg"
+    },
+    {
+      "id": "l2_209",
+      "front": "health",
+      "back": "健康",
+      "example": "Good health.",
+      "hint_image": "health.jpg"
+    },
+    {
+      "id": "l2_210",
+      "front": "heart",
+      "back": "心臓・心",
+      "example": "Follow your heart.",
+      "hint_image": "heart.jpg"
+    },
+    {
+      "id": "l2_211",
+      "front": "hero",
+      "back": "英雄",
+      "example": "He is my hero.",
+      "hint_image": "hero.jpg"
+    },
+    {
+      "id": "l2_212",
+      "front": "hill",
+      "back": "丘",
+      "example": "We climbed the hill.",
+      "hint_image": "hill.jpg"
+    },
+    {
+      "id": "l2_213",
+      "front": "hobby",
+      "back": "趣味",
+      "example": "My hobby is cooking.",
+      "hint_image": "hobby.jpg"
+    },
+    {
+      "id": "l2_214",
+      "front": "homework",
+      "back": "宿題",
+      "example": "Do your homework.",
+      "hint_image": "homework.jpg"
+    },
+    {
+      "id": "l2_215",
+      "front": "honor",
+      "back": "名誉",
+      "example": "It is an honor.",
+      "hint_image": "honor.jpg"
+    },
+    {
+      "id": "l2_216",
+      "front": "humor",
+      "back": "ユーモア",
+      "example": "Good humor.",
+      "hint_image": "humor.jpg"
+    },
+    {
+      "id": "l2_217",
+      "front": "husband",
+      "back": "夫",
+      "example": "Her husband is kind.",
+      "hint_image": "husband.jpg"
+    },
+    {
+      "id": "l2_218",
+      "front": "island",
+      "back": "島",
+      "example": "Japan is an island.",
+      "hint_image": "island.jpg"
+    },
+    {
+      "id": "l2_219",
+      "front": "journey",
+      "back": "旅",
+      "example": "A long journey.",
+      "hint_image": "journey.jpg"
+    },
+    {
+      "id": "l2_220",
+      "front": "junior",
+      "back": "後輩",
+      "example": "He is a junior.",
+      "hint_image": "junior.jpg"
+    },
+    {
+      "id": "l2_221",
+      "front": "kid",
+      "back": "子ども",
+      "example": "She is just a kid.",
+      "hint_image": "kid.jpg"
+    },
+    {
+      "id": "l2_222",
+      "front": "knowledge",
+      "back": "知識",
+      "example": "Knowledge is power.",
+      "hint_image": "knowledge.jpg"
+    },
+    {
+      "id": "l2_223",
+      "front": "language",
+      "back": "言語",
+      "example": "Learn a language.",
+      "hint_image": "language.jpg"
+    },
+    {
+      "id": "l2_224",
+      "front": "leader",
+      "back": "リーダー",
+      "example": "She is a leader.",
+      "hint_image": "leader.jpg"
+    },
+    {
+      "id": "l2_225",
+      "front": "lesson",
+      "back": "レッスン",
+      "example": "The lesson starts.",
+      "hint_image": "lesson.jpg"
+    },
+    {
+      "id": "l2_226",
+      "front": "local",
+      "back": "地元の（形容詞）",
+      "example": "Local food.",
+      "hint_image": "local.jpg"
+    },
+    {
+      "id": "l2_227",
+      "front": "machine",
+      "back": "機械",
+      "example": "Use the machine.",
+      "hint_image": "machine.jpg"
+    },
+    {
+      "id": "l2_228",
+      "front": "magazine",
+      "back": "雑誌",
+      "example": "Read a magazine.",
+      "hint_image": "magazine.jpg"
+    },
+    {
+      "id": "l2_229",
+      "front": "match",
+      "back": "試合",
+      "example": "We won the match.",
+      "hint_image": "match.jpg"
+    },
+    {
+      "id": "l2_230",
+      "front": "memory",
+      "back": "記憶",
+      "example": "Good memory.",
+      "hint_image": "memory.jpg"
+    },
+    {
+      "id": "l2_231",
+      "front": "message",
+      "back": "メッセージ",
+      "example": "Send a message.",
+      "hint_image": "message.jpg"
+    },
+    {
+      "id": "l2_232",
+      "front": "mistake",
+      "back": "間違い",
+      "example": "I made a mistake.",
+      "hint_image": "mistake.jpg"
+    },
+    {
+      "id": "l2_233",
+      "front": "moment",
+      "back": "瞬間",
+      "example": "Wait a moment.",
+      "hint_image": "moment.jpg"
+    },
+    {
+      "id": "l2_234",
+      "front": "mood",
+      "back": "気分",
+      "example": "I'm in a good mood.",
+      "hint_image": "mood.jpg"
+    },
+    {
+      "id": "l2_235",
+      "front": "neighbor",
+      "back": "隣人",
+      "example": "My neighbor is nice.",
+      "hint_image": "neighbor.jpg"
+    },
+    {
+      "id": "l2_236",
+      "front": "nothing",
+      "back": "何もない",
+      "example": "Nothing happened.",
+      "hint_image": "nothing.jpg"
+    },
+    {
+      "id": "l2_237",
+      "front": "novel",
+      "back": "小説",
+      "example": "She wrote a novel.",
+      "hint_image": "novel.jpg"
+    },
+    {
+      "id": "l2_238",
+      "front": "nurse",
+      "back": "看護師",
+      "example": "She is a nurse.",
+      "hint_image": "nurse.jpg"
+    },
+    {
+      "id": "l2_239",
+      "front": "object",
+      "back": "物体",
+      "example": "What is that object?",
+      "hint_image": "object.jpg"
+    },
+    {
+      "id": "l2_240",
+      "front": "ocean",
+      "back": "海",
+      "example": "The ocean is deep.",
+      "hint_image": "ocean.jpg"
+    },
+    {
+      "id": "l2_241",
+      "front": "opinion",
+      "back": "意見",
+      "example": "What is your opinion?",
+      "hint_image": "opinion.jpg"
+    },
+    {
+      "id": "l2_242",
+      "front": "opportunity",
+      "back": "機会",
+      "example": "A great opportunity.",
+      "hint_image": "opportunity.jpg"
+    },
+    {
+      "id": "l2_243",
+      "front": "outside",
+      "back": "外（名詞・副詞）",
+      "example": "Go outside.",
+      "hint_image": "outside.jpg"
+    },
+    {
+      "id": "l2_244",
+      "front": "own",
+      "back": "自分自身の（形容詞）",
+      "example": "Her own room.",
+      "hint_image": "own.jpg"
+    },
+    {
+      "id": "l2_245",
+      "front": "parent",
+      "back": "親",
+      "example": "My parents are kind.",
+      "hint_image": "parent.jpg"
+    },
+    {
+      "id": "l2_246",
+      "front": "patience",
+      "back": "忍耐",
+      "example": "Have patience.",
+      "hint_image": "patience.jpg"
+    },
+    {
+      "id": "l2_247",
+      "front": "pattern",
+      "back": "模様",
+      "example": "A pretty pattern.",
+      "hint_image": "pattern.jpg"
+    },
+    {
+      "id": "l2_248",
+      "front": "period",
+      "back": "期間",
+      "example": "A long period.",
+      "hint_image": "period.jpg"
+    },
+    {
+      "id": "l2_249",
+      "front": "person",
+      "back": "人",
+      "example": "A kind person.",
+      "hint_image": "person.jpg"
+    },
+    {
+      "id": "l2_250",
+      "front": "piano",
+      "back": "ピアノ",
+      "example": "She plays piano.",
+      "hint_image": "piano.jpg"
+    },
+    {
+      "id": "l2_251",
+      "front": "planet",
+      "back": "惑星",
+      "example": "Earth is a planet.",
+      "hint_image": "planet.jpg"
+    },
+    {
+      "id": "l2_252",
+      "front": "police",
+      "back": "警察",
+      "example": "Call the police.",
+      "hint_image": "police.jpg"
+    },
+    {
+      "id": "l2_253",
+      "front": "poster",
+      "back": "ポスター",
+      "example": "Put up a poster.",
+      "hint_image": "poster.jpg"
+    },
+    {
+      "id": "l2_254",
+      "front": "prize",
+      "back": "賞",
+      "example": "She won a prize.",
+      "hint_image": "prize.jpg"
+    },
+    {
+      "id": "l2_255",
+      "front": "problem",
+      "back": "問題",
+      "example": "A serious problem.",
+      "hint_image": "problem.jpg"
+    },
+    {
+      "id": "l2_256",
+      "front": "project",
+      "back": "プロジェクト",
+      "example": "A class project.",
+      "hint_image": "project.jpg"
+    },
+    {
+      "id": "l2_257",
+      "front": "purpose",
+      "back": "目的",
+      "example": "What is the purpose?",
+      "hint_image": "purpose.jpg"
+    },
+    {
+      "id": "l2_258",
+      "front": "quality",
+      "back": "質",
+      "example": "High quality.",
+      "hint_image": "quality.jpg"
+    },
+    {
+      "id": "l2_259",
+      "front": "question",
+      "back": "質問",
+      "example": "Ask a question.",
+      "hint_image": "question.jpg"
+    },
+    {
+      "id": "l2_260",
+      "front": "reason",
+      "back": "理由",
+      "example": "Give me a reason.",
+      "hint_image": "reason.jpg"
+    },
+    {
+      "id": "l2_261",
+      "front": "result",
+      "back": "結果",
+      "example": "A good result.",
+      "hint_image": "result.jpg"
+    },
+    {
+      "id": "l2_262",
+      "front": "rocket",
+      "back": "ロケット",
+      "example": "The rocket launched.",
+      "hint_image": "rocket.jpg"
+    },
+    {
+      "id": "l2_263",
+      "front": "safety",
+      "back": "安全",
+      "example": "Safety first.",
+      "hint_image": "safety.jpg"
+    },
+    {
+      "id": "l2_264",
+      "front": "sample",
+      "back": "サンプル",
+      "example": "A free sample.",
+      "hint_image": "sample.jpg"
+    },
+    {
+      "id": "l2_265",
+      "front": "science",
+      "back": "科学",
+      "example": "I like science.",
+      "hint_image": "science.jpg"
+    },
+    {
+      "id": "l2_266",
+      "front": "season",
+      "back": "季節",
+      "example": "My favorite season.",
+      "hint_image": "season.jpg"
+    },
+    {
+      "id": "l2_267",
+      "front": "secret",
+      "back": "秘密",
+      "example": "It's a secret.",
+      "hint_image": "secret.jpg"
+    },
+    {
+      "id": "l2_268",
+      "front": "sentence",
+      "back": "文",
+      "example": "Write a sentence.",
+      "hint_image": "sentence.jpg"
+    },
+    {
+      "id": "l2_269",
+      "front": "shopping",
+      "back": "買い物",
+      "example": "I love shopping.",
+      "hint_image": "shopping.jpg"
+    },
+    {
+      "id": "l2_270",
+      "front": "singer",
+      "back": "歌手",
+      "example": "She is a singer.",
+      "hint_image": "singer.jpg"
+    },
+    {
+      "id": "l2_271",
+      "front": "skill",
+      "back": "スキル",
+      "example": "Develop your skills.",
+      "hint_image": "skill.jpg"
+    },
+    {
+      "id": "l2_272",
+      "front": "society",
+      "back": "社会",
+      "example": "Modern society.",
+      "hint_image": "society.jpg"
+    },
+    {
+      "id": "l2_273",
+      "front": "something",
+      "back": "何か（代名詞）",
+      "example": "Something smells good.",
+      "hint_image": "something.jpg"
+    },
+    {
+      "id": "l2_274",
+      "front": "sometimes",
+      "back": "時々（副詞）",
+      "example": "Sometimes I jog.",
+      "hint_image": "sometimes.jpg"
+    },
+    {
+      "id": "l2_275",
+      "front": "stadium",
+      "back": "スタジアム",
+      "example": "The stadium is full.",
+      "hint_image": "stadium.jpg"
+    },
+    {
+      "id": "l2_276",
+      "front": "stage",
+      "back": "舞台・段階",
+      "example": "On the stage.",
+      "hint_image": "stage.jpg"
+    },
+    {
+      "id": "l2_277",
+      "front": "subject",
+      "back": "科目",
+      "example": "My favorite subject.",
+      "hint_image": "subject.jpg"
+    },
+    {
+      "id": "l2_278",
+      "front": "success",
+      "back": "成功",
+      "example": "She achieved success.",
+      "hint_image": "success.jpg"
+    },
+    {
+      "id": "l2_279",
+      "front": "summer",
+      "back": "夏",
+      "example": "I love summer.",
+      "hint_image": "summer.jpg"
+    },
+    {
+      "id": "l2_280",
+      "front": "supermarket",
+      "back": "スーパーマーケット",
+      "example": "Shop at the supermarket.",
+      "hint_image": "supermarket.jpg"
+    },
+    {
+      "id": "l2_281",
+      "front": "symbol",
+      "back": "シンボル",
+      "example": "A peace symbol.",
+      "hint_image": "symbol.jpg"
+    },
+    {
+      "id": "l2_282",
+      "front": "system",
+      "back": "システム",
+      "example": "A good system.",
+      "hint_image": "system.jpg"
+    },
+    {
+      "id": "l2_283",
+      "front": "talent",
+      "back": "才能",
+      "example": "She has talent.",
+      "hint_image": "talent.jpg"
+    },
+    {
+      "id": "l2_284",
+      "front": "team",
+      "back": "チーム",
+      "example": "Our team won.",
+      "hint_image": "team.jpg"
+    },
+    {
+      "id": "l2_285",
+      "front": "temple",
+      "back": "寺院",
+      "example": "Visit the temple.",
+      "hint_image": "temple.jpg"
+    },
+    {
+      "id": "l2_286",
+      "front": "theater",
+      "back": "劇場",
+      "example": "Go to the theater.",
+      "hint_image": "theater.jpg"
+    },
+    {
+      "id": "l2_287",
+      "front": "topic",
+      "back": "話題",
+      "example": "The main topic.",
+      "hint_image": "topic.jpg"
+    },
+    {
+      "id": "l2_288",
+      "front": "tradition",
+      "back": "伝統",
+      "example": "A Japanese tradition.",
+      "hint_image": "tradition.jpg"
+    },
+    {
+      "id": "l2_289",
+      "front": "trouble",
+      "back": "問題",
+      "example": "I'm in trouble.",
+      "hint_image": "trouble.jpg"
+    },
+    {
+      "id": "l2_290",
+      "front": "truth",
+      "back": "真実",
+      "example": "Tell the truth.",
+      "hint_image": "truth.jpg"
+    },
+    {
+      "id": "l2_291",
+      "front": "uncle",
+      "back": "おじ",
+      "example": "My uncle is tall.",
+      "hint_image": "uncle.jpg"
+    },
+    {
+      "id": "l2_292",
+      "front": "uniform",
+      "back": "制服",
+      "example": "Wear a uniform.",
+      "hint_image": "uniform.jpg"
+    },
+    {
+      "id": "l2_293",
+      "front": "universe",
+      "back": "宇宙",
+      "example": "The universe is vast.",
+      "hint_image": "universe.jpg"
+    },
+    {
+      "id": "l2_294",
+      "front": "vacation",
+      "back": "休暇",
+      "example": "Enjoy your vacation.",
+      "hint_image": "vacation.jpg"
+    },
+    {
+      "id": "l2_295",
+      "front": "valley",
+      "back": "谷",
+      "example": "A green valley.",
+      "hint_image": "valley.jpg"
+    },
+    {
+      "id": "l2_296",
+      "front": "violin",
+      "back": "バイオリン",
+      "example": "She plays violin.",
+      "hint_image": "violin.jpg"
+    },
+    {
+      "id": "l2_297",
+      "front": "visitor",
+      "back": "訪問者",
+      "example": "A visitor arrived.",
+      "hint_image": "visitor.jpg"
+    },
+    {
+      "id": "l2_298",
+      "front": "volunteer",
+      "back": "ボランティア",
+      "example": "I am a volunteer.",
+      "hint_image": "volunteer.jpg"
+    },
+    {
+      "id": "l2_299",
+      "front": "wallet",
+      "back": "財布",
+      "example": "He lost his wallet.",
+      "hint_image": "wallet.jpg"
+    },
+    {
+      "id": "l2_300",
+      "front": "weight",
+      "back": "重さ",
+      "example": "Check the weight.",
+      "hint_image": "weight.jpg"
+    },
+    {
+      "id": "l2_301",
+      "front": "wife",
+      "back": "妻",
+      "example": "His wife is kind.",
+      "hint_image": "wife.jpg"
+    },
+    {
+      "id": "l2_302",
+      "front": "winter",
+      "back": "冬",
+      "example": "I love winter.",
+      "hint_image": "winter.jpg"
+    },
+    {
+      "id": "l2_303",
+      "front": "worry",
+      "back": "心配",
+      "example": "Don't worry.",
+      "hint_image": "worry.jpg"
+    },
+    {
+      "id": "l2_304",
+      "front": "writer",
+      "back": "作家",
+      "example": "She is a writer.",
+      "hint_image": "writer.jpg"
+    },
+    {
+      "id": "l2_305",
+      "front": "afraid",
+      "back": "恐れている",
+      "example": "Don't be afraid.",
+      "hint_image": "afraid.jpg"
+    },
+    {
+      "id": "l2_306",
+      "front": "almost",
+      "back": "ほとんど",
+      "example": "I am almost ready.",
+      "hint_image": "almost.jpg"
+    },
+    {
+      "id": "l2_307",
+      "front": "already",
+      "back": "すでに",
+      "example": "I already finished.",
+      "hint_image": "already.jpg"
+    },
+    {
+      "id": "l2_308",
+      "front": "although",
+      "back": "〜だけれども",
+      "example": "Although it rained, we went.",
+      "hint_image": "although.jpg"
+    },
+    {
+      "id": "l2_309",
+      "front": "amazing",
+      "back": "素晴らしい",
+      "example": "An amazing view.",
+      "hint_image": "amazing.jpg"
+    },
+    {
+      "id": "l2_310",
+      "front": "anymore",
+      "back": "もはや",
+      "example": "I don't eat meat anymore.",
+      "hint_image": "anymore.jpg"
+    },
+    {
+      "id": "l2_311",
+      "front": "anywhere",
+      "back": "どこでも",
+      "example": "Sit anywhere.",
+      "hint_image": "anywhere.jpg"
+    },
+    {
+      "id": "l2_312",
+      "front": "awful",
+      "back": "ひどい",
+      "example": "The weather was awful.",
+      "hint_image": "awful.jpg"
+    },
+    {
+      "id": "l2_313",
+      "front": "basic",
+      "back": "基本的な",
+      "example": "Basic English.",
+      "hint_image": "basic.jpg"
+    },
+    {
+      "id": "l2_314",
+      "front": "beautiful",
+      "back": "美しい",
+      "example": "A beautiful sunset.",
+      "hint_image": "beautiful.jpg"
+    },
+    {
+      "id": "l2_315",
+      "front": "boring",
+      "back": "退屈な",
+      "example": "The class is boring.",
+      "hint_image": "boring.jpg"
+    },
+    {
+      "id": "l2_316",
+      "front": "bright",
+      "back": "明るい",
+      "example": "A bright student.",
+      "hint_image": "bright.jpg"
+    },
+    {
+      "id": "l2_317",
+      "front": "busy",
+      "back": "忙しい",
+      "example": "I'm very busy.",
+      "hint_image": "busy.jpg"
+    },
+    {
+      "id": "l2_318",
+      "front": "calm",
+      "back": "穏やかな",
+      "example": "Stay calm.",
+      "hint_image": "calm.jpg"
+    },
+    {
+      "id": "l2_319",
+      "front": "careful",
+      "back": "注意深い",
+      "example": "Be careful.",
+      "hint_image": "careful.jpg"
+    },
+    {
+      "id": "l2_320",
+      "front": "certain",
+      "back": "確かな",
+      "example": "I am certain.",
+      "hint_image": "certain.jpg"
+    },
+    {
+      "id": "l2_321",
+      "front": "cheap",
+      "back": "安い",
+      "example": "This is cheap.",
+      "hint_image": "cheap.jpg"
+    },
+    {
+      "id": "l2_322",
+      "front": "cheerful",
+      "back": "明るい",
+      "example": "A cheerful smile.",
+      "hint_image": "cheerful.jpg"
+    },
+    {
+      "id": "l2_323",
+      "front": "comfortable",
+      "back": "快適な",
+      "example": "A comfortable sofa.",
+      "hint_image": "comfortable.jpg"
+    },
+    {
+      "id": "l2_324",
+      "front": "confused",
+      "back": "混乱した",
+      "example": "I am confused.",
+      "hint_image": "confused.jpg"
+    },
+    {
+      "id": "l2_325",
+      "front": "correct",
+      "back": "正しい",
+      "example": "That is correct.",
+      "hint_image": "correct.jpg"
+    },
+    {
+      "id": "l2_326",
+      "front": "creative",
+      "back": "創造的な",
+      "example": "A creative idea.",
+      "hint_image": "creative.jpg"
+    },
+    {
+      "id": "l2_327",
+      "front": "curious",
+      "back": "好奇心旺盛な",
+      "example": "She is curious.",
+      "hint_image": "curious.jpg"
+    },
+    {
+      "id": "l2_328",
+      "front": "dangerous",
+      "back": "危険な",
+      "example": "That is dangerous.",
+      "hint_image": "dangerous.jpg"
+    },
+    {
+      "id": "l2_329",
+      "front": "deep",
+      "back": "深い",
+      "example": "The lake is deep.",
+      "hint_image": "deep.jpg"
+    },
+    {
+      "id": "l2_330",
+      "front": "delicious",
+      "back": "おいしい",
+      "example": "This is delicious.",
+      "hint_image": "delicious.jpg"
+    },
+    {
+      "id": "l2_331",
+      "front": "difficult",
+      "back": "難しい",
+      "example": "A difficult question.",
+      "hint_image": "difficult.jpg"
+    },
+    {
+      "id": "l2_332",
+      "front": "different",
+      "back": "異なる",
+      "example": "We are different.",
+      "hint_image": "different.jpg"
+    },
+    {
+      "id": "l2_333",
+      "front": "during",
+      "back": "〜の間（前置詞）",
+      "example": "During the lesson.",
+      "hint_image": "during.jpg"
+    },
+    {
+      "id": "l2_334",
+      "front": "empty",
+      "back": "空の",
+      "example": "The box is empty.",
+      "hint_image": "empty.jpg"
+    },
+    {
+      "id": "l2_335",
+      "front": "enough",
+      "back": "十分な",
+      "example": "Enough time.",
+      "hint_image": "enough.jpg"
+    },
+    {
+      "id": "l2_336",
+      "front": "equal",
+      "back": "等しい",
+      "example": "Everyone is equal.",
+      "hint_image": "equal.jpg"
+    },
+    {
+      "id": "l2_337",
+      "front": "especially",
+      "back": "特に",
+      "example": "I especially like spring.",
+      "hint_image": "especially.jpg"
+    },
+    {
+      "id": "l2_338",
+      "front": "even",
+      "back": "〜でさえ",
+      "example": "Even children know it.",
+      "hint_image": "even.jpg"
+    },
+    {
+      "id": "l2_339",
+      "front": "excellent",
+      "back": "優秀な",
+      "example": "An excellent student.",
+      "hint_image": "excellent.jpg"
+    },
+    {
+      "id": "l2_340",
+      "front": "excited",
+      "back": "興奮した",
+      "example": "I am excited.",
+      "hint_image": "excited.jpg"
+    },
+    {
+      "id": "l2_341",
+      "front": "expensive",
+      "back": "高価な",
+      "example": "An expensive bag.",
+      "hint_image": "expensive.jpg"
+    },
+    {
+      "id": "l2_342",
+      "front": "extra",
+      "back": "余分な",
+      "example": "An extra copy.",
+      "hint_image": "extra.jpg"
+    },
+    {
+      "id": "l2_343",
+      "front": "familiar",
+      "back": "よく知っている",
+      "example": "A familiar face.",
+      "hint_image": "familiar.jpg"
+    },
+    {
+      "id": "l2_344",
+      "front": "fantastic",
+      "back": "素晴らしい",
+      "example": "A fantastic show.",
+      "hint_image": "fantastic.jpg"
+    },
+    {
+      "id": "l2_345",
+      "front": "favorite",
+      "back": "お気に入りの",
+      "example": "My favorite food.",
+      "hint_image": "favorite.jpg"
+    },
+    {
+      "id": "l2_346",
+      "front": "finally",
+      "back": "ついに",
+      "example": "Finally it is done.",
+      "hint_image": "finally.jpg"
+    },
+    {
+      "id": "l2_347",
+      "front": "fresh",
+      "back": "新鮮な",
+      "example": "Fresh vegetables.",
+      "hint_image": "fresh.jpg"
+    },
+    {
+      "id": "l2_348",
+      "front": "friendly",
+      "back": "友好的な",
+      "example": "A friendly smile.",
+      "hint_image": "friendly.jpg"
+    },
+    {
+      "id": "l2_349",
+      "front": "gentle",
+      "back": "優しい",
+      "example": "A gentle voice.",
+      "hint_image": "gentle.jpg"
+    },
+    {
+      "id": "l2_350",
+      "front": "glad",
+      "back": "うれしい",
+      "example": "I am glad.",
+      "hint_image": "glad.jpg"
+    },
+    {
+      "id": "l2_351",
+      "front": "helpful",
+      "back": "役立つ",
+      "example": "Very helpful.",
+      "hint_image": "helpful.jpg"
+    },
+    {
+      "id": "l2_352",
+      "front": "honest",
+      "back": "正直な",
+      "example": "Be honest.",
+      "hint_image": "honest.jpg"
+    },
+    {
+      "id": "l2_353",
+      "front": "however",
+      "back": "しかしながら",
+      "example": "However, I disagree.",
+      "hint_image": "however.jpg"
+    },
+    {
+      "id": "l2_354",
+      "front": "huge",
+      "back": "巨大な",
+      "example": "A huge elephant.",
+      "hint_image": "huge.jpg"
+    },
+    {
+      "id": "l2_355",
+      "front": "important",
+      "back": "重要な",
+      "example": "Very important.",
+      "hint_image": "important.jpg"
+    },
+    {
+      "id": "l2_356",
+      "front": "impossible",
+      "back": "不可能な",
+      "example": "Nothing is impossible.",
+      "hint_image": "impossible.jpg"
+    },
+    {
+      "id": "l2_357",
+      "front": "interesting",
+      "back": "面白い",
+      "example": "An interesting story.",
+      "hint_image": "interesting.jpg"
+    },
+    {
+      "id": "l2_358",
+      "front": "lonely",
+      "back": "孤独な",
+      "example": "I feel lonely.",
+      "hint_image": "lonely.jpg"
+    },
+    {
+      "id": "l2_359",
+      "front": "lovely",
+      "back": "素敵な",
+      "example": "A lovely day.",
+      "hint_image": "lovely.jpg"
+    },
+    {
+      "id": "l2_360",
+      "front": "lucky",
+      "back": "ラッキーな",
+      "example": "I am lucky.",
+      "hint_image": "lucky.jpg"
+    },
+    {
+      "id": "l2_361",
+      "front": "maybe",
+      "back": "たぶん",
+      "example": "Maybe tomorrow.",
+      "hint_image": "maybe.jpg"
+    },
+    {
+      "id": "l2_362",
+      "front": "modern",
+      "back": "現代の",
+      "example": "Modern life.",
+      "hint_image": "modern.jpg"
+    },
+    {
+      "id": "l2_363",
+      "front": "natural",
+      "back": "自然な",
+      "example": "Natural food.",
+      "hint_image": "natural.jpg"
+    },
+    {
+      "id": "l2_364",
+      "front": "nervous",
+      "back": "緊張した",
+      "example": "I am nervous.",
+      "hint_image": "nervous.jpg"
+    },
+    {
+      "id": "l2_365",
+      "front": "normal",
+      "back": "普通の",
+      "example": "That is normal.",
+      "hint_image": "normal.jpg"
+    },
+    {
+      "id": "l2_366",
+      "front": "often",
+      "back": "よく",
+      "example": "I often jog.",
+      "hint_image": "often.jpg"
+    },
+    {
+      "id": "l2_367",
+      "front": "once",
+      "back": "一度",
+      "example": "Try it once.",
+      "hint_image": "once.jpg"
+    },
+    {
+      "id": "l2_368",
+      "front": "painful",
+      "back": "痛い",
+      "example": "It is painful.",
+      "hint_image": "painful.jpg"
+    },
+    {
+      "id": "l2_369",
+      "front": "perhaps",
+      "back": "もしかしたら",
+      "example": "Perhaps tomorrow.",
+      "hint_image": "perhaps.jpg"
+    },
+    {
+      "id": "l2_370",
+      "front": "polite",
+      "back": "礼儀正しい",
+      "example": "Be polite.",
+      "hint_image": "polite.jpg"
+    },
+    {
+      "id": "l2_371",
+      "front": "popular",
+      "back": "人気のある",
+      "example": "A popular song.",
+      "hint_image": "popular.jpg"
+    },
+    {
+      "id": "l2_372",
+      "front": "possible",
+      "back": "可能な",
+      "example": "Is it possible?",
+      "hint_image": "possible.jpg"
+    },
+    {
+      "id": "l2_373",
+      "front": "proud",
+      "back": "誇りに思う",
+      "example": "I am proud.",
+      "hint_image": "proud.jpg"
+    },
+    {
+      "id": "l2_374",
+      "front": "quickly",
+      "back": "素早く",
+      "example": "Come quickly.",
+      "hint_image": "quickly.jpg"
+    },
+    {
+      "id": "l2_375",
+      "front": "quite",
+      "back": "かなり",
+      "example": "Quite interesting.",
+      "hint_image": "quite.jpg"
+    },
+    {
+      "id": "l2_376",
+      "front": "recent",
+      "back": "最近の",
+      "example": "Recent news.",
+      "hint_image": "recent.jpg"
+    },
+    {
+      "id": "l2_377",
+      "front": "scary",
+      "back": "怖い",
+      "example": "A scary movie.",
+      "hint_image": "scary.jpg"
+    },
+    {
+      "id": "l2_378",
+      "front": "several",
+      "back": "いくつかの",
+      "example": "Several books.",
+      "hint_image": "several.jpg"
+    },
+    {
+      "id": "l2_379",
+      "front": "silent",
+      "back": "静かな",
+      "example": "A silent room.",
+      "hint_image": "silent.jpg"
+    },
+    {
+      "id": "l2_380",
+      "front": "similar",
+      "back": "似ている",
+      "example": "They look similar.",
+      "hint_image": "similar.jpg"
+    },
+    {
+      "id": "l2_381",
+      "front": "simple",
+      "back": "シンプルな",
+      "example": "A simple design.",
+      "hint_image": "simple.jpg"
+    },
+    {
+      "id": "l2_382",
+      "front": "slowly",
+      "back": "ゆっくりと",
+      "example": "Walk slowly.",
+      "hint_image": "slowly.jpg"
+    },
+    {
+      "id": "l2_383",
+      "front": "special",
+      "back": "特別な",
+      "example": "A special day.",
+      "hint_image": "special.jpg"
+    },
+    {
+      "id": "l2_384",
+      "front": "strange",
+      "back": "奇妙な",
+      "example": "How strange.",
+      "hint_image": "strange.jpg"
+    },
+    {
+      "id": "l2_385",
+      "front": "suddenly",
+      "back": "突然",
+      "example": "He suddenly stopped.",
+      "hint_image": "suddenly.jpg"
+    },
+    {
+      "id": "l2_386",
+      "front": "sweet",
+      "back": "甘い",
+      "example": "A sweet cake.",
+      "hint_image": "sweet.jpg"
+    },
+    {
+      "id": "l2_387",
+      "front": "terrible",
+      "back": "ひどい",
+      "example": "Terrible weather.",
+      "hint_image": "terrible.jpg"
+    },
+    {
+      "id": "l2_388",
+      "front": "therefore",
+      "back": "したがって",
+      "example": "Therefore we agree.",
+      "hint_image": "therefore.jpg"
+    },
+    {
+      "id": "l2_389",
+      "front": "together",
+      "back": "一緒に",
+      "example": "Work together.",
+      "hint_image": "together.jpg"
+    },
+    {
+      "id": "l2_390",
+      "front": "various",
+      "back": "様々な",
+      "example": "Various choices.",
+      "hint_image": "various.jpg"
+    },
+    {
+      "id": "l2_391",
+      "front": "whether",
+      "back": "〜かどうか",
+      "example": "Whether it rains.",
+      "hint_image": "whether.jpg"
+    },
+    {
+      "id": "l2_392",
+      "front": "whole",
+      "back": "全体の",
+      "example": "The whole class.",
+      "hint_image": "whole.jpg"
+    },
+    {
+      "id": "l2_393",
+      "front": "wonderful",
+      "back": "素晴らしい",
+      "example": "A wonderful day.",
+      "hint_image": "wonderful.jpg"
+    },
+    {
+      "id": "l2_394",
+      "front": "worried",
+      "back": "心配している",
+      "example": "I am worried.",
+      "hint_image": "worried.jpg"
+    },
+    {
+      "id": "l2_395",
+      "front": "worth",
+      "back": "価値がある",
+      "example": "Worth trying.",
+      "hint_image": "worth.jpg"
+    },
+    {
+      "id": "l2_396",
+      "front": "yet",
+      "back": "まだ・もう",
+      "example": "Not yet.",
+      "hint_image": "yet.jpg"
+    },
+    {
+      "id": "le_397",
+      "front": "aboard",
+      "back": "乗って",
+      "example": "Come aboard.",
+      "hint_image": "aboard.jpg"
+    },
+    {
+      "id": "le_398",
+      "front": "account",
+      "back": "アカウント・説明",
+      "example": "Create an account.",
+      "hint_image": "account.jpg"
+    },
+    {
+      "id": "le_399",
+      "front": "ache",
+      "back": "痛む",
+      "example": "My head aches.",
+      "hint_image": "ache.jpg"
+    },
+    {
+      "id": "le_400",
+      "front": "adventure",
+      "back": "冒険",
+      "example": "A great adventure.",
+      "hint_image": "adventure.jpg"
+    },
+    {
+      "id": "le_401",
+      "front": "afford",
+      "back": "余裕がある",
+      "example": "I can't afford it.",
+      "hint_image": "afford.jpg"
+    },
+    {
+      "id": "le_402",
+      "front": "against",
+      "back": "〜に反して",
+      "example": "Against the rules.",
+      "hint_image": "against.jpg"
+    },
+    {
+      "id": "le_403",
+      "front": "agent",
+      "back": "代理人",
+      "example": "A travel agent.",
+      "hint_image": "agent.jpg"
+    },
+    {
+      "id": "le_404",
+      "front": "ahead",
+      "back": "前に",
+      "example": "Go straight ahead.",
+      "hint_image": "ahead.jpg"
+    },
+    {
+      "id": "le_405",
+      "front": "alarm",
+      "back": "警報",
+      "example": "The alarm rang.",
+      "hint_image": "alarm.jpg"
+    },
+    {
+      "id": "le_406",
+      "front": "amount",
+      "back": "量",
+      "example": "A large amount.",
+      "hint_image": "amount.jpg"
+    },
+    {
+      "id": "le_407",
+      "front": "announce",
+      "back": "発表する",
+      "example": "Announce the winner.",
+      "hint_image": "announce.jpg"
+    },
+    {
+      "id": "le_408",
+      "front": "anyway",
+      "back": "とにかく",
+      "example": "Anyway, let's go.",
+      "hint_image": "anyway.jpg"
+    },
+    {
+      "id": "le_409",
+      "front": "apologize",
+      "back": "謝る",
+      "example": "I apologize.",
+      "hint_image": "apologize.jpg"
+    },
+    {
+      "id": "le_410",
+      "front": "asleep",
+      "back": "眠っている",
+      "example": "She fell asleep.",
+      "hint_image": "asleep.jpg"
+    },
+    {
+      "id": "le_411",
+      "front": "audience",
+      "back": "観衆",
+      "example": "The audience clapped.",
+      "hint_image": "audience.jpg"
+    },
+    {
+      "id": "le_412",
+      "front": "awkward",
+      "back": "ぎこちない",
+      "example": "An awkward silence.",
+      "hint_image": "awkward.jpg"
+    },
+    {
+      "id": "le_413",
+      "front": "balance",
+      "back": "バランス",
+      "example": "Keep your balance.",
+      "hint_image": "balance.jpg"
+    },
+    {
+      "id": "le_414",
+      "front": "bargain",
+      "back": "お買い得品",
+      "example": "A real bargain.",
+      "hint_image": "bargain.jpg"
+    },
+    {
+      "id": "le_415",
+      "front": "beat",
+      "back": "打つ・勝つ",
+      "example": "Beat the other team.",
+      "hint_image": "beat.jpg"
+    },
+    {
+      "id": "le_416",
+      "front": "behave",
+      "back": "振る舞う",
+      "example": "Behave yourself.",
+      "hint_image": "behave.jpg"
+    },
+    {
+      "id": "le_417",
+      "front": "belong",
+      "back": "属する",
+      "example": "I belong here.",
+      "hint_image": "belong.jpg"
+    },
+    {
+      "id": "le_418",
+      "front": "beneath",
+      "back": "〜の下に",
+      "example": "Beneath the table.",
+      "hint_image": "beneath.jpg"
+    },
+    {
+      "id": "le_419",
+      "front": "billion",
+      "back": "10億",
+      "example": "A billion dollars.",
+      "hint_image": "billion.jpg"
+    },
+    {
+      "id": "le_420",
+      "front": "bitter",
+      "back": "苦い",
+      "example": "A bitter taste.",
+      "hint_image": "bitter.jpg"
+    },
+    {
+      "id": "le_421",
+      "front": "block",
+      "back": "ブロックする",
+      "example": "Block the path.",
+      "hint_image": "block.jpg"
+    },
+    {
+      "id": "le_422",
+      "front": "branch",
+      "back": "支店",
+      "example": "A new branch.",
+      "hint_image": "branch.jpg"
+    },
+    {
+      "id": "le_423",
+      "front": "champion",
+      "back": "チャンピオン",
+      "example": "She is the champion.",
+      "hint_image": "champion.jpg"
+    },
+    {
+      "id": "le_424",
+      "front": "comedy",
+      "back": "喜劇",
+      "example": "Watch a comedy.",
+      "hint_image": "comedy.jpg"
+    },
+    {
+      "id": "le_425",
+      "front": "commercial",
+      "back": "コマーシャル",
+      "example": "A TV commercial.",
+      "hint_image": "commercial.jpg"
+    },
+    {
+      "id": "le_426",
+      "front": "companion",
+      "back": "仲間",
+      "example": "A travel companion.",
+      "hint_image": "companion.jpg"
+    },
+    {
+      "id": "le_427",
+      "front": "crew",
+      "back": "クルー・乗組員",
+      "example": "The flight crew.",
+      "hint_image": "crew.jpg"
+    },
+    {
+      "id": "le_428",
+      "front": "debate",
+      "back": "議論する",
+      "example": "Debate the topic.",
+      "hint_image": "debate.jpg"
+    },
+    {
+      "id": "le_429",
+      "front": "declare",
+      "back": "宣言する",
+      "example": "Declare the winner.",
+      "hint_image": "declare.jpg"
+    },
+    {
+      "id": "le_430",
+      "front": "election",
+      "back": "選挙",
+      "example": "Win the election.",
+      "hint_image": "election.jpg"
+    },
+    {
+      "id": "le_431",
+      "front": "encourage",
+      "back": "励ます",
+      "example": "Encourage others.",
+      "hint_image": "encourage.jpg"
+    },
+    {
+      "id": "le_432",
+      "front": "enemy",
+      "back": "敵",
+      "example": "Don't make enemies.",
+      "hint_image": "enemy.jpg"
+    },
+    {
+      "id": "le_433",
+      "front": "entertainment",
+      "back": "娯楽",
+      "example": "Good entertainment.",
+      "hint_image": "entertainment.jpg"
+    },
+    {
+      "id": "le_434",
+      "front": "escape",
+      "back": "逃げる",
+      "example": "Escape from danger.",
+      "hint_image": "escape.jpg"
+    },
+    {
+      "id": "le_435",
+      "front": "essential",
+      "back": "必要不可欠な",
+      "example": "Essential supplies.",
+      "hint_image": "essential.jpg"
+    },
+    {
+      "id": "le_436",
+      "front": "except",
+      "back": "〜を除いて",
+      "example": "All except one.",
+      "hint_image": "except.jpg"
+    },
+    {
+      "id": "le_437",
+      "front": "exciting",
+      "back": "興奮させる",
+      "example": "An exciting game.",
+      "hint_image": "exciting.jpg"
+    },
+    {
+      "id": "le_438",
+      "front": "expert",
+      "back": "専門家",
+      "example": "An IT expert.",
+      "hint_image": "expert.jpg"
+    },
+    {
+      "id": "le_439",
+      "front": "express",
+      "back": "表現する",
+      "example": "Express yourself.",
+      "hint_image": "express.jpg"
+    },
+    {
+      "id": "le_440",
+      "front": "fee",
+      "back": "料金",
+      "example": "The entry fee.",
+      "hint_image": "fee.jpg"
+    },
+    {
+      "id": "le_441",
+      "front": "fortunate",
+      "back": "幸運な",
+      "example": "I am fortunate.",
+      "hint_image": "fortunate.jpg"
+    },
+    {
+      "id": "le_442",
+      "front": "gradually",
+      "back": "徐々に",
+      "example": "Gradually improving.",
+      "hint_image": "gradually.jpg"
+    },
+    {
+      "id": "le_443",
+      "front": "grateful",
+      "back": "感謝している",
+      "example": "I am grateful.",
+      "hint_image": "grateful.jpg"
+    },
+    {
+      "id": "le_444",
+      "front": "imagination",
+      "back": "想像力",
+      "example": "Use your imagination.",
+      "hint_image": "imagination.jpg"
+    },
+    {
+      "id": "le_445",
+      "front": "injure",
+      "back": "傷つける",
+      "example": "She injured her knee.",
+      "hint_image": "injure.jpg"
+    },
+    {
+      "id": "le_446",
+      "front": "invest",
+      "back": "投資する",
+      "example": "Invest your time.",
+      "hint_image": "invest.jpg"
+    },
+    {
+      "id": "le_447",
+      "front": "instrument",
+      "back": "楽器・道具",
+      "example": "A musical instrument.",
+      "hint_image": "instrument.jpg"
+    },
+    {
+      "id": "le_448",
+      "front": "instruction",
+      "back": "指示",
+      "example": "Follow the instructions.",
+      "hint_image": "instruction.jpg"
+    },
+    {
+      "id": "le_449",
+      "front": "international",
+      "back": "国際的な",
+      "example": "An international event.",
+      "hint_image": "international.jpg"
+    },
+    {
+      "id": "le_450",
+      "front": "interview",
+      "back": "面接",
+      "example": "Attend the interview.",
+      "hint_image": "interview.jpg"
+    },
+    {
+      "id": "le_451",
+      "front": "introduce",
+      "back": "紹介する",
+      "example": "Introduce yourself.",
+      "hint_image": "introduce.jpg"
+    },
+    {
+      "id": "le_452",
+      "front": "item",
+      "back": "項目・品物",
+      "example": "Check each item.",
+      "hint_image": "item.jpg"
+    },
+    {
+      "id": "le_453",
+      "front": "lack",
+      "back": "欠けている",
+      "example": "I lack experience.",
+      "hint_image": "lack.jpg"
+    },
+    {
+      "id": "le_454",
+      "front": "landscape",
+      "back": "風景",
+      "example": "A beautiful landscape.",
+      "hint_image": "landscape.jpg"
+    },
+    {
+      "id": "le_455",
+      "front": "laughter",
+      "back": "笑い",
+      "example": "Lots of laughter.",
+      "hint_image": "laughter.jpg"
+    },
+    {
+      "id": "le_456",
+      "front": "legal",
+      "back": "合法的な",
+      "example": "A legal document.",
+      "hint_image": "legal.jpg"
+    },
+    {
+      "id": "le_457",
+      "front": "locate",
+      "back": "位置を特定する",
+      "example": "Locate the file.",
+      "hint_image": "locate.jpg"
+    },
+    {
+      "id": "le_458",
+      "front": "manners",
+      "back": "礼儀作法",
+      "example": "Good manners.",
+      "hint_image": "manners.jpg"
+    },
+    {
+      "id": "le_459",
+      "front": "material",
+      "back": "材料・素材",
+      "example": "The right material.",
+      "hint_image": "material.jpg"
+    },
+    {
+      "id": "le_460",
+      "front": "mental",
+      "back": "精神的な",
+      "example": "Mental health.",
+      "hint_image": "mental.jpg"
+    },
+    {
+      "id": "le_461",
+      "front": "mild",
+      "back": "穏やかな",
+      "example": "A mild winter.",
+      "hint_image": "mild.jpg"
+    },
+    {
+      "id": "le_462",
+      "front": "million",
+      "back": "100万",
+      "example": "A million dollars.",
+      "hint_image": "million.jpg"
+    },
+    {
+      "id": "le_463",
+      "front": "minimum",
+      "back": "最小限の",
+      "example": "The minimum wage.",
+      "hint_image": "minimum.jpg"
+    },
+    {
+      "id": "le_464",
+      "front": "motion",
+      "back": "動き",
+      "example": "In slow motion.",
+      "hint_image": "motion.jpg"
+    },
+    {
+      "id": "le_465",
+      "front": "nearby",
+      "back": "近くに",
+      "example": "A nearby café.",
+      "hint_image": "nearby.jpg"
+    },
+    {
+      "id": "le_466",
+      "front": "negative",
+      "back": "否定的な",
+      "example": "A negative result.",
+      "hint_image": "negative.jpg"
+    },
+    {
+      "id": "le_467",
+      "front": "neighborhood",
+      "back": "近所",
+      "example": "A friendly neighborhood.",
+      "hint_image": "neighborhood.jpg"
+    },
+    {
+      "id": "le_468",
+      "front": "neither",
+      "back": "どちらも〜ない",
+      "example": "Neither is correct.",
+      "hint_image": "neither.jpg"
+    },
+    {
+      "id": "le_469",
+      "front": "obesity",
+      "back": "肥満",
+      "example": "Prevent obesity.",
+      "hint_image": "obesity.jpg"
+    },
+    {
+      "id": "le_470",
+      "front": "official",
+      "back": "公式の",
+      "example": "An official notice.",
+      "hint_image": "official.jpg"
+    },
+    {
+      "id": "le_471",
+      "front": "otherwise",
+      "back": "そうでなければ",
+      "example": "Otherwise, skip it.",
+      "hint_image": "otherwise.jpg"
+    },
+    {
+      "id": "le_472",
+      "front": "ought",
+      "back": "〜すべき",
+      "example": "You ought to try.",
+      "hint_image": "ought.jpg"
+    },
+    {
+      "id": "le_473",
+      "front": "panic",
+      "back": "パニック",
+      "example": "Don't panic.",
+      "hint_image": "panic.jpg"
+    },
+    {
+      "id": "le_474",
+      "front": "paragraph",
+      "back": "段落",
+      "example": "Write a paragraph.",
+      "hint_image": "paragraph.jpg"
+    },
+    {
+      "id": "le_475",
+      "front": "participate",
+      "back": "参加する",
+      "example": "Participate actively.",
+      "hint_image": "participate.jpg"
+    },
+    {
+      "id": "le_476",
+      "front": "pile",
+      "back": "積み重ね",
+      "example": "A pile of books.",
+      "hint_image": "pile.jpg"
+    },
+    {
+      "id": "le_477",
+      "front": "political",
+      "back": "政治的な",
+      "example": "A political debate.",
+      "hint_image": "political.jpg"
+    },
+    {
+      "id": "le_478",
+      "front": "pollution",
+      "back": "汚染",
+      "example": "Air pollution.",
+      "hint_image": "pollution.jpg"
+    },
+    {
+      "id": "le_479",
+      "front": "pond",
+      "back": "池",
+      "example": "A duck pond.",
+      "hint_image": "pond.jpg"
+    },
+    {
+      "id": "le_480",
+      "front": "presentation",
+      "back": "プレゼン",
+      "example": "A class presentation.",
+      "hint_image": "presentation.jpg"
+    },
+    {
+      "id": "le_481",
+      "front": "previous",
+      "back": "前の",
+      "example": "The previous lesson.",
+      "hint_image": "previous.jpg"
+    },
+    {
+      "id": "le_482",
+      "front": "professor",
+      "back": "教授",
+      "example": "A university professor.",
+      "hint_image": "professor.jpg"
+    },
+    {
+      "id": "le_483",
+      "front": "proper",
+      "back": "適切な",
+      "example": "Proper grammar.",
+      "hint_image": "proper.jpg"
+    },
+    {
+      "id": "le_484",
+      "front": "regardless",
+      "back": "〜にかかわらず",
+      "example": "Regardless of the cost.",
+      "hint_image": "regardless.jpg"
+    },
+    {
+      "id": "le_485",
+      "front": "scene",
+      "back": "場面",
+      "example": "A beautiful scene.",
+      "hint_image": "scene.jpg"
+    },
+    {
+      "id": "le_486",
+      "front": "senior",
+      "back": "年上の",
+      "example": "A senior student.",
+      "hint_image": "senior.jpg"
+    },
+    {
+      "id": "le_487",
+      "front": "serious",
+      "back": "深刻な",
+      "example": "A serious problem.",
+      "hint_image": "serious.jpg"
+    },
+    {
+      "id": "le_488",
+      "front": "signature",
+      "back": "署名",
+      "example": "Add your signature.",
+      "hint_image": "signature.jpg"
+    },
+    {
+      "id": "le_489",
+      "front": "specific",
+      "back": "具体的な",
+      "example": "Be more specific.",
+      "hint_image": "specific.jpg"
+    },
+    {
+      "id": "le_490",
+      "front": "suggest",
+      "back": "提案する",
+      "example": "Suggest a solution.",
+      "hint_image": "suggest.jpg"
+    },
+    {
+      "id": "le_491",
+      "front": "tidy",
+      "back": "きちんとした",
+      "example": "Keep it tidy.",
+      "hint_image": "tidy.jpg"
+    },
+    {
+      "id": "le_492",
+      "front": "somewhat",
+      "back": "やや",
+      "example": "Somewhat difficult.",
+      "hint_image": "somewhat.jpg"
+    },
+    {
+      "id": "le_493",
+      "front": "relief",
+      "back": "安心・安堵",
+      "example": "What a relief!",
+      "hint_image": "relief.jpg"
+    },
+    {
+      "id": "le_494",
+      "front": "section",
+      "back": "部分・セクション",
+      "example": "Read this section.",
+      "hint_image": "section.jpg"
+    },
+    {
+      "id": "le_495",
+      "front": "timber",
+      "back": "木材",
+      "example": "Cut the timber.",
+      "hint_image": "timber.jpg"
+    },
+    {
+      "id": "le_496",
+      "front": "trophy",
+      "back": "トロフィー",
+      "example": "Win a trophy.",
+      "hint_image": "trophy.jpg"
+    },
+    {
+      "id": "le_497",
+      "front": "tunnel",
+      "back": "トンネル",
+      "example": "Drive through the tunnel.",
+      "hint_image": "tunnel.jpg"
+    },
+    {
+      "id": "le_498",
+      "front": "twilight",
+      "back": "夕暮れ",
+      "example": "A beautiful twilight.",
+      "hint_image": "twilight.jpg"
+    },
+    {
+      "id": "le_499",
+      "front": "vapor",
+      "back": "蒸気",
+      "example": "Steam and vapor.",
+      "hint_image": "vapor.jpg"
+    },
+    {
+      "id": "le_500",
+      "front": "vessel",
+      "back": "船・容器",
+      "example": "A large vessel.",
+      "hint_image": "vessel.jpg"
+    }
+  ]
+}

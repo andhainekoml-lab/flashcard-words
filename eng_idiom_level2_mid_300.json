@@ -1,0 +1,2110 @@
+{
+  "deck_id": "eng_idiom_level2_mid",
+  "deck_name": "中3〜高1の熟語300語",
+  "direction_mode": "bothWays",
+  "front_label": "英語",
+  "back_label": "日本語",
+  "show_listen": true,
+  "cards": [
+    {
+      "id": "p2_001",
+      "front": "as soon as",
+      "back": "〜するとすぐに",
+      "example": "Call me as soon as you arrive.",
+      "hint_image": "as_soon_as.jpg"
+    },
+    {
+      "id": "p2_002",
+      "front": "as long as",
+      "back": "〜する限り",
+      "example": "As long as you try, it's fine.",
+      "hint_image": "as_long_as.jpg"
+    },
+    {
+      "id": "p2_003",
+      "front": "as far as",
+      "back": "〜する限りでは",
+      "example": "As far as I know, she is fine.",
+      "hint_image": "as_far_as.jpg"
+    },
+    {
+      "id": "p2_004",
+      "front": "as a result",
+      "back": "その結果",
+      "example": "As a result, we succeeded.",
+      "hint_image": "as_a_result.jpg"
+    },
+    {
+      "id": "p2_005",
+      "front": "as a matter of fact",
+      "back": "実は",
+      "example": "As a matter of fact, I disagree.",
+      "hint_image": "as_a_matter_of_fact.jpg"
+    },
+    {
+      "id": "p2_006",
+      "front": "as for",
+      "back": "〜に関しては",
+      "example": "As for me, I prefer tea.",
+      "hint_image": "as_for.jpg"
+    },
+    {
+      "id": "p2_007",
+      "front": "as if",
+      "back": "まるで〜のように",
+      "example": "She talked as if she knew.",
+      "hint_image": "as_if.jpg"
+    },
+    {
+      "id": "p2_008",
+      "front": "as usual",
+      "back": "いつものように",
+      "example": "She was late as usual.",
+      "hint_image": "as_usual.jpg"
+    },
+    {
+      "id": "p2_009",
+      "front": "as much as possible",
+      "back": "できるだけ多く",
+      "example": "Sleep as much as possible.",
+      "hint_image": "as_much_as_possible.jpg"
+    },
+    {
+      "id": "p2_010",
+      "front": "as often as possible",
+      "back": "できるだけ頻繁に",
+      "example": "Practice as often as possible.",
+      "hint_image": "as_often_as_possible.jpg"
+    },
+    {
+      "id": "p2_011",
+      "front": "as soon as possible",
+      "back": "できるだけ早く",
+      "example": "Please reply as soon as possible.",
+      "hint_image": "as_soon_as_possible.jpg"
+    },
+    {
+      "id": "p2_012",
+      "front": "at the same time",
+      "back": "同時に",
+      "example": "Don't talk at the same time.",
+      "hint_image": "at_the_same_time.jpg"
+    },
+    {
+      "id": "p2_013",
+      "front": "at the moment",
+      "back": "今のところ",
+      "example": "She is busy at the moment.",
+      "hint_image": "at_the_moment.jpg"
+    },
+    {
+      "id": "p2_014",
+      "front": "at the end of",
+      "back": "〜の終わりに",
+      "example": "At the end of the day, rest.",
+      "hint_image": "at_the_end_of.jpg"
+    },
+    {
+      "id": "p2_015",
+      "front": "at the beginning of",
+      "back": "〜の始めに",
+      "example": "At the beginning of the year.",
+      "hint_image": "at_the_beginning_of.jpg"
+    },
+    {
+      "id": "p2_016",
+      "front": "from time to time",
+      "back": "時々",
+      "example": "She visits from time to time.",
+      "hint_image": "from_time_to_time.jpg"
+    },
+    {
+      "id": "p2_017",
+      "front": "from now on",
+      "back": "今後は",
+      "example": "From now on, work harder.",
+      "hint_image": "from_now_on.jpg"
+    },
+    {
+      "id": "p2_018",
+      "front": "from then on",
+      "back": "それ以来",
+      "example": "From then on, things changed.",
+      "hint_image": "from_then_on.jpg"
+    },
+    {
+      "id": "p2_019",
+      "front": "all at once",
+      "back": "突然・一度に",
+      "example": "All at once, it started raining.",
+      "hint_image": "all_at_once.jpg"
+    },
+    {
+      "id": "p2_020",
+      "front": "all the time",
+      "back": "ずっと・いつも",
+      "example": "She smiles all the time.",
+      "hint_image": "all_the_time.jpg"
+    },
+    {
+      "id": "p2_021",
+      "front": "all of a sudden",
+      "back": "突然",
+      "example": "All of a sudden, he left.",
+      "hint_image": "all_of_a_sudden.jpg"
+    },
+    {
+      "id": "p2_022",
+      "front": "once in a while",
+      "back": "時々",
+      "example": "We meet once in a while.",
+      "hint_image": "once_in_a_while.jpg"
+    },
+    {
+      "id": "p2_023",
+      "front": "once more",
+      "back": "もう一度",
+      "example": "Please say that once more.",
+      "hint_image": "once_more.jpg"
+    },
+    {
+      "id": "p2_024",
+      "front": "sooner or later",
+      "back": "遅かれ早かれ",
+      "example": "Sooner or later you'll know.",
+      "hint_image": "sooner_or_later.jpg"
+    },
+    {
+      "id": "p2_025",
+      "front": "no longer",
+      "back": "もはや〜ない",
+      "example": "She no longer lives here.",
+      "hint_image": "no_longer.jpg"
+    },
+    {
+      "id": "p2_026",
+      "front": "no matter what",
+      "back": "何があっても",
+      "example": "No matter what, keep going.",
+      "hint_image": "no_matter_what.jpg"
+    },
+    {
+      "id": "p2_027",
+      "front": "no matter how",
+      "back": "どんなに〜でも",
+      "example": "No matter how hard, try.",
+      "hint_image": "no_matter_how.jpg"
+    },
+    {
+      "id": "p2_028",
+      "front": "by the time",
+      "back": "〜するまでに",
+      "example": "By the time you arrive, I'll be ready.",
+      "hint_image": "by_the_time.jpg"
+    },
+    {
+      "id": "p2_029",
+      "front": "in the meantime",
+      "back": "その間に",
+      "example": "Wait here in the meantime.",
+      "hint_image": "in_the_meantime.jpg"
+    },
+    {
+      "id": "p2_030",
+      "front": "in the long run",
+      "back": "長い目で見ると",
+      "example": "Exercise pays off in the long run.",
+      "hint_image": "in_the_long_run.jpg"
+    },
+    {
+      "id": "p2_031",
+      "front": "as a consequence",
+      "back": "その結果として",
+      "example": "As a consequence, he apologized.",
+      "hint_image": "as_a_consequence.jpg"
+    },
+    {
+      "id": "p2_032",
+      "front": "due to",
+      "back": "〜が原因で",
+      "example": "The delay was due to traffic.",
+      "hint_image": "due_to.jpg"
+    },
+    {
+      "id": "p2_033",
+      "front": "owing to",
+      "back": "〜のために",
+      "example": "Owing to her effort, we won.",
+      "hint_image": "owing_to.jpg"
+    },
+    {
+      "id": "p2_034",
+      "front": "lead to",
+      "back": "〜につながる",
+      "example": "Hard work leads to success.",
+      "hint_image": "lead_to.jpg"
+    },
+    {
+      "id": "p2_035",
+      "front": "result in",
+      "back": "〜という結果になる",
+      "example": "The accident resulted in a delay.",
+      "hint_image": "result_in.jpg"
+    },
+    {
+      "id": "p2_036",
+      "front": "result from",
+      "back": "〜から生じる",
+      "example": "Stress results from overwork.",
+      "hint_image": "result_from.jpg"
+    },
+    {
+      "id": "p2_037",
+      "front": "bring about",
+      "back": "〜をもたらす",
+      "example": "The rain brought about flooding.",
+      "hint_image": "bring_about.jpg"
+    },
+    {
+      "id": "p2_038",
+      "front": "give rise to",
+      "back": "〜を引き起こす",
+      "example": "His words gave rise to anger.",
+      "hint_image": "give_rise_to.jpg"
+    },
+    {
+      "id": "p2_039",
+      "front": "even though",
+      "back": "〜にもかかわらず",
+      "example": "Even though it rained, we played.",
+      "hint_image": "even_though.jpg"
+    },
+    {
+      "id": "p2_040",
+      "front": "even if",
+      "back": "たとえ〜でも",
+      "example": "Even if it's hard, don't quit.",
+      "hint_image": "even_if.jpg"
+    },
+    {
+      "id": "p2_041",
+      "front": "in spite of",
+      "back": "〜にもかかわらず",
+      "example": "In spite of the cold, she came.",
+      "hint_image": "in_spite_of.jpg"
+    },
+    {
+      "id": "p2_042",
+      "front": "on the other hand",
+      "back": "一方で",
+      "example": "On the other hand, it costs more.",
+      "hint_image": "on_the_other_hand.jpg"
+    },
+    {
+      "id": "p2_043",
+      "front": "in contrast",
+      "back": "対照的に",
+      "example": "In contrast, he stayed calm.",
+      "hint_image": "in_contrast.jpg"
+    },
+    {
+      "id": "p2_044",
+      "front": "in any case",
+      "back": "いずれにせよ",
+      "example": "In any case, come by three.",
+      "hint_image": "in_any_case.jpg"
+    },
+    {
+      "id": "p2_045",
+      "front": "in fact",
+      "back": "実際には",
+      "example": "In fact, she already knew.",
+      "hint_image": "in_fact.jpg"
+    },
+    {
+      "id": "p2_046",
+      "front": "after all",
+      "back": "結局",
+      "example": "After all, he was right.",
+      "hint_image": "after_all.jpg"
+    },
+    {
+      "id": "p2_047",
+      "front": "on the contrary",
+      "back": "それどころか",
+      "example": "On the contrary, she loved it.",
+      "hint_image": "on_the_contrary.jpg"
+    },
+    {
+      "id": "p2_048",
+      "front": "in order to",
+      "back": "〜するために",
+      "example": "Study hard in order to pass.",
+      "hint_image": "in_order_to.jpg"
+    },
+    {
+      "id": "p2_049",
+      "front": "so as to",
+      "back": "〜するために",
+      "example": "She left early so as to catch the train.",
+      "hint_image": "so_as_to.jpg"
+    },
+    {
+      "id": "p2_050",
+      "front": "so that",
+      "back": "〜するように",
+      "example": "Speak slowly so that I can understand.",
+      "hint_image": "so_that.jpg"
+    },
+    {
+      "id": "p2_051",
+      "front": "for the purpose of",
+      "back": "〜の目的で",
+      "example": "For the purpose of learning.",
+      "hint_image": "for_the_purpose_of.jpg"
+    },
+    {
+      "id": "p2_052",
+      "front": "by means of",
+      "back": "〜によって",
+      "example": "By means of hard work.",
+      "hint_image": "by_means_of.jpg"
+    },
+    {
+      "id": "p2_053",
+      "front": "make use of",
+      "back": "〜を活用する",
+      "example": "Make use of your talent.",
+      "hint_image": "make_use_of.jpg"
+    },
+    {
+      "id": "p2_054",
+      "front": "take advantage of",
+      "back": "〜を活用する",
+      "example": "Take advantage of the chance.",
+      "hint_image": "take_advantage_of.jpg"
+    },
+    {
+      "id": "p2_055",
+      "front": "make the most of",
+      "back": "〜を最大限活用する",
+      "example": "Make the most of your time.",
+      "hint_image": "make_the_most_of.jpg"
+    },
+    {
+      "id": "p2_056",
+      "front": "in addition",
+      "back": "さらに",
+      "example": "In addition, she is kind.",
+      "hint_image": "in_addition.jpg"
+    },
+    {
+      "id": "p2_057",
+      "front": "in addition to",
+      "back": "〜に加えて",
+      "example": "In addition to English, she speaks French.",
+      "hint_image": "in_addition_to.jpg"
+    },
+    {
+      "id": "p2_058",
+      "front": "what is more",
+      "back": "さらに",
+      "example": "What is more, it's cheap.",
+      "hint_image": "what_is_more.jpg"
+    },
+    {
+      "id": "p2_059",
+      "front": "not only ... but also",
+      "back": "〜だけでなく…も",
+      "example": "She is not only smart but also kind.",
+      "hint_image": "not_only_..._but_also.jpg"
+    },
+    {
+      "id": "p2_060",
+      "front": "both ... and",
+      "back": "〜と…の両方",
+      "example": "Both he and she came.",
+      "hint_image": "both_..._and.jpg"
+    },
+    {
+      "id": "p2_061",
+      "front": "either ... or",
+      "back": "〜か…か",
+      "example": "Either Monday or Tuesday is fine.",
+      "hint_image": "either_..._or.jpg"
+    },
+    {
+      "id": "p2_062",
+      "front": "neither ... nor",
+      "back": "〜でも…でもない",
+      "example": "Neither he nor she agreed.",
+      "hint_image": "neither_..._nor.jpg"
+    },
+    {
+      "id": "p2_063",
+      "front": "that is to say",
+      "back": "つまり",
+      "example": "That is to say, we are done.",
+      "hint_image": "that_is_to_say.jpg"
+    },
+    {
+      "id": "p2_064",
+      "front": "in other words",
+      "back": "言い換えれば",
+      "example": "In other words, stop.",
+      "hint_image": "in_other_words.jpg"
+    },
+    {
+      "id": "p2_065",
+      "front": "for instance",
+      "back": "たとえば",
+      "example": "For instance, apples and pears.",
+      "hint_image": "for_instance.jpg"
+    },
+    {
+      "id": "p2_066",
+      "front": "be able to",
+      "back": "〜できる",
+      "example": "She is able to swim.",
+      "hint_image": "be_able_to.jpg"
+    },
+    {
+      "id": "p2_067",
+      "front": "be supposed to",
+      "back": "〜することになっている",
+      "example": "You're supposed to wear a uniform.",
+      "hint_image": "be_supposed_to.jpg"
+    },
+    {
+      "id": "p2_068",
+      "front": "be willing to",
+      "back": "〜する意向がある",
+      "example": "I'm willing to help.",
+      "hint_image": "be_willing_to.jpg"
+    },
+    {
+      "id": "p2_069",
+      "front": "be likely to",
+      "back": "〜しそうだ",
+      "example": "It is likely to rain.",
+      "hint_image": "be_likely_to.jpg"
+    },
+    {
+      "id": "p2_070",
+      "front": "be unlikely to",
+      "back": "〜しそうにない",
+      "example": "She is unlikely to come.",
+      "hint_image": "be_unlikely_to.jpg"
+    },
+    {
+      "id": "p2_071",
+      "front": "be about to",
+      "back": "今にも〜しようとしている",
+      "example": "I was about to leave.",
+      "hint_image": "be_about_to.jpg"
+    },
+    {
+      "id": "p2_072",
+      "front": "be due to",
+      "back": "〜する予定だ",
+      "example": "The train is due to arrive.",
+      "hint_image": "be_due_to.jpg"
+    },
+    {
+      "id": "p2_073",
+      "front": "be meant to",
+      "back": "〜するはずだ",
+      "example": "This is meant to help.",
+      "hint_image": "be_meant_to.jpg"
+    },
+    {
+      "id": "p2_074",
+      "front": "be determined to",
+      "back": "〜する決意だ",
+      "example": "She is determined to win.",
+      "hint_image": "be_determined_to.jpg"
+    },
+    {
+      "id": "p2_075",
+      "front": "be dedicated to",
+      "back": "〜に専念する",
+      "example": "He is dedicated to his work.",
+      "hint_image": "be_dedicated_to.jpg"
+    },
+    {
+      "id": "p2_076",
+      "front": "be committed to",
+      "back": "〜を約束している",
+      "example": "She is committed to the plan.",
+      "hint_image": "be_committed_to.jpg"
+    },
+    {
+      "id": "p2_077",
+      "front": "be related to",
+      "back": "〜に関連している",
+      "example": "This is related to health.",
+      "hint_image": "be_related_to.jpg"
+    },
+    {
+      "id": "p2_078",
+      "front": "be responsible for",
+      "back": "〜に責任がある",
+      "example": "She is responsible for the project.",
+      "hint_image": "be_responsible_for.jpg"
+    },
+    {
+      "id": "p2_079",
+      "front": "be aware of",
+      "back": "〜を意識している",
+      "example": "Be aware of the risks.",
+      "hint_image": "be_aware_of.jpg"
+    },
+    {
+      "id": "p2_080",
+      "front": "be involved in",
+      "back": "〜に関与している",
+      "example": "She is involved in charity.",
+      "hint_image": "be_involved_in.jpg"
+    },
+    {
+      "id": "p2_081",
+      "front": "be satisfied with",
+      "back": "〜に満足している",
+      "example": "Are you satisfied with the result?",
+      "hint_image": "be_satisfied_with.jpg"
+    },
+    {
+      "id": "p2_082",
+      "front": "be disappointed with",
+      "back": "〜に失望している",
+      "example": "He was disappointed with the grade.",
+      "hint_image": "be_disappointed_with.jpg"
+    },
+    {
+      "id": "p2_083",
+      "front": "be familiar with",
+      "back": "〜をよく知っている",
+      "example": "I'm familiar with this area.",
+      "hint_image": "be_familiar_with.jpg"
+    },
+    {
+      "id": "p2_084",
+      "front": "be concerned about",
+      "back": "〜を心配している",
+      "example": "She is concerned about her health.",
+      "hint_image": "be_concerned_about.jpg"
+    },
+    {
+      "id": "p2_085",
+      "front": "be based on",
+      "back": "〜に基づいている",
+      "example": "This movie is based on a true story.",
+      "hint_image": "be_based_on.jpg"
+    },
+    {
+      "id": "p2_086",
+      "front": "be composed of",
+      "back": "〜で構成されている",
+      "example": "Water is composed of H and O.",
+      "hint_image": "be_composed_of.jpg"
+    },
+    {
+      "id": "p2_087",
+      "front": "be divided into",
+      "back": "〜に分けられている",
+      "example": "The class is divided into groups.",
+      "hint_image": "be_divided_into.jpg"
+    },
+    {
+      "id": "p2_088",
+      "front": "be known as",
+      "back": "〜として知られている",
+      "example": "She is known as a great artist.",
+      "hint_image": "be_known_as.jpg"
+    },
+    {
+      "id": "p2_089",
+      "front": "be associated with",
+      "back": "〜と関連している",
+      "example": "Stress is associated with illness.",
+      "hint_image": "be_associated_with.jpg"
+    },
+    {
+      "id": "p2_090",
+      "front": "be faced with",
+      "back": "〜に直面している",
+      "example": "We are faced with a problem.",
+      "hint_image": "be_faced_with.jpg"
+    },
+    {
+      "id": "p2_091",
+      "front": "be equipped with",
+      "back": "〜を備えている",
+      "example": "The room is equipped with a TV.",
+      "hint_image": "be_equipped_with.jpg"
+    },
+    {
+      "id": "p2_092",
+      "front": "be filled with",
+      "back": "〜で満たされている",
+      "example": "The room was filled with laughter.",
+      "hint_image": "be_filled_with.jpg"
+    },
+    {
+      "id": "p2_093",
+      "front": "be compared with",
+      "back": "〜と比較される",
+      "example": "This is compared with the original.",
+      "hint_image": "be_compared_with.jpg"
+    },
+    {
+      "id": "p2_094",
+      "front": "be encouraged to",
+      "back": "〜するよう促される",
+      "example": "Students are encouraged to read.",
+      "hint_image": "be_encouraged_to.jpg"
+    },
+    {
+      "id": "p2_095",
+      "front": "be required to",
+      "back": "〜することが求められる",
+      "example": "You are required to wear a mask.",
+      "hint_image": "be_required_to.jpg"
+    },
+    {
+      "id": "p2_096",
+      "front": "account for",
+      "back": "〜を説明する・占める",
+      "example": "Sales account for 60% of income.",
+      "hint_image": "account_for.jpg"
+    },
+    {
+      "id": "p2_097",
+      "front": "apply for",
+      "back": "〜に申し込む",
+      "example": "She applied for the job.",
+      "hint_image": "apply_for.jpg"
+    },
+    {
+      "id": "p2_098",
+      "front": "apply to",
+      "back": "〜に当てはまる",
+      "example": "This rule applies to everyone.",
+      "hint_image": "apply_to.jpg"
+    },
+    {
+      "id": "p2_099",
+      "front": "ask for",
+      "back": "〜を求める",
+      "example": "Ask for help when needed.",
+      "hint_image": "ask_for.jpg"
+    },
+    {
+      "id": "p2_100",
+      "front": "benefit from",
+      "back": "〜から恩恵を受ける",
+      "example": "We benefit from exercise.",
+      "hint_image": "benefit_from.jpg"
+    },
+    {
+      "id": "p2_101",
+      "front": "call off",
+      "back": "〜を中止する",
+      "example": "They called off the event.",
+      "hint_image": "call_off.jpg"
+    },
+    {
+      "id": "p2_102",
+      "front": "care about",
+      "back": "〜を気にかける",
+      "example": "She cares about others.",
+      "hint_image": "care_about.jpg"
+    },
+    {
+      "id": "p2_103",
+      "front": "carry on",
+      "back": "続ける",
+      "example": "Carry on with the work.",
+      "hint_image": "carry_on.jpg"
+    },
+    {
+      "id": "p2_104",
+      "front": "carry out",
+      "back": "〜を実行する",
+      "example": "Carry out the plan.",
+      "hint_image": "carry_out.jpg"
+    },
+    {
+      "id": "p2_105",
+      "front": "catch up with",
+      "back": "〜に追いつく",
+      "example": "She caught up with the class.",
+      "hint_image": "catch_up_with.jpg"
+    },
+    {
+      "id": "p2_106",
+      "front": "check in",
+      "back": "チェックインする",
+      "example": "Check in at the hotel.",
+      "hint_image": "check_in.jpg"
+    },
+    {
+      "id": "p2_107",
+      "front": "check out",
+      "back": "チェックアウトする・確認する",
+      "example": "Check out this website.",
+      "hint_image": "check_out.jpg"
+    },
+    {
+      "id": "p2_108",
+      "front": "cheer up",
+      "back": "元気になる",
+      "example": "Cheer up! It'll be fine.",
+      "hint_image": "cheer_up.jpg"
+    },
+    {
+      "id": "p2_109",
+      "front": "clear up",
+      "back": "晴れる・片付ける",
+      "example": "The sky cleared up.",
+      "hint_image": "clear_up.jpg"
+    },
+    {
+      "id": "p2_110",
+      "front": "cope with",
+      "back": "〜に対処する",
+      "example": "She copes with stress well.",
+      "hint_image": "cope_with.jpg"
+    },
+    {
+      "id": "p2_111",
+      "front": "depend on",
+      "back": "〜に依存する",
+      "example": "It depends on the weather.",
+      "hint_image": "depend_on.jpg"
+    },
+    {
+      "id": "p2_112",
+      "front": "do without",
+      "back": "〜なしで済ます",
+      "example": "Can you do without coffee?",
+      "hint_image": "do_without.jpg"
+    },
+    {
+      "id": "p2_113",
+      "front": "end up",
+      "back": "最終的に〜になる",
+      "example": "She ended up staying home.",
+      "hint_image": "end_up.jpg"
+    },
+    {
+      "id": "p2_114",
+      "front": "fall behind",
+      "back": "遅れをとる",
+      "example": "Don't fall behind in class.",
+      "hint_image": "fall_behind.jpg"
+    },
+    {
+      "id": "p2_115",
+      "front": "fall down",
+      "back": "転ぶ・倒れる",
+      "example": "He fell down the stairs.",
+      "hint_image": "fall_down.jpg"
+    },
+    {
+      "id": "p2_116",
+      "front": "figure out",
+      "back": "〜を理解する・解く",
+      "example": "I can't figure out this puzzle.",
+      "hint_image": "figure_out.jpg"
+    },
+    {
+      "id": "p2_117",
+      "front": "fill in",
+      "back": "記入する",
+      "example": "Fill in the blanks.",
+      "hint_image": "fill_in.jpg"
+    },
+    {
+      "id": "p2_118",
+      "front": "fit in",
+      "back": "〜に合う・溶け込む",
+      "example": "She fit in well with the team.",
+      "hint_image": "fit_in.jpg"
+    },
+    {
+      "id": "p2_119",
+      "front": "focus on",
+      "back": "〜に集中する",
+      "example": "Focus on the task.",
+      "hint_image": "focus_on.jpg"
+    },
+    {
+      "id": "p2_120",
+      "front": "follow up",
+      "back": "〜をフォローアップする",
+      "example": "Follow up on the email.",
+      "hint_image": "follow_up.jpg"
+    },
+    {
+      "id": "p2_121",
+      "front": "get over",
+      "back": "〜を乗り越える・回復する",
+      "example": "She got over her cold.",
+      "hint_image": "get_over.jpg"
+    },
+    {
+      "id": "p2_122",
+      "front": "get rid of",
+      "back": "〜を取り除く",
+      "example": "Get rid of bad habits.",
+      "hint_image": "get_rid_of.jpg"
+    },
+    {
+      "id": "p2_123",
+      "front": "give in",
+      "back": "降参する・屈する",
+      "example": "Don't give in to pressure.",
+      "hint_image": "give_in.jpg"
+    },
+    {
+      "id": "p2_124",
+      "front": "go through",
+      "back": "〜を経験する",
+      "example": "She went through a hard time.",
+      "hint_image": "go_through.jpg"
+    },
+    {
+      "id": "p2_125",
+      "front": "grow up",
+      "back": "育つ",
+      "example": "She grew up in Osaka.",
+      "hint_image": "grow_up.jpg"
+    },
+    {
+      "id": "p2_126",
+      "front": "hang out",
+      "back": "ぶらぶらする",
+      "example": "We hung out at the mall.",
+      "hint_image": "hang_out.jpg"
+    },
+    {
+      "id": "p2_127",
+      "front": "hang up",
+      "back": "電話を切る",
+      "example": "She hung up the phone.",
+      "hint_image": "hang_up.jpg"
+    },
+    {
+      "id": "p2_128",
+      "front": "help out",
+      "back": "手伝う",
+      "example": "Can you help out today?",
+      "hint_image": "help_out.jpg"
+    },
+    {
+      "id": "p2_129",
+      "front": "hold back",
+      "back": "抑える",
+      "example": "Hold back your tears.",
+      "hint_image": "hold_back.jpg"
+    },
+    {
+      "id": "p2_130",
+      "front": "keep up with",
+      "back": "〜についていく",
+      "example": "Keep up with the news.",
+      "hint_image": "keep_up_with.jpg"
+    },
+    {
+      "id": "p2_131",
+      "front": "knock out",
+      "back": "〜をノックアウトする",
+      "example": "He was knocked out in the match.",
+      "hint_image": "knock_out.jpg"
+    },
+    {
+      "id": "p2_132",
+      "front": "lay off",
+      "back": "〜を解雇する",
+      "example": "The company laid off workers.",
+      "hint_image": "lay_off.jpg"
+    },
+    {
+      "id": "p2_133",
+      "front": "let go of",
+      "back": "〜を手放す",
+      "example": "Let go of the rope.",
+      "hint_image": "let_go_of.jpg"
+    },
+    {
+      "id": "p2_134",
+      "front": "lie down",
+      "back": "横になる",
+      "example": "Lie down and rest.",
+      "hint_image": "lie_down.jpg"
+    },
+    {
+      "id": "p2_135",
+      "front": "live up to",
+      "back": "〜に応える",
+      "example": "Live up to expectations.",
+      "hint_image": "live_up_to.jpg"
+    },
+    {
+      "id": "p2_136",
+      "front": "look down on",
+      "back": "〜を見下す",
+      "example": "Don't look down on others.",
+      "hint_image": "look_down_on.jpg"
+    },
+    {
+      "id": "p2_137",
+      "front": "make up for",
+      "back": "〜を補う",
+      "example": "Make up for the lost time.",
+      "hint_image": "make_up_for.jpg"
+    },
+    {
+      "id": "p2_138",
+      "front": "mix up",
+      "back": "〜を混同する",
+      "example": "I mixed up the twins.",
+      "hint_image": "mix_up.jpg"
+    },
+    {
+      "id": "p2_139",
+      "front": "move on",
+      "back": "前に進む",
+      "example": "It's time to move on.",
+      "hint_image": "move_on.jpg"
+    },
+    {
+      "id": "p2_140",
+      "front": "overcome",
+      "back": "〜を乗り越える",
+      "example": "Overcome your fears.",
+      "hint_image": "overcome.jpg"
+    },
+    {
+      "id": "p2_141",
+      "front": "pass away",
+      "back": "亡くなる",
+      "example": "Her grandfather passed away.",
+      "hint_image": "pass_away.jpg"
+    },
+    {
+      "id": "p2_142",
+      "front": "pass on",
+      "back": "〜を伝える",
+      "example": "Pass on this message.",
+      "hint_image": "pass_on.jpg"
+    },
+    {
+      "id": "p2_143",
+      "front": "pay attention to",
+      "back": "〜に注意を払う",
+      "example": "Pay attention to details.",
+      "hint_image": "pay_attention_to.jpg"
+    },
+    {
+      "id": "p2_144",
+      "front": "point to",
+      "back": "〜を示す",
+      "example": "This data points to success.",
+      "hint_image": "point_to.jpg"
+    },
+    {
+      "id": "p2_145",
+      "front": "put forward",
+      "back": "〜を提案する",
+      "example": "She put forward a new idea.",
+      "hint_image": "put_forward.jpg"
+    },
+    {
+      "id": "p2_146",
+      "front": "refer to",
+      "back": "〜を参照する・言及する",
+      "example": "Refer to the chart below.",
+      "hint_image": "refer_to.jpg"
+    },
+    {
+      "id": "p2_147",
+      "front": "rely on",
+      "back": "〜に頼る",
+      "example": "You can rely on her.",
+      "hint_image": "rely_on.jpg"
+    },
+    {
+      "id": "p2_148",
+      "front": "remind of",
+      "back": "〜を思い出させる",
+      "example": "This song reminds me of summer.",
+      "hint_image": "remind_of.jpg"
+    },
+    {
+      "id": "p2_149",
+      "front": "run away",
+      "back": "逃げる",
+      "example": "He ran away from home.",
+      "hint_image": "run_away.jpg"
+    },
+    {
+      "id": "p2_150",
+      "front": "search for",
+      "back": "〜を探す",
+      "example": "She searched for the answer.",
+      "hint_image": "search_for.jpg"
+    },
+    {
+      "id": "p2_151",
+      "front": "set off",
+      "back": "出発する",
+      "example": "We set off at dawn.",
+      "hint_image": "set_off.jpg"
+    },
+    {
+      "id": "p2_152",
+      "front": "settle down",
+      "back": "落ち着く",
+      "example": "Settle down and listen.",
+      "hint_image": "settle_down.jpg"
+    },
+    {
+      "id": "p2_153",
+      "front": "speak up",
+      "back": "はっきり話す",
+      "example": "Speak up so everyone can hear.",
+      "hint_image": "speak_up.jpg"
+    },
+    {
+      "id": "p2_154",
+      "front": "stand for",
+      "back": "〜を表す",
+      "example": "USA stands for United States of America.",
+      "hint_image": "stand_for.jpg"
+    },
+    {
+      "id": "p2_155",
+      "front": "stand out",
+      "back": "目立つ",
+      "example": "She stood out in the crowd.",
+      "hint_image": "stand_out.jpg"
+    },
+    {
+      "id": "p2_156",
+      "front": "stick to",
+      "back": "〜に従う・こだわる",
+      "example": "Stick to the plan.",
+      "hint_image": "stick_to.jpg"
+    },
+    {
+      "id": "p2_157",
+      "front": "suffer from",
+      "back": "〜に苦しむ",
+      "example": "She suffers from allergies.",
+      "hint_image": "suffer_from.jpg"
+    },
+    {
+      "id": "p2_158",
+      "front": "sum up",
+      "back": "まとめる",
+      "example": "Let me sum up the key points.",
+      "hint_image": "sum_up.jpg"
+    },
+    {
+      "id": "p2_159",
+      "front": "take in",
+      "back": "〜を理解する・吸収する",
+      "example": "It was hard to take in the news.",
+      "hint_image": "take_in.jpg"
+    },
+    {
+      "id": "p2_160",
+      "front": "take over",
+      "back": "〜を引き継ぐ",
+      "example": "She took over the manager's role.",
+      "hint_image": "take_over.jpg"
+    },
+    {
+      "id": "p2_161",
+      "front": "think of",
+      "back": "〜を思いつく・考える",
+      "example": "Think of a solution.",
+      "hint_image": "think_of.jpg"
+    },
+    {
+      "id": "p2_162",
+      "front": "throw up",
+      "back": "嘔吐する",
+      "example": "He felt sick and threw up.",
+      "hint_image": "throw_up.jpg"
+    },
+    {
+      "id": "p2_163",
+      "front": "turn out",
+      "back": "〜だとわかる・結果的に〜になる",
+      "example": "It turned out to be a great day.",
+      "hint_image": "turn_out.jpg"
+    },
+    {
+      "id": "p2_164",
+      "front": "used to",
+      "back": "〜したものだった",
+      "example": "She used to play tennis.",
+      "hint_image": "used_to.jpg"
+    },
+    {
+      "id": "p2_165",
+      "front": "watch out for",
+      "back": "〜に注意する",
+      "example": "Watch out for ice on the road.",
+      "hint_image": "watch_out_for.jpg"
+    },
+    {
+      "id": "p2_166",
+      "front": "wind up",
+      "back": "〜で終わる",
+      "example": "We wound up at a café.",
+      "hint_image": "wind_up.jpg"
+    },
+    {
+      "id": "p2_167",
+      "front": "work out",
+      "back": "解決する・うまくいく・運動する",
+      "example": "Things will work out.",
+      "hint_image": "work_out.jpg"
+    },
+    {
+      "id": "p2_168",
+      "front": "would rather",
+      "back": "〜する方がよい",
+      "example": "I would rather stay home.",
+      "hint_image": "would_rather.jpg"
+    },
+    {
+      "id": "p2_169",
+      "front": "would like to",
+      "back": "〜したい",
+      "example": "I would like to join.",
+      "hint_image": "would_like_to.jpg"
+    },
+    {
+      "id": "p2_170",
+      "front": "in need of",
+      "back": "〜を必要としている",
+      "example": "She is in need of help.",
+      "hint_image": "in_need_of.jpg"
+    },
+    {
+      "id": "p2_171",
+      "front": "in charge of",
+      "back": "〜を担当して",
+      "example": "She is in charge of sales.",
+      "hint_image": "in_charge_of.jpg"
+    },
+    {
+      "id": "p2_172",
+      "front": "in common",
+      "back": "共通して",
+      "example": "We have a lot in common.",
+      "hint_image": "in_common.jpg"
+    },
+    {
+      "id": "p2_173",
+      "front": "in general",
+      "back": "一般的に",
+      "example": "In general, people agree.",
+      "hint_image": "in_general.jpg"
+    },
+    {
+      "id": "p2_174",
+      "front": "in particular",
+      "back": "特に",
+      "example": "I like science in particular.",
+      "hint_image": "in_particular.jpg"
+    },
+    {
+      "id": "p2_175",
+      "front": "in private",
+      "back": "内密に",
+      "example": "Let's talk in private.",
+      "hint_image": "in_private.jpg"
+    },
+    {
+      "id": "p2_176",
+      "front": "in public",
+      "back": "人前で",
+      "example": "Don't cry in public.",
+      "hint_image": "in_public.jpg"
+    },
+    {
+      "id": "p2_177",
+      "front": "in return",
+      "back": "お返しに",
+      "example": "In return for your help.",
+      "hint_image": "in_return.jpg"
+    },
+    {
+      "id": "p2_178",
+      "front": "in turn",
+      "back": "順番に・結果として",
+      "example": "In turn, she thanked him.",
+      "hint_image": "in_turn.jpg"
+    },
+    {
+      "id": "p2_179",
+      "front": "on behalf of",
+      "back": "〜を代表して",
+      "example": "Speaking on behalf of the team.",
+      "hint_image": "on_behalf_of.jpg"
+    },
+    {
+      "id": "p2_180",
+      "front": "on condition that",
+      "back": "〜という条件で",
+      "example": "I'll come on condition that you drive.",
+      "hint_image": "on_condition_that.jpg"
+    },
+    {
+      "id": "p2_181",
+      "front": "on purpose",
+      "back": "わざと",
+      "example": "Did you do that on purpose?",
+      "hint_image": "on_purpose.jpg"
+    },
+    {
+      "id": "p2_182",
+      "front": "on the whole",
+      "back": "全体として",
+      "example": "On the whole, it went well.",
+      "hint_image": "on_the_whole.jpg"
+    },
+    {
+      "id": "p2_183",
+      "front": "out of",
+      "back": "〜から・〜のために",
+      "example": "She did it out of kindness.",
+      "hint_image": "out_of.jpg"
+    },
+    {
+      "id": "p2_184",
+      "front": "out of date",
+      "back": "時代遅れで",
+      "example": "This phone is out of date.",
+      "hint_image": "out_of_date.jpg"
+    },
+    {
+      "id": "p2_185",
+      "front": "up to date",
+      "back": "最新で",
+      "example": "Keep your software up to date.",
+      "hint_image": "up_to_date.jpg"
+    },
+    {
+      "id": "p2_186",
+      "front": "according to",
+      "back": "〜によると",
+      "example": "According to the report.",
+      "hint_image": "according_to.jpg"
+    },
+    {
+      "id": "p2_187",
+      "front": "regardless of",
+      "back": "〜に関わらず",
+      "example": "Regardless of age, everyone is welcome.",
+      "hint_image": "regardless_of.jpg"
+    },
+    {
+      "id": "p2_188",
+      "front": "except for",
+      "back": "〜を除いて",
+      "example": "Everyone came except for her.",
+      "hint_image": "except_for.jpg"
+    },
+    {
+      "id": "p2_189",
+      "front": "prior to",
+      "back": "〜に先立って",
+      "example": "Prior to the meeting, review the notes.",
+      "hint_image": "prior_to.jpg"
+    },
+    {
+      "id": "p2_190",
+      "front": "subsequent to",
+      "back": "〜に続いて",
+      "example": "Subsequent to the event, sales rose.",
+      "hint_image": "subsequent_to.jpg"
+    },
+    {
+      "id": "p2_001_191",
+      "front": "above all",
+      "back": "何よりも",
+      "example": "Above all, be honest.",
+      "hint_image": "above_all.jpg"
+    },
+    {
+      "id": "p2_001_192",
+      "front": "all in all",
+      "back": "全体的に見て",
+      "example": "All in all, it was a success.",
+      "hint_image": "all_in_all.jpg"
+    },
+    {
+      "id": "p2_001_193",
+      "front": "all the more",
+      "back": "なおさら",
+      "example": "That makes it all the more special.",
+      "hint_image": "all_the_more.jpg"
+    },
+    {
+      "id": "p2_001_194",
+      "front": "apart from",
+      "back": "〜を除いて・〜の他に",
+      "example": "Apart from that, all is fine.",
+      "hint_image": "apart_from.jpg"
+    },
+    {
+      "id": "p2_001_195",
+      "front": "as a rule",
+      "back": "原則として",
+      "example": "As a rule, we meet weekly.",
+      "hint_image": "as_a_rule.jpg"
+    },
+    {
+      "id": "p2_001_196",
+      "front": "assuming that",
+      "back": "〜と仮定すると",
+      "example": "Assuming that she comes.",
+      "hint_image": "assuming_that.jpg"
+    },
+    {
+      "id": "p2_001_197",
+      "front": "at any cost",
+      "back": "どんな犠牲を払っても",
+      "example": "Win at any cost.",
+      "hint_image": "at_any_cost.jpg"
+    },
+    {
+      "id": "p2_001_198",
+      "front": "at hand",
+      "back": "手近に",
+      "example": "Keep a dictionary at hand.",
+      "hint_image": "at_hand.jpg"
+    },
+    {
+      "id": "p2_001_199",
+      "front": "at heart",
+      "back": "本質的には",
+      "example": "She is kind at heart.",
+      "hint_image": "at_heart.jpg"
+    },
+    {
+      "id": "p2_001_200",
+      "front": "at one's own risk",
+      "back": "自己責任で",
+      "example": "Proceed at your own risk.",
+      "hint_image": "at_one's_own_risk.jpg"
+    },
+    {
+      "id": "p2_001_201",
+      "front": "based on",
+      "back": "〜に基づいて",
+      "example": "Based on facts.",
+      "hint_image": "based_on.jpg"
+    },
+    {
+      "id": "p2_001_202",
+      "front": "be caught in",
+      "back": "〔雨など〕に遭う",
+      "example": "She was caught in the rain.",
+      "hint_image": "be_caught_in.jpg"
+    },
+    {
+      "id": "p2_001_203",
+      "front": "be in charge",
+      "back": "担当している",
+      "example": "Who is in charge?",
+      "hint_image": "be_in_charge.jpg"
+    },
+    {
+      "id": "p2_001_204",
+      "front": "be on one's own",
+      "back": "一人でいる",
+      "example": "She is on her own.",
+      "hint_image": "be_on_one's_own.jpg"
+    },
+    {
+      "id": "p2_001_205",
+      "front": "be supposed to do",
+      "back": "〜することになっている",
+      "example": "He is supposed to arrive.",
+      "hint_image": "be_supposed_to_do.jpg"
+    },
+    {
+      "id": "p2_001_206",
+      "front": "be up to",
+      "back": "〜次第だ",
+      "example": "It is up to you.",
+      "hint_image": "be_up_to.jpg"
+    },
+    {
+      "id": "p2_001_207",
+      "front": "by accident",
+      "back": "偶然に",
+      "example": "I met her by accident.",
+      "hint_image": "by_accident.jpg"
+    },
+    {
+      "id": "p2_001_208",
+      "front": "by chance",
+      "back": "偶然に",
+      "example": "We met by chance.",
+      "hint_image": "by_chance.jpg"
+    },
+    {
+      "id": "p2_001_209",
+      "front": "by oneself",
+      "back": "一人で",
+      "example": "She did it by herself.",
+      "hint_image": "by_oneself.jpg"
+    },
+    {
+      "id": "p2_001_210",
+      "front": "carry on with",
+      "back": "〜を続ける",
+      "example": "Carry on with the task.",
+      "hint_image": "carry_on_with.jpg"
+    },
+    {
+      "id": "p2_001_211",
+      "front": "change one's mind",
+      "back": "考えを変える",
+      "example": "She changed her mind.",
+      "hint_image": "change_one's_mind.jpg"
+    },
+    {
+      "id": "p2_001_212",
+      "front": "come to mind",
+      "back": "思い浮かぶ",
+      "example": "What comes to mind?",
+      "hint_image": "come_to_mind.jpg"
+    },
+    {
+      "id": "p2_001_213",
+      "front": "do away with",
+      "back": "〜を廃止する",
+      "example": "Do away with old rules.",
+      "hint_image": "do_away_with.jpg"
+    },
+    {
+      "id": "p2_001_214",
+      "front": "do one's homework",
+      "back": "予習復習をする・調査する",
+      "example": "Do your homework first.",
+      "hint_image": "do_one's_homework.jpg"
+    },
+    {
+      "id": "p2_001_215",
+      "front": "drop out of",
+      "back": "〜を中退する",
+      "example": "He dropped out of college.",
+      "hint_image": "drop_out_of.jpg"
+    },
+    {
+      "id": "p2_001_216",
+      "front": "ever since",
+      "back": "それ以来ずっと",
+      "example": "I've liked jazz ever since.",
+      "hint_image": "ever_since.jpg"
+    },
+    {
+      "id": "p2_001_217",
+      "front": "feel free to",
+      "back": "自由に〜してください",
+      "example": "Feel free to ask.",
+      "hint_image": "feel_free_to.jpg"
+    },
+    {
+      "id": "p2_001_218",
+      "front": "feel sorry for",
+      "back": "〜をかわいそうに思う",
+      "example": "I feel sorry for her.",
+      "hint_image": "feel_sorry_for.jpg"
+    },
+    {
+      "id": "p2_001_219",
+      "front": "first of all",
+      "back": "まず最初に",
+      "example": "First of all, welcome.",
+      "hint_image": "first_of_all.jpg"
+    },
+    {
+      "id": "p2_001_220",
+      "front": "for a change",
+      "back": "気分転換に",
+      "example": "Let's try sushi for a change.",
+      "hint_image": "for_a_change.jpg"
+    },
+    {
+      "id": "p2_001_221",
+      "front": "for good",
+      "back": "永久に",
+      "example": "She left for good.",
+      "hint_image": "for_good.jpg"
+    },
+    {
+      "id": "p2_001_222",
+      "front": "get a chance to",
+      "back": "〜する機会を得る",
+      "example": "I got a chance to speak.",
+      "hint_image": "get_a_chance_to.jpg"
+    },
+    {
+      "id": "p2_001_223",
+      "front": "go out of one's way",
+      "back": "わざわざ〜する",
+      "example": "She went out of her way to help.",
+      "hint_image": "go_out_of_one's_way.jpg"
+    },
+    {
+      "id": "p2_001_224",
+      "front": "hand in hand",
+      "back": "手を取り合って",
+      "example": "They walked hand in hand.",
+      "hint_image": "hand_in_hand.jpg"
+    },
+    {
+      "id": "p2_001_225",
+      "front": "have difficulty",
+      "back": "困難を抱える",
+      "example": "She has difficulty speaking.",
+      "hint_image": "have_difficulty.jpg"
+    },
+    {
+      "id": "p2_001_226",
+      "front": "have no choice but to",
+      "back": "〜するしかない",
+      "example": "We had no choice but to go.",
+      "hint_image": "have_no_choice_but_to.jpg"
+    },
+    {
+      "id": "p2_001_227",
+      "front": "have something to do with",
+      "back": "〜と関係がある",
+      "example": "It has something to do with money.",
+      "hint_image": "have_something_to_do_with.jpg"
+    },
+    {
+      "id": "p2_001_228",
+      "front": "help oneself to",
+      "back": "〜を自由にとって食べる",
+      "example": "Help yourself to some cake.",
+      "hint_image": "help_oneself_to.jpg"
+    },
+    {
+      "id": "p2_001_229",
+      "front": "hit the road",
+      "back": "出発する",
+      "example": "Let's hit the road.",
+      "hint_image": "hit_the_road.jpg"
+    },
+    {
+      "id": "p2_001_230",
+      "front": "how come",
+      "back": "なぜ",
+      "example": "How come she left?",
+      "hint_image": "how_come.jpg"
+    },
+    {
+      "id": "p2_001_231",
+      "front": "if anything",
+      "back": "どちらかといえば",
+      "example": "If anything, it's better.",
+      "hint_image": "if_anything.jpg"
+    },
+    {
+      "id": "p2_001_232",
+      "front": "if necessary",
+      "back": "必要であれば",
+      "example": "Call me if necessary.",
+      "hint_image": "if_necessary.jpg"
+    },
+    {
+      "id": "p2_001_233",
+      "front": "in a word",
+      "back": "一言でいえば",
+      "example": "In a word, great.",
+      "hint_image": "in_a_word.jpg"
+    },
+    {
+      "id": "p2_001_234",
+      "front": "in advance",
+      "back": "前もって",
+      "example": "Book in advance.",
+      "hint_image": "in_advance.jpg"
+    },
+    {
+      "id": "p2_001_235",
+      "front": "in any event",
+      "back": "いずれにせよ",
+      "example": "In any event, good luck.",
+      "hint_image": "in_any_event.jpg"
+    },
+    {
+      "id": "p2_001_236",
+      "front": "in detail",
+      "back": "詳しく",
+      "example": "Explain it in detail.",
+      "hint_image": "in_detail.jpg"
+    },
+    {
+      "id": "p2_001_237",
+      "front": "in exchange for",
+      "back": "〜の引き換えに",
+      "example": "In exchange for help.",
+      "hint_image": "in_exchange_for.jpg"
+    },
+    {
+      "id": "p2_001_238",
+      "front": "in short",
+      "back": "要するに",
+      "example": "In short, no.",
+      "hint_image": "in_short.jpg"
+    },
+    {
+      "id": "p2_001_239",
+      "front": "in the near future",
+      "back": "近い将来に",
+      "example": "She will travel in the near future.",
+      "hint_image": "in_the_near_future.jpg"
+    },
+    {
+      "id": "p2_001_240",
+      "front": "it occurs to one that",
+      "back": "〜と気づく",
+      "example": "It occurred to me that she was right.",
+      "hint_image": "it_occurs_to_one_that.jpg"
+    },
+    {
+      "id": "p2_001_241",
+      "front": "keep an eye on",
+      "back": "〜を見張る",
+      "example": "Keep an eye on the bag.",
+      "hint_image": "keep_an_eye_on.jpg"
+    },
+    {
+      "id": "p2_001_242",
+      "front": "keep one's word",
+      "back": "約束を守る",
+      "example": "Always keep your word.",
+      "hint_image": "keep_one's_word.jpg"
+    },
+    {
+      "id": "p2_001_243",
+      "front": "know better than to",
+      "back": "〜するほど愚かでない",
+      "example": "She knows better than to lie.",
+      "hint_image": "know_better_than_to.jpg"
+    },
+    {
+      "id": "p2_001_244",
+      "front": "lay emphasis on",
+      "back": "〜を強調する",
+      "example": "Lay emphasis on quality.",
+      "hint_image": "lay_emphasis_on.jpg"
+    },
+    {
+      "id": "p2_001_245",
+      "front": "let alone",
+      "back": "〜はおろか",
+      "example": "I can't afford it, let alone travel.",
+      "hint_image": "let_alone.jpg"
+    },
+    {
+      "id": "p2_001_246",
+      "front": "little by little",
+      "back": "少しずつ",
+      "example": "Improve little by little.",
+      "hint_image": "little_by_little.jpg"
+    },
+    {
+      "id": "p2_001_247",
+      "front": "look on the bright side",
+      "back": "明るい面を見る",
+      "example": "Look on the bright side.",
+      "hint_image": "look_on_the_bright_side.jpg"
+    },
+    {
+      "id": "p2_001_248",
+      "front": "lose sight of",
+      "back": "〜を見失う",
+      "example": "Don't lose sight of your goal.",
+      "hint_image": "lose_sight_of.jpg"
+    },
+    {
+      "id": "p2_001_249",
+      "front": "lose track of",
+      "back": "〜を見失う",
+      "example": "I lost track of time.",
+      "hint_image": "lose_track_of.jpg"
+    },
+    {
+      "id": "p2_001_250",
+      "front": "make a difference",
+      "back": "違いをもたらす",
+      "example": "Your help makes a difference.",
+      "hint_image": "make_a_difference.jpg"
+    },
+    {
+      "id": "p2_001_251",
+      "front": "make a point of",
+      "back": "〜することにしている",
+      "example": "She makes a point of reading daily.",
+      "hint_image": "make_a_point_of.jpg"
+    },
+    {
+      "id": "p2_001_252",
+      "front": "make an effort",
+      "back": "努力する",
+      "example": "Make an effort every day.",
+      "hint_image": "make_an_effort.jpg"
+    },
+    {
+      "id": "p2_001_253",
+      "front": "make ends meet",
+      "back": "収支を合わせる",
+      "example": "It's hard to make ends meet.",
+      "hint_image": "make_ends_meet.jpg"
+    },
+    {
+      "id": "p2_001_254",
+      "front": "make oneself understood",
+      "back": "自分を理解させる",
+      "example": "She made herself understood.",
+      "hint_image": "make_oneself_understood.jpg"
+    },
+    {
+      "id": "p2_001_255",
+      "front": "make the best of",
+      "back": "〜を最大限活用する",
+      "example": "Make the best of this chance.",
+      "hint_image": "make_the_best_of.jpg"
+    },
+    {
+      "id": "p2_001_256",
+      "front": "make up one's mind",
+      "back": "決心する",
+      "example": "Make up your mind.",
+      "hint_image": "make_up_one's_mind.jpg"
+    },
+    {
+      "id": "p2_001_257",
+      "front": "not to mention",
+      "back": "〜は言うまでもなく",
+      "example": "Not to mention the cost.",
+      "hint_image": "not_to_mention.jpg"
+    },
+    {
+      "id": "p2_001_258",
+      "front": "now and then",
+      "back": "時々",
+      "example": "She visits now and then.",
+      "hint_image": "now_and_then.jpg"
+    },
+    {
+      "id": "p2_001_259",
+      "front": "of one's own",
+      "back": "自分自身の",
+      "example": "This is a dream of her own.",
+      "hint_image": "of_one's_own.jpg"
+    },
+    {
+      "id": "p2_001_260",
+      "front": "on one's own",
+      "back": "自分で",
+      "example": "She did it on her own.",
+      "hint_image": "on_one's_own.jpg"
+    },
+    {
+      "id": "p2_001_261",
+      "front": "once and for all",
+      "back": "きっぱりと",
+      "example": "Settle this once and for all.",
+      "hint_image": "once_and_for_all.jpg"
+    },
+    {
+      "id": "p2_001_262",
+      "front": "one after another",
+      "back": "次々と",
+      "example": "Cars passed one after another.",
+      "hint_image": "one_after_another.jpg"
+    },
+    {
+      "id": "p2_001_263",
+      "front": "over and over",
+      "back": "何度も",
+      "example": "She practiced over and over.",
+      "hint_image": "over_and_over.jpg"
+    },
+    {
+      "id": "p2_001_264",
+      "front": "pay off",
+      "back": "〔努力が〕報われる",
+      "example": "Hard work pays off.",
+      "hint_image": "pay_off.jpg"
+    },
+    {
+      "id": "p2_001_265",
+      "front": "pick on",
+      "back": "〜をいじめる",
+      "example": "Stop picking on him.",
+      "hint_image": "pick_on.jpg"
+    },
+    {
+      "id": "p2_001_266",
+      "front": "play a role in",
+      "back": "〜に役割を果たす",
+      "example": "She plays a role in the team.",
+      "hint_image": "play_a_role_in.jpg"
+    },
+    {
+      "id": "p2_001_267",
+      "front": "put into practice",
+      "back": "〜を実践する",
+      "example": "Put ideas into practice.",
+      "hint_image": "put_into_practice.jpg"
+    },
+    {
+      "id": "p2_001_268",
+      "front": "put one's mind to",
+      "back": "〜に集中する",
+      "example": "Put your mind to the goal.",
+      "hint_image": "put_one's_mind_to.jpg"
+    },
+    {
+      "id": "p2_001_269",
+      "front": "put to use",
+      "back": "〜を活用する",
+      "example": "Put your skills to use.",
+      "hint_image": "put_to_use.jpg"
+    },
+    {
+      "id": "p2_001_270",
+      "front": "quite a few",
+      "back": "かなりの数の",
+      "example": "Quite a few people came.",
+      "hint_image": "quite_a_few.jpg"
+    },
+    {
+      "id": "p2_001_271",
+      "front": "read between the lines",
+      "back": "行間を読む",
+      "example": "She can read between the lines.",
+      "hint_image": "read_between_the_lines.jpg"
+    },
+    {
+      "id": "p2_001_272",
+      "front": "run the risk of",
+      "back": "〜のリスクを冒す",
+      "example": "Run the risk of failure.",
+      "hint_image": "run_the_risk_of.jpg"
+    },
+    {
+      "id": "p2_001_273",
+      "front": "say to oneself",
+      "back": "心の中で思う",
+      "example": "She said to herself, be strong.",
+      "hint_image": "say_to_oneself.jpg"
+    },
+    {
+      "id": "p2_001_274",
+      "front": "side by side",
+      "back": "並んで",
+      "example": "They worked side by side.",
+      "hint_image": "side_by_side.jpg"
+    },
+    {
+      "id": "p2_001_275",
+      "front": "speak of",
+      "back": "〜について話す",
+      "example": "Speaking of which.",
+      "hint_image": "speak_of.jpg"
+    },
+    {
+      "id": "p2_001_276",
+      "front": "stand in the way",
+      "back": "邪魔をする",
+      "example": "Don't stand in the way.",
+      "hint_image": "stand_in_the_way.jpg"
+    },
+    {
+      "id": "p2_001_277",
+      "front": "take a chance",
+      "back": "思い切ってやる",
+      "example": "Take a chance.",
+      "hint_image": "take_a_chance.jpg"
+    },
+    {
+      "id": "p2_001_278",
+      "front": "take a risk",
+      "back": "リスクを冒す",
+      "example": "Take a calculated risk.",
+      "hint_image": "take_a_risk.jpg"
+    },
+    {
+      "id": "p2_001_279",
+      "front": "take charge",
+      "back": "主導権を握る",
+      "example": "She took charge of the situation.",
+      "hint_image": "take_charge.jpg"
+    },
+    {
+      "id": "p2_001_280",
+      "front": "take note of",
+      "back": "〜に注目する",
+      "example": "Take note of the details.",
+      "hint_image": "take_note_of.jpg"
+    },
+    {
+      "id": "p2_001_281",
+      "front": "take the initiative",
+      "back": "率先して行動する",
+      "example": "Take the initiative.",
+      "hint_image": "take_the_initiative.jpg"
+    },
+    {
+      "id": "p2_001_282",
+      "front": "the other way around",
+      "back": "逆に",
+      "example": "It should be the other way around.",
+      "hint_image": "the_other_way_around.jpg"
+    },
+    {
+      "id": "p2_001_283",
+      "front": "think twice",
+      "back": "よく考える",
+      "example": "Think twice before acting.",
+      "hint_image": "think_twice.jpg"
+    },
+    {
+      "id": "p2_001_284",
+      "front": "to be honest",
+      "back": "正直に言うと",
+      "example": "To be honest, I don't know.",
+      "hint_image": "to_be_honest.jpg"
+    },
+    {
+      "id": "p2_001_285",
+      "front": "to begin with",
+      "back": "まず第一に",
+      "example": "To begin with, greet people.",
+      "hint_image": "to_begin_with.jpg"
+    },
+    {
+      "id": "p2_001_286",
+      "front": "to make matters worse",
+      "back": "さらに悪いことに",
+      "example": "To make matters worse, it rained.",
+      "hint_image": "to_make_matters_worse.jpg"
+    },
+    {
+      "id": "p2_001_287",
+      "front": "to tell the truth",
+      "back": "正直に言うと",
+      "example": "To tell the truth, I was scared.",
+      "hint_image": "to_tell_the_truth.jpg"
+    },
+    {
+      "id": "p2_001_288",
+      "front": "turn over a new leaf",
+      "back": "心を入れ替える",
+      "example": "He turned over a new leaf.",
+      "hint_image": "turn_over_a_new_leaf.jpg"
+    },
+    {
+      "id": "p2_001_289",
+      "front": "under no circumstances",
+      "back": "いかなる状況でも〜ない",
+      "example": "Under no circumstances give up.",
+      "hint_image": "under_no_circumstances.jpg"
+    },
+    {
+      "id": "p2_001_290",
+      "front": "up and down",
+      "back": "上下に・行ったり来たり",
+      "example": "She paced up and down.",
+      "hint_image": "up_and_down.jpg"
+    },
+    {
+      "id": "p2_001_291",
+      "front": "what's more",
+      "back": "さらに",
+      "example": "What's more, it's free.",
+      "hint_image": "what's_more.jpg"
+    },
+    {
+      "id": "p2_001_292",
+      "front": "with all one's heart",
+      "back": "心を込めて",
+      "example": "She sang with all her heart.",
+      "hint_image": "with_all_one's_heart.jpg"
+    },
+    {
+      "id": "p2_001_293",
+      "front": "within reach",
+      "back": "手の届くところに",
+      "example": "Keep it within reach.",
+      "hint_image": "within_reach.jpg"
+    },
+    {
+      "id": "p2_001_294",
+      "front": "against one's will",
+      "back": "〜の意志に反して",
+      "example": "She was forced against her will.",
+      "hint_image": "against_one's_will.jpg"
+    },
+    {
+      "id": "p2_001_295",
+      "front": "at a loss for words",
+      "back": "言葉を失って",
+      "example": "I was at a loss for words.",
+      "hint_image": "at_a_loss_for_words.jpg"
+    },
+    {
+      "id": "p2_001_296",
+      "front": "catch one's eye",
+      "back": "〜の目に留まる",
+      "example": "The poster caught her eye.",
+      "hint_image": "catch_one's_eye.jpg"
+    },
+    {
+      "id": "p2_001_297",
+      "front": "face to face",
+      "back": "直接向かい合って",
+      "example": "They talked face to face.",
+      "hint_image": "face_to_face.jpg"
+    },
+    {
+      "id": "p2_001_298",
+      "front": "make one's way",
+      "back": "進む",
+      "example": "She made her way through the crowd.",
+      "hint_image": "make_one's_way.jpg"
+    },
+    {
+      "id": "p2_001_299",
+      "front": "bear in mind",
+      "back": "〜を心に留める",
+      "example": "Bear in mind the deadline.",
+      "hint_image": "bear_in_mind.jpg"
+    },
+    {
+      "id": "p2_001_300",
+      "front": "come to nothing",
+      "back": "無駄に終わる",
+      "example": "All that effort came to nothing.",
+      "hint_image": "come_to_nothing.jpg"
+    }
+  ]
+}

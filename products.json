@@ -1,0 +1,98 @@
+{
+  "version": "2.0.0",
+  "updated_at": "2026-04-25",
+  "products": [
+    {
+      "id": "upgrade_unlimited",
+      "section_label": "機能アップグレード",
+      "type": "one_time",
+      "name": "上限解除",
+      "description": "デッキ無制限",
+      "price_label": "¥480",
+      "icon": "infinity",
+      "badge": null,
+      "trial_days": 0,
+      "features": [
+        "ダウンロードできるデッキ数の上限を解除",
+        "今後追加されるデッキもすべて利用可能",
+        "デバイス間でリストア可能"
+      ],
+      "detail_text": null,
+      "note": "一度購入すると同じ Google アカウントでリストアできます。",
+      "order": 1
+    },
+    {
+      "id": "deck_set_english_full",
+      "section_label": "デッキセット",
+      "type": "one_time",
+      "name": "英単語フルセット",
+      "description": "5デッキ・2,000枚",
+      "price_label": "¥900",
+      "icon": "deck_set",
+      "badge": "人気",
+      "trial_days": 0,
+      "features": [
+        "基礎〜TOEIC対応・5デッキ収録",
+        "2,000枚のカードを一括取得",
+        "ヒント画像付き"
+      ],
+      "detail_text": "基本英単語 / 中学英語 / 高校英語 / 日常会話 / TOEIC頻出",
+      "note": "一度購入すると同じ Google アカウントでリストアできます。",
+      "order": 2
+    },
+    {
+      "id": "deck_set_idiom_full",
+      "section_label": "デッキセット",
+      "type": "one_time",
+      "name": "熟語フルセット",
+      "description": "4デッキ・1,000語",
+      "price_label": "¥600",
+      "icon": "deck_set",
+      "badge": null,
+      "trial_days": 0,
+      "features": [
+        "中学〜TOEIC対応・4デッキ収録",
+        "1,000語の熟語を一括取得"
+      ],
+      "detail_text": "中学熟語 / 高校熟語 / 日常表現 / TOEICビジネス表現",
+      "note": "一度購入すると同じ Google アカウントでリストアできます。",
+      "order": 3
+    },
+    {
+      "id": "deck_single_toeic",
+      "section_label": "単品デッキ",
+      "type": "one_time",
+      "name": "TOEIC頻出単語",
+      "description": "500枚",
+      "price_label": "¥360",
+      "icon": "deck_single",
+      "badge": null,
+      "trial_days": 0,
+      "features": [
+        "TOEICスコアアップに特化した500語",
+        "例文・ヒント画像付き"
+      ],
+      "detail_text": null,
+      "note": "一度購入すると同じ Google アカウントでリストアできます。",
+      "order": 4
+    },
+    {
+      "id": "deck_single_junior",
+      "section_label": "単品デッキ",
+      "type": "one_time",
+      "name": "中学英単語",
+      "description": "500枚",
+      "price_label": "¥240",
+      "icon": "deck_single",
+      "badge": null,
+      "trial_days": 0,
+      "features": [
+        "中学全学年の必須単語500語",
+        "例文付きで文脈から覚えられる"
+      ],
+      "detail_text": null,
+      "note": "一度購入すると同じ Google アカウントでリストアできます。",
+      "order": 5
+    }
+  ]
+}

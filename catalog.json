@@ -1,0 +1,133 @@
+{
+  "version": "1.8.0",
+  "updated_at": "2026-05-06",
+  "groups": [
+    {
+      "order": 1,
+      "deck_id": "eng_word_level1_basic_300",
+      "deck_name": "超基本・中1レベル300語",
+      "description": "アルファベット・日常基礎単語から動詞・形容詞まで中学1年生レベルの必須300語",
+      "card_count": 300,
+      "version": "1.0.0",
+      "is_paid": false,
+      "download_url": "https://andhainekoml-lab.github.io/flashcard-words/level1_basic_300.json",
+      "default_category": "単語",
+      "default_tags": [
+        "中学",
+        "基礎"
+      ]
+    },
+    {
+      "order": 2,
+      "deck_id": "eng_word_level2_junior_500",
+      "deck_name": "中2〜中3レベル500語",
+      "description": "中学2〜3年生レベルの重要単語500語。動詞・名詞・形容詞をバランスよく収録",
+      "card_count": 500,
+      "version": "1.0.0",
+      "is_paid": false,
+      "download_url": "https://andhainekoml-lab.github.io/flashcard-words/level2_junior_500.json",
+      "default_category": "単語",
+      "default_tags": [
+        "中学"
+      ]
+    },
+    {
+      "order": 3,
+      "deck_id": "eng_word_level3_high_700",
+      "deck_name": "高1・日常会話レベル700語",
+      "description": "高校1年〜日常会話レベルの重要語700語。大学入試・TOEIC基礎にも対応",
+      "card_count": 700,
+      "version": "1.0.0",
+      "is_paid": false,
+      "download_url": "https://andhainekoml-lab.github.io/flashcard-words/level3_high_700.json",
+      "default_category": "単語",
+      "default_tags": [
+        "高校",
+        "日常"
+      ]
+    },
+    {
+      "order": 4,
+      "deck_id": "eng_word_level4_toeic_500",
+      "deck_name": "TOEIC・実用レベル500語",
+      "description": "TOEICや実務で頻出するビジネス・金融・法務・人事領域の重要語500語",
+      "card_count": 500,
+      "version": "1.0.0",
+      "is_paid": false,
+      "download_url": "https://andhainekoml-lab.github.io/flashcard-words/level4_toeic_500.json",
+      "default_category": "単語",
+      "default_tags": [
+        "TOEIC"
+      ]
+    },
+    {
+      "order": 5,
+      "deck_id": "eng_idiom_level1_junior",
+      "deck_name": "中1〜中2の熟語200語",
+      "description": "look at / get up など中学1〜2年生レベルの基本熟語200語。動詞句・前置詞句を中心に収録",
+      "card_count": 200,
+      "version": "1.0.0",
+      "is_paid": false,
+      "download_url": "https://andhainekoml-lab.github.io/flashcard-words/idiom_junior_200.json",
+      "default_category": "熟語",
+      "default_tags": [
+        "中学"
+      ]
+    },
+    {
+      "order": 6,
+      "deck_id": "eng_idiom_level2_mid",
+      "deck_name": "中3〜高1の熟語300語",
+      "description": "as soon as / look forward to など中3〜高1レベルの重要熟語300語。接続表現・動詞句を網羅",
+      "card_count": 300,
+      "version": "1.0.0",
+      "is_paid": false,
+      "download_url": "https://andhainekoml-lab.github.io/flashcard-words/idiom_mid_300.json",
+      "default_category": "熟語",
+      "default_tags": [
+        "高校"
+      ]
+    },
+    {
+      "order": 7,
+      "deck_id": "eng_idiom_level3_high",
+      "deck_name": "高2〜日常会話の熟語300語",
+      "description": "end up / get along with など高2〜日常会話レベルの慣用表現300語。イディオム・比喩表現も収録",
+      "card_count": 300,
+      "version": "1.0.0",
+      "is_paid": false,
+      "download_url": "https://andhainekoml-lab.github.io/flashcard-words/idiom_high_300.json",
+      "default_category": "熟語",
+      "default_tags": [
+        "日常"
+      ]
+    },
+    {
+      "order": 8,
+      "deck_id": "eng_idiom_level4_toeic",
+      "deck_name": "TOEIC・ビジネスの熟語200語",
+      "description": "in terms of / prior to などTOEIC・ビジネス文書で頻出する実用熟語200語",
+      "card_count": 200,
+      "version": "1.0.0",
+      "is_paid": false,
+      "download_url": "https://andhainekoml-lab.github.io/flashcard-words/idiom_toeic_200.json",
+      "default_category": "熟語",
+      "default_tags": [
+        "TOEIC"
+      ]
+    },
+    {
+      "order": 9,
+      "deck_id": "math_add_2digit_1digit",
+      "deck_name": "2桁の数＋1桁の数",
+      "description": "繰り上がりあり・なしを含む2桁+1桁の足し算51問",
+      "card_count": 51,
+      "version": "1.0.0",
+      "is_paid": true,
+      "default_category": "算数",
+      "default_tags": [
+        "足し算"
+      ]
+    }
+  ]
+}

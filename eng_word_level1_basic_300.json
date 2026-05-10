@@ -1,0 +1,2110 @@
+{
+  "deck_id": "eng_word_level1_basic_300",
+  "deck_name": "超基本・中1レベル300語",
+  "direction_mode": "bothWays",
+  "front_label": "英語",
+  "back_label": "日本語",
+  "show_listen": true,
+  "cards": [
+    {
+      "id": "l1_001",
+      "front": "cat",
+      "back": "猫",
+      "example": "The cat is sleeping on the sofa.",
+      "hint_image": "cat.jpg"
+    },
+    {
+      "id": "l1_002",
+      "front": "dog",
+      "back": "犬",
+      "example": "My dog loves to play outside.",
+      "hint_image": "dog.jpg"
+    },
+    {
+      "id": "l1_003",
+      "front": "bird",
+      "back": "鳥",
+      "example": "A bird is singing in the tree.",
+      "hint_image": "bird.jpg"
+    },
+    {
+      "id": "l1_004",
+      "front": "fish",
+      "back": "魚",
+      "example": "She caught a big fish.",
+      "hint_image": "fish.jpg"
+    },
+    {
+      "id": "l1_005",
+      "front": "horse",
+      "back": "馬",
+      "example": "She rides a horse every morning.",
+      "hint_image": "horse.jpg"
+    },
+    {
+      "id": "l1_006",
+      "front": "cow",
+      "back": "牛",
+      "example": "The cow is in the field.",
+      "hint_image": "cow.jpg"
+    },
+    {
+      "id": "l1_007",
+      "front": "pig",
+      "back": "豚",
+      "example": "The pig rolled in the mud.",
+      "hint_image": "pig.jpg"
+    },
+    {
+      "id": "l1_008",
+      "front": "sheep",
+      "back": "羊",
+      "example": "The sheep has white wool.",
+      "hint_image": "sheep.jpg"
+    },
+    {
+      "id": "l1_009",
+      "front": "rabbit",
+      "back": "ウサギ",
+      "example": "A rabbit jumped over the fence.",
+      "hint_image": "rabbit.jpg"
+    },
+    {
+      "id": "l1_010",
+      "front": "bear",
+      "back": "クマ",
+      "example": "A bear lives in the forest.",
+      "hint_image": "bear.jpg"
+    },
+    {
+      "id": "l1_011",
+      "front": "lion",
+      "back": "ライオン",
+      "example": "The lion is the king of the jungle.",
+      "hint_image": "lion.jpg"
+    },
+    {
+      "id": "l1_012",
+      "front": "tiger",
+      "back": "トラ",
+      "example": "A tiger ran across the road.",
+      "hint_image": "tiger.jpg"
+    },
+    {
+      "id": "l1_013",
+      "front": "monkey",
+      "back": "サル",
+      "example": "The monkey climbed the tree.",
+      "hint_image": "monkey.jpg"
+    },
+    {
+      "id": "l1_014",
+      "front": "elephant",
+      "back": "ゾウ",
+      "example": "The elephant has a long trunk.",
+      "hint_image": "elephant.jpg"
+    },
+    {
+      "id": "l1_015",
+      "front": "owl",
+      "back": "フクロウ",
+      "example": "The owl flies at night.",
+      "hint_image": "owl.jpg"
+    },
+    {
+      "id": "l1_016",
+      "front": "ant",
+      "back": "アリ",
+      "example": "An ant is carrying food.",
+      "hint_image": "ant.jpg"
+    },
+    {
+      "id": "l1_017",
+      "front": "bee",
+      "back": "ミツバチ",
+      "example": "A bee collects nectar.",
+      "hint_image": "bee.jpg"
+    },
+    {
+      "id": "l1_018",
+      "front": "frog",
+      "back": "カエル",
+      "example": "The frog jumped into the pond.",
+      "hint_image": "frog.jpg"
+    },
+    {
+      "id": "l1_019",
+      "front": "duck",
+      "back": "アヒル",
+      "example": "The duck is swimming in the lake.",
+      "hint_image": "duck.jpg"
+    },
+    {
+      "id": "l1_020",
+      "front": "snake",
+      "back": "ヘビ",
+      "example": "A snake lives under the rock.",
+      "hint_image": "snake.jpg"
+    },
+    {
+      "id": "l1_021",
+      "front": "apple",
+      "back": "リンゴ",
+      "example": "I eat an apple every day.",
+      "hint_image": "apple.jpg"
+    },
+    {
+      "id": "l1_022",
+      "front": "orange",
+      "back": "オレンジ",
+      "example": "She drinks orange juice.",
+      "hint_image": "orange.jpg"
+    },
+    {
+      "id": "l1_023",
+      "front": "banana",
+      "back": "バナナ",
+      "example": "Monkeys love bananas.",
+      "hint_image": "banana.jpg"
+    },
+    {
+      "id": "l1_024",
+      "front": "rice",
+      "back": "ご飯・米",
+      "example": "I eat rice for lunch.",
+      "hint_image": "rice.jpg"
+    },
+    {
+      "id": "l1_025",
+      "front": "bread",
+      "back": "パン",
+      "example": "I have bread for breakfast.",
+      "hint_image": "bread.jpg"
+    },
+    {
+      "id": "l1_026",
+      "front": "egg",
+      "back": "卵",
+      "example": "She made scrambled eggs.",
+      "hint_image": "egg.jpg"
+    },
+    {
+      "id": "l1_027",
+      "front": "milk",
+      "back": "牛乳",
+      "example": "I drink milk every morning.",
+      "hint_image": "milk.jpg"
+    },
+    {
+      "id": "l1_028",
+      "front": "cake",
+      "back": "ケーキ",
+      "example": "We shared a birthday cake.",
+      "hint_image": "cake.jpg"
+    },
+    {
+      "id": "l1_029",
+      "front": "soup",
+      "back": "スープ",
+      "example": "The soup is hot.",
+      "hint_image": "soup.jpg"
+    },
+    {
+      "id": "l1_030",
+      "front": "pizza",
+      "back": "ピザ",
+      "example": "We ordered a large pizza.",
+      "hint_image": "pizza.jpg"
+    },
+    {
+      "id": "l1_031",
+      "front": "salad",
+      "back": "サラダ",
+      "example": "She had a green salad.",
+      "hint_image": "salad.jpg"
+    },
+    {
+      "id": "l1_032",
+      "front": "cookie",
+      "back": "クッキー",
+      "example": "He ate three cookies.",
+      "hint_image": "cookie.jpg"
+    },
+    {
+      "id": "l1_033",
+      "front": "chocolate",
+      "back": "チョコレート",
+      "example": "She loves dark chocolate.",
+      "hint_image": "chocolate.jpg"
+    },
+    {
+      "id": "l1_034",
+      "front": "tea",
+      "back": "お茶",
+      "example": "She makes tea every evening.",
+      "hint_image": "tea.jpg"
+    },
+    {
+      "id": "l1_035",
+      "front": "coffee",
+      "back": "コーヒー",
+      "example": "He drinks coffee in the morning.",
+      "hint_image": "coffee.jpg"
+    },
+    {
+      "id": "l1_036",
+      "front": "juice",
+      "back": "ジュース",
+      "example": "Pour some juice please.",
+      "hint_image": "juice.jpg"
+    },
+    {
+      "id": "l1_037",
+      "front": "butter",
+      "back": "バター",
+      "example": "Spread butter on the bread.",
+      "hint_image": "butter.jpg"
+    },
+    {
+      "id": "l1_038",
+      "front": "cheese",
+      "back": "チーズ",
+      "example": "This pizza has lots of cheese.",
+      "hint_image": "cheese.jpg"
+    },
+    {
+      "id": "l1_039",
+      "front": "meat",
+      "back": "肉",
+      "example": "We had meat for dinner.",
+      "hint_image": "meat.jpg"
+    },
+    {
+      "id": "l1_040",
+      "front": "corn",
+      "back": "トウモロコシ",
+      "example": "I like corn soup.",
+      "hint_image": "corn.jpg"
+    },
+    {
+      "id": "l1_041",
+      "front": "head",
+      "back": "頭",
+      "example": "My head hurts today.",
+      "hint_image": "head.jpg"
+    },
+    {
+      "id": "l1_042",
+      "front": "eye",
+      "back": "目",
+      "example": "She has beautiful blue eyes.",
+      "hint_image": "eye.jpg"
+    },
+    {
+      "id": "l1_043",
+      "front": "ear",
+      "back": "耳",
+      "example": "He has small ears.",
+      "hint_image": "ear.jpg"
+    },
+    {
+      "id": "l1_044",
+      "front": "nose",
+      "back": "鼻",
+      "example": "My nose is cold.",
+      "hint_image": "nose.jpg"
+    },
+    {
+      "id": "l1_045",
+      "front": "mouth",
+      "back": "口",
+      "example": "Open your mouth wide.",
+      "hint_image": "mouth.jpg"
+    },
+    {
+      "id": "l1_046",
+      "front": "hand",
+      "back": "手",
+      "example": "Raise your hand.",
+      "hint_image": "hand.jpg"
+    },
+    {
+      "id": "l1_047",
+      "front": "arm",
+      "back": "腕",
+      "example": "She hurt her arm.",
+      "hint_image": "arm.jpg"
+    },
+    {
+      "id": "l1_048",
+      "front": "leg",
+      "back": "脚",
+      "example": "He broke his leg.",
+      "hint_image": "leg.jpg"
+    },
+    {
+      "id": "l1_049",
+      "front": "foot",
+      "back": "足（くるぶし以下）",
+      "example": "My foot hurts.",
+      "hint_image": "foot.jpg"
+    },
+    {
+      "id": "l1_050",
+      "front": "back",
+      "back": "背中",
+      "example": "My back is sore.",
+      "hint_image": "back.jpg"
+    },
+    {
+      "id": "l1_051",
+      "front": "finger",
+      "back": "指",
+      "example": "She cut her finger.",
+      "hint_image": "finger.jpg"
+    },
+    {
+      "id": "l1_052",
+      "front": "house",
+      "back": "家",
+      "example": "This is my house.",
+      "hint_image": "house.jpg"
+    },
+    {
+      "id": "l1_053",
+      "front": "room",
+      "back": "部屋",
+      "example": "My room is small.",
+      "hint_image": "room.jpg"
+    },
+    {
+      "id": "l1_054",
+      "front": "door",
+      "back": "ドア",
+      "example": "Close the door.",
+      "hint_image": "door.jpg"
+    },
+    {
+      "id": "l1_055",
+      "front": "window",
+      "back": "窓",
+      "example": "Open the window.",
+      "hint_image": "window.jpg"
+    },
+    {
+      "id": "l1_056",
+      "front": "bed",
+      "back": "ベッド",
+      "example": "Go to bed early.",
+      "hint_image": "bed.jpg"
+    },
+    {
+      "id": "l1_057",
+      "front": "desk",
+      "back": "机",
+      "example": "The book is on the desk.",
+      "hint_image": "desk.jpg"
+    },
+    {
+      "id": "l1_058",
+      "front": "chair",
+      "back": "椅子",
+      "example": "Sit on the chair.",
+      "hint_image": "chair.jpg"
+    },
+    {
+      "id": "l1_059",
+      "front": "table",
+      "back": "テーブル",
+      "example": "We eat at the table.",
+      "hint_image": "table.jpg"
+    },
+    {
+      "id": "l1_060",
+      "front": "kitchen",
+      "back": "台所",
+      "example": "She cooks in the kitchen.",
+      "hint_image": "kitchen.jpg"
+    },
+    {
+      "id": "l1_061",
+      "front": "floor",
+      "back": "床",
+      "example": "Sit on the floor.",
+      "hint_image": "floor.jpg"
+    },
+    {
+      "id": "l1_062",
+      "front": "wall",
+      "back": "壁",
+      "example": "Hang the picture on the wall.",
+      "hint_image": "wall.jpg"
+    },
+    {
+      "id": "l1_063",
+      "front": "garden",
+      "back": "庭",
+      "example": "She grows flowers in the garden.",
+      "hint_image": "garden.jpg"
+    },
+    {
+      "id": "l1_064",
+      "front": "school",
+      "back": "学校",
+      "example": "I go to school by bus.",
+      "hint_image": "school.jpg"
+    },
+    {
+      "id": "l1_065",
+      "front": "class",
+      "back": "クラス・授業",
+      "example": "My class starts at eight.",
+      "hint_image": "class.jpg"
+    },
+    {
+      "id": "l1_066",
+      "front": "book",
+      "back": "本",
+      "example": "I read a book before bed.",
+      "hint_image": "book.jpg"
+    },
+    {
+      "id": "l1_067",
+      "front": "pen",
+      "back": "ペン",
+      "example": "Can I borrow your pen?",
+      "hint_image": "pen.jpg"
+    },
+    {
+      "id": "l1_068",
+      "front": "pencil",
+      "back": "鉛筆",
+      "example": "Write with a pencil.",
+      "hint_image": "pencil.jpg"
+    },
+    {
+      "id": "l1_069",
+      "front": "bag",
+      "back": "バッグ・かばん",
+      "example": "She has a red bag.",
+      "hint_image": "bag.jpg"
+    },
+    {
+      "id": "l1_070",
+      "front": "map",
+      "back": "地図",
+      "example": "Can I see the map?",
+      "hint_image": "map.jpg"
+    },
+    {
+      "id": "l1_071",
+      "front": "paper",
+      "back": "紙",
+      "example": "Write on the paper.",
+      "hint_image": "paper.jpg"
+    },
+    {
+      "id": "l1_072",
+      "front": "eraser",
+      "back": "消しゴム",
+      "example": "Use the eraser.",
+      "hint_image": "eraser.jpg"
+    },
+    {
+      "id": "l1_073",
+      "front": "ruler",
+      "back": "定規",
+      "example": "Measure with a ruler.",
+      "hint_image": "ruler.jpg"
+    },
+    {
+      "id": "l1_074",
+      "front": "park",
+      "back": "公園",
+      "example": "Children play in the park.",
+      "hint_image": "park.jpg"
+    },
+    {
+      "id": "l1_075",
+      "front": "shop",
+      "back": "店",
+      "example": "Let's go to the shop.",
+      "hint_image": "shop.jpg"
+    },
+    {
+      "id": "l1_076",
+      "front": "bank",
+      "back": "銀行",
+      "example": "Go to the bank.",
+      "hint_image": "bank.jpg"
+    },
+    {
+      "id": "l1_077",
+      "front": "hospital",
+      "back": "病院",
+      "example": "She went to the hospital.",
+      "hint_image": "hospital.jpg"
+    },
+    {
+      "id": "l1_078",
+      "front": "station",
+      "back": "駅",
+      "example": "Meet me at the station.",
+      "hint_image": "station.jpg"
+    },
+    {
+      "id": "l1_079",
+      "front": "library",
+      "back": "図書館",
+      "example": "Study in the library.",
+      "hint_image": "library.jpg"
+    },
+    {
+      "id": "l1_080",
+      "front": "museum",
+      "back": "博物館",
+      "example": "Visit the museum.",
+      "hint_image": "museum.jpg"
+    },
+    {
+      "id": "l1_081",
+      "front": "restaurant",
+      "back": "レストラン",
+      "example": "Let's go to a restaurant.",
+      "hint_image": "restaurant.jpg"
+    },
+    {
+      "id": "l1_082",
+      "front": "hotel",
+      "back": "ホテル",
+      "example": "We stayed at a hotel.",
+      "hint_image": "hotel.jpg"
+    },
+    {
+      "id": "l1_083",
+      "front": "church",
+      "back": "教会",
+      "example": "They go to church on Sunday.",
+      "hint_image": "church.jpg"
+    },
+    {
+      "id": "l1_084",
+      "front": "street",
+      "back": "通り",
+      "example": "Cross the street carefully.",
+      "hint_image": "street.jpg"
+    },
+    {
+      "id": "l1_085",
+      "front": "bridge",
+      "back": "橋",
+      "example": "Cross the bridge.",
+      "hint_image": "bridge.jpg"
+    },
+    {
+      "id": "l1_086",
+      "front": "lake",
+      "back": "湖",
+      "example": "We swim in the lake.",
+      "hint_image": "lake.jpg"
+    },
+    {
+      "id": "l1_087",
+      "front": "river",
+      "back": "川",
+      "example": "The river is long.",
+      "hint_image": "river.jpg"
+    },
+    {
+      "id": "l1_088",
+      "front": "mountain",
+      "back": "山",
+      "example": "Climb the mountain.",
+      "hint_image": "mountain.jpg"
+    },
+    {
+      "id": "l1_089",
+      "front": "forest",
+      "back": "森",
+      "example": "A forest is full of trees.",
+      "hint_image": "forest.jpg"
+    },
+    {
+      "id": "l1_090",
+      "front": "beach",
+      "back": "ビーチ",
+      "example": "We went to the beach.",
+      "hint_image": "beach.jpg"
+    },
+    {
+      "id": "l1_091",
+      "front": "sky",
+      "back": "空",
+      "example": "The sky is blue.",
+      "hint_image": "sky.jpg"
+    },
+    {
+      "id": "l1_092",
+      "front": "star",
+      "back": "星",
+      "example": "I can see many stars.",
+      "hint_image": "star.jpg"
+    },
+    {
+      "id": "l1_093",
+      "front": "cloud",
+      "back": "雲",
+      "example": "There are clouds in the sky.",
+      "hint_image": "cloud.jpg"
+    },
+    {
+      "id": "l1_094",
+      "front": "car",
+      "back": "車",
+      "example": "My father drives a car.",
+      "hint_image": "car.jpg"
+    },
+    {
+      "id": "l1_095",
+      "front": "bus",
+      "back": "バス",
+      "example": "Take the bus to school.",
+      "hint_image": "bus.jpg"
+    },
+    {
+      "id": "l1_096",
+      "front": "train",
+      "back": "電車",
+      "example": "The train was on time.",
+      "hint_image": "train.jpg"
+    },
+    {
+      "id": "l1_097",
+      "front": "bike",
+      "back": "自転車",
+      "example": "Ride a bike.",
+      "hint_image": "bike.jpg"
+    },
+    {
+      "id": "l1_098",
+      "front": "ship",
+      "back": "船",
+      "example": "The ship is very large.",
+      "hint_image": "ship.jpg"
+    },
+    {
+      "id": "l1_099",
+      "front": "plane",
+      "back": "飛行機",
+      "example": "The plane took off.",
+      "hint_image": "plane.jpg"
+    },
+    {
+      "id": "l1_100",
+      "front": "taxi",
+      "back": "タクシー",
+      "example": "She took a taxi home.",
+      "hint_image": "taxi.jpg"
+    },
+    {
+      "id": "l1_101",
+      "front": "red",
+      "back": "赤い",
+      "example": "She wears a red dress.",
+      "hint_image": "red.jpg"
+    },
+    {
+      "id": "l1_102",
+      "front": "blue",
+      "back": "青い",
+      "example": "The sky is blue.",
+      "hint_image": "blue.jpg"
+    },
+    {
+      "id": "l1_103",
+      "front": "green",
+      "back": "緑の",
+      "example": "The grass is green.",
+      "hint_image": "green.jpg"
+    },
+    {
+      "id": "l1_104",
+      "front": "white",
+      "back": "白い",
+      "example": "He has a white shirt.",
+      "hint_image": "white.jpg"
+    },
+    {
+      "id": "l1_105",
+      "front": "black",
+      "back": "黒い",
+      "example": "She has black hair.",
+      "hint_image": "black.jpg"
+    },
+    {
+      "id": "l1_106",
+      "front": "yellow",
+      "back": "黄色い",
+      "example": "The sun is yellow.",
+      "hint_image": "yellow.jpg"
+    },
+    {
+      "id": "l1_107",
+      "front": "pink",
+      "back": "ピンクの",
+      "example": "She likes pink flowers.",
+      "hint_image": "pink.jpg"
+    },
+    {
+      "id": "l1_108",
+      "front": "brown",
+      "back": "茶色い",
+      "example": "The dog is brown.",
+      "hint_image": "brown.jpg"
+    },
+    {
+      "id": "l1_109",
+      "front": "gray",
+      "back": "灰色の",
+      "example": "The sky looks gray.",
+      "hint_image": "gray.jpg"
+    },
+    {
+      "id": "l1_110",
+      "front": "purple",
+      "back": "紫の",
+      "example": "She painted it purple.",
+      "hint_image": "purple.jpg"
+    },
+    {
+      "id": "l1_111",
+      "front": "one",
+      "back": "1",
+      "example": "I have one sister.",
+      "hint_image": "one.jpg"
+    },
+    {
+      "id": "l1_112",
+      "front": "two",
+      "back": "2",
+      "example": "She has two cats.",
+      "hint_image": "two.jpg"
+    },
+    {
+      "id": "l1_113",
+      "front": "three",
+      "back": "3",
+      "example": "I ate three cookies.",
+      "hint_image": "three.jpg"
+    },
+    {
+      "id": "l1_114",
+      "front": "four",
+      "back": "4",
+      "example": "There are four seasons.",
+      "hint_image": "four.jpg"
+    },
+    {
+      "id": "l1_115",
+      "front": "five",
+      "back": "5",
+      "example": "I have five fingers on each hand.",
+      "hint_image": "five.jpg"
+    },
+    {
+      "id": "l1_116",
+      "front": "six",
+      "back": "6",
+      "example": "The class starts at six.",
+      "hint_image": "six.jpg"
+    },
+    {
+      "id": "l1_117",
+      "front": "seven",
+      "back": "7",
+      "example": "There are seven days in a week.",
+      "hint_image": "seven.jpg"
+    },
+    {
+      "id": "l1_118",
+      "front": "eight",
+      "back": "8",
+      "example": "I am eight years old.",
+      "hint_image": "eight.jpg"
+    },
+    {
+      "id": "l1_119",
+      "front": "nine",
+      "back": "9",
+      "example": "She is nine years old.",
+      "hint_image": "nine.jpg"
+    },
+    {
+      "id": "l1_120",
+      "front": "ten",
+      "back": "10",
+      "example": "Count to ten.",
+      "hint_image": "ten.jpg"
+    },
+    {
+      "id": "l1_121",
+      "front": "hundred",
+      "back": "100",
+      "example": "A hundred people came.",
+      "hint_image": "hundred.jpg"
+    },
+    {
+      "id": "l1_122",
+      "front": "thousand",
+      "back": "1000",
+      "example": "A thousand people gathered.",
+      "hint_image": "thousand.jpg"
+    },
+    {
+      "id": "l1_123",
+      "front": "day",
+      "back": "日・昼間",
+      "example": "Have a nice day!",
+      "hint_image": "day.jpg"
+    },
+    {
+      "id": "l1_124",
+      "front": "week",
+      "back": "週",
+      "example": "I work five days a week.",
+      "hint_image": "week.jpg"
+    },
+    {
+      "id": "l1_125",
+      "front": "month",
+      "back": "月",
+      "example": "She visits once a month.",
+      "hint_image": "month.jpg"
+    },
+    {
+      "id": "l1_126",
+      "front": "year",
+      "back": "年",
+      "example": "Happy new year!",
+      "hint_image": "year.jpg"
+    },
+    {
+      "id": "l1_127",
+      "front": "morning",
+      "back": "朝",
+      "example": "Good morning!",
+      "hint_image": "morning.jpg"
+    },
+    {
+      "id": "l1_128",
+      "front": "evening",
+      "back": "夕方",
+      "example": "Good evening.",
+      "hint_image": "evening.jpg"
+    },
+    {
+      "id": "l1_129",
+      "front": "night",
+      "back": "夜",
+      "example": "Good night.",
+      "hint_image": "night.jpg"
+    },
+    {
+      "id": "l1_130",
+      "front": "today",
+      "back": "今日",
+      "example": "What did you do today?",
+      "hint_image": "today.jpg"
+    },
+    {
+      "id": "l1_131",
+      "front": "tomorrow",
+      "back": "明日",
+      "example": "See you tomorrow.",
+      "hint_image": "tomorrow.jpg"
+    },
+    {
+      "id": "l1_132",
+      "front": "yesterday",
+      "back": "昨日",
+      "example": "I saw her yesterday.",
+      "hint_image": "yesterday.jpg"
+    },
+    {
+      "id": "l1_133",
+      "front": "big",
+      "back": "大きい",
+      "example": "That is a big house.",
+      "hint_image": "big.jpg"
+    },
+    {
+      "id": "l1_134",
+      "front": "small",
+      "back": "小さい",
+      "example": "She has a small dog.",
+      "hint_image": "small.jpg"
+    },
+    {
+      "id": "l1_135",
+      "front": "tall",
+      "back": "背が高い",
+      "example": "He is very tall.",
+      "hint_image": "tall.jpg"
+    },
+    {
+      "id": "l1_136",
+      "front": "short",
+      "back": "短い・背が低い",
+      "example": "She has short hair.",
+      "hint_image": "short.jpg"
+    },
+    {
+      "id": "l1_137",
+      "front": "long",
+      "back": "長い",
+      "example": "The road is long.",
+      "hint_image": "long.jpg"
+    },
+    {
+      "id": "l1_138",
+      "front": "old",
+      "back": "古い・年をとった",
+      "example": "This is an old building.",
+      "hint_image": "old.jpg"
+    },
+    {
+      "id": "l1_139",
+      "front": "new",
+      "back": "新しい",
+      "example": "I got a new phone.",
+      "hint_image": "new.jpg"
+    },
+    {
+      "id": "l1_140",
+      "front": "good",
+      "back": "良い",
+      "example": "You did a good job.",
+      "hint_image": "good.jpg"
+    },
+    {
+      "id": "l1_141",
+      "front": "bad",
+      "back": "悪い",
+      "example": "That is a bad idea.",
+      "hint_image": "bad.jpg"
+    },
+    {
+      "id": "l1_142",
+      "front": "hot",
+      "back": "暑い・熱い",
+      "example": "The soup is hot.",
+      "hint_image": "hot.jpg"
+    },
+    {
+      "id": "l1_143",
+      "front": "cold",
+      "back": "寒い・冷たい",
+      "example": "It is cold today.",
+      "hint_image": "cold.jpg"
+    },
+    {
+      "id": "l1_144",
+      "front": "warm",
+      "back": "暖かい",
+      "example": "The room is warm.",
+      "hint_image": "warm.jpg"
+    },
+    {
+      "id": "l1_145",
+      "front": "cool",
+      "back": "涼しい",
+      "example": "The weather is cool.",
+      "hint_image": "cool.jpg"
+    },
+    {
+      "id": "l1_146",
+      "front": "fast",
+      "back": "速い",
+      "example": "He runs fast.",
+      "hint_image": "fast.jpg"
+    },
+    {
+      "id": "l1_147",
+      "front": "slow",
+      "back": "遅い",
+      "example": "Drive slow here.",
+      "hint_image": "slow.jpg"
+    },
+    {
+      "id": "l1_148",
+      "front": "easy",
+      "back": "簡単な",
+      "example": "This test is easy.",
+      "hint_image": "easy.jpg"
+    },
+    {
+      "id": "l1_149",
+      "front": "hard",
+      "back": "難しい・固い",
+      "example": "The question is hard.",
+      "hint_image": "hard.jpg"
+    },
+    {
+      "id": "l1_150",
+      "front": "happy",
+      "back": "幸せな",
+      "example": "I am happy.",
+      "hint_image": "happy.jpg"
+    },
+    {
+      "id": "l1_151",
+      "front": "sad",
+      "back": "悲しい",
+      "example": "He looks sad.",
+      "hint_image": "sad.jpg"
+    },
+    {
+      "id": "l1_152",
+      "front": "angry",
+      "back": "怒っている",
+      "example": "She was angry.",
+      "hint_image": "angry.jpg"
+    },
+    {
+      "id": "l1_153",
+      "front": "funny",
+      "back": "面白い",
+      "example": "That joke is funny.",
+      "hint_image": "funny.jpg"
+    },
+    {
+      "id": "l1_154",
+      "front": "pretty",
+      "back": "かわいい",
+      "example": "She looks pretty.",
+      "hint_image": "pretty.jpg"
+    },
+    {
+      "id": "l1_155",
+      "front": "clean",
+      "back": "きれいな",
+      "example": "Keep it clean.",
+      "hint_image": "clean.jpg"
+    },
+    {
+      "id": "l1_156",
+      "front": "dirty",
+      "back": "汚い",
+      "example": "Your hands are dirty.",
+      "hint_image": "dirty.jpg"
+    },
+    {
+      "id": "l1_157",
+      "front": "quiet",
+      "back": "静かな",
+      "example": "Please be quiet.",
+      "hint_image": "quiet.jpg"
+    },
+    {
+      "id": "l1_158",
+      "front": "loud",
+      "back": "うるさい",
+      "example": "Don't be so loud.",
+      "hint_image": "loud.jpg"
+    },
+    {
+      "id": "l1_159",
+      "front": "safe",
+      "back": "安全な",
+      "example": "Stay safe.",
+      "hint_image": "safe.jpg"
+    },
+    {
+      "id": "l1_160",
+      "front": "full",
+      "back": "いっぱいの",
+      "example": "I am full.",
+      "hint_image": "full.jpg"
+    },
+    {
+      "id": "l1_161",
+      "front": "hungry",
+      "back": "空腹の",
+      "example": "I am hungry.",
+      "hint_image": "hungry.jpg"
+    },
+    {
+      "id": "l1_162",
+      "front": "tired",
+      "back": "疲れた",
+      "example": "I am tired.",
+      "hint_image": "tired.jpg"
+    },
+    {
+      "id": "l1_163",
+      "front": "sick",
+      "back": "病気の",
+      "example": "She is sick today.",
+      "hint_image": "sick.jpg"
+    },
+    {
+      "id": "l1_164",
+      "front": "kind",
+      "back": "親切な",
+      "example": "She is very kind.",
+      "hint_image": "kind.jpg"
+    },
+    {
+      "id": "l1_165",
+      "front": "brave",
+      "back": "勇敢な",
+      "example": "Be brave.",
+      "hint_image": "brave.jpg"
+    },
+    {
+      "id": "l1_166",
+      "front": "smart",
+      "back": "賢い",
+      "example": "He is a smart boy.",
+      "hint_image": "smart.jpg"
+    },
+    {
+      "id": "l1_167",
+      "front": "young",
+      "back": "若い",
+      "example": "She is very young.",
+      "hint_image": "young.jpg"
+    },
+    {
+      "id": "l1_168",
+      "front": "run",
+      "back": "走る",
+      "example": "He runs every morning.",
+      "hint_image": "run.jpg"
+    },
+    {
+      "id": "l1_169",
+      "front": "walk",
+      "back": "歩く",
+      "example": "Let's walk to school.",
+      "hint_image": "walk.jpg"
+    },
+    {
+      "id": "l1_170",
+      "front": "sit",
+      "back": "座る",
+      "example": "Please sit down.",
+      "hint_image": "sit.jpg"
+    },
+    {
+      "id": "l1_171",
+      "front": "stand",
+      "back": "立つ",
+      "example": "Stand up please.",
+      "hint_image": "stand.jpg"
+    },
+    {
+      "id": "l1_172",
+      "front": "eat",
+      "back": "食べる",
+      "example": "What did you eat?",
+      "hint_image": "eat.jpg"
+    },
+    {
+      "id": "l1_173",
+      "front": "drink",
+      "back": "飲む",
+      "example": "Drink more water.",
+      "hint_image": "drink.jpg"
+    },
+    {
+      "id": "l1_174",
+      "front": "sleep",
+      "back": "眠る",
+      "example": "Sleep early tonight.",
+      "hint_image": "sleep.jpg"
+    },
+    {
+      "id": "l1_175",
+      "front": "wake",
+      "back": "目を覚ます",
+      "example": "Wake up early.",
+      "hint_image": "wake.jpg"
+    },
+    {
+      "id": "l1_176",
+      "front": "go",
+      "back": "行く",
+      "example": "Let's go outside.",
+      "hint_image": "go.jpg"
+    },
+    {
+      "id": "l1_177",
+      "front": "come",
+      "back": "来る",
+      "example": "Please come here.",
+      "hint_image": "come.jpg"
+    },
+    {
+      "id": "l1_178",
+      "front": "see",
+      "back": "見る",
+      "example": "I can see the ocean.",
+      "hint_image": "see.jpg"
+    },
+    {
+      "id": "l1_179",
+      "front": "look",
+      "back": "見る（視線を向ける）",
+      "example": "Look at the sky.",
+      "hint_image": "look.jpg"
+    },
+    {
+      "id": "l1_180",
+      "front": "hear",
+      "back": "聞こえる",
+      "example": "I can hear music.",
+      "hint_image": "hear.jpg"
+    },
+    {
+      "id": "l1_181",
+      "front": "speak",
+      "back": "話す",
+      "example": "She speaks English well.",
+      "hint_image": "speak.jpg"
+    },
+    {
+      "id": "l1_182",
+      "front": "say",
+      "back": "言う",
+      "example": "What did you say?",
+      "hint_image": "say.jpg"
+    },
+    {
+      "id": "l1_183",
+      "front": "read",
+      "back": "読む",
+      "example": "I read every night.",
+      "hint_image": "read.jpg"
+    },
+    {
+      "id": "l1_184",
+      "front": "write",
+      "back": "書く",
+      "example": "Write your name.",
+      "hint_image": "write.jpg"
+    },
+    {
+      "id": "l1_185",
+      "front": "play",
+      "back": "遊ぶ・演奏する",
+      "example": "Let's play outside.",
+      "hint_image": "play.jpg"
+    },
+    {
+      "id": "l1_186",
+      "front": "study",
+      "back": "勉強する",
+      "example": "Study hard.",
+      "hint_image": "study.jpg"
+    },
+    {
+      "id": "l1_187",
+      "front": "learn",
+      "back": "学ぶ",
+      "example": "Learn something new.",
+      "hint_image": "learn.jpg"
+    },
+    {
+      "id": "l1_188",
+      "front": "cook",
+      "back": "料理する",
+      "example": "My mom cooks well.",
+      "hint_image": "cook.jpg"
+    },
+    {
+      "id": "l1_189",
+      "front": "help",
+      "back": "助ける",
+      "example": "Can you help me?",
+      "hint_image": "help.jpg"
+    },
+    {
+      "id": "l1_190",
+      "front": "like",
+      "back": "好き",
+      "example": "I like music.",
+      "hint_image": "like.jpg"
+    },
+    {
+      "id": "l1_191",
+      "front": "love",
+      "back": "愛する",
+      "example": "I love my family.",
+      "hint_image": "love.jpg"
+    },
+    {
+      "id": "l1_192",
+      "front": "want",
+      "back": "欲しい",
+      "example": "I want some water.",
+      "hint_image": "want.jpg"
+    },
+    {
+      "id": "l1_193",
+      "front": "need",
+      "back": "必要とする",
+      "example": "I need some help.",
+      "hint_image": "need.jpg"
+    },
+    {
+      "id": "l1_194",
+      "front": "give",
+      "back": "与える",
+      "example": "Give me a hand.",
+      "hint_image": "give.jpg"
+    },
+    {
+      "id": "l1_195",
+      "front": "take",
+      "back": "取る",
+      "example": "Take a break.",
+      "hint_image": "take.jpg"
+    },
+    {
+      "id": "l1_196",
+      "front": "make",
+      "back": "作る",
+      "example": "Make your bed.",
+      "hint_image": "make.jpg"
+    },
+    {
+      "id": "l1_197",
+      "front": "put",
+      "back": "置く",
+      "example": "Put it on the table.",
+      "hint_image": "put.jpg"
+    },
+    {
+      "id": "l1_198",
+      "front": "get",
+      "back": "得る・なる",
+      "example": "Get a good grade.",
+      "hint_image": "get.jpg"
+    },
+    {
+      "id": "l1_199",
+      "front": "open",
+      "back": "開ける",
+      "example": "Open the window.",
+      "hint_image": "open.jpg"
+    },
+    {
+      "id": "l1_200",
+      "front": "close",
+      "back": "閉める",
+      "example": "Close the door.",
+      "hint_image": "close.jpg"
+    },
+    {
+      "id": "l1_201",
+      "front": "buy",
+      "back": "買う",
+      "example": "I want to buy a book.",
+      "hint_image": "buy.jpg"
+    },
+    {
+      "id": "l1_202",
+      "front": "sell",
+      "back": "売る",
+      "example": "She sells flowers.",
+      "hint_image": "sell.jpg"
+    },
+    {
+      "id": "l1_203",
+      "front": "find",
+      "back": "見つける",
+      "example": "Find your keys.",
+      "hint_image": "find.jpg"
+    },
+    {
+      "id": "l1_204",
+      "front": "use",
+      "back": "使う",
+      "example": "Use a pencil here.",
+      "hint_image": "use.jpg"
+    },
+    {
+      "id": "l1_205",
+      "front": "try",
+      "back": "試みる",
+      "example": "Try your best.",
+      "hint_image": "try.jpg"
+    },
+    {
+      "id": "l1_206",
+      "front": "think",
+      "back": "考える",
+      "example": "Think before you speak.",
+      "hint_image": "think.jpg"
+    },
+    {
+      "id": "l1_207",
+      "front": "know",
+      "back": "知っている",
+      "example": "Do you know him?",
+      "hint_image": "know.jpg"
+    },
+    {
+      "id": "l1_208",
+      "front": "feel",
+      "back": "感じる",
+      "example": "I feel happy.",
+      "hint_image": "feel.jpg"
+    },
+    {
+      "id": "l1_209",
+      "front": "meet",
+      "back": "会う",
+      "example": "Nice to meet you.",
+      "hint_image": "meet.jpg"
+    },
+    {
+      "id": "l1_210",
+      "front": "bring",
+      "back": "持ってくる",
+      "example": "Bring your lunch.",
+      "hint_image": "bring.jpg"
+    },
+    {
+      "id": "l1_211",
+      "front": "keep",
+      "back": "保つ",
+      "example": "Keep it clean.",
+      "hint_image": "keep.jpg"
+    },
+    {
+      "id": "l1_212",
+      "front": "wait",
+      "back": "待つ",
+      "example": "Wait for me.",
+      "hint_image": "wait.jpg"
+    },
+    {
+      "id": "l1_213",
+      "front": "start",
+      "back": "始める",
+      "example": "Let's start.",
+      "hint_image": "start.jpg"
+    },
+    {
+      "id": "l1_214",
+      "front": "stop",
+      "back": "止まる",
+      "example": "Stop talking.",
+      "hint_image": "stop.jpg"
+    },
+    {
+      "id": "l1_215",
+      "front": "turn",
+      "back": "曲がる・順番",
+      "example": "Turn left here.",
+      "hint_image": "turn.jpg"
+    },
+    {
+      "id": "l1_216",
+      "front": "jump",
+      "back": "跳ぶ",
+      "example": "Jump over it.",
+      "hint_image": "jump.jpg"
+    },
+    {
+      "id": "l1_217",
+      "front": "swim",
+      "back": "泳ぐ",
+      "example": "She can swim well.",
+      "hint_image": "swim.jpg"
+    },
+    {
+      "id": "l1_218",
+      "front": "sing",
+      "back": "歌う",
+      "example": "She likes to sing.",
+      "hint_image": "sing.jpg"
+    },
+    {
+      "id": "l1_219",
+      "front": "dance",
+      "back": "踊る",
+      "example": "She can dance well.",
+      "hint_image": "dance.jpg"
+    },
+    {
+      "id": "l1_220",
+      "front": "draw",
+      "back": "描く",
+      "example": "Draw a picture.",
+      "hint_image": "draw.jpg"
+    },
+    {
+      "id": "l1_221",
+      "front": "climb",
+      "back": "登る",
+      "example": "Climb the mountain.",
+      "hint_image": "climb.jpg"
+    },
+    {
+      "id": "l1_222",
+      "front": "push",
+      "back": "押す",
+      "example": "Push the door.",
+      "hint_image": "push.jpg"
+    },
+    {
+      "id": "l1_223",
+      "front": "pull",
+      "back": "引く",
+      "example": "Pull the rope.",
+      "hint_image": "pull.jpg"
+    },
+    {
+      "id": "l1_224",
+      "front": "carry",
+      "back": "運ぶ",
+      "example": "Can you carry this?",
+      "hint_image": "carry.jpg"
+    },
+    {
+      "id": "l1_225",
+      "front": "catch",
+      "back": "捕まえる",
+      "example": "Catch the ball.",
+      "hint_image": "catch.jpg"
+    },
+    {
+      "id": "l1_226",
+      "front": "throw",
+      "back": "投げる",
+      "example": "Throw the ball.",
+      "hint_image": "throw.jpg"
+    },
+    {
+      "id": "l1_227",
+      "front": "hit",
+      "back": "打つ",
+      "example": "He hit the ball.",
+      "hint_image": "hit.jpg"
+    },
+    {
+      "id": "l1_228",
+      "front": "name",
+      "back": "名前",
+      "example": "What is your name?",
+      "hint_image": "name.jpg"
+    },
+    {
+      "id": "l1_229",
+      "front": "age",
+      "back": "年齢",
+      "example": "What is your age?",
+      "hint_image": "age.jpg"
+    },
+    {
+      "id": "l1_230",
+      "front": "friend",
+      "back": "友だち",
+      "example": "She is my best friend.",
+      "hint_image": "friend.jpg"
+    },
+    {
+      "id": "l1_231",
+      "front": "family",
+      "back": "家族",
+      "example": "I love my family.",
+      "hint_image": "family.jpg"
+    },
+    {
+      "id": "l1_232",
+      "front": "mother",
+      "back": "母",
+      "example": "My mother is a teacher.",
+      "hint_image": "mother.jpg"
+    },
+    {
+      "id": "l1_233",
+      "front": "father",
+      "back": "父",
+      "example": "My father is kind.",
+      "hint_image": "father.jpg"
+    },
+    {
+      "id": "l1_234",
+      "front": "sister",
+      "back": "姉妹",
+      "example": "I have one sister.",
+      "hint_image": "sister.jpg"
+    },
+    {
+      "id": "l1_235",
+      "front": "brother",
+      "back": "兄弟",
+      "example": "I have one brother.",
+      "hint_image": "brother.jpg"
+    },
+    {
+      "id": "l1_236",
+      "front": "baby",
+      "back": "赤ちゃん",
+      "example": "The baby is sleeping.",
+      "hint_image": "baby.jpg"
+    },
+    {
+      "id": "l1_237",
+      "front": "boy",
+      "back": "男の子",
+      "example": "The boy is running.",
+      "hint_image": "boy.jpg"
+    },
+    {
+      "id": "l1_238",
+      "front": "girl",
+      "back": "女の子",
+      "example": "The girl is dancing.",
+      "hint_image": "girl.jpg"
+    },
+    {
+      "id": "l1_239",
+      "front": "man",
+      "back": "男性",
+      "example": "The man is tall.",
+      "hint_image": "man.jpg"
+    },
+    {
+      "id": "l1_240",
+      "front": "woman",
+      "back": "女性",
+      "example": "The woman is kind.",
+      "hint_image": "woman.jpg"
+    },
+    {
+      "id": "l1_241",
+      "front": "people",
+      "back": "人々",
+      "example": "Many people came.",
+      "hint_image": "people.jpg"
+    },
+    {
+      "id": "l1_242",
+      "front": "city",
+      "back": "都市",
+      "example": "I live in a big city.",
+      "hint_image": "city.jpg"
+    },
+    {
+      "id": "l1_243",
+      "front": "town",
+      "back": "町",
+      "example": "I live in a small town.",
+      "hint_image": "town.jpg"
+    },
+    {
+      "id": "l1_244",
+      "front": "world",
+      "back": "世界",
+      "example": "Travel around the world.",
+      "hint_image": "world.jpg"
+    },
+    {
+      "id": "l1_245",
+      "front": "country",
+      "back": "国",
+      "example": "Japan is a beautiful country.",
+      "hint_image": "country.jpg"
+    },
+    {
+      "id": "l1_246",
+      "front": "life",
+      "back": "人生・生命",
+      "example": "Life is beautiful.",
+      "hint_image": "life.jpg"
+    },
+    {
+      "id": "l1_247",
+      "front": "time",
+      "back": "時間",
+      "example": "What time is it?",
+      "hint_image": "time.jpg"
+    },
+    {
+      "id": "l1_248",
+      "front": "place",
+      "back": "場所",
+      "example": "This is a nice place.",
+      "hint_image": "place.jpg"
+    },
+    {
+      "id": "l1_249",
+      "front": "way",
+      "back": "方法・道",
+      "example": "Which way is the station?",
+      "hint_image": "way.jpg"
+    },
+    {
+      "id": "l1_250",
+      "front": "idea",
+      "back": "アイデア",
+      "example": "That's a great idea.",
+      "hint_image": "idea.jpg"
+    },
+    {
+      "id": "l1_251",
+      "front": "front",
+      "back": "単語",
+      "example": "Learn a new word every day.",
+      "hint_image": "word.jpg"
+    },
+    {
+      "id": "l1_252",
+      "front": "number",
+      "back": "数",
+      "example": "What is your phone number?",
+      "hint_image": "number.jpg"
+    },
+    {
+      "id": "l1_253",
+      "front": "color",
+      "back": "色",
+      "example": "What is your favorite color?",
+      "hint_image": "color.jpg"
+    },
+    {
+      "id": "l1_254",
+      "front": "money",
+      "back": "お金",
+      "example": "Save your money.",
+      "hint_image": "money.jpg"
+    },
+    {
+      "id": "l1_255",
+      "front": "work",
+      "back": "仕事・働く",
+      "example": "I work every day.",
+      "hint_image": "work.jpg"
+    },
+    {
+      "id": "l1_256",
+      "front": "job",
+      "back": "仕事",
+      "example": "She has a good job.",
+      "hint_image": "job.jpg"
+    },
+    {
+      "id": "l1_257",
+      "front": "sport",
+      "back": "スポーツ",
+      "example": "I like sport.",
+      "hint_image": "sport.jpg"
+    },
+    {
+      "id": "l1_258",
+      "front": "game",
+      "back": "ゲーム・試合",
+      "example": "Let's play a game.",
+      "hint_image": "game.jpg"
+    },
+    {
+      "id": "l1_259",
+      "front": "music",
+      "back": "音楽",
+      "example": "I love music.",
+      "hint_image": "music.jpg"
+    },
+    {
+      "id": "l1_260",
+      "front": "art",
+      "back": "芸術",
+      "example": "She studies art.",
+      "hint_image": "art.jpg"
+    },
+    {
+      "id": "l1_261",
+      "front": "photo",
+      "back": "写真",
+      "example": "Take a photo.",
+      "hint_image": "photo.jpg"
+    },
+    {
+      "id": "l1_262",
+      "front": "letter",
+      "back": "手紙・文字",
+      "example": "Write a letter.",
+      "hint_image": "letter.jpg"
+    },
+    {
+      "id": "l1_263",
+      "front": "story",
+      "back": "話・物語",
+      "example": "Tell me a story.",
+      "hint_image": "story.jpg"
+    },
+    {
+      "id": "l1_264",
+      "front": "song",
+      "back": "歌",
+      "example": "Sing a song.",
+      "hint_image": "song.jpg"
+    },
+    {
+      "id": "l1_265",
+      "front": "gift",
+      "back": "贈り物",
+      "example": "She received a gift.",
+      "hint_image": "gift.jpg"
+    },
+    {
+      "id": "l1_266",
+      "front": "key",
+      "back": "鍵",
+      "example": "I lost my key.",
+      "hint_image": "key.jpg"
+    },
+    {
+      "id": "l1_267",
+      "front": "clock",
+      "back": "時計",
+      "example": "The clock says ten.",
+      "hint_image": "clock.jpg"
+    },
+    {
+      "id": "l1_268",
+      "front": "ball",
+      "back": "ボール",
+      "example": "Kick the ball.",
+      "hint_image": "ball.jpg"
+    },
+    {
+      "id": "l1_269",
+      "front": "toy",
+      "back": "おもちゃ",
+      "example": "Children love toys.",
+      "hint_image": "toy.jpg"
+    },
+    {
+      "id": "l1_270",
+      "front": "answer",
+      "back": "答え",
+      "example": "Give me the answer.",
+      "hint_image": "answer.jpg"
+    },
+    {
+      "id": "l1_271",
+      "front": "phone",
+      "back": "電話・スマホ",
+      "example": "She called on the phone.",
+      "hint_image": "phone.jpg"
+    },
+    {
+      "id": "l1_272",
+      "front": "cup",
+      "back": "カップ",
+      "example": "A cup of tea.",
+      "hint_image": "cup.jpg"
+    },
+    {
+      "id": "l1_273",
+      "front": "glass",
+      "back": "コップ・ガラス",
+      "example": "A glass of water.",
+      "hint_image": "glass.jpg"
+    },
+    {
+      "id": "l1_274",
+      "front": "plate",
+      "back": "皿",
+      "example": "Pass me the plate.",
+      "hint_image": "plate.jpg"
+    },
+    {
+      "id": "l1_275",
+      "front": "umbrella",
+      "back": "傘",
+      "example": "Take an umbrella.",
+      "hint_image": "umbrella.jpg"
+    },
+    {
+      "id": "l1_276",
+      "front": "hat",
+      "back": "帽子",
+      "example": "He wears a hat.",
+      "hint_image": "hat.jpg"
+    },
+    {
+      "id": "l1_277",
+      "front": "shoe",
+      "back": "靴",
+      "example": "Put on your shoes.",
+      "hint_image": "shoe.jpg"
+    },
+    {
+      "id": "l1_278",
+      "front": "sock",
+      "back": "靴下",
+      "example": "Put on your socks.",
+      "hint_image": "sock.jpg"
+    },
+    {
+      "id": "l1_279",
+      "front": "coat",
+      "back": "コート",
+      "example": "Wear a coat outside.",
+      "hint_image": "coat.jpg"
+    },
+    {
+      "id": "l1_280",
+      "front": "dress",
+      "back": "ドレス",
+      "example": "She wears a dress.",
+      "hint_image": "dress.jpg"
+    },
+    {
+      "id": "l1_281",
+      "front": "shirt",
+      "back": "シャツ",
+      "example": "He has a white shirt.",
+      "hint_image": "shirt.jpg"
+    },
+    {
+      "id": "l1_282",
+      "front": "water",
+      "back": "水",
+      "example": "Drink more water.",
+      "hint_image": "water.jpg"
+    },
+    {
+      "id": "l1_283",
+      "front": "fire",
+      "back": "火",
+      "example": "Don't play with fire.",
+      "hint_image": "fire.jpg"
+    },
+    {
+      "id": "l1_284",
+      "front": "earth",
+      "back": "地球・土",
+      "example": "The earth is round.",
+      "hint_image": "earth.jpg"
+    },
+    {
+      "id": "l1_285",
+      "front": "sun",
+      "back": "太陽",
+      "example": "The sun is bright.",
+      "hint_image": "sun.jpg"
+    },
+    {
+      "id": "l1_286",
+      "front": "moon",
+      "back": "月",
+      "example": "The moon is full tonight.",
+      "hint_image": "moon.jpg"
+    },
+    {
+      "id": "l1_287",
+      "front": "rain",
+      "back": "雨",
+      "example": "It rains in the morning.",
+      "hint_image": "rain.jpg"
+    },
+    {
+      "id": "l1_288",
+      "front": "snow",
+      "back": "雪",
+      "example": "It snowed last night.",
+      "hint_image": "snow.jpg"
+    },
+    {
+      "id": "l1_289",
+      "front": "wind",
+      "back": "風",
+      "example": "The wind is strong.",
+      "hint_image": "wind.jpg"
+    },
+    {
+      "id": "l1_290",
+      "front": "flower",
+      "back": "花",
+      "example": "She likes flowers.",
+      "hint_image": "flower.jpg"
+    },
+    {
+      "id": "l1_291",
+      "front": "tree",
+      "back": "木",
+      "example": "There is a big tree.",
+      "hint_image": "tree.jpg"
+    },
+    {
+      "id": "l1_292",
+      "front": "grass",
+      "back": "草",
+      "example": "The grass is green.",
+      "hint_image": "grass.jpg"
+    },
+    {
+      "id": "l1_293",
+      "front": "sand",
+      "back": "砂",
+      "example": "Children play in the sand.",
+      "hint_image": "sand.jpg"
+    },
+    {
+      "id": "l1_294",
+      "front": "stone",
+      "back": "石",
+      "example": "He threw a stone.",
+      "hint_image": "stone.jpg"
+    },
+    {
+      "id": "l1_295",
+      "front": "ice",
+      "back": "氷",
+      "example": "Put ice in the glass.",
+      "hint_image": "ice.jpg"
+    },
+    {
+      "id": "l1_296",
+      "front": "light",
+      "back": "光・明かり",
+      "example": "Turn on the light.",
+      "hint_image": "light.jpg"
+    },
+    {
+      "id": "l1_297",
+      "front": "sound",
+      "back": "音",
+      "example": "I heard a strange sound.",
+      "hint_image": "sound.jpg"
+    },
+    {
+      "id": "l1_298",
+      "front": "air",
+      "back": "空気",
+      "example": "Fresh air is good.",
+      "hint_image": "air.jpg"
+    },
+    {
+      "id": "l1_299",
+      "front": "road",
+      "back": "道路",
+      "example": "The road is wide.",
+      "hint_image": "road.jpg"
+    },
+    {
+      "id": "l1_300",
+      "front": "box",
+      "back": "箱",
+      "example": "Put it in the box.",
+      "hint_image": "box.jpg"
+    }
+  ]
+}
