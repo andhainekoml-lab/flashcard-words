@@ -1,0 +1,4010 @@
+{
+  "deck_id": "eng_word_level4_toeic",
+  "deck_name": "TOEIC・実用レベル500語",
+  "direction_mode": "bothWays",
+  "front_label": "英語",
+  "back_label": "日本語",
+  "show_listen": true,
+  "cards": [
+    {
+      "id": "l4_001",
+      "front": "abolish",
+      "back": "廃止する",
+      "example": "The judge struck the gavel to _______ the old policy as the crowd cheered.",
+      "hint_image": "hint_l4_001.webp",
+      "hint_image_prompt": "A gavel striking a law document labeled Old Policy as legislators vote to remove it"
+    },
+    {
+      "id": "l4_002",
+      "front": "accelerate",
+      "back": "加速する",
+      "example": "The driver pressed the pedal to __________ as the speedometer needle climbed rapidly.",
+      "hint_image": "hint_l4_002.webp",
+      "hint_image_prompt": "A car speedometer needle swinging rapidly to the right as a vehicle speeds up"
+    },
+    {
+      "id": "l4_003",
+      "front": "accumulate",
+      "back": "積み上げる",
+      "example": "Adding coins one by one, she managed to __________ a tall stack of savings.",
+      "hint_image": "hint_l4_003.webp",
+      "hint_image_prompt": "A pile of coins growing taller as new coins are added one by one over time"
+    },
+    {
+      "id": "l4_004",
+      "front": "acquire",
+      "back": "習得する",
+      "example": "The executives signed a contract to _______ the rival company at the boardroom table.",
+      "hint_image": "hint_l4_004.webp",
+      "hint_image_prompt": "A businessperson signing a contract to purchase another company at a formal table"
+    },
+    {
+      "id": "l4_005",
+      "front": "adhere",
+      "back": "付着する",
+      "example": "The safety warning labels firmly ______ to the metal panel of the machine.",
+      "hint_image": "hint_l4_005.webp",
+      "hint_image_prompt": "Safety sticker labels firmly pressed and held flat against a metal equipment panel"
+    },
+    {
+      "id": "l4_006",
+      "front": "administer",
+      "back": "管理する",
+      "example": "The nurse came to the bedside to __________ the measured dose of medicine to the patient.",
+      "hint_image": "hint_l4_006.webp",
+      "hint_image_prompt": "A nurse preparing and giving a measured dose of medicine to a patient in bed"
+    },
+    {
+      "id": "l4_007",
+      "front": "advocate",
+      "back": "提唱する",
+      "example": "She stood at the podium to ________ passionately for social change.",
+      "hint_image": "hint_l4_007.webp",
+      "hint_image_prompt": "A person speaking passionately at a podium in support of a public policy cause"
+    },
+    {
+      "id": "l4_008",
+      "front": "aggregate",
+      "back": "集計する",
+      "example": "The analyst used the screen to _________ scattered data points into a single figure.",
+      "hint_image": "hint_l4_008.webp",
+      "hint_image_prompt": "Raw data points on a screen being combined and merged into a single summary figure"
+    },
+    {
+      "id": "l4_009",
+      "front": "amend",
+      "back": "修正する",
+      "example": "The lawyer used a red pen to _____ the clauses in the contract.",
+      "hint_image": "hint_l4_009.webp",
+      "hint_image_prompt": "A red-inked correction being written into a clause of a formal printed legal document"
+    },
+    {
+      "id": "l4_010",
+      "front": "amplify",
+      "back": "増幅する",
+      "example": "The vintage amplifier worked to _______ the weak signal into a powerful sound wave.",
+      "hint_image": "hint_l4_010.webp",
+      "hint_image_prompt": "A sound wave diagram growing much wider and larger through an audio amplifier"
+    },
+    {
+      "id": "l4_011",
+      "front": "annex",
+      "back": "付属させる",
+      "example": "The kingdom moved to _____ the neighboring territory into its own borders.",
+      "hint_image": "hint_l4_011.webp",
+      "hint_image_prompt": "A map showing one territory extending its border to absorb a neighboring region"
+    },
+    {
+      "id": "l4_012",
+      "front": "appoint",
+      "back": "任命する",
+      "example": "The board gathered to _______ her as the new director of the company.",
+      "hint_image": "hint_l4_012.webp",
+      "hint_image_prompt": "A board member placing a name card at the head of a table during an official vote"
+    },
+    {
+      "id": "l4_013",
+      "front": "arbitrate",
+      "back": "仲裁する",
+      "example": "A neutral mediator was called in to _________ the dispute between the two parties.",
+      "hint_image": "hint_l4_013.webp",
+      "hint_image_prompt": "A neutral mediator sitting between two opposing lawyers at a dispute resolution table"
+    },
+    {
+      "id": "l4_014",
+      "front": "archive",
+      "back": "保存する",
+      "example": "The clerk climbed the ladder to _______ the old files on the tall storage shelves.",
+      "hint_image": "hint_l4_014.webp",
+      "hint_image_prompt": "A worker filing labeled document folders into a large organized shelving system"
+    },
+    {
+      "id": "l4_015",
+      "front": "articulate",
+      "back": "明確に述べる",
+      "example": "The speaker was able to __________ his ideas clearly to the large audience.",
+      "hint_image": "hint_l4_015.webp",
+      "hint_image_prompt": "A speaker presenting ideas with clear precise hand gestures to an attentive audience"
+    },
+    {
+      "id": "l4_016",
+      "front": "ascertain",
+      "back": "確認する",
+      "example": "The detective examined the clues carefully to _________ the truth of the case.",
+      "hint_image": "hint_l4_016.webp",
+      "hint_image_prompt": "A detective reviewing final evidence and marking a conclusion as confirmed"
+    },
+    {
+      "id": "l4_017",
+      "front": "assemble",
+      "back": "集める",
+      "example": "The volunteers worked together to ________ the tables and chairs in the hall.",
+      "hint_image": "hint_l4_017.webp",
+      "hint_image_prompt": "Volunteers assembling chairs and tables in a large event hall"
+    },
+    {
+      "id": "l4_018",
+      "front": "attain",
+      "back": "達成する",
+      "example": "After months of training, she was thrilled to ______ her goal of finishing the marathon.",
+      "hint_image": "hint_l4_018.webp",
+      "hint_image_prompt": "An athlete crossing a finish line to achieve a target time shown on a scoreboard"
+    },
+    {
+      "id": "l4_019",
+      "front": "audit",
+      "back": "監査する",
+      "example": "The accountant used a red pen to _____ the company's financial records.",
+      "hint_image": "hint_l4_019.webp",
+      "hint_image_prompt": "An accountant reviewing spreadsheet figures and marking discrepancies on a printout"
+    },
+    {
+      "id": "l4_020",
+      "front": "authorize",
+      "back": "認可する",
+      "example": "The manager stamped the form APPROVED to _________ the new project.",
+      "hint_image": "hint_l4_020.webp",
+      "hint_image_prompt": "A manager stamping a request form with an APPROVED seal in official green ink"
+    },
+    {
+      "id": "l4_021",
+      "front": "benchmark",
+      "back": "基準を設ける",
+      "example": "The lab ran tests to _________ its new chip against the top competitor.",
+      "hint_image": "hint_l4_021.webp",
+      "hint_image_prompt": "A performance bar chart showing one result measured directly against an industry standard"
+    },
+    {
+      "id": "l4_022",
+      "front": "bid",
+      "back": "入札する",
+      "example": "Several companies came to the hall to submit a sealed ___ for the contract.",
+      "hint_image": "hint_l4_022.webp",
+      "hint_image_prompt": "Two companies submitting sealed envelopes to bid on a government contract"
+    },
+    {
+      "id": "l4_023",
+      "front": "broaden",
+      "back": "広げる",
+      "example": "Traveling the world helped him _______ his view of different cultures.",
+      "hint_image": "hint_l4_023.webp",
+      "hint_image_prompt": "A camera lens pulling back to reveal a much wider landscape than before"
+    },
+    {
+      "id": "l4_024",
+      "front": "bypass",
+      "back": "迂回する",
+      "example": "The driver took a country road to ______ the heavy traffic on the highway.",
+      "hint_image": "hint_l4_024.webp",
+      "hint_image_prompt": "A driver taking a side road to bypass a traffic jam on the main route"
+    },
+    {
+      "id": "l4_025",
+      "front": "calibrate",
+      "back": "調整する",
+      "example": "The technician turned the dial to _________ the measuring instrument precisely.",
+      "hint_image": "hint_l4_025.webp",
+      "hint_image_prompt": "A technician adjusting a precision instrument dial to align with a reference standard"
+    },
+    {
+      "id": "l4_026",
+      "front": "capitalize",
+      "back": "大文字で書く・資本化する",
+      "example": "The startup moved quickly to __________ on the new market opportunity.",
+      "hint_image": "hint_l4_026.webp",
+      "hint_image_prompt": "A person converting a business idea into investment by drawing money flowing into a plan"
+    },
+    {
+      "id": "l4_027",
+      "front": "categorize",
+      "back": "分類する",
+      "example": "The librarian worked to __________ the books by subject on the shelves.",
+      "hint_image": "hint_l4_027.webp",
+      "hint_image_prompt": "A librarian sorting books into clearly labeled genre sections on separate shelves"
+    },
+    {
+      "id": "l4_028",
+      "front": "cease",
+      "back": "やめる",
+      "example": "The worker hit the red button to _____ all operations on the assembly line.",
+      "hint_image": "hint_l4_028.webp",
+      "hint_image_prompt": "A factory assembly line coming to a full stop as a red stop button is pressed"
+    },
+    {
+      "id": "l4_029",
+      "front": "certify",
+      "back": "証明する",
+      "example": "An official ceremony was held to _______ her as a qualified professional.",
+      "hint_image": "hint_l4_029.webp",
+      "hint_image_prompt": "An official handing a signed and stamped certificate to a newly qualified professional"
+    },
+    {
+      "id": "l4_030",
+      "front": "classify",
+      "back": "分類する",
+      "example": "The researcher used labeled boxes to ________ the different specimens by type.",
+      "hint_image": "hint_l4_030.webp",
+      "hint_image_prompt": "A scientist sorting specimens into labeled boxes according to observed characteristics"
+    },
+    {
+      "id": "l4_031",
+      "front": "compile",
+      "back": "まとめる",
+      "example": "The researcher worked to _______ information from many books into one report.",
+      "hint_image": "hint_l4_031.webp",
+      "hint_image_prompt": "A researcher gathering information from multiple sources and organizing it into one report"
+    },
+    {
+      "id": "l4_032",
+      "front": "comply",
+      "back": "従う",
+      "example": "Every worker must ______ with the strict safety rules in the factory.",
+      "hint_image": "hint_l4_032.webp",
+      "hint_image_prompt": "A worker following posted safety regulations exactly as written on a company notice"
+    },
+    {
+      "id": "l4_033",
+      "front": "concede",
+      "back": "認める",
+      "example": "After a long game, he had to _______ defeat and tip over his king.",
+      "hint_image": "hint_l4_033.webp",
+      "hint_image_prompt": "A chess player tipping over their king piece to acknowledge defeat respectfully"
+    },
+    {
+      "id": "l4_034",
+      "front": "conclude",
+      "back": "結論づける",
+      "example": "The speaker used the final slide to ________ her presentation to the audience.",
+      "hint_image": "hint_l4_034.webp",
+      "hint_image_prompt": "A presenter closing a laptop and saying a final summary statement to the audience"
+    },
+    {
+      "id": "l4_035",
+      "front": "conduct",
+      "back": "実施する",
+      "example": "The maestro raised his baton to _______ the orchestra through the symphony.",
+      "hint_image": "hint_l4_035.webp",
+      "hint_image_prompt": "An orchestra conductor raising a baton to lead musicians through a coordinated performance"
+    },
+    {
+      "id": "l4_036",
+      "front": "consolidate",
+      "back": "統合する",
+      "example": "The company decided to ___________ its many small teams into a single unit.",
+      "hint_image": "hint_l4_036.webp",
+      "hint_image_prompt": "Multiple small company logos merging into a single unified brand symbol"
+    },
+    {
+      "id": "l4_037",
+      "front": "consult",
+      "back": "相談する",
+      "example": "She went to _______ an expert before making the important decision.",
+      "hint_image": "hint_l4_037.webp",
+      "hint_image_prompt": "A client and advisor reviewing documents together across a desk"
+    },
+    {
+      "id": "l4_038",
+      "front": "coordinate",
+      "back": "調整する・座標",
+      "example": "The manager worked to __________ the different departments on the project.",
+      "hint_image": "hint_l4_038.webp",
+      "hint_image_prompt": "A project manager using a Gantt chart to synchronize team tasks across departments"
+    },
+    {
+      "id": "l4_039",
+      "front": "counteract",
+      "back": "対抗する",
+      "example": "The scientist added a chemical to __________ the harmful reaction.",
+      "hint_image": "hint_l4_039.webp",
+      "hint_image_prompt": "Antacid tablets being dropped into an acidic solution to neutralize the reaction"
+    },
+    {
+      "id": "l4_040",
+      "front": "cultivate",
+      "back": "栽培する・培養する",
+      "example": "The farmer drove the tractor to _________ the rows of young crops.",
+      "hint_image": "hint_l4_040.webp",
+      "hint_image_prompt": "A farmer cultivating rows of crops with a tractor in a wide field"
+    },
+    {
+      "id": "l4_041",
+      "front": "customize",
+      "back": "カスタマイズする・(要求に合うように)直す",
+      "example": "The artisan worked to _________ the leather bag with the customer's initials.",
+      "hint_image": "hint_l4_041.webp",
+      "hint_image_prompt": "A craftsperson adding personal initials to a leather product per a client's request"
+    },
+    {
+      "id": "l4_042",
+      "front": "debrief",
+      "back": "事後報告する",
+      "example": "After the mission, the leader gathered the team to _______ them on the results.",
+      "hint_image": "hint_l4_042.webp",
+      "hint_image_prompt": "A team leader conducting a post-mission review session with team members after an event"
+    },
+    {
+      "id": "l4_043",
+      "front": "decentralize",
+      "back": "分散する",
+      "example": "The company chose to ____________ its power into many independent branches.",
+      "hint_image": "hint_l4_043.webp",
+      "hint_image_prompt": "An organizational chart changing from one large hub to multiple smaller equal nodes"
+    },
+    {
+      "id": "l4_044",
+      "front": "decipher",
+      "back": "解読する",
+      "example": "The scholar worked late into the night to ________ the ancient symbols.",
+      "hint_image": "hint_l4_044.webp",
+      "hint_image_prompt": "A cryptologist working through a coded message to reveal the plaintext underneath"
+    },
+    {
+      "id": "l4_045",
+      "front": "decompose",
+      "back": "分解する",
+      "example": "Fallen leaves slowly _________ into rich soil on the forest floor.",
+      "hint_image": "hint_l4_045.webp",
+      "hint_image_prompt": "Fallen autumn leaves breaking down into compost on a forest floor over time"
+    },
+    {
+      "id": "l4_046",
+      "front": "delegate",
+      "back": "委任する",
+      "example": "The manager decided to ________ the important task to a trusted employee.",
+      "hint_image": "hint_l4_046.webp",
+      "hint_image_prompt": "A manager assigning a task folder to a team member with a clear hand-off gesture"
+    },
+    {
+      "id": "l4_047",
+      "front": "deploy",
+      "back": "展開する",
+      "example": "The commander ordered the troops to ______ across the open field.",
+      "hint_image": "hint_l4_047.webp",
+      "hint_image_prompt": "Soldiers deploying into formation as they advance across a field"
+    },
+    {
+      "id": "l4_048",
+      "front": "derive",
+      "back": "導き出す",
+      "example": "The mathematician was able to ______ the formula from a few basic rules.",
+      "hint_image": "hint_l4_048.webp",
+      "hint_image_prompt": "A mathematician tracing how a formula originates step by step from basic principles"
+    },
+    {
+      "id": "l4_049",
+      "front": "differentiate",
+      "back": "区別する",
+      "example": "The teacher helped students _____________ between the two similar concepts.",
+      "hint_image": "hint_l4_049.webp",
+      "hint_image_prompt": "A teacher drawing a Venn diagram to show what makes two similar concepts distinct"
+    },
+    {
+      "id": "l4_050",
+      "front": "disrupt",
+      "back": "混乱させる",
+      "example": "The new smartphone was designed to _______ the entire mobile industry.",
+      "hint_image": "hint_l4_050.webp",
+      "hint_image_prompt": "A competitor releasing a product that disrupts the entire mobile phone market"
+    },
+    {
+      "id": "l4_051",
+      "front": "distribute",
+      "back": "配布する",
+      "example": "The postal worker began to __________ the letters into the correct boxes.",
+      "hint_image": "hint_l4_051.webp",
+      "hint_image_prompt": "A postal worker distributing parcels into labeled mailboxes"
+    },
+    {
+      "id": "l4_052",
+      "front": "diverge",
+      "back": "分岐する",
+      "example": "At this point the river begins to _______ into two separate streams.",
+      "hint_image": "hint_l4_052.webp",
+      "hint_image_prompt": "A single river splitting into two separate streams going in opposite directions"
+    },
+    {
+      "id": "l4_053",
+      "front": "document",
+      "back": "記録する",
+      "example": "The engineer was careful to ________ every step of the experiment.",
+      "hint_image": "hint_l4_053.webp",
+      "hint_image_prompt": "A worker carefully recording each step of a procedure in an official log book"
+    },
+    {
+      "id": "l4_054",
+      "front": "downsize",
+      "back": "縮小する",
+      "example": "The company had to ________ and lay off many of its workers.",
+      "hint_image": "hint_l4_054.webp",
+      "hint_image_prompt": "A company reducing its workforce to downsize after a period of losses"
+    },
+    {
+      "id": "l4_055",
+      "front": "embrace",
+      "back": "受け入れる",
+      "example": "The team was happy to _______ the new idea with open arms.",
+      "hint_image": "hint_l4_055.webp",
+      "hint_image_prompt": "A team enthusiastically adopting a new technology with excited open-arm gestures"
+    },
+    {
+      "id": "l4_056",
+      "front": "empower",
+      "back": "力を与える",
+      "example": "The good leader worked to _______ her staff to make their own decisions.",
+      "hint_image": "hint_l4_056.webp",
+      "hint_image_prompt": "A manager handing a junior employee the authority to make independent project decisions"
+    },
+    {
+      "id": "l4_057",
+      "front": "endorse",
+      "back": "支持する",
+      "example": "The famous star was paid to _______ the new product at the press event.",
+      "hint_image": "hint_l4_057.webp",
+      "hint_image_prompt": "A public figure signing their name to a product advertisement with a confident smile"
+    },
+    {
+      "id": "l4_058",
+      "front": "expedite",
+      "back": "促進する",
+      "example": "The company used express riders to ________ the urgent delivery.",
+      "hint_image": "hint_l4_058.webp",
+      "hint_image_prompt": "A courier rushing an urgent package through express lanes to meet a tight deadline"
+    },
+    {
+      "id": "l4_059",
+      "front": "exploit",
+      "back": "偉業・利用する・搾取する",
+      "example": "The company built a mine to _______ the valuable resources underground.",
+      "hint_image": "hint_l4_059.webp",
+      "hint_image_prompt": "A company drilling into natural resources in a remote area for maximum commercial gain"
+    },
+    {
+      "id": "l4_060",
+      "front": "export",
+      "back": "輸出する",
+      "example": "The country loaded the huge ship to ______ its goods to markets overseas.",
+      "hint_image": "hint_l4_060.webp",
+      "hint_image_prompt": "A cargo ship loaded with manufactured goods leaving port to export them"
+    },
+    {
+      "id": "l4_061",
+      "front": "extract",
+      "back": "抽出する",
+      "example": "The huge drill was used to _______ a sample of rock from deep underground.",
+      "hint_image": "hint_l4_061.webp",
+      "hint_image_prompt": "A mining drill pulling a solid core sample up from deep underground rock"
+    },
+    {
+      "id": "l4_062",
+      "front": "finalize",
+      "back": "最終決定する",
+      "example": "She signed the last page to ________ the important business contract.",
+      "hint_image": "hint_l4_062.webp",
+      "hint_image_prompt": "A person placing a last signature on a contract and closing the folder with finality"
+    },
+    {
+      "id": "l4_063",
+      "front": "forecast",
+      "back": "予測する",
+      "example": "The weather reporter used the map to ________ tomorrow's heavy storm.",
+      "hint_image": "hint_l4_063.webp",
+      "hint_image_prompt": "A meteorologist pointing to weather prediction charts on a large broadcast screen"
+    },
+    {
+      "id": "l4_064",
+      "front": "fulfill",
+      "back": "満たす・全うする",
+      "example": "She checked every box to _______ all the requirements of the task.",
+      "hint_image": "hint_l4_064.webp",
+      "hint_image_prompt": "A person checking the final box on a contract completion checklist with satisfaction"
+    },
+    {
+      "id": "l4_065",
+      "front": "harness",
+      "back": "抑制する・(馬の)引き具",
+      "example": "Engineers built the turbines to _______ the power of the wind for the city.",
+      "hint_image": "hint_l4_065.webp",
+      "hint_image_prompt": "Wind turbines capturing energy from strong gusts and converting it to electricity"
+    },
+    {
+      "id": "l4_066",
+      "front": "hedge",
+      "back": "生垣・(損失に対する)回避",
+      "example": "The investor spread her money to _____ against the risk of loss.",
+      "hint_image": "hint_l4_066.webp",
+      "hint_image_prompt": "A financial advisor dividing investments across multiple asset types to reduce risk"
+    },
+    {
+      "id": "l4_067",
+      "front": "impose",
+      "back": "課す",
+      "example": "The government decided to ______ a strict new rule on the public.",
+      "hint_image": "hint_l4_067.webp",
+      "hint_image_prompt": "A government official posting a new mandatory regulation on a public notice board"
+    },
+    {
+      "id": "l4_068",
+      "front": "import",
+      "back": "輸入する",
+      "example": "The busy port received the ship to ______ goods from other countries.",
+      "hint_image": "hint_l4_068.webp",
+      "hint_image_prompt": "A ship arriving at port carrying goods that will be imported"
+    },
+    {
+      "id": "l4_069",
+      "front": "incorporate",
+      "back": "取り入れる",
+      "example": "The company chose to ___________ the new team into its main structure.",
+      "hint_image": "hint_l4_069.webp",
+      "hint_image_prompt": "New team members being introduced and added to a company organizational chart"
+    },
+    {
+      "id": "l4_070",
+      "front": "incentivize",
+      "back": "動機付けする",
+      "example": "The manager offered rewards to ___________ the staff to work harder.",
+      "hint_image": "hint_l4_070.webp",
+      "hint_image_prompt": "A sales scoreboard showing bonus prizes linked to each performance milestone reached"
+    },
+    {
+      "id": "l4_071",
+      "front": "infer",
+      "back": "推測する",
+      "example": "From the footprints, the detective could _____ who had entered the room.",
+      "hint_image": "hint_l4_071.webp",
+      "hint_image_prompt": "A detective reasoning from partial clues to a conclusion without a direct confession"
+    },
+    {
+      "id": "l4_072",
+      "front": "intervene",
+      "back": "介入する",
+      "example": "She quickly stepped in to _________ before the two workers began to fight.",
+      "hint_image": "hint_l4_072.webp",
+      "hint_image_prompt": "A supervisor stepping in between two workers in conflict to defuse the situation"
+    },
+    {
+      "id": "l4_073",
+      "front": "invoke",
+      "back": "引き起こす",
+      "example": "The lawyer stood up to ______ an old law to defend his client.",
+      "hint_image": "hint_l4_073.webp",
+      "hint_image_prompt": "A lawyer citing a specific law article by opening a legal code to its exact page"
+    },
+    {
+      "id": "l4_074",
+      "front": "isolate",
+      "back": "孤立させる",
+      "example": "The scientist worked in a sealed room to _______ the dangerous virus.",
+      "hint_image": "hint_l4_074.webp",
+      "hint_image_prompt": "A virus being isolated in a quarantine room at a medical facility"
+    },
+    {
+      "id": "l4_075",
+      "front": "itemize",
+      "back": "項目別に記載する・箇条書きにする",
+      "example": "The accountant took time to _______ every expense on the list.",
+      "hint_image": "hint_l4_075.webp",
+      "hint_image_prompt": "An accountant listing every individual expense on a receipt with separate line entries"
+    },
+    {
+      "id": "l4_076",
+      "front": "lease",
+      "back": "リースする・賃貸借",
+      "example": "They shook hands and signed the agreement to _____ the house for two years.",
+      "hint_image": "hint_l4_076.webp",
+      "hint_image_prompt": "A landlord and tenant shaking hands after signing a property rental agreement"
+    },
+    {
+      "id": "l4_077",
+      "front": "leverage",
+      "back": "てこ入れする・てこの作用",
+      "example": "She used a long plank to ________ the heavy boulder off the ground.",
+      "hint_image": "hint_l4_077.webp",
+      "hint_image_prompt": "A small force applied to a long lever easily moving a very heavy load on the other end"
+    },
+    {
+      "id": "l4_078",
+      "front": "liaise",
+      "back": "連絡を取る",
+      "example": "Her job was to ______ between the technical team and the sales team.",
+      "hint_image": "hint_l4_078.webp",
+      "hint_image_prompt": "A project coordinator relaying information between separate departments using a phone"
+    },
+    {
+      "id": "l4_079",
+      "front": "liquidate",
+      "back": "清算する",
+      "example": "The failing company had to _________ all its assets to pay its debts.",
+      "hint_image": "hint_l4_079.webp",
+      "hint_image_prompt": "A company selling all physical assets to convert them into available cash"
+    },
+    {
+      "id": "l4_080",
+      "front": "mandate",
+      "back": "義務化する",
+      "example": "The government issued a strict _______ that everyone had to obey.",
+      "hint_image": "hint_l4_080.webp",
+      "hint_image_prompt": "An authority issuing a formal written directive that all departments must follow"
+    },
+    {
+      "id": "l4_081",
+      "front": "maximize",
+      "back": "最大化する",
+      "example": "The DJ turned the dial up to ________ the energy of the excited crowd.",
+      "hint_image": "hint_l4_081.webp",
+      "hint_image_prompt": "A speaker turning a dial to its highest setting to get maximum output"
+    },
+    {
+      "id": "l4_082",
+      "front": "mediate",
+      "back": "仲裁する",
+      "example": "She was asked to _______ the disagreement between the two teams.",
+      "hint_image": "hint_l4_082.webp",
+      "hint_image_prompt": "A neutral third party sitting between two disagreeing groups helping them communicate"
+    },
+    {
+      "id": "l4_083",
+      "front": "merge",
+      "back": "合併する・混合する",
+      "example": "The two companies agreed to _____ into a single larger firm.",
+      "hint_image": "hint_l4_083.webp",
+      "hint_image_prompt": "Two companies shaking hands as they merge into a single new brand"
+    },
+    {
+      "id": "l4_084",
+      "front": "mitigate",
+      "back": "緩和する",
+      "example": "The firefighters dug a trench to ________ the spread of the wildfire.",
+      "hint_image": "hint_l4_084.webp",
+      "hint_image_prompt": "A firefighter establishing a controlled barrier to slow the spread of a forest fire"
+    },
+    {
+      "id": "l4_085",
+      "front": "mobilize",
+      "back": "動員する",
+      "example": "The chief worked quickly to ________ the rescue teams during the emergency.",
+      "hint_image": "hint_l4_085.webp",
+      "hint_image_prompt": "An emergency coordinator dispatching field teams to their positions during a crisis"
+    },
+    {
+      "id": "l4_086",
+      "front": "monitor",
+      "back": "監視する",
+      "example": "The technician used the screen to _______ the servers all night.",
+      "hint_image": "hint_l4_086.webp",
+      "hint_image_prompt": "A technician monitoring a server rack for any signs of unusual activity"
+    },
+    {
+      "id": "l4_087",
+      "front": "notify",
+      "back": "通知する",
+      "example": "The system sent alerts to ______ every worker of the danger at once.",
+      "hint_image": "hint_l4_087.webp",
+      "hint_image_prompt": "A system alert notification appearing on multiple screens across a business network"
+    },
+    {
+      "id": "l4_088",
+      "front": "observe",
+      "back": "観察する・順守する",
+      "example": "The scientist used a microscope to _______ the tiny cells closely.",
+      "hint_image": "hint_l4_088.webp",
+      "hint_image_prompt": "A scientist watching and recording the behavior of an organism through a microscope"
+    },
+    {
+      "id": "l4_089",
+      "front": "offset",
+      "back": "相殺する・埋め合わせる",
+      "example": "The company planted many trees to ______ the pollution it produced.",
+      "hint_image": "hint_l4_089.webp",
+      "hint_image_prompt": "A carbon credit certificate balancing out the emissions from a factory smokestack"
+    },
+    {
+      "id": "l4_090",
+      "front": "operate",
+      "back": "運営する・操作する",
+      "example": "The skilled surgeon worked carefully to _______ on the patient.",
+      "hint_image": "hint_l4_090.webp",
+      "hint_image_prompt": "A surgeon performing a precise procedure using advanced tools in an operating theater"
+    },
+    {
+      "id": "l4_091",
+      "front": "orchestrate",
+      "back": "指揮する",
+      "example": "The maestro stood on the podium to ___________ the entire orchestra.",
+      "hint_image": "hint_l4_091.webp",
+      "hint_image_prompt": "A conductor coordinating multiple musicians each playing their part in perfect timing"
+    },
+    {
+      "id": "l4_092",
+      "front": "outsource",
+      "back": "外注する",
+      "example": "The company decided to _________ its manufacturing to an outside factory.",
+      "hint_image": "hint_l4_092.webp",
+      "hint_image_prompt": "A domestic company sending a project specification to a factory in another country"
+    },
+    {
+      "id": "l4_093",
+      "front": "oversee",
+      "back": "監督する",
+      "example": "The site manager stood at the window to _______ the construction work.",
+      "hint_image": "hint_l4_093.webp",
+      "hint_image_prompt": "A project manager reviewing progress reports while workers complete tasks in the background"
+    },
+    {
+      "id": "l4_094",
+      "front": "pioneer",
+      "back": "開拓する・先駆者",
+      "example": "The young inventor worked hard to _______ a brand-new technology.",
+      "hint_image": "hint_l4_094.webp",
+      "hint_image_prompt": "An inventor unveiling a breakthrough device that has never existed before"
+    },
+    {
+      "id": "l4_095",
+      "front": "present",
+      "back": "提示する・現在・存在する",
+      "example": "The manager stood up to _______ the new sales results to the board.",
+      "hint_image": "hint_l4_095.webp",
+      "hint_image_prompt": "A speaker delivering a polished presentation to an engaged boardroom audience"
+    },
+    {
+      "id": "l4_096",
+      "front": "prioritize",
+      "back": "優先する",
+      "example": "She used the board to __________ the most urgent tasks first.",
+      "hint_image": "hint_l4_096.webp",
+      "hint_image_prompt": "A person reordering a task list by moving the most urgent item to the very top"
+    },
+    {
+      "id": "l4_097",
+      "front": "procure",
+      "back": "調達する",
+      "example": "The buyer compared several quotes to _______ the parts at the best price.",
+      "hint_image": "hint_l4_097.webp",
+      "hint_image_prompt": "A purchasing officer reviewing supplier quotes before placing a large material order"
+    },
+    {
+      "id": "l4_098",
+      "front": "ratify",
+      "back": "批准する",
+      "example": "The leaders met to sign and ______ the important peace treaty.",
+      "hint_image": "hint_l4_098.webp",
+      "hint_image_prompt": "Government officials signing an international treaty at a formal diplomatic ceremony"
+    },
+    {
+      "id": "l4_099",
+      "front": "reallocate",
+      "back": "再配分する",
+      "example": "The manager decided to __________ the budget to the busier departments.",
+      "hint_image": "hint_l4_099.webp",
+      "hint_image_prompt": "Budget amounts being redistributed among departments on a revised planning chart"
+    },
+    {
+      "id": "l4_100",
+      "front": "recruit",
+      "back": "採用する",
+      "example": "The manager posted the ad to _______ new staff for the team.",
+      "hint_image": "hint_l4_100.webp",
+      "hint_image_prompt": "An HR officer posting a job listing to recruit experienced candidates"
+    },
+    {
+      "id": "l4_101",
+      "front": "reimburse",
+      "back": "払い戻す",
+      "example": "The company gave her a check to _________ her travel expenses.",
+      "hint_image": "hint_l4_101.webp",
+      "hint_image_prompt": "An employer handing a check back to an employee to cover their submitted expenses"
+    },
+    {
+      "id": "l4_102",
+      "front": "reinvent",
+      "back": "最発明する",
+      "example": "The company worked to ________ the old rotary phone as a modern smartphone.",
+      "hint_image": "hint_l4_102.webp",
+      "hint_image_prompt": "An old rotary phone morphing into a modern smartphone showing complete transformation"
+    },
+    {
+      "id": "l4_103",
+      "front": "relocate",
+      "back": "移転する",
+      "example": "The company loaded the truck to ________ its office to the big city.",
+      "hint_image": "hint_l4_103.webp",
+      "hint_image_prompt": "A moving truck carrying company equipment to a new city office"
+    },
+    {
+      "id": "l4_104",
+      "front": "remedy",
+      "back": "治療法",
+      "example": "The engineer worked quickly to ______ the security problem in the system.",
+      "hint_image": "hint_l4_104.webp",
+      "hint_image_prompt": "A technician patching a software vulnerability by writing a new corrective code fix"
+    },
+    {
+      "id": "l4_105",
+      "front": "renew",
+      "back": "更新する",
+      "example": "She went to the counter to _____ her membership card for another year.",
+      "hint_image": "hint_l4_105.webp",
+      "hint_image_prompt": "A person at a counter extending a subscription contract or membership card"
+    },
+    {
+      "id": "l4_106",
+      "front": "replicate",
+      "back": "複製する",
+      "example": "The scientist tried to _________ the same experiment to check the results.",
+      "hint_image": "hint_l4_106.webp",
+      "hint_image_prompt": "A scientist reproducing the same experimental result under identical conditions again"
+    },
+    {
+      "id": "l4_107",
+      "front": "report",
+      "back": "報告する",
+      "example": "She stood up to ______ the yearly results to the executives.",
+      "hint_image": "hint_l4_107.webp",
+      "hint_image_prompt": "An analyst presenting findings to senior management using charts and a summary slide"
+    },
+    {
+      "id": "l4_108",
+      "front": "repurpose",
+      "back": "再利用する",
+      "example": "The builders worked to _________ the old container as a modern office.",
+      "hint_image": "hint_l4_108.webp",
+      "hint_image_prompt": "An old shipping container being converted into a modern compact office space"
+    },
+    {
+      "id": "l4_109",
+      "front": "restructure",
+      "back": "再編する",
+      "example": "The new boss planned to ___________ the whole company from top to bottom.",
+      "hint_image": "hint_l4_109.webp",
+      "hint_image_prompt": "A CEO announcing a major plan to restructure the company's divisions"
+    },
+    {
+      "id": "l4_110",
+      "front": "retain",
+      "back": "保持する",
+      "example": "The company offered rewards to ______ its most talented workers.",
+      "hint_image": "hint_l4_110.webp",
+      "hint_image_prompt": "A company offering a loyalty bonus to keep its best-performing employees from leaving"
+    },
+    {
+      "id": "l4_111",
+      "front": "revoke",
+      "back": "取り消す",
+      "example": "The officer decided to ______ her license after the serious violation.",
+      "hint_image": "hint_l4_111.webp",
+      "hint_image_prompt": "An authority officially canceling and shredding a previously issued license document"
+    },
+    {
+      "id": "l4_112",
+      "front": "scale",
+      "back": "規模・縮尺",
+      "example": "The startup was ready to _____ its business across the whole world.",
+      "hint_image": "hint_l4_112.webp",
+      "hint_image_prompt": "A map showing the growing scale of a business expanding globally"
+    },
+    {
+      "id": "l4_113",
+      "front": "simulate",
+      "back": "シミュレートする・模倣する・ふりをする",
+      "example": "The pilots used the machine to ________ a real flight before takeoff.",
+      "hint_image": "hint_l4_113.webp",
+      "hint_image_prompt": "A flight simulator cockpit used for pilot training without leaving the ground"
+    },
+    {
+      "id": "l4_114",
+      "front": "specialize",
+      "back": "専門化する",
+      "example": "The doctor decided to __________ in difficult brain surgery.",
+      "hint_image": "hint_l4_114.webp",
+      "hint_image_prompt": "A surgeon wearing the specific equipment of one medical field rather than general practice"
+    },
+    {
+      "id": "l4_115",
+      "front": "standardize",
+      "back": "標準化する",
+      "example": "The factory worked to ___________ every part to be exactly the same.",
+      "hint_image": "hint_l4_115.webp",
+      "hint_image_prompt": "A factory producing identical items all conforming to the same measurement template"
+    },
+    {
+      "id": "l4_116",
+      "front": "stipulate",
+      "back": "規定する",
+      "example": "The contract will _________ that payment must be made within 30 days.",
+      "hint_image": "hint_l4_116.webp",
+      "hint_image_prompt": "A contract with one clause underlined and highlighted as a non-negotiable requirement"
+    },
+    {
+      "id": "l4_117",
+      "front": "streamline",
+      "back": "合理化する・流線形の",
+      "example": "The team worked to __________ the messy process into simple clear steps.",
+      "hint_image": "hint_l4_117.webp",
+      "hint_image_prompt": "A workflow diagram with redundant steps removed leaving a clean direct process"
+    },
+    {
+      "id": "l4_118",
+      "front": "strengthen",
+      "back": "強化する",
+      "example": "The workers added steel bars to __________ the concrete bridge.",
+      "hint_image": "hint_l4_118.webp",
+      "hint_image_prompt": "Steel rebar being added inside a concrete beam to increase its load capacity"
+    },
+    {
+      "id": "l4_119",
+      "front": "supplement",
+      "back": "補足する",
+      "example": "She took vitamins each day to __________ her normal diet.",
+      "hint_image": "hint_l4_119.webp",
+      "hint_image_prompt": ": A nutrition label showing additional vitamins added to a base formula product"
+    },
+    {
+      "id": "l4_120",
+      "front": "suppress",
+      "back": "抑制する",
+      "example": "The officer pressed the button to ________ the loud angry voices.",
+      "hint_image": "hint_l4_120.webp",
+      "hint_image_prompt": "A moderator muting a disruptive voice in an online meeting by pressing a mute button"
+    },
+    {
+      "id": "l4_121",
+      "front": "synthesize",
+      "back": "統合する",
+      "example": "The chemist combined the two liquids to __________ a brand-new compound.",
+      "hint_image": "hint_l4_121.webp",
+      "hint_image_prompt": "A chemist combining separate compounds in a flask to create a new unified substance"
+    },
+    {
+      "id": "l4_122",
+      "front": "tailor",
+      "back": "仕立て屋・仕立て人",
+      "example": "The designer worked to ______ the dress to fit the customer perfectly.",
+      "hint_image": "hint_l4_122.webp",
+      "hint_image_prompt": "A designer adjusting a template specifically to match one client's unique requirements"
+    },
+    {
+      "id": "l4_123",
+      "front": "terminate",
+      "back": "終了させる",
+      "example": "The manager was forced to _________ the worker's contract for poor results.",
+      "hint_image": "hint_l4_123.webp",
+      "hint_image_prompt": "An employer terminating a contract and informing the staff member formally"
+    },
+    {
+      "id": "l4_124",
+      "front": "track",
+      "back": "追跡する",
+      "example": "The driver used the device to _____ the delivery on the map.",
+      "hint_image": "hint_l4_124.webp",
+      "hint_image_prompt": "A GPS device tracking the location of a delivery truck in real time"
+    },
+    {
+      "id": "l4_125",
+      "front": "validate",
+      "back": "検証する・有効にする",
+      "example": "The inspector used a gauge to ________ that the part met the standard.",
+      "hint_image": "hint_l4_125.webp",
+      "hint_image_prompt": "A quality control inspector confirming a product batch meets all required specifications"
+    },
+    {
+      "id": "l4_126",
+      "front": "waive",
+      "back": "放棄する",
+      "example": "The manager decided to _____ the extra fee for the loyal customer.",
+      "hint_image": "hint_l4_126.webp",
+      "hint_image_prompt": "An official crossing out a fee on an invoice and writing waived next to it"
+    },
+    {
+      "id": "l4_127",
+      "front": "yield",
+      "back": "産出する",
+      "example": "The rich farmland began to _____ a huge harvest of golden wheat.",
+      "hint_image": "hint_l4_127.webp",
+      "hint_image_prompt": "A field of wheat bending under the weight of a heavy crop ready to be harvested"
+    },
+    {
+      "id": "l4_128",
+      "front": "accountability",
+      "back": "説明責任",
+      "example": "The manager accepted full ______________ for the team's mistakes.",
+      "hint_image": "hint_l4_128.webp",
+      "hint_image_prompt": "A manager presenting project results to a board taking full ownership of outcomes"
+    },
+    {
+      "id": "l4_129",
+      "front": "accrual",
+      "back": "付加利子・発生主義",
+      "example": "The account book showed the steady _______ of interest over time.",
+      "hint_image": "hint_l4_129.webp",
+      "hint_image_prompt": "An accounting ledger showing income being recorded as it is earned over a quarter"
+    },
+    {
+      "id": "l4_130",
+      "front": "acquisition",
+      "back": "取得・買収",
+      "example": "The news reported the ___________ of the small firm by a larger company.",
+      "hint_image": "hint_l4_130.webp",
+      "hint_image_prompt": "A news headline announcing a large company purchasing another firm for millions"
+    },
+    {
+      "id": "l4_131",
+      "front": "addendum",
+      "back": "追加・追加内容・補遺",
+      "example": "The lawyer added an ________ to the contract with the new terms.",
+      "hint_image": "hint_l4_131.webp",
+      "hint_image_prompt": "A handwritten supplementary note attached to the bottom of a signed legal document"
+    },
+    {
+      "id": "l4_132",
+      "front": "affiliation",
+      "back": "所属",
+      "example": "The two firms announced their new ___________ at the ceremony.",
+      "hint_image": "hint_l4_132.webp",
+      "hint_image_prompt": "A company logo displayed alongside a partner organization's logo on a shared banner"
+    },
+    {
+      "id": "l4_133",
+      "front": "alignment",
+      "back": "一列に並ぶこと",
+      "example": "The manager checked the _________ of all teams toward the same goal.",
+      "hint_image": "hint_l4_133.webp",
+      "hint_image_prompt": "A team whiteboard showing all department goals lined up under a single company objective"
+    },
+    {
+      "id": "l4_134",
+      "front": "allotment",
+      "back": "割り当て",
+      "example": "Each department received its own _________ of the yearly budget.",
+      "hint_image": "hint_l4_134.webp",
+      "hint_image_prompt": "A pie chart divided into portions with each section labeled as a department's share"
+    },
+    {
+      "id": "l4_135",
+      "front": "arbitration",
+      "back": "仲裁",
+      "example": "The two sides went to ___________ to settle their dispute fairly.",
+      "hint_image": "hint_l4_135.webp",
+      "hint_image_prompt": "A neutral arbitrator sitting between two legal teams at a dispute resolution session"
+    },
+    {
+      "id": "l4_136",
+      "front": "assessment",
+      "back": "評価",
+      "example": "The engineer made a careful __________ of the machine's condition.",
+      "hint_image": "hint_l4_136.webp",
+      "hint_image_prompt": "An inspector with a clipboard scoring each criterion on a structured evaluation form"
+    },
+    {
+      "id": "l4_137",
+      "front": "asset",
+      "back": "資産",
+      "example": "The old building was the company's most valuable _____.",
+      "hint_image": "hint_l4_137.webp",
+      "hint_image_prompt": "A balance sheet listing various assets including cash and property"
+    },
+    {
+      "id": "l4_138",
+      "front": "assurance",
+      "back": "保証",
+      "example": "The quality stamp gave customers full _________ of the product's quality.",
+      "hint_image": "hint_l4_138.webp",
+      "hint_image_prompt": "A quality control stamp pressed firmly onto an approved certified product"
+    },
+    {
+      "id": "l4_139",
+      "front": "attrition",
+      "back": "消耗・自然減",
+      "example": "The company worried about the high _________ as many workers quit.",
+      "hint_image": "hint_l4_139.webp",
+      "hint_image_prompt": "A staffing chart showing the gradual reduction of headcount over several quarters"
+    },
+    {
+      "id": "l4_140",
+      "front": "authorization",
+      "back": "認可",
+      "example": "The officer gave written _____________ to release the funds.",
+      "hint_image": "hint_l4_140.webp",
+      "hint_image_prompt": "A senior officer digitally signing an approval on a secure document system"
+    },
+    {
+      "id": "l4_141",
+      "front": "backlog",
+      "back": "積み残し",
+      "example": "The software team had a huge _______ of unfinished tasks to complete.",
+      "hint_image": "hint_l4_141.webp",
+      "hint_image_prompt": "A project dashboard showing a long backlog of unfinished tasks"
+    },
+    {
+      "id": "l4_142",
+      "front": "benchmarking",
+      "back": "ベンチマーキング",
+      "example": "The team did careful ____________ to compare its results with rivals.",
+      "hint_image": "hint_l4_142.webp",
+      "hint_image_prompt": "A bar chart comparing one company's key performance metrics against industry peers"
+    },
+    {
+      "id": "l4_143",
+      "front": "bilateral",
+      "back": "双方向の・二面性の",
+      "example": "The two countries signed a _________ trade agreement between them.",
+      "hint_image": "hint_l4_143.webp",
+      "hint_image_prompt": "Two country representatives shaking hands over a signed mutual trade agreement"
+    },
+    {
+      "id": "l4_144",
+      "front": "bottleneck",
+      "back": "ボトルネック・瓶の首の部分・道が狭くなり渋滞を起こしている場所",
+      "example": "The road construction created a __________ that slowed all the traffic.",
+      "hint_image": "hint_l4_144.webp",
+      "hint_image_prompt": "A highway narrowing into one lane causing a bottleneck of slow traffic"
+    },
+    {
+      "id": "l4_145",
+      "front": "breakeven",
+      "back": "損益分岐点",
+      "example": "The company finally reached its _________ point and stopped losing money.",
+      "hint_image": "hint_l4_145.webp",
+      "hint_image_prompt": "A graph with costs and revenue lines crossing at a single break-even intersection point"
+    },
+    {
+      "id": "l4_146",
+      "front": "briefing",
+      "back": "概要説明",
+      "example": "The manager called a short ________ before the big meeting.",
+      "hint_image": "hint_l4_146.webp",
+      "hint_image_prompt": "An executive attending a short briefing before a major board presentation"
+    },
+    {
+      "id": "l4_147",
+      "front": "bureau",
+      "back": "局・事務所",
+      "example": "She went to the government ______ to get the official stamp.",
+      "hint_image": "hint_l4_147.webp",
+      "hint_image_prompt": "A government bureau with clerks managing official paperwork at a desk"
+    },
+    {
+      "id": "l4_148",
+      "front": "buyout",
+      "back": "買収",
+      "example": "The large firm completed the ______ of the whole retail chain.",
+      "hint_image": "hint_l4_148.webp",
+      "hint_image_prompt": "Investors completing a full buyout of a retail chain's shares"
+    },
+    {
+      "id": "l4_149",
+      "front": "cancellation",
+      "back": "取り消し",
+      "example": "She was upset by the sudden ____________ of her holiday trip.",
+      "hint_image": "hint_l4_149.webp",
+      "hint_image_prompt": "A booking calendar with a red X crossed over a previously confirmed reservation"
+    },
+    {
+      "id": "l4_150",
+      "front": "capex",
+      "back": "設備投資",
+      "example": "The company spent a lot of _____ on new cranes and machines.",
+      "hint_image": "hint_l4_150.webp",
+      "hint_image_prompt": "A construction project purchase order for major equipment listed as capital expenditure"
+    },
+    {
+      "id": "l4_151",
+      "front": "certification",
+      "back": "認定",
+      "example": "She proudly received her official _____________ at the graduation.",
+      "hint_image": "hint_l4_151.webp",
+      "hint_image_prompt": "A training instructor handing out official certification to graduates"
+    },
+    {
+      "id": "l4_152",
+      "front": "chairperson",
+      "back": "議長",
+      "example": "The ___________ led the yearly meeting from the podium.",
+      "hint_image": "hint_l4_152.webp",
+      "hint_image_prompt": "A chairperson calling the room to order at the start of a meeting"
+    },
+    {
+      "id": "l4_153",
+      "front": "charter",
+      "back": "特許状・規程・貸し切り契約・(乗り物の)チャーター",
+      "example": "The family paid to _______ a private yacht for their holiday.",
+      "hint_image": "hint_l4_153.webp",
+      "hint_image_prompt": "A yacht being hired under a charter agreement for a two-week voyage"
+    },
+    {
+      "id": "l4_154",
+      "front": "churn",
+      "back": "解約・かき混ぜる",
+      "example": "The company was worried about the high customer _____ this year.",
+      "hint_image": "hint_l4_154.webp",
+      "hint_image_prompt": "A customer retention chart showing the rate of subscribers leaving each month"
+    },
+    {
+      "id": "l4_155",
+      "front": "clearance",
+      "back": "一掃すること・許可",
+      "example": "The guard checked his pass and gave him _________ to enter.",
+      "hint_image": "hint_l4_155.webp",
+      "hint_image_prompt": "A security officer granting clearance to a visitor at a checkpoint"
+    },
+    {
+      "id": "l4_156",
+      "front": "collateral",
+      "back": "担保",
+      "example": "The bank asked him to offer his house as __________ for the loan.",
+      "hint_image": "hint_l4_156.webp",
+      "hint_image_prompt": "A house deed placed on a table as security against a large bank loan agreement"
+    },
+    {
+      "id": "l4_157",
+      "front": "commission",
+      "back": "手数料",
+      "example": "The agent earned a large __________ for selling the house.",
+      "hint_image": "hint_l4_157.webp",
+      "hint_image_prompt": "A real estate agent receiving a commission check after a house sale"
+    },
+    {
+      "id": "l4_158",
+      "front": "commodity",
+      "back": "商品",
+      "example": "The price of oil, a key _________, rose sharply on the market.",
+      "hint_image": "hint_l4_158.webp",
+      "hint_image_prompt": "An oil barrel on a trading floor as a widely traded commodity"
+    },
+    {
+      "id": "l4_159",
+      "front": "compensation",
+      "back": "報酬・補償",
+      "example": "The company offered fair ____________ for the extra hours she worked.",
+      "hint_image": "hint_l4_159.webp",
+      "hint_image_prompt": "A paycheck envelope being handed to an employee for completed work and overtime"
+    },
+    {
+      "id": "l4_160",
+      "front": "compliance",
+      "back": "法令遵守",
+      "example": "The manager checked the team's __________ with the new rules.",
+      "hint_image": "hint_l4_160.webp",
+      "hint_image_prompt": "An auditor checking company procedures against a regulatory requirements checklist"
+    },
+    {
+      "id": "l4_161",
+      "front": "concession",
+      "back": "譲歩",
+      "example": "To close the deal, she made an important __________ on the price.",
+      "hint_image": "hint_l4_161.webp",
+      "hint_image_prompt": "A negotiator crossing out one demand on a list as a compromise to reach agreement"
+    },
+    {
+      "id": "l4_162",
+      "front": "conference",
+      "back": "会議",
+      "example": "Experts from many countries came to the international __________.",
+      "hint_image": "hint_l4_162.webp",
+      "hint_image_prompt": "A speaker delivering a keynote address at an international conference"
+    },
+    {
+      "id": "l4_163",
+      "front": "confidentiality",
+      "back": "機密性",
+      "example": "She locked the papers away to protect their _______________.",
+      "hint_image": "hint_l4_163.webp",
+      "hint_image_prompt": "A document stamped CONFIDENTIAL being secured in a locked filing cabinet"
+    },
+    {
+      "id": "l4_164",
+      "front": "consortium",
+      "back": "コンソーシアム・共同体",
+      "example": "Several firms joined together to form a __________ for the project.",
+      "hint_image": "hint_l4_164.webp",
+      "hint_image_prompt": "Multiple organization logos arranged in a circle indicating a shared joint venture"
+    },
+    {
+      "id": "l4_165",
+      "front": "contingency",
+      "back": "不測の事態",
+      "example": "The company kept a backup generator as a ___________ for emergencies.",
+      "hint_image": "hint_l4_165.webp",
+      "hint_image_prompt": "A backup generator being switched on during a power outage as the planned alternative"
+    },
+    {
+      "id": "l4_166",
+      "front": "contractor",
+      "back": "請負業者",
+      "example": "The company hired an outside __________ to build the new office.",
+      "hint_image": "hint_l4_166.webp",
+      "hint_image_prompt": "A person in a hard hat arriving at a construction site as a contractor"
+    },
+    {
+      "id": "l4_167",
+      "front": "convention",
+      "back": "慣例",
+      "example": "Thousands of people attended the yearly business __________.",
+      "hint_image": "hint_l4_167.webp",
+      "hint_image_prompt": "A handshake photo used in a company policy guide as a convention"
+    },
+    {
+      "id": "l4_168",
+      "front": "copyright",
+      "back": "著作権",
+      "example": "The artist put a _________ on her painting to protect it.",
+      "hint_image": "hint_l4_168.webp",
+      "hint_image_prompt": "An artist placing a copyright symbol on their original painting before publishing it"
+    },
+    {
+      "id": "l4_169",
+      "front": "coordination",
+      "back": "調整",
+      "example": "Good ____________ between the teams made the project succeed.",
+      "hint_image": "hint_l4_169.webp",
+      "hint_image_prompt": "A project timeline showing synchronized tasks across multiple team members"
+    },
+    {
+      "id": "l4_170",
+      "front": "corporate",
+      "back": "企業の（形容詞）",
+      "example": "The tall glass building was the company's _________ headquarters.",
+      "hint_image": "hint_l4_170.webp",
+      "hint_image_prompt": "A glass-and-steel headquarters building with a large company logo on the facade"
+    },
+    {
+      "id": "l4_171",
+      "front": "correspondence",
+      "back": "文書のやり取り・通信",
+      "example": "The clerk sorted a large pile of business ______________ on the desk.",
+      "hint_image": "hint_l4_171.webp",
+      "hint_image_prompt": "A stack of business letters and email printouts organized by date in a folder"
+    },
+    {
+      "id": "l4_172",
+      "front": "counterpart",
+      "back": "同等の相手",
+      "example": "She met her ___________ from the other company to discuss the deal.",
+      "hint_image": "hint_l4_172.webp",
+      "hint_image_prompt": "Two executives from partner companies sitting across a table for a joint meeting"
+    },
+    {
+      "id": "l4_173",
+      "front": "credential",
+      "back": "資格・証明",
+      "example": "She showed her __________ to prove she worked for the company.",
+      "hint_image": "hint_l4_173.webp",
+      "hint_image_prompt": "A professional holding up a laminated ID card showing their certification level"
+    },
+    {
+      "id": "l4_174",
+      "front": "criterion",
+      "back": "基準（単数）",
+      "example": "Skill was the most important _________ for choosing the winner.",
+      "hint_image": "hint_l4_174.webp",
+      "hint_image_prompt": "An evaluation rubric with clearly defined scoring standards for each performance level"
+    },
+    {
+      "id": "l4_175",
+      "front": "currency",
+      "back": "通貨",
+      "example": "He changed his money into the local ________ at the airport.",
+      "hint_image": "hint_l4_175.webp",
+      "hint_image_prompt": "A variety of international banknotes spread across a table at a foreign exchange desk"
+    },
+    {
+      "id": "l4_176",
+      "front": "cycle",
+      "back": "サイクル・周期",
+      "example": "The diagram shows the product development _____ from concept to design, testing, and release.",
+      "hint_image": "hint_l4_176.webp",
+      "hint_image_prompt": "A diagram showing the full product development cycle from start to release"
+    },
+    {
+      "id": "l4_177",
+      "front": "data",
+      "back": "データ・資料",
+      "example": "The researcher analyzes the ____ displayed as charts and graphs on the monitors.",
+      "hint_image": "hint_l4_177.webp",
+      "hint_image_prompt": "A researcher loading data files into a processing program for analysis"
+    },
+    {
+      "id": "l4_178",
+      "front": "deficit",
+      "back": "赤字",
+      "example": "The company spent more than it earned, causing a big _______.",
+      "hint_image": "hint_l4_178.webp",
+      "hint_image_prompt": "A red line on a budget graph showing the company is running at a deficit"
+    },
+    {
+      "id": "l4_179",
+      "front": "delegation",
+      "back": "代表団・委任",
+      "example": "Good __________ let the manager share tasks with her team.",
+      "hint_image": "hint_l4_179.webp",
+      "hint_image_prompt": "A manager handing a project brief to a team member empowering them to lead it"
+    },
+    {
+      "id": "l4_180",
+      "front": "demographics",
+      "back": "人口統計学",
+      "example": "The company studied the ____________ to learn about its customers.",
+      "hint_image": "hint_l4_180.webp",
+      "hint_image_prompt": "A population pyramid chart showing age and gender distribution across a region"
+    },
+    {
+      "id": "l4_181",
+      "front": "department",
+      "back": "部門",
+      "example": "Each __________ in the single division handles a different business function.",
+      "hint_image": "hint_l4_181.webp",
+      "hint_image_prompt": "An organization chart showing several departments under one division"
+    },
+    {
+      "id": "l4_182",
+      "front": "depreciation",
+      "back": "減価償却",
+      "example": "The graph shows the steady ____________ of the asset's value over the seasons.",
+      "hint_image": "hint_l4_182.webp",
+      "hint_image_prompt": "An asset value chart showing a steady decline in book value over its useful life"
+    },
+    {
+      "id": "l4_183",
+      "front": "deputy",
+      "back": "代理",
+      "example": "The ______ minister signs the official document on behalf of his superior.",
+      "hint_image": "hint_l4_183.webp",
+      "hint_image_prompt": "A deputy signing papers on behalf of a minister who is abroad"
+    },
+    {
+      "id": "l4_184",
+      "front": "directive",
+      "back": "指令",
+      "example": "The manager issued a _________ to all staff on the office screen.",
+      "hint_image": "hint_l4_184.webp",
+      "hint_image_prompt": "A company-wide memo with bold ALL STAFF text at the top issuing a formal instruction"
+    },
+    {
+      "id": "l4_185",
+      "front": "disbursement",
+      "back": "支払い",
+      "example": "The bank officer prepares the ____________ of funds from the safe.",
+      "hint_image": "hint_l4_185.webp",
+      "hint_image_prompt": "A treasurer releasing funds from a safe and distributing them per approved budget"
+    },
+    {
+      "id": "l4_186",
+      "front": "disclosure",
+      "back": "開示",
+      "example": "The executive gives a full __________ of the company's results to the audience.",
+      "hint_image": "hint_l4_186.webp",
+      "hint_image_prompt": "A company executive revealing financial information to shareholders at a public meeting"
+    },
+    {
+      "id": "l4_187",
+      "front": "discrepancy",
+      "back": "不一致",
+      "example": "The auditor circled a ___________ in the figures on the report.",
+      "hint_image": "hint_l4_187.webp",
+      "hint_image_prompt": "An auditor circling two non-matching figures in red on a balance sheet comparison"
+    },
+    {
+      "id": "l4_188",
+      "front": "dismissal",
+      "back": "解雇",
+      "example": "The manager handed the _________ letter to the shocked employee.",
+      "hint_image": "hint_l4_188.webp",
+      "hint_image_prompt": "An HR manager handing a formal termination letter to an employee in a private office"
+    },
+    {
+      "id": "l4_189",
+      "front": "dispatch",
+      "back": "派遣",
+      "example": "The officer will ________ the soldiers from the truck to the border post.",
+      "hint_image": "hint_l4_189.webp",
+      "hint_image_prompt": "A military truck dispatching troops to a remote border position"
+    },
+    {
+      "id": "l4_190",
+      "front": "distribution",
+      "back": "流通",
+      "example": "The team manages the global ____________ of goods along the shipping routes.",
+      "hint_image": "hint_l4_190.webp",
+      "hint_image_prompt": "A logistics network map showing a hub sending goods outward to multiple destinations"
+    },
+    {
+      "id": "l4_191",
+      "front": "dividend",
+      "back": "配当",
+      "example": "The happy investor receives a ________ paid into her account by the bank.",
+      "hint_image": "hint_l4_191.webp",
+      "hint_image_prompt": "A shareholder receiving a dividend payment deposited into their account"
+    },
+    {
+      "id": "l4_192",
+      "front": "documentation",
+      "back": "書類",
+      "example": "The engineer reviews the technical _____________ stored in the binders.",
+      "hint_image": "hint_l4_192.webp",
+      "hint_image_prompt": "A desk covered in organized binders labeled by project phase and regulatory requirement"
+    },
+    {
+      "id": "l4_193",
+      "front": "domain",
+      "back": "領域",
+      "example": "She registered a new ______ name for the company website.",
+      "hint_image": "hint_l4_193.webp",
+      "hint_image_prompt": "A website URL address bar showing a company domain name being registered online"
+    },
+    {
+      "id": "l4_194",
+      "front": "downturn",
+      "back": "景気後退",
+      "example": "The graph shows a sudden ________ after months of steady growth.",
+      "hint_image": "hint_l4_194.webp",
+      "hint_image_prompt": "An economic graph line curving sharply downward after a period of growth"
+    },
+    {
+      "id": "l4_195",
+      "front": "due diligence",
+      "back": "適正評価手続き・適切な注意",
+      "example": "The analyst performs careful _____________ by reviewing stacks of documents.",
+      "hint_image": "hint_l4_195.webp",
+      "hint_image_prompt": "A lawyer reviewing stacks of financial and legal documents before signing an acquisition"
+    },
+    {
+      "id": "l4_196",
+      "front": "dynamics",
+      "back": "力学",
+      "example": "The team's group ________ help them solve the problem around the table.",
+      "hint_image": "hint_l4_196.webp",
+      "hint_image_prompt": "A team meeting where roles and contributions shift fluidly as the conversation evolves"
+    },
+    {
+      "id": "l4_197",
+      "front": "ecosystem",
+      "back": "生態系",
+      "example": "The diagram maps the startup _________ of investors, suppliers, and customers.",
+      "hint_image": "hint_l4_197.webp",
+      "hint_image_prompt": "A startup map showing investors accelerators suppliers and customers all interconnected"
+    },
+    {
+      "id": "l4_198",
+      "front": "efficacy",
+      "back": "効果",
+      "example": "The rising chart demonstrates the ________ of the new medical treatment.",
+      "hint_image": "hint_l4_198.webp",
+      "hint_image_prompt": "A clinical trial result chart showing a treatment's measurable effectiveness percentage"
+    },
+    {
+      "id": "l4_199",
+      "front": "eligibility",
+      "back": "資格",
+      "example": "The recruiter checks the candidate's ___________ based on age, education, and experience.",
+      "hint_image": "hint_l4_199.webp",
+      "hint_image_prompt": "A checklist with age education and experience criteria being verified for an applicant"
+    },
+    {
+      "id": "l4_200",
+      "front": "embargo",
+      "back": "禁輸",
+      "example": "The government placed an _______ that halts all shipments at the port.",
+      "hint_image": "hint_l4_200.webp",
+      "hint_image_prompt": "A port with a large sign saying imports prohibited under current embargo"
+    },
+    {
+      "id": "l4_201",
+      "front": "endorsement",
+      "back": "承認",
+      "example": "The celebrity's ___________ of the product delights the cheering crowd.",
+      "hint_image": "hint_l4_201.webp",
+      "hint_image_prompt": "A celebrity signing their approval onto an advertisement for a consumer product"
+    },
+    {
+      "id": "l4_202",
+      "front": "enterprise",
+      "back": "企業",
+      "example": "The large modern building houses a successful __________.",
+      "hint_image": "hint_l4_202.webp",
+      "hint_image_prompt": "A modern office building with the word enterprise across the entrance"
+    },
+    {
+      "id": "l4_203",
+      "front": "entrepreneur",
+      "back": "起業家",
+      "example": "The young ____________ presents her new business idea on stage.",
+      "hint_image": "hint_l4_203.webp",
+      "hint_image_prompt": "A young entrepreneur presenting their startup idea at a pitch event"
+    },
+    {
+      "id": "l4_204",
+      "front": "equity",
+      "back": "株式・公平",
+      "example": "The scale balances the company's cash against its shareholders' ______.",
+      "hint_image": "hint_l4_204.webp",
+      "hint_image_prompt": "A balance scale with cash investments on one side and ownership shares on the other"
+    },
+    {
+      "id": "l4_205",
+      "front": "escalation",
+      "back": "エスカレーション・拡大",
+      "example": "The __________ of the issue moves the problem from level one to level two.",
+      "hint_image": "hint_l4_205.webp",
+      "hint_image_prompt": "A support ticket being moved up from level one to level two management review"
+    },
+    {
+      "id": "l4_206",
+      "front": "execution",
+      "back": "実行",
+      "example": "The manager approves the smooth _________ of the business plan step by step.",
+      "hint_image": "hint_l4_206.webp",
+      "hint_image_prompt": "A project manager marking the final task complete on a delivery timeline board"
+    },
+    {
+      "id": "l4_207",
+      "front": "exemption",
+      "back": "免除",
+      "example": "The accountant marks a tax _________ that removes one charge from the return.",
+      "hint_image": "hint_l4_207.webp",
+      "hint_image_prompt": "A tax form with one category crossed out and labeled exempt from this charge"
+    },
+    {
+      "id": "l4_208",
+      "front": "expenditure",
+      "back": "支出",
+      "example": "The team reviews each ___________ listed on the long office receipt.",
+      "hint_image": "hint_l4_208.webp",
+      "hint_image_prompt": "A receipt tape unrolling across a table showing all itemized business spending"
+    },
+    {
+      "id": "l4_209",
+      "front": "extension",
+      "back": "延長",
+      "example": "She marks an _________ that moves the deadline to a new date on the calendar.",
+      "hint_image": "hint_l4_209.webp",
+      "hint_image_prompt": "A deadline calendar with the original date crossed out and a new later date circled"
+    },
+    {
+      "id": "l4_210",
+      "front": "facilitation",
+      "back": "容易にすること・促進すること",
+      "example": "The leader's skillful ____________ helps the team share ideas at the whiteboard.",
+      "hint_image": "hint_l4_210.webp",
+      "hint_image_prompt": "A workshop leader guiding a diverse group through a structured brainstorming exercise"
+    },
+    {
+      "id": "l4_211",
+      "front": "feasibility",
+      "back": "実現可能性",
+      "example": "The engineer studies the ___________ of the new bridge design.",
+      "hint_image": "hint_l4_211.webp",
+      "hint_image_prompt": "An engineer reviewing technical specifications to determine if a project can proceed"
+    },
+    {
+      "id": "l4_212",
+      "front": "filing",
+      "back": "(書類の)整理・保管・申請",
+      "example": "The clerk carries a stack of binders for ______ in the cabinets.",
+      "hint_image": "hint_l4_212.webp",
+      "hint_image_prompt": "An office worker carrying a tall stack of filing folders to a cabinet"
+    },
+    {
+      "id": "l4_213",
+      "front": "fiscal",
+      "back": "財政の（形容詞）",
+      "example": "The book shows the four quarters of the ______ year.",
+      "hint_image": "hint_l4_213.webp",
+      "hint_image_prompt": "A government budget document divided into quarterly spending periods for a fiscal year"
+    },
+    {
+      "id": "l4_214",
+      "front": "flexibility",
+      "back": "柔軟性",
+      "example": "The new policy offers ___________ with adjustable and remote work hours.",
+      "hint_image": "hint_l4_214.webp",
+      "hint_image_prompt": "A policy document with adjustable clauses shown by brackets allowing for changes"
+    },
+    {
+      "id": "l4_215",
+      "front": "fluctuation",
+      "back": "変動",
+      "example": "The analyst watches the sharp ___________ of the stock price on the screen.",
+      "hint_image": "hint_l4_215.webp",
+      "hint_image_prompt": "A currency exchange rate graph showing jagged rises and falls over a trading day"
+    },
+    {
+      "id": "l4_216",
+      "front": "forfeiture",
+      "back": "没収",
+      "example": "The athlete's __________ means she must hand back her gold medal.",
+      "hint_image": "hint_l4_216.webp",
+      "hint_image_prompt": "An athlete handing back a medal after a doping violation ruling is announced"
+    },
+    {
+      "id": "l4_217",
+      "front": "formality",
+      "back": "形式",
+      "example": "The business letter on the desk is written with proper _________.",
+      "hint_image": "hint_l4_217.webp",
+      "hint_image_prompt": "A formal letter with proper greeting body and closing on company letterhead"
+    },
+    {
+      "id": "l4_218",
+      "front": "franchise",
+      "back": "参政権・選挙権・販売権・フランチャイズ",
+      "example": "Customers line up at the popular burger _________ in the mall.",
+      "hint_image": "hint_l4_218.webp",
+      "hint_image_prompt": "A fast food chain showing a franchise storefront in a city shopping mall"
+    },
+    {
+      "id": "l4_219",
+      "front": "fraud",
+      "back": "詐欺",
+      "example": "The detective exposes the _____ by holding up the forged document.",
+      "hint_image": "hint_l4_219.webp",
+      "hint_image_prompt": "A detective holding up a document proving the suspect committed fraud"
+    },
+    {
+      "id": "l4_220",
+      "front": "funding",
+      "back": "資金調達",
+      "example": "The company provides _______ with a large grant check at the ceremony.",
+      "hint_image": "hint_l4_220.webp",
+      "hint_image_prompt": "A bank issuing a grant check to a startup founder at an investment ceremony"
+    },
+    {
+      "id": "l4_221",
+      "front": "governance",
+      "back": "統治",
+      "example": "The board members raise their hands to vote on corporate __________.",
+      "hint_image": "hint_l4_221.webp",
+      "hint_image_prompt": "A board of directors voting on company policy with raised hands around a table"
+    },
+    {
+      "id": "l4_222",
+      "front": "gross",
+      "back": "総計（形容詞）",
+      "example": "The rising chart shows the company's _____ profit for the year.",
+      "hint_image": "hint_l4_222.webp",
+      "hint_image_prompt": "A revenue report showing total income before any deductions are applied"
+    },
+    {
+      "id": "l4_223",
+      "front": "headquarters",
+      "back": "本社",
+      "example": "The company's huge ____________ towers over the futuristic city.",
+      "hint_image": "hint_l4_223.webp",
+      "hint_image_prompt": "A large building labeled headquarters of a global technology company"
+    },
+    {
+      "id": "l4_224",
+      "front": "implementation",
+      "back": "実施",
+      "example": "The workers manage the ______________ of the new server system.",
+      "hint_image": "hint_l4_224.webp",
+      "hint_image_prompt": "Workers installing new equipment following a step-by-step rollout project plan"
+    },
+    {
+      "id": "l4_225",
+      "front": "incentive",
+      "back": "動機・奨励金",
+      "example": "The store offers an _________ discount for a customer's first purchase.",
+      "hint_image": "hint_l4_225.webp",
+      "hint_image_prompt": "A gift voucher offering an incentive discount to encourage first purchases"
+    },
+    {
+      "id": "l4_226",
+      "front": "indicator",
+      "back": "測定器・指標",
+      "example": "The green _________ on the dial shows the power core is running well.",
+      "hint_image": "hint_l4_226.webp",
+      "hint_image_prompt": "A dashboard gauge labeled as a key performance indicator"
+    },
+    {
+      "id": "l4_227",
+      "front": "inflation",
+      "back": "インフレ・膨張",
+      "example": "Because of _________, the teapot's price rises from one to two dollars.",
+      "hint_image": "hint_l4_227.webp",
+      "hint_image_prompt": "A price tag showing a product that cost one dollar last year now costing two dollars"
+    },
+    {
+      "id": "l4_228",
+      "front": "insurance",
+      "back": "保険",
+      "example": "The woman reviews her medical _________ policy at her desk.",
+      "hint_image": "hint_l4_228.webp",
+      "hint_image_prompt": "A person reviewing their insurance policy document for medical coverage"
+    },
+    {
+      "id": "l4_229",
+      "front": "intellectual property",
+      "back": "知的財産",
+      "example": "The framed patent on the wall protects the inventor's _____________________.",
+      "hint_image": "hint_l4_229.webp",
+      "hint_image_prompt": "A patent certificate displayed in a frame on an inventor's office wall"
+    },
+    {
+      "id": "l4_230",
+      "front": "inventory",
+      "back": "在庫",
+      "example": "The worker scans each box to check the warehouse _________.",
+      "hint_image": "hint_l4_230.webp",
+      "hint_image_prompt": "A warehouse worker scanning items and updating the inventory list"
+    },
+    {
+      "id": "l4_231",
+      "front": "invoice",
+      "back": "請求書",
+      "example": "The supplier hands an _______ to the warehouse clerk.",
+      "hint_image": "hint_l4_231.webp",
+      "hint_image_prompt": "A supplier handing over a printed invoice for goods recently delivered"
+    },
+    {
+      "id": "l4_232",
+      "front": "itinerary",
+      "back": "旅程",
+      "example": "The traveler plans her day-by-day _________ from the guidebook.",
+      "hint_image": "hint_l4_232.webp",
+      "hint_image_prompt": "A traveler reviewing a detailed itinerary for a ten-day overseas trip"
+    },
+    {
+      "id": "l4_233",
+      "front": "joint venture",
+      "back": "合弁事業",
+      "example": "The two companies form a _____________ with a handshake.",
+      "hint_image": "hint_l4_233.webp",
+      "hint_image_prompt": "Two company representatives shaking hands beneath a banner showing both logos"
+    },
+    {
+      "id": "l4_234",
+      "front": "jurisdiction",
+      "back": "管轄権・司法権・裁判権",
+      "example": "The courthouse sits at the center of the city's ____________.",
+      "hint_image": "hint_l4_234.webp",
+      "hint_image_prompt": "A map with a highlighted court district boundary marked as the legal operating zone"
+    },
+    {
+      "id": "l4_235",
+      "front": "layoff",
+      "back": "解雇",
+      "example": "The sad employees receive a ______ notice as the company shrinks.",
+      "hint_image": "hint_l4_235.webp",
+      "hint_image_prompt": "Workers receiving pink slips as the company announces a layoff"
+    },
+    {
+      "id": "l4_236",
+      "front": "legislation",
+      "back": "法律",
+      "example": "The members of parliament vote to pass the new ___________.",
+      "hint_image": "hint_l4_236.webp",
+      "hint_image_prompt": "Lawmakers in parliament raising hands to vote for a new law being introduced"
+    },
+    {
+      "id": "l4_237",
+      "front": "liability",
+      "back": "負債",
+      "example": "The document explains her personal _________ for the debt.",
+      "hint_image": "hint_l4_237.webp",
+      "hint_image_prompt": "A legal document with a clause assigning financial responsibility to one named party"
+    },
+    {
+      "id": "l4_238",
+      "front": "logistics",
+      "back": "物流",
+      "example": "The map shows the _________ of trucks delivering goods across the region.",
+      "hint_image": "hint_l4_238.webp",
+      "hint_image_prompt": "A map of delivery routes used by a logistics company across a region"
+    },
+    {
+      "id": "l4_239",
+      "front": "management",
+      "back": "経営",
+      "example": "The manager handles the __________ of the team and its data.",
+      "hint_image": "hint_l4_239.webp",
+      "hint_image_prompt": "An executive reviewing a performance dashboard and directing team activities"
+    },
+    {
+      "id": "l4_240",
+      "front": "margin",
+      "back": "余白・利幅",
+      "example": "The circled figure shows the profit ______ on the statement.",
+      "hint_image": "hint_l4_240.webp",
+      "hint_image_prompt": "A profit and loss sheet with the net margin percentage circled at the bottom"
+    },
+    {
+      "id": "l4_241",
+      "front": "market share",
+      "back": "市場占有率",
+      "example": "The large gold slice of the pie chart shows the company's ____________.",
+      "hint_image": "hint_l4_241.webp",
+      "hint_image_prompt": "A pie chart with one dominant colored slice labeled as the leader's portion"
+    },
+    {
+      "id": "l4_242",
+      "front": "memorandum",
+      "back": "覚書",
+      "example": "The office __________ lists the sender, receiver, and cc names.",
+      "hint_image": "hint_l4_242.webp",
+      "hint_image_prompt": "An internal memo circulated with a cc list and dated at the top for all recipients"
+    },
+    {
+      "id": "l4_243",
+      "front": "merger",
+      "back": "合併",
+      "example": "The arrow and handshake show the ______ of the two companies.",
+      "hint_image": "hint_l4_243.webp",
+      "hint_image_prompt": "Two company logos side by side with an arrow showing a merger"
+    },
+    {
+      "id": "l4_244",
+      "front": "metric",
+      "back": "指標・メートル",
+      "example": "Each ______ on the dashboard tracks the team's performance.",
+      "hint_image": "hint_l4_244.webp",
+      "hint_image_prompt": "A dashboard showing key performance indicators measured against target numbers"
+    },
+    {
+      "id": "l4_245",
+      "front": "milestone",
+      "back": "節目・重要なポイント",
+      "example": "The team celebrates reaching a major project _________.",
+      "hint_image": "hint_l4_245.webp",
+      "hint_image_prompt": "A project team celebrating reaching a major milestone with a banner"
+    },
+    {
+      "id": "l4_246",
+      "front": "misconduct",
+      "back": "不正行為",
+      "example": "The tense meeting is about an employee's serious __________.",
+      "hint_image": "hint_l4_246.webp",
+      "hint_image_prompt": "A disciplinary hearing with HR and a formal complaint letter placed on the table"
+    },
+    {
+      "id": "l4_247",
+      "front": "niche",
+      "back": "ニッチ・裂け目・割れ目・隙間市場・隙間分野",
+      "example": "The small coffee shop serves a special _____ in the busy market.",
+      "hint_image": "hint_l4_247.webp",
+      "hint_image_prompt": "A small independent coffee shop occupying a niche in a large market"
+    },
+    {
+      "id": "l4_248",
+      "front": "obligation",
+      "back": "義務",
+      "example": "The signed contract creates a legal __________ for both sides.",
+      "hint_image": "hint_l4_248.webp",
+      "hint_image_prompt": "A signed contract with an underlined clause showing a required duty to fulfill"
+    },
+    {
+      "id": "l4_249",
+      "front": "offshore",
+      "back": "海外（形容詞）",
+      "example": "Workers drill for oil at the ________ rig out at sea.",
+      "hint_image": "hint_l4_249.webp",
+      "hint_image_prompt": "A cargo ship being loaded at an offshore oil platform in open water"
+    },
+    {
+      "id": "l4_250",
+      "front": "onboarding",
+      "back": "新人研修",
+      "example": "The mentor guides the new hire through the __________ checklist.",
+      "hint_image": "hint_l4_250.webp",
+      "hint_image_prompt": "A new employee going through onboarding training with HR on their first day"
+    },
+    {
+      "id": "l4_251",
+      "front": "opex",
+      "back": "運営費用",
+      "example": "The report lists the monthly ____ for running the business.",
+      "hint_image": "hint_l4_251.webp",
+      "hint_image_prompt": "An ongoing monthly expense report listing recurring operational costs for a period"
+    },
+    {
+      "id": "l4_252",
+      "front": "outreach",
+      "back": "普及活動・～より多い",
+      "example": "The volunteers do community ________ by helping local residents.",
+      "hint_image": "hint_l4_252.webp",
+      "hint_image_prompt": "A team going beyond their area to conduct outreach in the local community"
+    },
+    {
+      "id": "l4_253",
+      "front": "overhead",
+      "back": "諸経費・頭上の",
+      "example": "The form lists the ________ costs like rent and utilities.",
+      "hint_image": "hint_l4_253.webp",
+      "hint_image_prompt": "An expense report listing overhead costs including office rent and utilities"
+    },
+    {
+      "id": "l4_254",
+      "front": "oversight",
+      "back": "監視",
+      "example": "The senior manager provides _________ of the compliance standards.",
+      "hint_image": "hint_l4_254.webp",
+      "hint_image_prompt": "A regulator reviewing a company's internal reports to ensure proper standards are met"
+    },
+    {
+      "id": "l4_255",
+      "front": "ownership",
+      "back": "所有権",
+      "example": "The certificate transfers the _________ of the house to the happy buyer.",
+      "hint_image": "hint_l4_255.webp",
+      "hint_image_prompt": "A person receiving a title deed with their name printed as the registered owner"
+    },
+    {
+      "id": "l4_256",
+      "front": "parity",
+      "back": "同等",
+      "example": "The screen shows the ______ between currency A and currency B at equal value.",
+      "hint_image": "hint_l4_256.webp",
+      "hint_image_prompt": "A currency exchange board showing two values equal to each other at the same rate"
+    },
+    {
+      "id": "l4_257",
+      "front": "partnership",
+      "back": "パートナーシップ・相互関係",
+      "example": "The two leaders shake hands to celebrate their new ___________.",
+      "hint_image": "hint_l4_257.webp",
+      "hint_image_prompt": "Two companies announcing a formal business partnership at a ceremony"
+    },
+    {
+      "id": "l4_258",
+      "front": "payroll",
+      "back": "給与名簿",
+      "example": "The manager processes the staff _______ on her computer.",
+      "hint_image": "hint_l4_258.webp",
+      "hint_image_prompt": "An HR manager updating the payroll spreadsheet for the current month"
+    },
+    {
+      "id": "l4_259",
+      "front": "penalty",
+      "back": "罰則",
+      "example": "The officer gives a _______ ticket to the car parked illegally.",
+      "hint_image": "hint_l4_259.webp",
+      "hint_image_prompt": "A car parked in a no-parking zone receiving a penalty notice"
+    },
+    {
+      "id": "l4_260",
+      "front": "performance",
+      "back": "業績・性能・能力",
+      "example": "The dashboard shows the strong ___________ of the whole team.",
+      "hint_image": "hint_l4_260.webp",
+      "hint_image_prompt": "A KPI dashboard with green checkmarks beside targets all being met or exceeded"
+    },
+    {
+      "id": "l4_261",
+      "front": "permit",
+      "back": "許可証（名詞）",
+      "example": "The worker shows his ______ badge to enter the construction site.",
+      "hint_image": "hint_l4_261.webp",
+      "hint_image_prompt": "A worker displaying a laminated permit allowing them access to a restricted site"
+    },
+    {
+      "id": "l4_262",
+      "front": "personnel",
+      "back": "人員",
+      "example": "The manager presents the _________ chart of every department.",
+      "hint_image": "hint_l4_262.webp",
+      "hint_image_prompt": "An HR department wall showing headcount numbers and employee profile photographs"
+    },
+    {
+      "id": "l4_263",
+      "front": "pipeline",
+      "back": "パイプライン・供給経路",
+      "example": "The diagram shows the oil ________ carrying fuel through each stage.",
+      "hint_image": "hint_l4_263.webp",
+      "hint_image_prompt": "A diagram of a pipeline carrying product through multiple processing stages"
+    },
+    {
+      "id": "l4_264",
+      "front": "portfolio",
+      "back": "ポートフォリオ・有価証券（一覧）",
+      "example": "The investor reviews his _________ of stocks and charts on the screens.",
+      "hint_image": "hint_l4_264.webp",
+      "hint_image_prompt": "A financial advisor reviewing a diversified portfolio of stocks and bonds"
+    },
+    {
+      "id": "l4_265",
+      "front": "precedence",
+      "back": "優先",
+      "example": "The flowchart shows which task takes __________ over the others.",
+      "hint_image": "hint_l4_265.webp",
+      "hint_image_prompt": "An agenda item marked to ensure one project has precedence this week"
+    },
+    {
+      "id": "l4_266",
+      "front": "procurement",
+      "back": "調達",
+      "example": "The team compares suppliers during the ___________ meeting.",
+      "hint_image": "hint_l4_266.webp",
+      "hint_image_prompt": "A purchasing team reviewing supplier bids before issuing an official purchase order"
+    },
+    {
+      "id": "l4_267",
+      "front": "productivity",
+      "back": "生産性",
+      "example": "The new machines raise the worker's ____________ from 25 to 100 percent.",
+      "hint_image": "hint_l4_267.webp",
+      "hint_image_prompt": "A worker completing twice as many tasks in the same time using a new process"
+    },
+    {
+      "id": "l4_268",
+      "front": "profit",
+      "back": "利益",
+      "example": "The accountant records the ______ in his ledger at night.",
+      "hint_image": "hint_l4_268.webp",
+      "hint_image_prompt": "An accountant reviewing a ledger to calculate the total net profit"
+    },
+    {
+      "id": "l4_269",
+      "front": "profitability",
+      "back": "収益性",
+      "example": "The rising chart shows the company's _____________ as revenue beats costs.",
+      "hint_image": "hint_l4_269.webp",
+      "hint_image_prompt": "A green rising arrow on a financial chart showing revenue exceeding total costs"
+    },
+    {
+      "id": "l4_270",
+      "front": "projection",
+      "back": "見通し",
+      "example": "The team studies the sales __________ on the rising forecast graph.",
+      "hint_image": "hint_l4_270.webp",
+      "hint_image_prompt": "A dotted line extending a graph trend forward into future quarters on a forecast"
+    },
+    {
+      "id": "l4_271",
+      "front": "protocol",
+      "back": "プロトコル・手続き・手順",
+      "example": "The leader explains each step of the safety ________ on the whiteboard.",
+      "hint_image": "hint_l4_271.webp",
+      "hint_image_prompt": "A person explain Company equipment purchase protocol"
+    },
+    {
+      "id": "l4_272",
+      "front": "provision",
+      "back": "提供・準備・条項",
+      "example": "The workers stock the storeroom with a _________ of emergency supplies.",
+      "hint_image": "hint_l4_272.webp",
+      "hint_image_prompt": "A supply storage room stocked with resources held in reserve for anticipated needs"
+    },
+    {
+      "id": "l4_273",
+      "front": "qualification",
+      "back": "資格",
+      "example": "The woman proudly shows the framed _____________ on her office wall.",
+      "hint_image": "hint_l4_273.webp",
+      "hint_image_prompt": "A professional showing a framed degree and certification on their office wall"
+    },
+    {
+      "id": "l4_274",
+      "front": "quarter",
+      "back": "四半期・4分の1・25セント硬貨",
+      "example": "The team plans its goals for each _______ of the year.",
+      "hint_image": "hint_l4_274.webp",
+      "hint_image_prompt": "A financial calendar marking each quarter on a business planning board"
+    },
+    {
+      "id": "l4_275",
+      "front": "quota",
+      "back": "ノルマ・取り分",
+      "example": "The board shows whether each worker has met the sales _____.",
+      "hint_image": "hint_l4_275.webp",
+      "hint_image_prompt": "A worker trying to exceed their production quota by end of the week"
+    },
+    {
+      "id": "l4_276",
+      "front": "rationale",
+      "back": "根拠",
+      "example": "The proposal explains the _________ behind the new solution.",
+      "hint_image": "hint_l4_276.webp",
+      "hint_image_prompt": "A proposal with a clearly written justification section explaining the reasoning behind it"
+    },
+    {
+      "id": "l4_277",
+      "front": "rebate",
+      "back": "払い戻し・リベート",
+      "example": "The cashier gives the shopper a cash ______ after her purchase.",
+      "hint_image": "hint_l4_277.webp",
+      "hint_image_prompt": "A cashier returning a partial payment to a customer after a promotional discount"
+    },
+    {
+      "id": "l4_278",
+      "front": "recession",
+      "back": "景気後退",
+      "example": "The newspaper reports a severe _________ with falling profits.",
+      "hint_image": "hint_l4_278.webp",
+      "hint_image_prompt": "A newspaper headline showing the economy entering a technical recession"
+    },
+    {
+      "id": "l4_279",
+      "front": "recruitment",
+      "back": "採用・補強",
+      "example": "The company celebrates the ___________ of new staff for every team.",
+      "hint_image": "hint_l4_279.webp",
+      "hint_image_prompt": "An HR posting board showing the company's new recruitment campaign"
+    },
+    {
+      "id": "l4_280",
+      "front": "redundancy",
+      "back": "冗長性・余剰",
+      "example": "The sad employee receives a __________ notice from her manager.",
+      "hint_image": "hint_l4_280.webp",
+      "hint_image_prompt": "An HR letter notifying an employee that their position has been eliminated in a restructure"
+    },
+    {
+      "id": "l4_281",
+      "front": "reimbursement",
+      "back": "払い戻し（名詞）",
+      "example": "The manager gives the worker a _____________ for his receipts.",
+      "hint_image": "hint_l4_281.webp",
+      "hint_image_prompt": "An employee submitting travel receipts and receiving a check covering those exact costs"
+    },
+    {
+      "id": "l4_282",
+      "front": "remittance",
+      "back": "送金",
+      "example": "The screen tracks the __________ from the sender to the recipient.",
+      "hint_image": "hint_l4_282.webp",
+      "hint_image_prompt": "A wire transfer confirmation showing money sent internationally to a recipient account"
+    },
+    {
+      "id": "l4_283",
+      "front": "renewal",
+      "back": "更新",
+      "example": "The tenant signs the lease _______ with the agent.",
+      "hint_image": "hint_l4_283.webp",
+      "hint_image_prompt": "A person signing a new lease renewal at a property management office"
+    },
+    {
+      "id": "l4_284",
+      "front": "resolution",
+      "back": "解決・決議",
+      "example": "The board reaches a __________ after the problem and discussion.",
+      "hint_image": "hint_l4_284.webp",
+      "hint_image_prompt": "A meeting chair announcing that the committee has reached a final agreed decision"
+    },
+    {
+      "id": "l4_285",
+      "front": "restructuring",
+      "back": "リストラ・再編",
+      "example": "The manager plans a _____________ of the company's departments.",
+      "hint_image": "hint_l4_285.webp",
+      "hint_image_prompt": "An org chart being redrawn with fewer levels and reorganized department groupings"
+    },
+    {
+      "id": "l4_286",
+      "front": "rollout",
+      "back": "展開",
+      "example": "The team prepares the _______ of the new product step by step.",
+      "hint_image": "hint_l4_286.webp",
+      "hint_image_prompt": "A project manager updating the team on the new software rollout plan"
+    },
+    {
+      "id": "l4_287",
+      "front": "scalability",
+      "back": "拡張性",
+      "example": "The engineers test the ___________ of the servers as demand grows.",
+      "hint_image": "hint_l4_287.webp",
+      "hint_image_prompt": "A server rack expanding by adding more units as demand on the system increases"
+    },
+    {
+      "id": "l4_288",
+      "front": "scope creep",
+      "back": "スコープ拡大・要件変更",
+      "example": "The tangled extra tasks show the ___________ in the project plan.",
+      "hint_image": "hint_l4_288.webp",
+      "hint_image_prompt": "A project timeline with extra tasks being added beyond the original defined scope"
+    },
+    {
+      "id": "l4_289",
+      "front": "seniority",
+      "back": "年功",
+      "example": "The board ranks the staff by their _________ and experience.",
+      "hint_image": "hint_l4_289.webp",
+      "hint_image_prompt": "An office directory listing names with years of experience beside each senior title"
+    },
+    {
+      "id": "l4_290",
+      "front": "settlement",
+      "back": "和解・落ち着くこと・安定",
+      "example": "The two sides sign a __________ to end the dispute.",
+      "hint_image": "hint_l4_290.webp",
+      "hint_image_prompt": "Two parties signing a settlement agreement outside a courtroom with lawyers present"
+    },
+    {
+      "id": "l4_291",
+      "front": "shareholder",
+      "back": "株主",
+      "example": "Each ___________ holds a certificate and votes at the meeting.",
+      "hint_image": "hint_l4_291.webp",
+      "hint_image_prompt": "A shareholder attending a general meeting and casting a proxy vote"
+    },
+    {
+      "id": "l4_292",
+      "front": "shipment",
+      "back": "出荷・積み荷",
+      "example": "The workers load the ________ of boxes onto the green truck.",
+      "hint_image": "hint_l4_292.webp",
+      "hint_image_prompt": "A truck being loaded at a warehouse with boxes for a new shipment"
+    },
+    {
+      "id": "l4_293",
+      "front": "shortfall",
+      "back": "不足",
+      "example": "The red warning light shows a _________ in the fuel level.",
+      "hint_image": "hint_l4_293.webp",
+      "hint_image_prompt": "A red warning light on a dashboard indicating a critical shortfall"
+    },
+    {
+      "id": "l4_294",
+      "front": "slippage",
+      "back": "遅れ・滑る",
+      "example": "The calendar shows a ________ of the work past the original deadline.",
+      "hint_image": "hint_l4_294.webp",
+      "hint_image_prompt": "A project calendar with the completion date sliding further right past the deadline"
+    },
+    {
+      "id": "l4_295",
+      "front": "solvency",
+      "back": "支払い能力",
+      "example": "The healthy rising charts prove the company's ________.",
+      "hint_image": "hint_l4_295.webp",
+      "hint_image_prompt": "A financial health checkup showing the company has strong solvency"
+    },
+    {
+      "id": "l4_296",
+      "front": "specification",
+      "back": "仕様",
+      "example": "The engineer checks each _____________ on the technical drawing.",
+      "hint_image": "hint_l4_296.webp",
+      "hint_image_prompt": "An engineering drawing with exact dimensions tolerances and material requirements listed"
+    },
+    {
+      "id": "l4_297",
+      "front": "spokesperson",
+      "back": "スポークスパーソン・広報担当者",
+      "example": "The company's ____________ reads a statement to the reporters.",
+      "hint_image": "hint_l4_297.webp",
+      "hint_image_prompt": "A spokesperson reading a prepared statement in front of news cameras"
+    },
+    {
+      "id": "l4_298",
+      "front": "stakeholder",
+      "back": "利害関係者・出資者",
+      "example": "Each ___________ group connects to the company at the center.",
+      "hint_image": "hint_l4_298.webp",
+      "hint_image_prompt": "A stakeholder map pinned to a board showing all groups affected by the project"
+    },
+    {
+      "id": "l4_299",
+      "front": "steering committee",
+      "back": "運営委員会",
+      "example": "The __________________ guides the company's direction and risk.",
+      "hint_image": "hint_l4_299.webp",
+      "hint_image_prompt": "Senior executives gathered around a table reviewing overall project direction"
+    },
+    {
+      "id": "l4_300",
+      "front": "subsidiary",
+      "back": "子会社",
+      "example": "Each smaller __________ company links to the main head office.",
+      "hint_image": "hint_l4_300.webp",
+      "hint_image_prompt": "A group of company logos connected under a parent company as subsidiaries"
+    },
+    {
+      "id": "l4_301",
+      "front": "succession",
+      "back": "後継",
+      "example": "The ceremony marks the __________ of the younger leader to the top role.",
+      "hint_image": "hint_l4_301.webp",
+      "hint_image_prompt": "A CEO handing over a company badge to a newly appointed successor at a ceremony"
+    },
+    {
+      "id": "l4_302",
+      "front": "surplus",
+      "back": "余剰",
+      "example": "The barn overflows with a _______ of grain after the harvest.",
+      "hint_image": "hint_l4_302.webp",
+      "hint_image_prompt": "A grain storehouse with excess stock representing a harvest surplus"
+    },
+    {
+      "id": "l4_303",
+      "front": "suspension",
+      "back": "停止",
+      "example": "The worker faces a __________ and must pause her job for a while.",
+      "hint_image": "hint_l4_303.webp",
+      "hint_image_prompt": "An employee ID badge placed inside an envelope with a temporary hold notice"
+    },
+    {
+      "id": "l4_304",
+      "front": "synergy",
+      "back": "相乗効果",
+      "example": "The two teams create _______ by combining their strengths.",
+      "hint_image": "hint_l4_304.webp",
+      "hint_image_prompt": "Two companies combining operations with a graph showing combined results exceeding both"
+    },
+    {
+      "id": "l4_305",
+      "front": "tariff",
+      "back": "関税",
+      "example": "The government charges a ______ on the goods at the port.",
+      "hint_image": "hint_l4_305.webp",
+      "hint_image_prompt": "Imported goods piling up at a customs dock under a new tariff regime"
+    },
+    {
+      "id": "l4_306",
+      "front": "task force",
+      "back": "タスクフォース・特殊部隊",
+      "example": "The special __________ studies the threat map together.",
+      "hint_image": "hint_l4_306.webp",
+      "hint_image_prompt": "A specialized team assembled in a conference room to address a specific urgent issue"
+    },
+    {
+      "id": "l4_307",
+      "front": "threshold",
+      "back": "閾値・入口",
+      "example": "The needle crosses the danger _________ on the gauge.",
+      "hint_image": "hint_l4_307.webp",
+      "hint_image_prompt": "A gauge with a red threshold line marked above which a warning alert is triggered"
+    },
+    {
+      "id": "l4_308",
+      "front": "timeline",
+      "back": "タイムライン・スケジュール",
+      "example": "The team plans each milestone on the project ________.",
+      "hint_image": "hint_l4_308.webp",
+      "hint_image_prompt": "A project timeline displayed as a horizontal bar chart with milestones"
+    },
+    {
+      "id": "l4_309",
+      "front": "transaction",
+      "back": "取引",
+      "example": "The customer takes a receipt for her bank ___________.",
+      "hint_image": "hint_l4_309.webp",
+      "hint_image_prompt": "A receipt being issued after a successful bank transaction"
+    },
+    {
+      "id": "l4_310",
+      "front": "transparency",
+      "back": "透明性",
+      "example": "The glass office walls show the company's ____________.",
+      "hint_image": "hint_l4_310.webp",
+      "hint_image_prompt": "A glass office wall allowing everyone outside to see all operations clearly within"
+    },
+    {
+      "id": "l4_311",
+      "front": "trial",
+      "back": "試用期間・裁判・審理",
+      "example": "The lawyer defends her client during the court _____.",
+      "hint_image": "hint_l4_311.webp",
+      "hint_image_prompt": "A defendant sitting beside a lawyer at the start of their criminal trial"
+    },
+    {
+      "id": "l4_312",
+      "front": "turnkey",
+      "back": "完成引渡し（形容詞）",
+      "example": "The team offers a _______ office that is ready to start at once.",
+      "hint_image": "hint_l4_312.webp",
+      "hint_image_prompt": "A new business opening with equipment installed and ready for immediate operation"
+    },
+    {
+      "id": "l4_313",
+      "front": "turnover",
+      "back": "売上高・離職率・転倒",
+      "example": "The charts show the company's yearly ________ of sales.",
+      "hint_image": "hint_l4_313.webp",
+      "hint_image_prompt": "A financial report showing annual sales turnover by region"
+    },
+    {
+      "id": "l4_314",
+      "front": "upskilling",
+      "back": "スキルアップ",
+      "example": "The employee earns a badge after __________ in a training course.",
+      "hint_image": "hint_l4_314.webp",
+      "hint_image_prompt": "An employee completing a training course and receiving a new certification badge"
+    },
+    {
+      "id": "l4_315",
+      "front": "vendor",
+      "back": "業者",
+      "example": "The ______ shows her electronic products to a visitor at the trade fair.",
+      "hint_image": "hint_l4_315.webp",
+      "hint_image_prompt": "A vendor displaying products and prices at a business-to-business trade fair"
+    },
+    {
+      "id": "l4_316",
+      "front": "venture capital",
+      "back": "ベンチャーキャピタル・（新興企業や中小企業）に投資する会社",
+      "example": "The investor explains the _______________ terms on the sheet.",
+      "hint_image": "hint_l4_316.webp",
+      "hint_image_prompt": "An investor presenting a term sheet to a startup founder at a pitch meeting"
+    },
+    {
+      "id": "l4_317",
+      "front": "verification",
+      "back": "確認",
+      "example": "The officer performs the ____________ of the guest's ID card.",
+      "hint_image": "hint_l4_317.webp",
+      "hint_image_prompt": "A security officer scanning an identity document against a digital verification system"
+    },
+    {
+      "id": "l4_318",
+      "front": "viability",
+      "back": "実行可能性",
+      "example": "The engineer tests the _________ of the design under heavy load.",
+      "hint_image": "hint_l4_318.webp",
+      "hint_image_prompt": "An engineer reviewing load calculations to confirm a structure can be safely built"
+    },
+    {
+      "id": "l4_319",
+      "front": "violation",
+      "back": "違反・暴行",
+      "example": "The referee shows a red card for the player's _________.",
+      "hint_image": "hint_l4_319.webp",
+      "hint_image_prompt": "A referee holding up a red card after a player commits a serious rule infringement"
+    },
+    {
+      "id": "l4_320",
+      "front": "warranty",
+      "back": "保証書",
+      "example": "The happy woman reads the ________ card for her new rice cooker.",
+      "hint_image": "hint_l4_320.webp",
+      "hint_image_prompt": "A customer holding a warranty card after purchasing a new appliance"
+    },
+    {
+      "id": "l4_321",
+      "front": "whitepaper",
+      "back": "白書",
+      "example": "The __________ presents the research findings and policy recommendations.",
+      "hint_image": "hint_l4_321.webp",
+      "hint_image_prompt": "A detailed technical document cover page showing research findings and policy recommendations"
+    },
+    {
+      "id": "l4_322",
+      "front": "wholesale",
+      "back": "卸売り（名詞）",
+      "example": "The warehouse handles the _________ of goods in large amounts.",
+      "hint_image": "hint_l4_322.webp",
+      "hint_image_prompt": "A warehouse floor packed with large pallet quantities of products sold in bulk"
+    },
+    {
+      "id": "l4_323",
+      "front": "workflow",
+      "back": "ワークフロー・作業の流れ",
+      "example": "The team maps each step of the ________ on the board.",
+      "hint_image": "hint_l4_323.webp",
+      "hint_image_prompt": "A flowchart on a screen showing each step of a team's workflow"
+    },
+    {
+      "id": "l4_324",
+      "front": "workload",
+      "back": "作業量",
+      "example": "The stressed man struggles with a heavy ________ of tasks.",
+      "hint_image": "hint_l4_324.webp",
+      "hint_image_prompt": "An employee juggling multiple tasks as their workload increases"
+    },
+    {
+      "id": "l4_325",
+      "front": "write-off",
+      "back": "損金処理",
+      "example": "The accountant marks a _________ with a big red X on the ledger.",
+      "hint_image": "hint_l4_325.webp",
+      "hint_image_prompt": "An accountant crossing out an asset from the books as a write-off"
+    },
+    {
+      "id": "l4_326",
+      "front": "year-on-year",
+      "back": "前年比（形容詞）",
+      "example": "The chart compares the sales ____________ across the quarters.",
+      "hint_image": "hint_l4_326.webp",
+      "hint_image_prompt": "A comparison bar chart showing the same quarter's figures across two consecutive years"
+    },
+    {
+      "id": "l4_327",
+      "front": "zero-based budgeting",
+      "back": "ゼロベース予算編成",
+      "example": "She starts the ____________________ from an empty spreadsheet.",
+      "hint_image": "hint_l4_327.webp",
+      "hint_image_prompt": "A blank budget spreadsheet being built from scratch with no prior figures carried forward"
+    },
+    {
+      "id": "l4_328",
+      "front": "actionable",
+      "back": "実行可能な",
+      "example": "The manager sorts each __________ task on her to-do screen.",
+      "hint_image": "hint_l4_328.webp",
+      "hint_image_prompt": "A task list with specific verbs at the start of each item making them immediately doable"
+    },
+    {
+      "id": "l4_329",
+      "front": "applicable",
+      "back": "適用可能な",
+      "example": "She marks the rule that is __________ to the process.",
+      "hint_image": "hint_l4_329.webp",
+      "hint_image_prompt": "A regulation highlighted with a note reading applies to this situation specifically"
+    },
+    {
+      "id": "l4_330",
+      "front": "binding",
+      "back": "拘束力のある",
+      "example": "The wax seal makes the agreement legally _______.",
+      "hint_image": "hint_l4_330.webp",
+      "hint_image_prompt": "A document with bold text stating this agreement is legally binding"
+    },
+    {
+      "id": "l4_331",
+      "front": "bulk",
+      "back": "大量の（形容詞）",
+      "example": "The worker moves a pallet of goods in ____.",
+      "hint_image": "hint_l4_331.webp",
+      "hint_image_prompt": "A warehouse worker moving a bulk order of identical products on a pallet"
+    },
+    {
+      "id": "l4_332",
+      "front": "centralized",
+      "back": "集中管理された",
+      "example": "The company keeps all control in one ___________ hub.",
+      "hint_image": "hint_l4_332.webp",
+      "hint_image_prompt": "An organizational chart with all decision lines converging into a single authority"
+    },
+    {
+      "id": "l4_333",
+      "front": "commensurate",
+      "back": "釣り合った",
+      "example": "The salary is ____________ with the worker's qualification level.",
+      "hint_image": "hint_l4_333.webp",
+      "hint_image_prompt": "Two salary scales side by side showing pay that matches the level of qualification"
+    },
+    {
+      "id": "l4_334",
+      "front": "comparable",
+      "back": "同等の・比較可能な",
+      "example": "The two charts show __________ results side by side.",
+      "hint_image": "hint_l4_334.webp",
+      "hint_image_prompt": "Two benchmark charts placed side by side with similar values highlighted for comparison"
+    },
+    {
+      "id": "l4_335",
+      "front": "confidential",
+      "back": "機密の",
+      "example": "The sealed folder holds a ____________ document.",
+      "hint_image": "hint_l4_335.webp",
+      "hint_image_prompt": "A folder with a bold red stamp reading confidential on the cover"
+    },
+    {
+      "id": "l4_336",
+      "front": "contingent",
+      "back": "〜次第の",
+      "example": "The approval is __________ on meeting each condition.",
+      "hint_image": "hint_l4_336.webp",
+      "hint_image_prompt": "A contract with a highlighted clause reading valid only if these conditions are met"
+    },
+    {
+      "id": "l4_337",
+      "front": "copyrighted",
+      "back": "著作権のある",
+      "example": "The artist's ___________ work is marked \"All Rights Reserved.\"",
+      "hint_image": "hint_l4_337.webp",
+      "hint_image_prompt": "A creative work with a copyright symbol and year printed clearly at the bottom"
+    },
+    {
+      "id": "l4_338",
+      "front": "core",
+      "back": "中核の（形容詞）",
+      "example": "The worker manages the ____ hub at the center of the system.",
+      "hint_image": "hint_l4_338.webp",
+      "hint_image_prompt": "A diagram highlighting the central most important component of a system in bold"
+    },
+    {
+      "id": "l4_339",
+      "front": "cost-effective",
+      "back": "費用対効果の高い",
+      "example": "The team picks the ______________ option with low cost and high output.",
+      "hint_image": "hint_l4_339.webp",
+      "hint_image_prompt": "A bar chart showing a low-cost solution achieving the same output as an expensive one"
+    },
+    {
+      "id": "l4_340",
+      "front": "counterproductive",
+      "back": "逆効果の",
+      "example": "The tangled machine is _________________ and makes the work worse.",
+      "hint_image": "hint_l4_340.webp",
+      "hint_image_prompt": "A person adding more steps to a process that makes it slower than before"
+    },
+    {
+      "id": "l4_341",
+      "front": "cyclical",
+      "back": "周期的な",
+      "example": "The wave graph shows the ________ rise and fall across the seasons.",
+      "hint_image": "hint_l4_341.webp",
+      "hint_image_prompt": "A business revenue chart showing repeating seasonal peaks and troughs each year"
+    },
+    {
+      "id": "l4_342",
+      "front": "deferred",
+      "back": "繰り延べられた",
+      "example": "The company ________ the payment to a later quarter of the year.",
+      "hint_image": "hint_l4_342.webp",
+      "hint_image_prompt": "A payment schedule with one amount pushed to a later quarter labeled deferred"
+    },
+    {
+      "id": "l4_343",
+      "front": "desirable",
+      "back": "望ましい",
+      "example": "The sold-out figure is so _________ that many people join the waiting list.",
+      "hint_image": "hint_l4_343.webp",
+      "hint_image_prompt": "A product display with a sold out sign and a long waiting list attached to it"
+    },
+    {
+      "id": "l4_344",
+      "front": "discretionary",
+      "back": "任意の",
+      "example": "The optional hobby slice is her _____________ spending in the budget.",
+      "hint_image": "hint_l4_344.webp",
+      "hint_image_prompt": "A budget pie chart with one optional spending slice that can be added or removed"
+    },
+    {
+      "id": "l4_345",
+      "front": "downstream",
+      "back": "下流の",
+      "example": "The goods move __________ from the factory to the shops and customers.",
+      "hint_image": "hint_l4_345.webp",
+      "hint_image_prompt": "A supply chain diagram showing distribution flowing from factory to retailer to customer"
+    },
+    {
+      "id": "l4_346",
+      "front": "enterprise-wide",
+      "back": "全社的な",
+      "example": "The _______________ system keeps every region of the company in sync.",
+      "hint_image": "hint_l4_346.webp",
+      "hint_image_prompt": "A company org chart with every department and location highlighted simultaneously"
+    },
+    {
+      "id": "l4_347",
+      "front": "exempt",
+      "back": "免除された",
+      "example": "Certain low-income groups are ______ from the government surcharge.",
+      "hint_image": "hint_l4_347.webp",
+      "hint_image_prompt": "A government document showing who is exempt from a new income surcharge"
+    },
+    {
+      "id": "l4_348",
+      "front": "expedient",
+      "back": "便宜的な・役に立つ",
+      "example": "The worker chooses a fast, _________ method to meet the deadline.",
+      "hint_image": "hint_l4_348.webp",
+      "hint_image_prompt": "A worker choosing the fastest available method to meet an approaching deadline"
+    },
+    {
+      "id": "l4_349",
+      "front": "explicit",
+      "back": "明示的な",
+      "example": "The contract states the payment terms in ________ detail.",
+      "hint_image": "hint_l4_349.webp",
+      "hint_image_prompt": "A contract clause written in large plain bold text with nothing left ambiguous"
+    },
+    {
+      "id": "l4_350",
+      "front": "feasible",
+      "back": "実現可能な",
+      "example": "The engineer confirms that the new design is ________.",
+      "hint_image": "hint_l4_350.webp",
+      "hint_image_prompt": "An engineer giving a thumbs-up after reviewing whether a design can actually be built"
+    },
+    {
+      "id": "l4_351",
+      "front": "fixed",
+      "back": "固定された",
+      "example": "The man _____ the broken office chair with his tools.",
+      "hint_image": "hint_l4_351.webp",
+      "hint_image_prompt": "A column of numbers on a budget showing fixed costs that never change"
+    },
+    {
+      "id": "l4_352",
+      "front": "flagging",
+      "back": "低下している",
+      "example": "The chart shows the project's ________ performance dropping each week.",
+      "hint_image": "hint_l4_352.webp",
+      "hint_image_prompt": "A performance graph with a declining trend line and a warning flag pinned to the drop"
+    },
+    {
+      "id": "l4_353",
+      "front": "fluctuating",
+      "back": "変動する",
+      "example": "The board shows the ___________ stock prices going up and down.",
+      "hint_image": "hint_l4_353.webp",
+      "hint_image_prompt": "A stock price ticker showing numbers jumping up and down unpredictably during the day"
+    },
+    {
+      "id": "l4_354",
+      "front": "foreseeable",
+      "back": "予見可能な",
+      "example": "The roadmap plans the city's growth for the ___________ future.",
+      "hint_image": "hint_l4_354.webp",
+      "hint_image_prompt": "A planner drawing a dotted projection line into the near future on a timeline"
+    },
+    {
+      "id": "l4_355",
+      "front": "granular",
+      "back": "詳細な・粒上の",
+      "example": "The ledger shows ________ detail of every single transaction.",
+      "hint_image": "hint_l4_355.webp",
+      "hint_image_prompt": "A data table with every individual transaction listed in separate detailed rows"
+    },
+    {
+      "id": "l4_356",
+      "front": "hierarchical",
+      "back": "階層的な",
+      "example": "The chart shows the company's ____________ structure from top to bottom.",
+      "hint_image": "hint_l4_356.webp",
+      "hint_image_prompt": "A tiered org chart with executive level at the top and staff level at the bottom"
+    },
+    {
+      "id": "l4_357",
+      "front": "holistic",
+      "back": "全体的な",
+      "example": "The framework takes a ________ approach that covers physical, mental, and social health.",
+      "hint_image": "hint_l4_357.webp",
+      "hint_image_prompt": "A wellness diagram showing physical mental social and environmental factors together"
+    },
+    {
+      "id": "l4_358",
+      "front": "impactful",
+      "back": "影響力のある",
+      "example": "One _________ change brought sunlight and order to the once messy room.",
+      "hint_image": "hint_l4_358.webp",
+      "hint_image_prompt": "A before-and-after comparison showing a significant visible difference caused by one change"
+    },
+    {
+      "id": "l4_359",
+      "front": "incremental",
+      "back": "漸進的な",
+      "example": "The chart shows ___________ progress rising step by step through six phases.",
+      "hint_image": "hint_l4_359.webp",
+      "hint_image_prompt": "A staircase chart with each step representing a small progressive improvement"
+    },
+    {
+      "id": "l4_360",
+      "front": "indemnified",
+      "back": "補償された",
+      "example": "The contract states that the law firm will be fully ___________ against all losses.",
+      "hint_image": "hint_l4_360.webp",
+      "hint_image_prompt": "A legal document showing one party protected from financial loss by a written guarantee"
+    },
+    {
+      "id": "l4_361",
+      "front": "industry-leading",
+      "back": "業界最高の",
+      "example": "The company shows off its ________________ innovation with a case full of awards.",
+      "hint_image": "hint_l4_361.webp",
+      "hint_image_prompt": "A trophy cabinet with more awards than competitors on a trade show display"
+    },
+    {
+      "id": "l4_362",
+      "front": "insolvent",
+      "back": "支払い不能な",
+      "example": "The alert screen warns that the company is nearly _________ as its debts exceed its assets.",
+      "hint_image": "hint_l4_362.webp",
+      "hint_image_prompt": "A company balance sheet with liabilities column far exceeding the assets column"
+    },
+    {
+      "id": "l4_363",
+      "front": "interim",
+      "back": "暫定の（形容詞）",
+      "example": "The board names R. Kawashima as the _______ leader of the team.",
+      "hint_image": "hint_l4_363.webp",
+      "hint_image_prompt": "A project board showing an interim manager's name in the leadership column"
+    },
+    {
+      "id": "l4_364",
+      "front": "iterative",
+      "back": "反復的な",
+      "example": "The diagram shows an _________ design cycle that repeats test, refine, and improve.",
+      "hint_image": "hint_l4_364.webp",
+      "hint_image_prompt": "A design cycle diagram showing repeated loops of test refine and improve"
+    },
+    {
+      "id": "l4_365",
+      "front": "lagging",
+      "back": "遅れている",
+      "example": "The uptime chart shows the actual results _______ behind the target line.",
+      "hint_image": "hint_l4_365.webp",
+      "hint_image_prompt": "A performance dashboard with one metric shown in red consistently behind the target"
+    },
+    {
+      "id": "l4_366",
+      "front": "latent",
+      "back": "潜在的な",
+      "example": "The UV light reveals ______ mold hidden on the wall.",
+      "hint_image": "hint_l4_366.webp",
+      "hint_image_prompt": "Invisible mold spores in a wall revealed only after a UV detection light is shone"
+    },
+    {
+      "id": "l4_367",
+      "front": "leading",
+      "back": "先行している・一流の",
+      "example": "The chart uses a _______ indicator to predict the market's next move.",
+      "hint_image": "hint_l4_367.webp",
+      "hint_image_prompt": "A forward-looking indicator graph predicting market movement before it occurs"
+    },
+    {
+      "id": "l4_368",
+      "front": "lean",
+      "back": "傾く",
+      "example": "The woman likes to ____ back in her office chair while she thinks.",
+      "hint_image": "hint_l4_368.webp",
+      "hint_image_prompt": "A person leaning back in a chair thinking carefully before responding"
+    },
+    {
+      "id": "l4_369",
+      "front": "liable",
+      "back": "責任のある",
+      "example": "The signed contract makes Kenji Tanaka fully ______ for all legal claims.",
+      "hint_image": "hint_l4_369.webp",
+      "hint_image_prompt": "A legal document with one party's name circled indicating they bear full responsibility"
+    },
+    {
+      "id": "l4_370",
+      "front": "long-term",
+      "back": "長期的な",
+      "example": "The graph shows steady _________ investment growth over a full decade.",
+      "hint_image": "hint_l4_370.webp",
+      "hint_image_prompt": "A decade-spanning investment growth chart showing compound returns over many years"
+    },
+    {
+      "id": "l4_371",
+      "front": "mandatory",
+      "back": "義務的な",
+      "example": "The sign shows that hard hats are _________ in this factory area.",
+      "hint_image": "hint_l4_371.webp",
+      "hint_image_prompt": "A sign on a safety door saying wearing a hard hat is mandatory in this area"
+    },
+    {
+      "id": "l4_372",
+      "front": "measurable",
+      "back": "測定可能な",
+      "example": "The tracker shows __________ success with clear, data-driven numbers.",
+      "hint_image": "hint_l4_372.webp",
+      "hint_image_prompt": "A ruler placed alongside a target showing exact progress in quantifiable units"
+    },
+    {
+      "id": "l4_373",
+      "front": "merit-based",
+      "back": "実力主義の",
+      "example": "Akane's promotion is ___________ and reflects her strong performance scores.",
+      "hint_image": "hint_l4_373.webp",
+      "hint_image_prompt": "A promotion announcement showing the selected candidate's performance scores"
+    },
+    {
+      "id": "l4_374",
+      "front": "multifaceted",
+      "back": "多面的な",
+      "example": "The brilliant gem has a ____________ surface with countless shining facets.",
+      "hint_image": "hint_l4_374.webp",
+      "hint_image_prompt": "A gem rotated to reveal many distinct polished surfaces each reflecting differently"
+    },
+    {
+      "id": "l4_375",
+      "front": "net",
+      "back": "網・純利益の",
+      "example": "After all the deductions, her ___ take-home pay is 324,000 yen.",
+      "hint_image": "hint_l4_375.webp",
+      "hint_image_prompt": "A pay stub with gross income at the top and net take-home pay calculated at the bottom"
+    },
+    {
+      "id": "l4_376",
+      "front": "non-negotiable",
+      "back": "交渉の余地のない",
+      "example": "The lawyer points out that this contract term is strictly ______________.",
+      "hint_image": "hint_l4_376.webp",
+      "hint_image_prompt": "A contract clause underlined in red with the note this term cannot be changed"
+    },
+    {
+      "id": "l4_377",
+      "front": "noncompliant",
+      "back": "不遵守の",
+      "example": "The audit marks the physical security logs as ____________ with the standards.",
+      "hint_image": "hint_l4_377.webp",
+      "hint_image_prompt": "A checklist with one item marked as failed with a red X during a compliance audit"
+    },
+    {
+      "id": "l4_378",
+      "front": "normative",
+      "back": "規範的な",
+      "example": "The chart defines the _________ range of behavior expected at work.",
+      "hint_image": "hint_l4_378.webp",
+      "hint_image_prompt": "A behavior standard chart showing the accepted range of expected conduct"
+    },
+    {
+      "id": "l4_379",
+      "front": "nuanced",
+      "back": "ニュアンスのある・微妙な違いがある",
+      "example": "The sommelier describes the wine's _______ layers of subtle flavor.",
+      "hint_image": "hint_l4_379.webp",
+      "hint_image_prompt": "A wine expert describing subtle layered flavors that go beyond simply good or bad"
+    },
+    {
+      "id": "l4_380",
+      "front": "obsolete",
+      "back": "時代遅れの",
+      "example": "The dusty old fax machine sitting on the desk is now completely ________.",
+      "hint_image": "hint_l4_380.webp",
+      "hint_image_prompt": "A fax machine on a desk as a symbol of an obsolete technology"
+    },
+    {
+      "id": "l4_381",
+      "front": "onerous",
+      "back": "負担の大きい",
+      "example": "Carrying the huge stack of files up the stairs is an _______ task.",
+      "hint_image": "hint_l4_381.webp",
+      "hint_image_prompt": "A worker carrying an enormous stack of regulatory paperwork up a steep staircase"
+    },
+    {
+      "id": "l4_382",
+      "front": "operational",
+      "back": "運営上の",
+      "example": "The overhead sign shows that the factory floor is fully ___________.",
+      "hint_image": "hint_l4_382.webp",
+      "hint_image_prompt": "A factory floor with all machines running and green status lights showing full operation"
+    },
+    {
+      "id": "l4_383",
+      "front": "optimal",
+      "back": "最適な",
+      "example": "The engineer turns the dial to the _______ setting for maximum efficiency.",
+      "hint_image": "hint_l4_383.webp",
+      "hint_image_prompt": "A settings dial turned to the maximum efficiency point recommended by engineers"
+    },
+    {
+      "id": "l4_384",
+      "front": "outsourced",
+      "back": "外注された",
+      "example": "The map shows that component production is __________ to a foreign supplier.",
+      "hint_image": "hint_l4_384.webp",
+      "hint_image_prompt": "A domestic company logo connected by an arrow to a foreign supplier logo on a map"
+    },
+    {
+      "id": "l4_385",
+      "front": "overarching",
+      "back": "(頭上で)アーチ状な・包括的な",
+      "example": "The large umbrella represents the ___________ goal that covers all smaller ones.",
+      "hint_image": "hint_l4_385.webp",
+      "hint_image_prompt": "An umbrella covering multiple smaller goals listed underneath a single main objective"
+    },
+    {
+      "id": "l4_386",
+      "front": "pending",
+      "back": "保留中の",
+      "example": "The final review is still _______ while it waits for approval.",
+      "hint_image": "hint_l4_386.webp",
+      "hint_image_prompt": "A form sitting in an inbox tray with a yellow clock icon indicating it is awaiting approval"
+    },
+    {
+      "id": "l4_387",
+      "front": "penal",
+      "back": "罰則の",
+      "example": "The official notice describes heavy _____ fines for the regulatory violations.",
+      "hint_image": "hint_l4_387.webp",
+      "hint_image_prompt": "A fine notice with penalty amounts printed in bold for specified regulatory violations"
+    },
+    {
+      "id": "l4_388",
+      "front": "plausible",
+      "back": "もっともらしい",
+      "example": "The detective writes out a _________ explanation for the crime on the board.",
+      "hint_image": "hint_l4_388.webp",
+      "hint_image_prompt": "A detective connecting dots on a case board arriving at a believable explanation"
+    },
+    {
+      "id": "l4_389",
+      "front": "preliminary",
+      "back": "予備的な",
+      "example": "The rough pencil sketch is only a ___________ design of the future city.",
+      "hint_image": "hint_l4_389.webp",
+      "hint_image_prompt": "A preliminary sketch done before the final architectural design begins"
+    },
+    {
+      "id": "l4_390",
+      "front": "pro rata",
+      "back": "比例した",
+      "example": "The chart shows a ________ salary based on the days actually worked.",
+      "hint_image": "hint_l4_390.webp",
+      "hint_image_prompt": "A salary spreadsheet showing an employee paid half their salary for half a month"
+    },
+    {
+      "id": "l4_391",
+      "front": "procedural",
+      "back": "手続き上の",
+      "example": "The flowchart lays out the __________ steps for approving a new project.",
+      "hint_image": "hint_l4_391.webp",
+      "hint_image_prompt": "A step-by-step flowchart governing how each stage of a formal process must proceed"
+    },
+    {
+      "id": "l4_392",
+      "front": "proprietary",
+      "back": "独自の",
+      "example": "The heavy vault protects the company's ___________ technology from outsiders.",
+      "hint_image": "hint_l4_392.webp",
+      "hint_image_prompt": "A locked vault labeled company secret protecting a unique technology or formula"
+    },
+    {
+      "id": "l4_393",
+      "front": "quantifiable",
+      "back": "数値化できる",
+      "example": "The survey turns employee feedback into ____________ scores on a bar chart.",
+      "hint_image": "hint_l4_393.webp",
+      "hint_image_prompt": "A survey result converted into clear bar chart numbers that can be precisely measured"
+    },
+    {
+      "id": "l4_394",
+      "front": "quarterly",
+      "back": "四半期ごとの（形容詞）",
+      "example": "The calendar divides the year into four _________ business periods.",
+      "hint_image": "hint_l4_394.webp",
+      "hint_image_prompt": "A business calendar divided into four equal sections labeled Q1 Q2 Q3 and Q4"
+    },
+    {
+      "id": "l4_395",
+      "front": "regulatory",
+      "back": "規制の（形容詞）",
+      "example": "The audit checks the company against strict __________ standards.",
+      "hint_image": "hint_l4_395.webp",
+      "hint_image_prompt": "A government inspector reviewing company practices against official compliance standards"
+    },
+    {
+      "id": "l4_396",
+      "front": "remediated",
+      "back": "修復された",
+      "example": "The contaminated site was fully __________ into a clean community park.",
+      "hint_image": "hint_l4_396.webp",
+      "hint_image_prompt": "A contaminated site shown before and after cleanup with soil restored to clean status"
+    },
+    {
+      "id": "l4_397",
+      "front": "residual",
+      "back": "残余の",
+      "example": "The worker samples the ________ liquid left in the nearly empty drum.",
+      "hint_image": "hint_l4_397.webp",
+      "hint_image_prompt": "A final small amount remaining at the bottom of a nearly empty storage container"
+    },
+    {
+      "id": "l4_398",
+      "front": "revenue-generating",
+      "back": "収益を生む",
+      "example": "The best-selling earbuds are the store's top __________________ product.",
+      "hint_image": "hint_l4_398.webp",
+      "hint_image_prompt": "A product on a shelf with a sales counter ticking upward as customers purchase it"
+    },
+    {
+      "id": "l4_399",
+      "front": "scalable",
+      "back": "拡張可能な",
+      "example": "The diagram shows a ________ system that can grow to handle more users.",
+      "hint_image": "hint_l4_399.webp",
+      "hint_image_prompt": "A technology firm's architecture diagram showing a fully scalable system"
+    },
+    {
+      "id": "l4_400",
+      "front": "seamless",
+      "back": "シームレスな・継ぎ目がない",
+      "example": "The flowing design shows a ________ connection between all the systems.",
+      "hint_image": "hint_l4_400.webp",
+      "hint_image_prompt": "A user interface with no visible boundaries between features showing seamless design"
+    },
+    {
+      "id": "l4_401",
+      "front": "self-sufficient",
+      "back": "自給自足の",
+      "example": "The homestead uses solar panels and a garden for _______________ living.",
+      "hint_image": "hint_l4_401.webp",
+      "hint_image_prompt": "A homestead with solar panels a vegetable garden and a rainwater collection system"
+    },
+    {
+      "id": "l4_402",
+      "front": "short-term",
+      "back": "短期的な",
+      "example": "The team follows a __________ timeline to launch the new product this month.",
+      "hint_image": "hint_l4_402.webp",
+      "hint_image_prompt": "A calendar showing a goal targeted for completion within the next few weeks"
+    },
+    {
+      "id": "l4_403",
+      "front": "standardized",
+      "back": "標準化された",
+      "example": "The factory uses a ____________ line so every unit comes out identical.",
+      "hint_image": "hint_l4_403.webp",
+      "hint_image_prompt": "Products on a production line all identical in size weight and appearance"
+    },
+    {
+      "id": "l4_404",
+      "front": "statutory",
+      "back": "法定の",
+      "example": "The law book lists the _________ rules that every company must follow.",
+      "hint_image": "hint_l4_404.webp",
+      "hint_image_prompt": "A law book open to a section labeled required by law with a formal reference number"
+    },
+    {
+      "id": "l4_405",
+      "front": "stringent",
+      "back": "厳格な",
+      "example": "The inspector runs _________ quality tests on every sample from the line.",
+      "hint_image": "hint_l4_405.webp",
+      "hint_image_prompt": "A government inspector applying stringent testing to every product batch"
+    },
+    {
+      "id": "l4_406",
+      "front": "suboptimal",
+      "back": "次善の",
+      "example": "The review labels the team's results __________ because of a shortfall from the target.",
+      "hint_image": "hint_l4_406.webp",
+      "hint_image_prompt": "A performance chart showing results that are acceptable but fall short of maximum potential"
+    },
+    {
+      "id": "l4_407",
+      "front": "tangential",
+      "back": "接線的な",
+      "example": "The last agenda item about coffee is only __________ to the main meeting.",
+      "hint_image": "hint_l4_407.webp",
+      "hint_image_prompt": "A meeting agenda with one off-topic item noted in the margin as barely related"
+    },
+    {
+      "id": "l4_408",
+      "front": "tenure",
+      "back": "在職の",
+      "example": "The board shows each employee's ______ with years-of-service badges.",
+      "hint_image": "hint_l4_408.webp",
+      "hint_image_prompt": "An employee wall display showing years of service badges next to each person's name"
+    },
+    {
+      "id": "l4_409",
+      "front": "traceable",
+      "back": "追跡可能な",
+      "example": "The package is fully _________ at every step from Tokyo to Los Angeles.",
+      "hint_image": "hint_l4_409.webp",
+      "hint_image_prompt": "A package tracking screen showing every step of a shipment from origin to delivery"
+    },
+    {
+      "id": "l4_410",
+      "front": "unauthorized",
+      "back": "無許可の",
+      "example": "The red screen warns of an ____________ attempt to open the confidential file.",
+      "hint_image": "hint_l4_410.webp",
+      "hint_image_prompt": "A red access denied screen appearing when an employee attempts a restricted action"
+    },
+    {
+      "id": "l4_411",
+      "front": "unilateral",
+      "back": "一方的な",
+      "example": "The official makes a __________ decision by signing the document alone.",
+      "hint_image": "hint_l4_411.webp",
+      "hint_image_prompt": "One country representative signing a document alone without a second party present"
+    },
+    {
+      "id": "l4_412",
+      "front": "upstream",
+      "back": "上流の",
+      "example": "The diagram shows the ________ phase where raw materials are first sourced.",
+      "hint_image": "hint_l4_412.webp",
+      "hint_image_prompt": "A supply chain diagram showing raw material sourcing at the very beginning of the process"
+    },
+    {
+      "id": "l4_413",
+      "front": "value-added",
+      "back": "付加価値の",
+      "example": "The bundle offers many ___________ extras like a case and an extended warranty.",
+      "hint_image": "hint_l4_413.webp",
+      "hint_image_prompt": "A product package with bonus features and service guarantees listed as extras"
+    },
+    {
+      "id": "l4_414",
+      "front": "variable",
+      "back": "変動する",
+      "example": "The graph's fluctuating line shows a ________ value against a steady baseline.",
+      "hint_image": "hint_l4_414.webp",
+      "hint_image_prompt": "A graph with one fluctuating line versus a steady baseline showing the contrast"
+    },
+    {
+      "id": "l4_415",
+      "front": "vendor-neutral",
+      "back": "ベンダー中立の",
+      "example": "The platform is ______________ and connects to every vendor equally.",
+      "hint_image": "hint_l4_415.webp",
+      "hint_image_prompt": "A technology platform logo connecting to multiple different vendor icons equally"
+    },
+    {
+      "id": "l4_416",
+      "front": "viable",
+      "back": "実行可能な",
+      "example": "The architect stamps the design as approved and fully ______.",
+      "hint_image": "hint_l4_416.webp",
+      "hint_image_prompt": "An architect giving a confident approval on a project design that meets all requirements"
+    },
+    {
+      "id": "l4_417",
+      "front": "volatile",
+      "back": "不安定な",
+      "example": "The wildly swinging chart shows how ________ the market has become today.",
+      "hint_image": "hint_l4_417.webp",
+      "hint_image_prompt": "A graph of a currency market that is described as highly volatile"
+    },
+    {
+      "id": "l4_418",
+      "front": "year-end",
+      "back": "年度末の",
+      "example": "The finance team rushes to finish the ________ reports on December 31st.",
+      "hint_image": "hint_l4_418.webp",
+      "hint_image_prompt": "A corporate finance team compiling final annual reports on December 31st"
+    },
+    {
+      "id": "l4_419",
+      "front": "abatement",
+      "back": "削減",
+      "example": "The new emission controls are part of a pollution _________ initiative.",
+      "hint_image": "hint_l4_419.webp",
+      "hint_image_prompt": "An environmental official measuring reduced pollution levels after new controls are installed"
+    },
+    {
+      "id": "l4_420",
+      "front": "accreditation",
+      "back": "認定",
+      "example": "The academy receives its official _____________ plaque at the awards ceremony.",
+      "hint_image": "hint_l4_420.webp",
+      "hint_image_prompt": "An institution receiving an official accreditation plaque from a certification body"
+    },
+    {
+      "id": "l4_421",
+      "front": "accrued",
+      "back": "発生した・未払い",
+      "example": "The ledger shows the interest that has _______ day by day on the balance.",
+      "hint_image": "hint_l4_421.webp",
+      "hint_image_prompt": "A ledger showing interest accumulating daily in a column that grows each period"
+    },
+    {
+      "id": "l4_422",
+      "front": "actuarial",
+      "back": "保険数理の",
+      "example": "The analyst uses _________ math and a life table to set the premium rate.",
+      "hint_image": "hint_l4_422.webp",
+      "hint_image_prompt": "An actuary using probability tables and mortality charts to calculate insurance premiums"
+    },
+    {
+      "id": "l4_423",
+      "front": "adjudicate",
+      "back": "裁定する",
+      "example": "The panel of judges meets to __________ the dispute between the two firms.",
+      "hint_image": "hint_l4_423.webp",
+      "hint_image_prompt": "A panel of judges reviewing competing claims and delivering a formal written ruling"
+    },
+    {
+      "id": "l4_424",
+      "front": "amortize",
+      "back": "償却する",
+      "example": "The chart shows how each payment helps to ________ the loan balance.",
+      "hint_image": "hint_l4_424.webp",
+      "hint_image_prompt": "A loan balance chart showing the principal declining with each regular payment made"
+    },
+    {
+      "id": "l4_425",
+      "front": "ancillary",
+      "back": "補助的な",
+      "example": "The map highlights the hospital's _________ services that support the main wards.",
+      "hint_image": "hint_l4_425.webp",
+      "hint_image_prompt": "A hospital map showing auxiliary support services around the main treatment departments"
+    },
+    {
+      "id": "l4_426",
+      "front": "annualized",
+      "back": "年率換算の",
+      "example": "The analyst converts the monthly gains into an __________ return rate.",
+      "hint_image": "hint_l4_426.webp",
+      "hint_image_prompt": "A monthly return chart multiplied and projected to show the equivalent yearly rate"
+    },
+    {
+      "id": "l4_427",
+      "front": "anticyclical",
+      "back": "反循環的な",
+      "example": "The government uses ____________ spending to fight the recession.",
+      "hint_image": "hint_l4_427.webp",
+      "hint_image_prompt": "Government spending increasing during a recession to counteract the economic downturn"
+    },
+    {
+      "id": "l4_428",
+      "front": "arbitrage",
+      "back": "裁定取引",
+      "example": "The trader profits from an _________ by buying in Tokyo and selling in New York.",
+      "hint_image": "hint_l4_428.webp",
+      "hint_image_prompt": "A trader simultaneously buying low in one market and selling high in another"
+    },
+    {
+      "id": "l4_429",
+      "front": "asset allocation",
+      "back": "資産配分",
+      "example": "The pie chart shows the portfolio's ________________ across stocks, bonds, and cash.",
+      "hint_image": "hint_l4_429.webp",
+      "hint_image_prompt": "An investment pie chart showing percentage splits between stocks bonds and cash"
+    },
+    {
+      "id": "l4_430",
+      "front": "balance sheet",
+      "back": "貸借対照表",
+      "example": "The _____________ shows that total assets equal total liabilities and equity.",
+      "hint_image": "hint_l4_430.webp",
+      "hint_image_prompt": "A financial statement with total assets listed on the left and liabilities on the right"
+    },
+    {
+      "id": "l4_431",
+      "front": "benchmark rate",
+      "back": "基準金利",
+      "example": "The central bank raises the official ______________ to 1.2 percent.",
+      "hint_image": "hint_l4_431.webp",
+      "hint_image_prompt": "A central bank announcement board showing the official interest rate set for the period"
+    },
+    {
+      "id": "l4_432",
+      "front": "bonds",
+      "back": "債券",
+      "example": "The company issued many _____ that it now struggles to repay with interest.",
+      "hint_image": "hint_l4_432.webp",
+      "hint_image_prompt": "A portfolio folder containing government bonds and corporate bonds"
+    },
+    {
+      "id": "l4_433",
+      "front": "brownfield",
+      "back": "既開発地",
+      "example": "The city redevelops the old __________ site into a green urban district.",
+      "hint_image": "hint_l4_433.webp",
+      "hint_image_prompt": "A city redevelopment project built on a former industrial brownfield site"
+    },
+    {
+      "id": "l4_434",
+      "front": "callable",
+      "back": "繰り上げ償還できる",
+      "example": "The bond has a ________ feature that lets the issuer redeem it early.",
+      "hint_image": "hint_l4_434.webp",
+      "hint_image_prompt": "A bond certificate with a recall clause highlighted showing the issuer can redeem early"
+    },
+    {
+      "id": "l4_435",
+      "front": "capital adequacy",
+      "back": "自己資本比率",
+      "example": "The gauge shows the bank's ________________ ratio well above the minimum.",
+      "hint_image": "hint_l4_435.webp",
+      "hint_image_prompt": "A bank capital ratio gauge showing reserves well above the regulatory minimum level"
+    },
+    {
+      "id": "l4_436",
+      "front": "capital gains",
+      "back": "キャピタルゲイン・土地・株式・公社債など資産の値上がりによって得られる利得",
+      "example": "The screen shows a _____________ of 25,000 dollars from selling the asset.",
+      "hint_image": "hint_l4_436.webp",
+      "hint_image_prompt": "An investment portfolio showing the profit made from selling an asset above its cost"
+    },
+    {
+      "id": "l4_437",
+      "front": "carry cost",
+      "back": "保有コスト",
+      "example": "The invoice breaks down the monthly __________ of storing the inventory.",
+      "hint_image": "hint_l4_437.webp",
+      "hint_image_prompt": "A storage invoice listing the ongoing expenses for holding unsold inventory"
+    },
+    {
+      "id": "l4_438",
+      "front": "cash equivalents",
+      "back": "現金同等物",
+      "example": "The portfolio lists T-bills and money market funds as ________________.",
+      "hint_image": "hint_l4_438.webp",
+      "hint_image_prompt": "Short-term treasury bills and money market instruments shown in a portfolio"
+    },
+    {
+      "id": "l4_439",
+      "front": "clawback",
+      "back": "返還請求",
+      "example": "The agency uses a ________ clause to recover the funds already paid out.",
+      "hint_image": "hint_l4_439.webp",
+      "hint_image_prompt": "A regulator demanding a clawback of executive bonuses after misconduct"
+    },
+    {
+      "id": "l4_440",
+      "front": "co-investment",
+      "back": "共同投資",
+      "example": "The two firms sign a _____________ agreement to fund the project together.",
+      "hint_image": "hint_l4_440.webp",
+      "hint_image_prompt": "Two fund logos appearing side by side on a shared investment project document"
+    },
+    {
+      "id": "l4_441",
+      "front": "covenant",
+      "back": "誓約・条約・契約",
+      "example": "The loan agreement lists each financial ________ the borrower must keep.",
+      "hint_image": "hint_l4_441.webp",
+      "hint_image_prompt": "A loan agreement with a clause listing financial ratios the borrower must maintain"
+    },
+    {
+      "id": "l4_442",
+      "front": "credit rating",
+      "back": "信用格付け",
+      "example": "The agency assigns a top AAA _____________ to the new bond issue.",
+      "hint_image": "hint_l4_442.webp",
+      "hint_image_prompt": "A rating agency assigning a credit rating to a company's new bond issue"
+    },
+    {
+      "id": "l4_443",
+      "front": "cross-border",
+      "back": "国境をまたぐ",
+      "example": "The busy port handles ____________ shipments that must clear customs.",
+      "hint_image": "hint_l4_443.webp",
+      "hint_image_prompt": "A freight container stamped as a cross-border delivery requiring customs clearance"
+    },
+    {
+      "id": "l4_444",
+      "front": "cumulative",
+      "back": "累積的な",
+      "example": "The chart shows the __________ total of donations rising to 100,000 dollars.",
+      "hint_image": "hint_l4_444.webp",
+      "hint_image_prompt": "A running total bar on a fundraising progress chart growing longer each day"
+    },
+    {
+      "id": "l4_445",
+      "front": "custodian",
+      "back": "保管機関・管理人",
+      "example": "The bank acts as the _________ that safely holds the client's assets.",
+      "hint_image": "hint_l4_445.webp",
+      "hint_image_prompt": "A bank vault officer securely holding assets on behalf of a client institution"
+    },
+    {
+      "id": "l4_446",
+      "front": "debenture",
+      "back": "社債",
+      "example": "The woman holds an unsecured _________ that pays 5.5 percent interest.",
+      "hint_image": "hint_l4_446.webp",
+      "hint_image_prompt": "A corporate bond certificate with fixed interest terms and a maturity date printed"
+    },
+    {
+      "id": "l4_447",
+      "front": "deregulation",
+      "back": "規制緩和",
+      "example": "The new ____________ removes many old rules that once blocked market entry.",
+      "hint_image": "hint_l4_447.webp",
+      "hint_image_prompt": "A rulebook with multiple regulations being struck through as barriers are removed"
+    },
+    {
+      "id": "l4_448",
+      "front": "derivative",
+      "back": "デリバティブ・派生した",
+      "example": "The trader watches a __________ whose value depends on the price of oil.",
+      "hint_image": "hint_l4_448.webp",
+      "hint_image_prompt": "A financial screen showing a derivative contract linked to an oil price index"
+    },
+    {
+      "id": "l4_449",
+      "front": "dilution",
+      "back": "希薄化",
+      "example": "The new funding round causes a ________ of the founders' ownership share.",
+      "hint_image": "hint_l4_449.webp",
+      "hint_image_prompt": "A cap table showing each founder's ownership percentage shrinking after new shares issued"
+    },
+    {
+      "id": "l4_450",
+      "front": "disinvestment",
+      "back": "投資撤退",
+      "example": "The company's fourth-quarter _____________ means selling off its media subsidiary.",
+      "hint_image": "hint_l4_450.webp",
+      "hint_image_prompt": "A company selling off a subsidiary and removing it from the portfolio chart"
+    },
+    {
+      "id": "l4_451",
+      "front": "diversification",
+      "back": "多様性・多様化",
+      "example": "Putting eggs in many baskets shows _______________ of your investments.",
+      "hint_image": "hint_l4_451.webp",
+      "hint_image_prompt": "An investment portfolio icon showing eggs distributed across many different baskets"
+    },
+    {
+      "id": "l4_452",
+      "front": "drawdown",
+      "back": "減少・損失率",
+      "example": "The chart shows a sharp ________ as the value falls from its peak.",
+      "hint_image": "hint_l4_452.webp",
+      "hint_image_prompt": "A fund chart showing the percentage drawdown after a market correction"
+    },
+    {
+      "id": "l4_453",
+      "front": "earnings per share",
+      "back": "1株利益",
+      "example": "The screen divides net income by shares to find the __________________.",
+      "hint_image": "hint_l4_453.webp",
+      "hint_image_prompt": "A company financial summary with profit divided by total shares for one EPS figure"
+    },
+    {
+      "id": "l4_454",
+      "front": "economic moat",
+      "back": "競争優位性",
+      "example": "The castle's wide moat represents the company's _____________ against its rivals.",
+      "hint_image": "hint_l4_454.webp",
+      "hint_image_prompt": "A castle surrounded by a wide water moat representing a company's competitive barrier"
+    },
+    {
+      "id": "l4_455",
+      "front": "encumbrance",
+      "back": "負担・担保権",
+      "example": "The property deed notes an ___________ from the unpaid mortgage debt.",
+      "hint_image": "hint_l4_455.webp",
+      "hint_image_prompt": "A property deed with a lien notation attached indicating a claim exists against it"
+    },
+    {
+      "id": "l4_456",
+      "front": "equity stake",
+      "back": "株式保有",
+      "example": "The certificate proves she holds a 15 percent ____________ in the company.",
+      "hint_image": "hint_l4_456.webp",
+      "hint_image_prompt": "A shareholder certificate showing a percentage ownership in a company's total value"
+    },
+    {
+      "id": "l4_457",
+      "front": "escrow",
+      "back": "エスクロー・第三者預託",
+      "example": "The neutral officer holds the payment in ______ until the deal is done.",
+      "hint_image": "hint_l4_457.webp",
+      "hint_image_prompt": "A neutral third-party holding a check in trust until both parties fulfill the agreement"
+    },
+    {
+      "id": "l4_458",
+      "front": "exit strategy",
+      "back": "出口戦略",
+      "example": "The founder maps out an _____________ that ends in an IPO or an acquisition.",
+      "hint_image": "hint_l4_458.webp",
+      "hint_image_prompt": "A startup founder mapping out an exit strategy for selling the business"
+    },
+    {
+      "id": "l4_459",
+      "front": "factoring",
+      "back": "ファクタリング・売掛債権買取",
+      "example": "The firm uses _________ to turn its unpaid invoices into instant cash.",
+      "hint_image": "hint_l4_459.webp",
+      "hint_image_prompt": "A business selling unpaid invoices to a finance company in exchange for immediate cash"
+    },
+    {
+      "id": "l4_460",
+      "front": "fiduciary",
+      "back": "受託者の",
+      "example": "The adviser explains her _________ duty to act in the client's best interest.",
+      "hint_image": "hint_l4_460.webp",
+      "hint_image_prompt": "A financial advisor reviewing a client's portfolio with a written duty of care beside them"
+    },
+    {
+      "id": "l4_461",
+      "front": "fixed income",
+      "back": "固定利付き",
+      "example": "The bond's steady 5.5 percent coupons make it a ____________ investment.",
+      "hint_image": "hint_l4_461.webp",
+      "hint_image_prompt": "A bond coupon payment schedule showing the same regular interest payment each period"
+    },
+    {
+      "id": "l4_462",
+      "front": "going concern",
+      "back": "継続企業",
+      "example": "The audit confirms the company is a healthy _____________ for the coming year.",
+      "hint_image": "hint_l4_462.webp",
+      "hint_image_prompt": "An auditor confirming that a business has sufficient resources to continue operations"
+    },
+    {
+      "id": "l4_463",
+      "front": "goodwill",
+      "back": "善意・のれん",
+      "example": "The glowing heart in the diagram stands for the company's ________ value.",
+      "hint_image": "hint_l4_463.webp",
+      "hint_image_prompt": "A company valuation report listing goodwill as an intangible asset"
+    },
+    {
+      "id": "l4_464",
+      "front": "greenfield",
+      "back": "新規開発地",
+      "example": "The team breaks ground on a __________ site in the open, empty field.",
+      "hint_image": "hint_l4_464.webp",
+      "hint_image_prompt": "A developer breaking ground on a new greenfield project on open land"
+    },
+    {
+      "id": "l4_465",
+      "front": "gross margin",
+      "back": "粗利益率",
+      "example": "The screen shows a 60 percent ____________ after subtracting the cost of goods.",
+      "hint_image": "hint_l4_465.webp",
+      "hint_image_prompt": "A profit breakdown showing revenue minus cost of goods leaving the gross profit amount"
+    },
+    {
+      "id": "l4_466",
+      "front": "hedging",
+      "back": "ヘッジ取引",
+      "example": "The trader buys a _______ contract to protect against the falling market.",
+      "hint_image": "hint_l4_466.webp",
+      "hint_image_prompt": "A trader placing hedging contracts to protect against a currency drop"
+    },
+    {
+      "id": "l4_467",
+      "front": "illiquid",
+      "back": "流動性のない",
+      "example": "The property is so ________ that the owner cannot quickly sell it for cash.",
+      "hint_image": "hint_l4_467.webp",
+      "hint_image_prompt": "An investor unable to sell a property quickly describing it as illiquid"
+    },
+    {
+      "id": "l4_468",
+      "front": "impairment",
+      "back": "障害",
+      "example": "The accountant records an __________ loss as the equipment loses its value.",
+      "hint_image": "hint_l4_468.webp",
+      "hint_image_prompt": "An accountant writing down an asset's book value after its recoverable amount falls"
+    },
+    {
+      "id": "l4_469",
+      "front": "indemnity",
+      "back": "補償",
+      "example": "The insurer pays an _________ to rebuild the old man's damaged house.",
+      "hint_image": "hint_l4_469.webp",
+      "hint_image_prompt": "An insurance payout providing indemnity for a damaged building"
+    },
+    {
+      "id": "l4_470",
+      "front": "indexation",
+      "back": "インデクセーション・指数化",
+      "example": "The pension rises through __________ to match the 3.2 percent inflation rate.",
+      "hint_image": "hint_l4_470.webp",
+      "hint_image_prompt": "A pension payment being adjusted upward to match the current inflation rate measure"
+    },
+    {
+      "id": "l4_471",
+      "front": "indicative",
+      "back": "指標的な",
+      "example": "The term sheet lists only an __________ valuation that is not yet binding.",
+      "hint_image": "hint_l4_471.webp",
+      "hint_image_prompt": "A term sheet with figures labeled as approximate and subject to final due diligence"
+    },
+    {
+      "id": "l4_472",
+      "front": "insolvency",
+      "back": "破産",
+      "example": "The closed shop posts a notice of __________ after it ran out of money.",
+      "hint_image": "hint_l4_472.webp",
+      "hint_image_prompt": "A bankruptcy notice on a shop window showing the business has entered insolvency"
+    },
+    {
+      "id": "l4_473",
+      "front": "intangible",
+      "back": "無形の",
+      "example": "The balance sheet lists brand value and patents as __________ assets.",
+      "hint_image": "hint_l4_473.webp",
+      "hint_image_prompt": "A balance sheet line showing brand value goodwill and patents as non-physical assets"
+    },
+    {
+      "id": "l4_474",
+      "front": "interest rate",
+      "back": "金利",
+      "example": "The central bank announces a new _____________ of 3.75 percent.",
+      "hint_image": "hint_l4_474.webp",
+      "hint_image_prompt": "A central bank press conference where a new benchmark percentage rate is announced"
+    },
+    {
+      "id": "l4_475",
+      "front": "intermediary",
+      "back": "仲介者",
+      "example": "The broker acts as an ____________ between the buyer and the seller.",
+      "hint_image": "hint_l4_475.webp",
+      "hint_image_prompt": "A bank acting as an intermediary between a borrower and a pension fund"
+    },
+    {
+      "id": "l4_476",
+      "front": "intrinsic value",
+      "back": "本質的価値",
+      "example": "The analyst uses a DCF model to find the stock's true _______________.",
+      "hint_image": "hint_l4_476.webp",
+      "hint_image_prompt": "An analyst calculating the fundamental worth of a stock based on projected cash flows"
+    },
+    {
+      "id": "l4_477",
+      "front": "lien",
+      "back": "先取特権",
+      "example": "The bank places a ____ on the car until the loan is fully repaid.",
+      "hint_image": "hint_l4_477.webp",
+      "hint_image_prompt": "A bank placing a lien on a vehicle as security for an outstanding loan"
+    },
+    {
+      "id": "l4_478",
+      "front": "liquidity",
+      "back": "流動性",
+      "example": "The pipe diagram shows how _________ keeps cash flowing through the system.",
+      "hint_image": "hint_l4_478.webp",
+      "hint_image_prompt": "A water tap representing easy access to cash flow in a financial system diagram"
+    },
+    {
+      "id": "l4_479",
+      "front": "loan covenant",
+      "back": "ローン契約",
+      "example": "The report shows that Atlas Corp broke a _____________ in its loan agreement.",
+      "hint_image": "hint_l4_479.webp",
+      "hint_image_prompt": "A debt agreement with a financial ratio requirement the borrower must meet each quarter"
+    },
+    {
+      "id": "l4_480",
+      "front": "market capitalization",
+      "back": "時価総額",
+      "example": "The board multiplies share price by total shares to find each firm's _____________________.",
+      "hint_image": "hint_l4_480.webp",
+      "hint_image_prompt": "A stock exchange board showing a company's share price multiplied by total shares"
+    },
+    {
+      "id": "l4_481",
+      "front": "maturity",
+      "back": "満期",
+      "example": "The bond reaches its ________ date, so the woman finally collects her money.",
+      "hint_image": "hint_l4_481.webp",
+      "hint_image_prompt": "A bond reaching its maturity date and returning the principal to the investor"
+    },
+    {
+      "id": "l4_482",
+      "front": "monetize",
+      "back": "収益化する・現金化する",
+      "example": "The young creator learns how to ________ his videos and turn views into cash.",
+      "hint_image": "hint_l4_482.webp",
+      "hint_image_prompt": "A content creator monetizing a video channel through advertising revenue"
+    },
+    {
+      "id": "l4_483",
+      "front": "net present value",
+      "back": "正味現在価値",
+      "example": "The analyst calculates a positive _________________ to prove the project is worth it.",
+      "hint_image": "hint_l4_483.webp",
+      "hint_image_prompt": "A financial model showing future cash flows discounted back to their value today"
+    },
+    {
+      "id": "l4_484",
+      "front": "non-performing loan",
+      "back": "不良債権",
+      "example": "The officer marks the defaulted, long-overdue debt as a ___________________.",
+      "hint_image": "hint_l4_484.webp",
+      "hint_image_prompt": "A bank loan file labeled overdue with missed payment markers across the schedule"
+    },
+    {
+      "id": "l4_485",
+      "front": "notional",
+      "back": "名目上の・抽象的な",
+      "example": "The swap's ________ amount is used only for calculation, never actually exchanged.",
+      "hint_image": "hint_l4_485.webp",
+      "hint_image_prompt": "A derivatives contract showing a face value amount used for calculation but not exchanged"
+    },
+    {
+      "id": "l4_486",
+      "front": "offering",
+      "back": "申し出る・提供する",
+      "example": "The company opens its public ________ of shares at 25 dollars each.",
+      "hint_image": "hint_l4_486.webp",
+      "hint_image_prompt": "An IPO prospectus being presented to investors at a stock market launch ceremony"
+    },
+    {
+      "id": "l4_487",
+      "front": "on-balance-sheet",
+      "back": "オンバランスの・貸借対照表上の",
+      "example": "Every asset and debt here is recorded as an ________________ item.",
+      "hint_image": "hint_l4_487.webp",
+      "hint_image_prompt": "A company financial statement with assets and liabilities recorded in the main ledger"
+    },
+    {
+      "id": "l4_488",
+      "front": "operating leverage",
+      "back": "営業レバレッジ",
+      "example": "The chart compares low and high __________________ and its effect on profit.",
+      "hint_image": "hint_l4_488.webp",
+      "hint_image_prompt": "A cost structure chart showing high fixed costs amplifying profit changes with volume"
+    },
+    {
+      "id": "l4_489",
+      "front": "par value",
+      "back": "額面価格",
+      "example": "The bond certificate lists a _________ of one thousand dollars on its face.",
+      "hint_image": "hint_l4_489.webp",
+      "hint_image_prompt": "A bond certificate printed with a face value of one thousand dollars at issuance"
+    },
+    {
+      "id": "l4_490",
+      "front": "passive income",
+      "back": "受動的収入",
+      "example": "He relaxes at home while dividends give him a steady ______________ stream.",
+      "hint_image": "hint_l4_490.webp",
+      "hint_image_prompt": "A person relaxing on a porch while dividend deposit notifications appear on their phone"
+    },
+    {
+      "id": "l4_491",
+      "front": "payback period",
+      "back": "回収期間",
+      "example": "The chart shows a ______________ of 14 months before the project breaks even.",
+      "hint_image": "hint_l4_491.webp",
+      "hint_image_prompt": "A project investment timeline showing the month when cumulative returns match the cost"
+    },
+    {
+      "id": "l4_492",
+      "front": "preferred stock",
+      "back": "優先株",
+      "example": "The certificate grants her _______________ with priority over common shares.",
+      "hint_image": "hint_l4_492.webp",
+      "hint_image_prompt": "A share certificate labeled preferred with dividend priority terms printed clearly"
+    },
+    {
+      "id": "l4_493",
+      "front": "price-to-earnings",
+      "back": "株価収益率",
+      "example": "The analyst uses the _________________ ratio to judge if the stock is fairly priced.",
+      "hint_image": "hint_l4_493.webp",
+      "hint_image_prompt": "A stock analysis page showing share price divided by earnings per share as a ratio"
+    },
+    {
+      "id": "l4_494",
+      "front": "principal",
+      "back": "元金・主要",
+      "example": "The loan agreement circles the _________ amount of 250,000 dollars borrowed.",
+      "hint_image": "hint_l4_494.webp",
+      "hint_image_prompt": "A loan document with the original borrowed amount circled before any interest applies"
+    },
+    {
+      "id": "l4_495",
+      "front": "private equity",
+      "back": "プライベートエクイティ・未公開株式",
+      "example": "The ______________ investors meet the company's leaders to review its growth.",
+      "hint_image": "hint_l4_495.webp",
+      "hint_image_prompt": "An investor group meeting with a portfolio company's leadership for a growth review"
+    },
+    {
+      "id": "l4_496",
+      "front": "prospectus",
+      "back": "目論見書",
+      "example": "The woman studies the company's __________ before deciding to invest.",
+      "hint_image": "hint_l4_496.webp",
+      "hint_image_prompt": "A new investor reading the company prospectus before buying shares"
+    },
+    {
+      "id": "l4_497",
+      "front": "quantitative easing",
+      "back": "量的緩和",
+      "example": "The central bank prints money through ___________________ to stabilize the markets.",
+      "hint_image": "hint_l4_497.webp",
+      "hint_image_prompt": "A central bank printing press producing currency to inject into a slowing economy"
+    },
+    {
+      "id": "l4_498",
+      "front": "rate of return",
+      "back": "収益率",
+      "example": "The screen divides profit by cost to find a 20 percent ______________.",
+      "hint_image": "hint_l4_498.webp",
+      "hint_image_prompt": "A calculator showing a percentage gain displayed after dividing profit by initial cost"
+    },
+    {
+      "id": "l4_499",
+      "front": "refinancing",
+      "back": "借り換え",
+      "example": "The couple signs a ___________ agreement to replace their old loan with a better one.",
+      "hint_image": "hint_l4_499.webp",
+      "hint_image_prompt": "A homeowner signing refinancing documents to lower their mortgage rate"
+    },
+    {
+      "id": "l4_500",
+      "front": "regulatory capital",
+      "back": "規制資本",
+      "example": "The chart shows the bank holds far more __________________ than the minimum required.",
+      "hint_image": "hint_l4_500.webp",
+      "hint_image_prompt": "A bank reserve chart confirming capital held above the minimum required by regulators"
+    }
+  ]
+}

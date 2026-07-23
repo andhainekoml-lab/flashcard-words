@@ -1,0 +1,2410 @@
+{
+  "deck_id": "eng_word_level1_basic",
+  "deck_name": "超基本・中1レベル300語",
+  "direction_mode": "bothWays",
+  "front_label": "英語",
+  "back_label": "日本語",
+  "show_listen": true,
+  "cards": [
+    {
+      "id": "l1_001",
+      "front": "cat",
+      "back": "猫",
+      "example": "The ___ is sleeping on the cushion.",
+      "hint_image": "hint_l1_001.webp",
+      "hint_image_prompt": "A fluffy orange cat curled up and sleeping peacefully on a soft cushion"
+    },
+    {
+      "id": "l1_002",
+      "front": "dog",
+      "back": "犬",
+      "example": "My ___ loves to play outside.",
+      "hint_image": "hint_l1_002.webp",
+      "hint_image_prompt": "A golden retriever dog sitting and wagging its tail with a happy expression"
+    },
+    {
+      "id": "l1_003",
+      "front": "bird",
+      "back": "鳥",
+      "example": "A ____ is singing in the tree.",
+      "hint_image": "hint_l1_003.webp",
+      "hint_image_prompt": "A colorful parrot perched on a branch spreading its wings"
+    },
+    {
+      "id": "l1_004",
+      "front": "fish",
+      "back": "魚・釣る",
+      "example": "A shiny ____ swimming gracefully through clear blue water.",
+      "hint_image": "hint_l1_004.webp",
+      "hint_image_prompt": "A shiny fish swimming gracefully through clear blue water"
+    },
+    {
+      "id": "l1_005",
+      "front": "horse",
+      "back": "馬・馬に乗る・馬に乗せる",
+      "example": "A _____ runs across a green meadow.",
+      "hint_image": "hint_l1_005.webp",
+      "hint_image_prompt": "A brown horse galloping freely across an open green field"
+    },
+    {
+      "id": "l1_006",
+      "front": "cow",
+      "back": "牛",
+      "example": "The ___ is in the field.",
+      "hint_image": "hint_l1_006.webp",
+      "hint_image_prompt": "A black and white cow standing in a sunny meadow chewing grass"
+    },
+    {
+      "id": "l1_007",
+      "front": "pig",
+      "back": "豚・大食いする",
+      "example": "The ___ rolled in the mud.",
+      "hint_image": "hint_l1_007.webp",
+      "hint_image_prompt": "A pink pig rolling happily in a muddy puddle on a farm"
+    },
+    {
+      "id": "l1_008",
+      "front": "sheep",
+      "back": "羊",
+      "example": "The _____ has white wool.",
+      "hint_image": "hint_l1_008.webp",
+      "hint_image_prompt": "A fluffy white sheep grazing peacefully on a green hillside"
+    },
+    {
+      "id": "l1_009",
+      "front": "rabbit",
+      "back": "ウサギ",
+      "example": "A small white ______ sitting in a garden.",
+      "hint_image": "hint_l1_009.webp",
+      "hint_image_prompt": "A small white rabbit with long ears sitting in a garden"
+    },
+    {
+      "id": "l1_010",
+      "front": "bear",
+      "back": "クマ・(重さに)耐える",
+      "example": "A ____ lives in the forest.",
+      "hint_image": "hint_l1_010.webp",
+      "hint_image_prompt": "A large brown bear standing upright in a forest clearing"
+    },
+    {
+      "id": "l1_011",
+      "front": "lion",
+      "back": "ライオン",
+      "example": "The ____ is the king of the jungle.",
+      "hint_image": "hint_l1_011.webp",
+      "hint_image_prompt": "A majestic lion sitting proudly on a large rock in the savanna"
+    },
+    {
+      "id": "l1_012",
+      "front": "tiger",
+      "back": "トラ",
+      "example": "A _____ crouching low and watching in the jungle.",
+      "hint_image": "hint_l1_012.webp",
+      "hint_image_prompt": "A striped tiger crouching low and watching in the jungle"
+    },
+    {
+      "id": "l1_013",
+      "front": "monkey",
+      "back": "サル・まねる",
+      "example": "The ______  is hanging from a tree.",
+      "hint_image": "hint_l1_013.webp",
+      "hint_image_prompt": "A playful monkey swinging from a vine in a tropical rainforest"
+    },
+    {
+      "id": "l1_014",
+      "front": "elephant",
+      "back": "ゾウ",
+      "example": "The ________ has a long trunk.",
+      "hint_image": "hint_l1_014.webp",
+      "hint_image_prompt": "A large gray elephant spraying water from its trunk at a watering hole"
+    },
+    {
+      "id": "l1_015",
+      "front": "owl",
+      "back": "フクロウ",
+      "example": "The ___ perched on a branch at night.",
+      "hint_image": "hint_l1_015.webp",
+      "hint_image_prompt": "A wise-looking owl perched on a branch at night with big round eyes"
+    },
+    {
+      "id": "l1_016",
+      "front": "ant",
+      "back": "アリ",
+      "example": "An ___ is carrying food.",
+      "hint_image": "hint_l1_016.webp",
+      "hint_image_prompt": "A line of tiny ants carrying food crumbs toward their underground nest"
+    },
+    {
+      "id": "l1_017",
+      "front": "bee",
+      "back": "ミツバチ・働き者",
+      "example": "A ___ collects nectar.",
+      "hint_image": "hint_l1_017.webp",
+      "hint_image_prompt": "A busy bee covered in yellow pollen landing on a bright flower"
+    },
+    {
+      "id": "l1_018",
+      "front": "frog",
+      "back": "カエル",
+      "example": "The ____ sitting on a lily pad.",
+      "hint_image": "hint_l1_018.webp",
+      "hint_image_prompt": "A green frog sitting on a lily pad at the edge of a pond"
+    },
+    {
+      "id": "l1_019",
+      "front": "duck",
+      "back": "アヒル・水に潜る・身をかがめる",
+      "example": "The ____ is swimming in the lake.",
+      "hint_image": "hint_l1_019.webp",
+      "hint_image_prompt": "A fluffy duck waddling along a pond bank followed by tiny ducklings"
+    },
+    {
+      "id": "l1_020",
+      "front": "snake",
+      "back": "ヘビ・くねらせる",
+      "example": "A _____ curled around a tree.",
+      "hint_image": "hint_l1_020.webp",
+      "hint_image_prompt": "A long snake curled around a tree branch in a jungle"
+    },
+    {
+      "id": "l1_021",
+      "front": "apple",
+      "back": "リンゴ",
+      "example": "An _____ sitting on a wooden kitchen table.",
+      "hint_image": "hint_l1_021.webp",
+      "hint_image_prompt": "A shiny red apple sitting on a wooden kitchen table"
+    },
+    {
+      "id": "l1_022",
+      "front": "orange",
+      "back": "オレンジ",
+      "example": "An ______ cut in half.",
+      "hint_image": "hint_l1_022.webp",
+      "hint_image_prompt": "A bright orange slice showing juicy segments on a white plate"
+    },
+    {
+      "id": "l1_023",
+      "front": "banana",
+      "back": "バナナ",
+      "example": "Monkeys love ______s.",
+      "hint_image": "hint_l1_023.webp",
+      "hint_image_prompt": "A bunch of yellow bananas hanging from a branch in a tropical garden"
+    },
+    {
+      "id": "l1_024",
+      "front": "rice",
+      "back": "ご飯・米・米粒状にする",
+      "example": "I eat ____ for lunch.",
+      "hint_image": "hint_l1_024.webp",
+      "hint_image_prompt": "A bowl of steaming white rice on a dining table"
+    },
+    {
+      "id": "l1_025",
+      "front": "bread",
+      "back": "パン・～にパン粉をつける",
+      "example": "I have _____ for breakfast.",
+      "hint_image": "hint_l1_025.webp",
+      "hint_image_prompt": "A golden loaf of freshly baked bread on a wooden cutting board"
+    },
+    {
+      "id": "l1_026",
+      "front": "egg",
+      "back": "卵",
+      "example": "A cracked ___ on a white plate.",
+      "hint_image": "hint_l1_026.webp",
+      "hint_image_prompt": "A cracked egg showing bright yellow yolk on a white plate"
+    },
+    {
+      "id": "l1_027",
+      "front": "milk",
+      "back": "牛乳・搾乳する",
+      "example": "Fresh cold ____ on a wooden table.",
+      "hint_image": "hint_l1_027.webp",
+      "hint_image_prompt": "A glass bottle of fresh cold milk on a wooden table"
+    },
+    {
+      "id": "l1_028",
+      "front": "cake",
+      "back": "ケーキ",
+      "example": "Birthday ____ with lit candles on a party table.",
+      "hint_image": "hint_l1_028.webp",
+      "hint_image_prompt": "A decorated birthday cake with lit candles on a party table"
+    },
+    {
+      "id": "l1_029",
+      "front": "soup",
+      "back": "スープ",
+      "example": "The ____ is hot.",
+      "hint_image": "hint_l1_029.webp",
+      "hint_image_prompt": "A steaming bowl of vegetable soup with a spoon beside it"
+    },
+    {
+      "id": "l1_030",
+      "front": "pizza",
+      "back": "ピザ",
+      "example": "We ordered a large _____.",
+      "hint_image": "hint_l1_030.webp",
+      "hint_image_prompt": "A round pizza with colorful toppings fresh out of a stone oven"
+    },
+    {
+      "id": "l1_031",
+      "front": "salad",
+      "back": "サラダ",
+      "example": "She had a green _____.",
+      "hint_image": "hint_l1_031.webp",
+      "hint_image_prompt": "A colorful bowl of salad with tomatoes, lettuce, and cucumbers"
+    },
+    {
+      "id": "l1_032",
+      "front": "cookie",
+      "back": "クッキー",
+      "example": "Chocolate chip ______s fresh from the oven.",
+      "hint_image": "hint_l1_032.webp",
+      "hint_image_prompt": "A plate of round chocolate chip cookies fresh from the oven"
+    },
+    {
+      "id": "l1_033",
+      "front": "chocolate",
+      "back": "チョコレート",
+      "example": "Dark _________ broken into squares.",
+      "hint_image": "hint_l1_033.webp",
+      "hint_image_prompt": "A bar of dark chocolate broken into squares on a white surface"
+    },
+    {
+      "id": "l1_034",
+      "front": "tea",
+      "back": "お茶",
+      "example": "A cup of warm ___.",
+      "hint_image": "hint_l1_034.webp",
+      "hint_image_prompt": "A steaming teacup sitting on a saucer with a tea bag string"
+    },
+    {
+      "id": "l1_035",
+      "front": "coffee",
+      "back": "コーヒー",
+      "example": "A cup of warm ______.",
+      "hint_image": "hint_l1_035.webp",
+      "hint_image_prompt": "A cup of hot coffee with steam rising from the dark surface"
+    },
+    {
+      "id": "l1_036",
+      "front": "juice",
+      "back": "ジュース・搾り汁・汁を絞る",
+      "example": "Fresh orange _____.",
+      "hint_image": "hint_l1_036.webp",
+      "hint_image_prompt": "A glass of bright orange juice with ice cubes and a straw"
+    },
+    {
+      "id": "l1_037",
+      "front": "butter",
+      "back": "バター・バターで炒める",
+      "example": "______ on a plate.",
+      "hint_image": "hint_l1_037.webp",
+      "hint_image_prompt": "A golden stick of butter on a white ceramic dish"
+    },
+    {
+      "id": "l1_038",
+      "front": "cheese",
+      "back": "チーズ",
+      "example": "A block of ______.",
+      "hint_image": "hint_l1_038.webp",
+      "hint_image_prompt": "A wheel of yellow cheese with a slice cut and laid beside it"
+    },
+    {
+      "id": "l1_039",
+      "front": "meat",
+      "back": "肉",
+      "example": "We had ____ for dinner.",
+      "hint_image": "hint_l1_039.webp",
+      "hint_image_prompt": "A piece of raw red meat on a wooden cutting board"
+    },
+    {
+      "id": "l1_040",
+      "front": "corn",
+      "back": "トウモロコシ",
+      "example": "I like ____ soup.",
+      "hint_image": "hint_l1_040.webp",
+      "hint_image_prompt": "A yellow ear of corn on a wooden picnic table"
+    },
+    {
+      "id": "l1_041",
+      "front": "head",
+      "back": "頭・率いる",
+      "example": "Her ____.",
+      "hint_image": "hint_l1_041.webp",
+      "hint_image_prompt": "A close-up of a human head"
+    },
+    {
+      "id": "l1_042",
+      "front": "eye",
+      "back": "目・注目する",
+      "example": "She has beautiful blue ___s.",
+      "hint_image": "hint_l1_042.webp",
+      "hint_image_prompt": "A close-up of a wide open eye with long lashes and a bright iris"
+    },
+    {
+      "id": "l1_043",
+      "front": "ear",
+      "back": "耳",
+      "example": "He has small ___s.",
+      "hint_image": "hint_l1_043.webp",
+      "hint_image_prompt": "A close-up of a human ear with soft light showing its details"
+    },
+    {
+      "id": "l1_044",
+      "front": "nose",
+      "back": "鼻・においをかぐ",
+      "example": ""A child sniffing a fragrant flower with their ____.",
+      "hint_image": "hint_l1_044.webp",
+      "hint_image_prompt": "A child sniffing a fragrant flower with their nose"
+    },
+    {
+      "id": "l1_045",
+      "front": "mouth",
+      "back": "口・発言する",
+      "example": "Open my _____ wide.",
+      "hint_image": "hint_l1_045.webp",
+      "hint_image_prompt": "A person opening their mouth wide to bite into a large sandwich"
+    },
+    {
+      "id": "l1_046",
+      "front": "hand",
+      "back": "手・手渡し",
+      "example": "shake ____.",
+      "hint_image": "hint_l1_046.webp",
+      "hint_image_prompt": "Two hands reaching toward each other to shake hands warmly"
+    },
+    {
+      "id": "l1_047",
+      "front": "arm",
+      "back": "腕・武器・武装する・武装させる",
+      "example": "She shows off the muscles in her ___s.",
+      "hint_image": "hint_l1_047.webp",
+      "hint_image_prompt": "A person flexing their arm showing their bicep muscle"
+    },
+    {
+      "id": "l1_048",
+      "front": "leg",
+      "back": "脚",
+      "example": "A runner's ___s.",
+      "hint_image": "hint_l1_048.webp",
+      "hint_image_prompt": "A runner's legs in motion on a running track"
+    },
+    {
+      "id": "l1_049",
+      "front": "foot",
+      "back": "足（くるぶし以下）・歩く",
+      "example": "My ____ stepping onto warm sandy beach.",
+      "hint_image": "hint_l1_049.webp",
+      "hint_image_prompt": "A bare foot stepping onto warm sandy beach"
+    },
+    {
+      "id": "l1_050",
+      "front": "back",
+      "back": "後ろへ・背中・後ろに進む・後ろへ動かす",
+      "example": "Her ____ view.",
+      "hint_image": "hint_l1_050.webp",
+      "hint_image_prompt": "A person walking away viewed from behind with a backpack"
+    },
+    {
+      "id": "l1_051",
+      "front": "finger",
+      "back": "指・指でいじる",
+      "example": "He spread out his hand and showed his ______s.",
+      "hint_image": "hint_l1_051.webp",
+      "hint_image_prompt": "A hand with fingers spread wide on a white surface"
+    },
+    {
+      "id": "l1_052",
+      "front": "house",
+      "back": "家・家に住まわせる",
+      "example": "This is my _____.",
+      "hint_image": "hint_l1_052.webp",
+      "hint_image_prompt": "A cozy red house with a chimney and a flower garden outside"
+    },
+    {
+      "id": "l1_053",
+      "front": "room",
+      "back": "部屋・下宿する・部屋を貸す",
+      "example": "My comfortable ____.",
+      "hint_image": "hint_l1_053.webp",
+      "hint_image_prompt": "A bright sunlit room with a bed, desk, and window"
+    },
+    {
+      "id": "l1_054",
+      "front": "door",
+      "back": "ドア",
+      "example": "Close the ____.",
+      "hint_image": "hint_l1_054.webp",
+      "hint_image_prompt": "A wooden front door with a round knocker and a welcome mat"
+    },
+    {
+      "id": "l1_055",
+      "front": "window",
+      "back": "窓",
+      "example": "Open the ______.",
+      "hint_image": "hint_l1_055.webp",
+      "hint_image_prompt": "A large window overlooking a green garden on a sunny day"
+    },
+    {
+      "id": "l1_056",
+      "front": "bed",
+      "back": "ベッド",
+      "example": "A double ___ covered with a blue blanket.",
+      "hint_image": "hint_l1_056.webp",
+      "hint_image_prompt": "A neatly made bed with white pillows and a blue blanket"
+    },
+    {
+      "id": "l1_057",
+      "front": "desk",
+      "back": "机・卓上の",
+      "example": "The book is on the ____.",
+      "hint_image": "hint_l1_057.webp",
+      "hint_image_prompt": "A wooden desk with books, a lamp, and a pencil holder on top"
+    },
+    {
+      "id": "l1_058",
+      "front": "chair",
+      "back": "椅子",
+      "example": "Sit on the _____.",
+      "hint_image": "hint_l1_058.webp",
+      "hint_image_prompt": "A simple wooden chair with four legs on a polished floor"
+    },
+    {
+      "id": "l1_059",
+      "front": "table",
+      "back": "テーブル・テーブルの上に置く",
+      "example": "Prepare the meal on the _____.",
+      "hint_image": "hint_l1_059.webp",
+      "hint_image_prompt": "A round dining table set with plates and glasses for a meal"
+    },
+    {
+      "id": "l1_060",
+      "front": "kitchen",
+      "back": "台所",
+      "example": "She cooks in the _______.",
+      "hint_image": "hint_l1_060.webp",
+      "hint_image_prompt": "A bright kitchen with a stove, sink, and hanging pots"
+    },
+    {
+      "id": "l1_061",
+      "front": "floor",
+      "back": "床・床を張る",
+      "example": "Sunlight is falling on the _____.",
+      "hint_image": "hint_l1_061.webp",
+      "hint_image_prompt": "A shiny clean wooden floor with sunlight streaming across it"
+    },
+    {
+      "id": "l1_062",
+      "front": "wall",
+      "back": "壁・取り囲む・防御する",
+      "example": "A ____ covered in ivy.",
+      "hint_image": "hint_l1_062.webp",
+      "hint_image_prompt": "A brick wall with climbing vines and a small window"
+    },
+    {
+      "id": "l1_063",
+      "front": "garden",
+      "back": "庭・園芸の・庭にする",
+      "example": "A ______ abounding in blooming flowers.",
+      "hint_image": "hint_l1_063.webp",
+      "hint_image_prompt": "A colorful garden with flowers, a path, and a wooden bench"
+    },
+    {
+      "id": "l1_064",
+      "front": "school",
+      "back": "学校・教育する",
+      "example": "Children play at ______.",
+      "hint_image": "hint_l1_064.webp",
+      "hint_image_prompt": "A school building with children playing outside in a yard"
+    },
+    {
+      "id": "l1_065",
+      "front": "class",
+      "back": "クラス・授業",
+      "example": "Take a math _____.",
+      "hint_image": "hint_l1_065.webp",
+      "hint_image_prompt": "A teacher standing at a chalkboard with students in rows of desks"
+    },
+    {
+      "id": "l1_066",
+      "front": "book",
+      "back": "本",
+      "example": "____s are piled up.",
+      "hint_image": "hint_l1_066.webp",
+      "hint_image_prompt": "A stack of colorful books on a library shelf"
+    },
+    {
+      "id": "l1_067",
+      "front": "pen",
+      "back": "ペン",
+      "example": "This is a ___?",
+      "hint_image": "hint_l1_067.webp",
+      "hint_image_prompt": "A blue pen lying beside a notebook on a white desk"
+    },
+    {
+      "id": "l1_068",
+      "front": "pencil",
+      "back": "鉛筆・鉛筆で書く",
+      "example": "This is a ______.",
+      "hint_image": "hint_l1_068.webp",
+      "hint_image_prompt": "A freshly sharpened pencil resting on a blank sheet of paper"
+    },
+    {
+      "id": "l1_069",
+      "front": "bag",
+      "back": "バッグ・かばん・袋に詰め込む",
+      "example": "A ___ is hanging.",
+      "hint_image": "hint_l1_069.webp",
+      "hint_image_prompt": "A school backpack with zipper pockets hanging on a hook"
+    },
+    {
+      "id": "l1_070",
+      "front": "map",
+      "back": "地図・地図を作る",
+      "example": "A world ___?",
+      "hint_image": "hint_l1_070.webp",
+      "hint_image_prompt": "A world map spread out on a table with colored regions"
+    },
+    {
+      "id": "l1_071",
+      "front": "paper",
+      "back": "紙・紙で包む・紙でできた",
+      "example": "Write on the _____.",
+      "hint_image": "hint_l1_071.webp",
+      "hint_image_prompt": "A sheet of white paper with neat handwriting on a wooden desk"
+    },
+    {
+      "id": "l1_072",
+      "front": "eraser",
+      "back": "消しゴム",
+      "example": "A pink ______.",
+      "hint_image": "hint_l1_072.webp",
+      "hint_image_prompt": "A pink eraser sitting beside a pencil on a notebook"
+    },
+    {
+      "id": "l1_073",
+      "front": "ruler",
+      "back": "定規",
+      "example": "A wooden _____.",
+      "hint_image": "hint_l1_073.webp",
+      "hint_image_prompt": "A wooden ruler lined with measurement markings on a desk"
+    },
+    {
+      "id": "l1_074",
+      "front": "park",
+      "back": "公園・駐車する",
+      "example": "A ____ with lots of plants.",
+      "hint_image": "hint_l1_074.webp",
+      "hint_image_prompt": "A sunny park with a path, green trees, and people on benches"
+    },
+    {
+      "id": "l1_075",
+      "front": "shop",
+      "back": "店・買い物をする",
+      "example": "The ____ on the corner.",
+      "hint_image": "hint_l1_075.webp",
+      "hint_image_prompt": "A small corner shop with a striped awning and display window"
+    },
+    {
+      "id": "l1_076",
+      "front": "bank",
+      "back": "銀行・預ける・取引する・(川の)土手・岸・盛り上がる・堤防を作る",
+      "example": "Go to the ____.",
+      "hint_image": "hint_l1_076.webp",
+      "hint_image_prompt": "A tall bank building with glass doors and a sign out front"
+    },
+    {
+      "id": "l1_077",
+      "front": "hospital",
+      "back": "病院",
+      "example": "A large hospital ________.",
+      "hint_image": "hint_l1_077.webp",
+      "hint_image_prompt": "A large hospital building with an emergency entrance and ambulance"
+    },
+    {
+      "id": "l1_078",
+      "front": "station",
+      "back": "駅",
+      "example": "A _______ used by many people.",
+      "hint_image": "hint_l1_078.webp",
+      "hint_image_prompt": "A busy train station with platforms and passengers with luggage"
+    },
+    {
+      "id": "l1_079",
+      "front": "library",
+      "back": "図書館",
+      "example": "Study in the _______.",
+      "hint_image": "hint_l1_079.webp",
+      "hint_image_prompt": "A quiet library with tall shelves of books and reading tables"
+    },
+    {
+      "id": "l1_080",
+      "front": "museum",
+      "back": "博物館",
+      "example": "Visit the ______.",
+      "hint_image": "hint_l1_080.webp",
+      "hint_image_prompt": "A museum with large stone pillars and people viewing exhibits"
+    },
+    {
+      "id": "l1_081",
+      "front": "restaurant",
+      "back": "レストラン",
+      "example": "Let's go to a __________.",
+      "hint_image": "hint_l1_081.webp",
+      "hint_image_prompt": "A warm restaurant interior with tables, candles, and a menu board"
+    },
+    {
+      "id": "l1_082",
+      "front": "hotel",
+      "back": "ホテル",
+      "example": "We stayed at a _____.",
+      "hint_image": "hint_l1_082.webp",
+      "hint_image_prompt": "A grand hotel lobby with a reception desk and luggage carts"
+    },
+    {
+      "id": "l1_083",
+      "front": "church",
+      "back": "教会・聖職者の",
+      "example": "The town ______.",
+      "hint_image": "hint_l1_083.webp",
+      "hint_image_prompt": "A stone church with a tall bell tower on a quiet village street"
+    },
+    {
+      "id": "l1_084",
+      "front": "street",
+      "back": "通り・通りに面した",
+      "example": "The town's main ______.",
+      "hint_image": "hint_l1_084.webp",
+      "hint_image_prompt": "A bustling street with shops, cars, and people walking on the sidewalk"
+    },
+    {
+      "id": "l1_085",
+      "front": "bridge",
+      "back": "橋・橋を架ける",
+      "example": "Cross the ______.",
+      "hint_image": "hint_l1_085.webp",
+      "hint_image_prompt": "A stone bridge arching over a calm blue river"
+    },
+    {
+      "id": "l1_086",
+      "front": "lake",
+      "back": "湖",
+      "example": "A ____ that looks like a painting.",
+      "hint_image": "hint_l1_086.webp",
+      "hint_image_prompt": "A calm blue lake surrounded by mountains and pine trees"
+    },
+    {
+      "id": "l1_087",
+      "front": "river",
+      "back": "川",
+      "example": "The _____ is long.",
+      "hint_image": "hint_l1_087.webp",
+      "hint_image_prompt": "A wide river flowing through a green valley with gentle rapids"
+    },
+    {
+      "id": "l1_088",
+      "front": "mountain",
+      "back": "山・山のような",
+      "example": "A ________ higher than the clouds.",
+      "hint_image": "hint_l1_088.webp",
+      "hint_image_prompt": "A tall snow-capped mountain peak above the clouds"
+    },
+    {
+      "id": "l1_089",
+      "front": "forest",
+      "back": "森・植林する",
+      "example": "A dim ______.",
+      "hint_image": "hint_l1_089.webp",
+      "hint_image_prompt": "A dense green forest with sunlight filtering through tall trees"
+    },
+    {
+      "id": "l1_090",
+      "front": "beach",
+      "back": "ビーチ",
+      "example": "We went to the _____.",
+      "hint_image": "hint_l1_090.webp",
+      "hint_image_prompt": "A sandy beach with gentle waves and colorful umbrellas"
+    },
+    {
+      "id": "l1_091",
+      "front": "sky",
+      "back": "空",
+      "example": "The ___ is blue.",
+      "hint_image": "hint_l1_091.webp",
+      "hint_image_prompt": "A clear blue sky with a few white clouds on a sunny day"
+    },
+    {
+      "id": "l1_092",
+      "front": "star",
+      "back": "星・星印をつける・(映画・劇などで)主役を演じる・星形の",
+      "example": "I can see many ____s.",
+      "hint_image": "hint_l1_092.webp",
+      "hint_image_prompt": "A bright star shining in a dark night sky full of other stars"
+    },
+    {
+      "id": "l1_093",
+      "front": "cloud",
+      "back": "雲・雲が覆う",
+      "example": "There are _____s in the sky.",
+      "hint_image": "hint_l1_093.webp",
+      "hint_image_prompt": "White fluffy clouds drifting slowly across a blue sky"
+    },
+    {
+      "id": "l1_094",
+      "front": "car",
+      "back": "車",
+      "example": "A new red ___.",
+      "hint_image": "hint_l1_094.webp",
+      "hint_image_prompt": "A shiny red car parked on a clean city street"
+    },
+    {
+      "id": "l1_095",
+      "front": "bus",
+      "back": "バス・バスで行く",
+      "example": "Take the ___ to school.",
+      "hint_image": "hint_l1_095.webp",
+      "hint_image_prompt": "A city bus with passengers waiting at a bus stop on the street"
+    },
+    {
+      "id": "l1_096",
+      "front": "train",
+      "back": "電車・教育する・訓練する",
+      "example": "The _____ was on time.",
+      "hint_image": "hint_l1_096.webp",
+      "hint_image_prompt": "A modern commuter train arriving at a station platform"
+    },
+    {
+      "id": "l1_097",
+      "front": "bike",
+      "back": "自転車・自転車に乗る",
+      "example": "Ride a ____.",
+      "hint_image": "hint_l1_097.webp",
+      "hint_image_prompt": "A bicycle leaning against a wall beside a sunny cycling path"
+    },
+    {
+      "id": "l1_098",
+      "front": "ship",
+      "back": "船・船に積む・船に乗る",
+      "example": "The ____ is very large.",
+      "hint_image": "hint_l1_098.webp",
+      "hint_image_prompt": "A large cargo ship sailing on the open ocean"
+    },
+    {
+      "id": "l1_099",
+      "front": "plane",
+      "back": "飛行機・平らな・飛行機で行く",
+      "example": "The _____ took off.",
+      "hint_image": "hint_l1_099.webp",
+      "hint_image_prompt": "A white commercial airplane flying high above the clouds"
+    },
+    {
+      "id": "l1_100",
+      "front": "taxi",
+      "back": "タクシー・タクシーで行く",
+      "example": "She took a ____ home.",
+      "hint_image": "hint_l1_100.webp",
+      "hint_image_prompt": "A yellow taxi cab stopped at a curb in a busy city"
+    },
+    {
+      "id": "l1_101",
+      "front": "red",
+      "back": "赤い",
+      "example": "___ strawberries, apples, and tulips.",
+      "hint_image": "hint_l1_101.webp",
+      "hint_image_prompt": "A bright red apple, strawberry, and red tulip arranged together"
+    },
+    {
+      "id": "l1_102",
+      "front": "blue",
+      "back": "青い",
+      "example": "____ Butterfly and the Sea.",
+      "hint_image": "hint_l1_102.webp",
+      "hint_image_prompt": "A clear blue sky, blue ocean waves, and blue butterfly in a scene"
+    },
+    {
+      "id": "l1_103",
+      "front": "green",
+      "back": "緑の",
+      "example": "A detached building covered in _____ lawn.",
+      "hint_image": "hint_l1_103.webp",
+      "hint_image_prompt": "A lush green lawn with a garden of green ferns and leaves"
+    },
+    {
+      "id": "l1_104",
+      "front": "white",
+      "back": "白い",
+      "example": "_____ Dove and Snow.",
+      "hint_image": "hint_l1_104.webp",
+      "hint_image_prompt": "A snow-covered landscape with white clouds and a white dove"
+    },
+    {
+      "id": "l1_105",
+      "front": "black",
+      "back": "黒い",
+      "example": "A _____ Cat, an Umbrella, and a Piano.",
+      "hint_image": "hint_l1_105.webp",
+      "hint_image_prompt": "A black cat, black umbrella, and black piano arranged on a white surface"
+    },
+    {
+      "id": "l1_106",
+      "front": "yellow",
+      "back": "黄色い",
+      "example": "A ______ duck, sunflowers, and a lemon..",
+      "hint_image": "hint_l1_106.webp",
+      "hint_image_prompt": "Sunflowers, lemons, and a yellow rubber duck arranged on a table"
+    },
+    {
+      "id": "l1_107",
+      "front": "pink",
+      "back": "ピンクの",
+      "example": "____ flamingos and cherry blossoms.",
+      "hint_image": "hint_l1_107.webp",
+      "hint_image_prompt": "Pink cherry blossoms falling beside a pink flamingo"
+    },
+    {
+      "id": "l1_108",
+      "front": "brown",
+      "back": "茶色い",
+      "example": "_____ leaves, branches, and chocolate.",
+      "hint_image": "hint_l1_108.webp",
+      "hint_image_prompt": "Autumn leaves, a chocolate bar, and a wooden log in brown tones"
+    },
+    {
+      "id": "l1_109",
+      "front": "gray",
+      "back": "灰色の",
+      "example": "A ____ cat, clouds, and a wall.",
+      "hint_image": "hint_l1_109.webp",
+      "hint_image_prompt": "A gray stone wall, gray clouds, and a gray cat on a rainy day"
+    },
+    {
+      "id": "l1_110",
+      "front": "purple",
+      "back": "紫の",
+      "example": "______ lavender field.",
+      "hint_image": "hint_l1_110.webp",
+      "hint_image_prompt": "Purple lavender fields under a violet sunset sky"
+    },
+    {
+      "id": "l1_111",
+      "front": "one",
+      "back": "1",
+      "example": "___ on the die.",
+      "hint_image": "hint_l1_111.webp",
+      "hint_image_prompt": "A single block with the number one printed on it"
+    },
+    {
+      "id": "l1_112",
+      "front": "two",
+      "back": "2",
+      "example": "___ apples.",
+      "hint_image": "hint_l1_112.webp",
+      "hint_image_prompt": "Two matching red apples placed side by side on a white surface"
+    },
+    {
+      "id": "l1_113",
+      "front": "three",
+      "back": "3",
+      "example": "_____ colorful balloons.",
+      "hint_image": "hint_l1_113.webp",
+      "hint_image_prompt": "Three colorful balloons tied together floating in the air"
+    },
+    {
+      "id": "l1_114",
+      "front": "four",
+      "back": "4",
+      "example": "____-leaf clover.",
+      "hint_image": "hint_l1_114.webp",
+      "hint_image_prompt": "Four-leaf clover with four bright green leaves in a field"
+    },
+    {
+      "id": "l1_115",
+      "front": "five",
+      "back": "5",
+      "example": "____ fingers.",
+      "hint_image": "hint_l1_115.webp",
+      "hint_image_prompt": "Five fingers of an open hand raised in a hi-five gesture"
+    },
+    {
+      "id": "l1_116",
+      "front": "six",
+      "back": "6",
+      "example": "___ on the die.",
+      "hint_image": "hint_l1_116.webp",
+      "hint_image_prompt": "Six-sided dice showing the number six facing upward"
+    },
+    {
+      "id": "l1_117",
+      "front": "seven",
+      "back": "7",
+      "example": "_____-colored crayons.",
+      "hint_image": "hint_l1_117.webp",
+      "hint_image_prompt": "Seven stars arranged in a row on a dark night background"
+    },
+    {
+      "id": "l1_118",
+      "front": "eight",
+      "back": "8",
+      "example": "_____ balls.",
+      "hint_image": "hint_l1_118.webp",
+      "hint_image_prompt": "Eight crayons lined up in a rainbow of colors on a white desk"
+    },
+    {
+      "id": "l1_119",
+      "front": "nine",
+      "back": "9",
+      "example": "____ marbles.",
+      "hint_image": "hint_l1_119.webp",
+      "hint_image_prompt": "Nine round colorful marbles arranged in a circle on the floor"
+    },
+    {
+      "id": "l1_120",
+      "front": "ten",
+      "back": "10",
+      "example": "___ kittens.",
+      "hint_image": "hint_l1_120.webp",
+      "hint_image_prompt": "Ten kittens playing together on a green grass lawn"
+    },
+    {
+      "id": "l1_121",
+      "front": "hundred",
+      "back": "100",
+      "example": "A stack of _______-dollar bills.",
+      "hint_image": "hint_l1_121.webp",
+      "hint_image_prompt": "one-hundred-dollar bills is resting horizontally on a desk under soft ambient light, with a single black '100' numeral visible on the top bill."
+    },
+    {
+      "id": "l1_122",
+      "front": "thousand",
+      "back": "1000",
+      "example": "A ________ bill.",
+      "hint_image": "hint_l1_122.webp",
+      "hint_image_prompt": "A banknote with the number 1000 written on it is floating in the air."
+    },
+    {
+      "id": "l1_123",
+      "front": "day",
+      "back": "日・昼間",
+      "example": "Have a nice ___!",
+      "hint_image": "hint_l1_123.webp",
+      "hint_image_prompt": "A calendar page with a single day circled in red"
+    },
+    {
+      "id": "l1_124",
+      "front": "week",
+      "back": "週",
+      "example": "It looks like it's going to be a busy ____.",
+      "hint_image": "hint_l1_124.webp",
+      "hint_image_prompt": "A weekly planner open showing seven days filled with events"
+    },
+    {
+      "id": "l1_125",
+      "front": "month",
+      "back": "月",
+      "example": "A _____ly calendar.",
+      "hint_image": "hint_l1_125.webp",
+      "hint_image_prompt": "A monthly calendar pinned to a wall with some days crossed off"
+    },
+    {
+      "id": "l1_126",
+      "front": "year",
+      "back": "年",
+      "example": "Happy new ____!",
+      "hint_image": "hint_l1_126.webp",
+      "hint_image_prompt": "A stack of twelve monthly calendars representing a full year"
+    },
+    {
+      "id": "l1_127",
+      "front": "morning",
+      "back": "朝",
+      "example": "Good _______!",
+      "hint_image": "hint_l1_127.webp",
+      "hint_image_prompt": "A warm golden sunrise over rooftops with birds flying"
+    },
+    {
+      "id": "l1_128",
+      "front": "evening",
+      "back": "夕方",
+      "example": "Good _______.",
+      "hint_image": "hint_l1_128.webp",
+      "hint_image_prompt": "An orange evening sky with the sun setting behind the horizon"
+    },
+    {
+      "id": "l1_129",
+      "front": "night",
+      "back": "夜",
+      "example": "Good _____.",
+      "hint_image": "hint_l1_129.webp",
+      "hint_image_prompt": "A quiet neighborhood street at night lit by street lamps"
+    },
+    {
+      "id": "l1_130",
+      "front": "today",
+      "back": "今日",
+      "example": "What did you do _____?",
+      "hint_image": "hint_l1_130.webp",
+      "hint_image_prompt": "A person opening curtains to a sunny morning view"
+    },
+    {
+      "id": "l1_131",
+      "front": "tomorrow",
+      "back": "明日",
+      "example": "See you ________.",
+      "hint_image": "hint_l1_131.webp",
+      "hint_image_prompt": "A calendar showing the next day circled with an arrow pointing forward"
+    },
+    {
+      "id": "l1_132",
+      "front": "yesterday",
+      "back": "昨日",
+      "example": "_________ comes before today..",
+      "hint_image": "hint_l1_132.webp",
+      "hint_image_prompt": "An old newspaper from the day before on a breakfast table"
+    },
+    {
+      "id": "l1_133",
+      "front": "big",
+      "back": "大きい",
+      "example": "A ___ elephant.",
+      "hint_image": "hint_l1_133.webp",
+      "hint_image_prompt": "A huge elephant standing next to a tiny mouse for comparison"
+    },
+    {
+      "id": "l1_134",
+      "front": "small",
+      "back": "小さい",
+      "example": "A _____ ladybug.",
+      "hint_image": "hint_l1_134.webp",
+      "hint_image_prompt": "A tiny ladybug sitting on the tip of a child's finger"
+    },
+    {
+      "id": "l1_135",
+      "front": "tall",
+      "back": "背が高い",
+      "example": "giraffes are very ____.",
+      "hint_image": "hint_l1_135.webp",
+      "hint_image_prompt": "A tall giraffe reaching up to eat leaves from a tree"
+    },
+    {
+      "id": "l1_136",
+      "front": "short",
+      "back": "短い・背が低い",
+      "example": "A _____ pencil.",
+      "hint_image": "hint_l1_136.webp",
+      "hint_image_prompt": "A short pencil stub next to a long new pencil for comparison"
+    },
+    {
+      "id": "l1_137",
+      "front": "long",
+      "back": "長い",
+      "example": "The road is ____.",
+      "hint_image": "hint_l1_137.webp",
+      "hint_image_prompt": "A long road stretching straight into the horizon"
+    },
+    {
+      "id": "l1_138",
+      "front": "old",
+      "back": "古い・年をとった",
+      "example": "This is an ___ vase.",
+      "hint_image": "hint_l1_138.webp",
+      "hint_image_prompt": "A cracked antique vase with a very old and faded painting on it"
+    },
+    {
+      "id": "l1_139",
+      "front": "new",
+      "back": "新しい",
+      "example": "I got a ___ bicycle.",
+      "hint_image": "hint_l1_139.webp",
+      "hint_image_prompt": "A shiny new bicycle with bright paint just unwrapped from packaging"
+    },
+    {
+      "id": "l1_140",
+      "front": "good",
+      "back": "良い",
+      "example": "You did a ____ job.",
+      "hint_image": "hint_l1_140.webp",
+      "hint_image_prompt": "A person giving a big thumbs up with a bright happy smile"
+    },
+    {
+      "id": "l1_141",
+      "front": "bad",
+      "back": "悪い",
+      "example": "A very ___ environment.",
+      "hint_image": "hint_l1_141.webp",
+      "hint_image_prompt": "A wilted flower drooping in a cracked dry pot"
+    },
+    {
+      "id": "l1_142",
+      "front": "hot",
+      "back": "暑い・熱い",
+      "example": "A very ___ day.",
+      "hint_image": "hint_l1_142.webp",
+      "hint_image_prompt": "A person wiping sweat off their forehead on a blazing summer day"
+    },
+    {
+      "id": "l1_143",
+      "front": "cold",
+      "back": "寒い・冷たい",
+      "example": "It is ____ today.",
+      "hint_image": "hint_l1_143.webp",
+      "hint_image_prompt": "A person bundled in a scarf and mittens shivering in the snow"
+    },
+    {
+      "id": "l1_144",
+      "front": "warm",
+      "back": "暖かい",
+      "example": "The room is ____.",
+      "hint_image": "hint_l1_144.webp",
+      "hint_image_prompt": "A person holding a warm mug by a fireplace on a cozy evening"
+    },
+    {
+      "id": "l1_145",
+      "front": "cool",
+      "back": "涼しい",
+      "example": "A ____ breeze is blowing..",
+      "hint_image": "hint_l1_145.webp",
+      "hint_image_prompt": "A person sitting under a shady tree with a refreshing breeze"
+    },
+    {
+      "id": "l1_146",
+      "front": "fast",
+      "back": "速い",
+      "example": "Cheetahs are ____ runners..",
+      "hint_image": "hint_l1_146.webp",
+      "hint_image_prompt": "A cheetah sprinting at full speed across an open savanna"
+    },
+    {
+      "id": "l1_147",
+      "front": "slow",
+      "back": "遅い",
+      "example": "Turtles are ____.",
+      "hint_image": "hint_l1_147.webp",
+      "hint_image_prompt": "A tortoise moving slowly along a garden path"
+    },
+    {
+      "id": "l1_148",
+      "front": "easy",
+      "back": "簡単な",
+      "example": "This test is ____.",
+      "hint_image": "hint_l1_148.webp",
+      "hint_image_prompt": "A student breezing through a simple quiz with a confident smile"
+    },
+    {
+      "id": "l1_149",
+      "front": "hard",
+      "back": "難しい・固い",
+      "example": "Transporting this rock is very ____.",
+      "hint_image": "hint_l1_149.webp",
+      "hint_image_prompt": "A person struggling to lift a heavy boulder with both hands"
+    },
+    {
+      "id": "l1_150",
+      "front": "happy",
+      "back": "幸せな",
+      "example": "I am _____.",
+      "hint_image": "hint_l1_150.webp",
+      "hint_image_prompt": "A person laughing and cheering while celebrating with friends"
+    },
+    {
+      "id": "l1_151",
+      "front": "sad",
+      "back": "悲しい",
+      "example": "She looks ___.",
+      "hint_image": "hint_l1_151.webp",
+      "hint_image_prompt": "A person sitting alone in the rain with a downcast expression"
+    },
+    {
+      "id": "l1_152",
+      "front": "angry",
+      "back": "怒っている",
+      "example": "He was _____.",
+      "hint_image": "hint_l1_152.webp",
+      "hint_image_prompt": "A person with a red face and fists clenched in visible frustration"
+    },
+    {
+      "id": "l1_153",
+      "front": "funny",
+      "back": "面白い",
+      "example": "This clown is _____.",
+      "hint_image": "hint_l1_153.webp",
+      "hint_image_prompt": "A child laughing at a silly clown with big shoes and a red nose"
+    },
+    {
+      "id": "l1_154",
+      "front": "pretty",
+      "back": "かわいい",
+      "example": "She looks ______.",
+      "hint_image": "hint_l1_154.webp",
+      "hint_image_prompt": "A child dressed in a cute outfit posing with a cheerful smile"
+    },
+    {
+      "id": "l1_155",
+      "front": "clean",
+      "back": "きれいな",
+      "example": "Keep it _____.",
+      "hint_image": "hint_l1_155.webp",
+      "hint_image_prompt": "A person scrubbing a sink until it sparkles bright and clean"
+    },
+    {
+      "id": "l1_156",
+      "front": "dirty",
+      "back": "汚い",
+      "example": "The shoes are _____.",
+      "hint_image": "hint_l1_156.webp",
+      "hint_image_prompt": "A muddy pair of boots left on a doormat with dried dirt"
+    },
+    {
+      "id": "l1_157",
+      "front": "quiet",
+      "back": "静かな",
+      "example": "Please be _____.",
+      "hint_image": "hint_l1_157.webp",
+      "hint_image_prompt": "A library interior completely silent with readers at every table"
+    },
+    {
+      "id": "l1_158",
+      "front": "loud",
+      "back": "(声量が)大きい・うるさい",
+      "example": "The volume at the rock concert is ____.",
+      "hint_image": "hint_l1_158.webp",
+      "hint_image_prompt": "A rock band performing on stage with a cheering crowd"
+    },
+    {
+      "id": "l1_159",
+      "front": "safe",
+      "back": "安全な",
+      "example": "Stay ____.",
+      "hint_image": "hint_l1_159.webp",
+      "hint_image_prompt": "A child wearing a helmet and pads cycling safely on a path"
+    },
+    {
+      "id": "l1_160",
+      "front": "full",
+      "back": "いっぱいの",
+      "example": "A bowl ____ of fruit.",
+      "hint_image": "hint_l1_160.webp",
+      "hint_image_prompt": "A large bowl overflowing with colorful fruits and berries"
+    },
+    {
+      "id": "l1_161",
+      "front": "hungry",
+      "back": "空腹の",
+      "example": "I am ______.",
+      "hint_image": "hint_l1_161.webp",
+      "hint_image_prompt": "A person holding their growling stomach looking at an empty plate"
+    },
+    {
+      "id": "l1_162",
+      "front": "tired",
+      "back": "疲れた",
+      "example": "I am _____.",
+      "hint_image": "hint_l1_162.webp",
+      "hint_image_prompt": "A person sitting slumped in a chair with heavy drooping eyes"
+    },
+    {
+      "id": "l1_163",
+      "front": "sick",
+      "back": "病気の",
+      "example": "She is ____ today.",
+      "hint_image": "hint_l1_163.webp",
+      "hint_image_prompt": "A person lying in bed with a thermometer and tissues nearby"
+    },
+    {
+      "id": "l1_164",
+      "front": "kind",
+      "back": "親切な",
+      "example": "She is very ____.",
+      "hint_image": "hint_l1_164.webp",
+      "hint_image_prompt": "A person helping an elderly neighbor carry heavy grocery bags"
+    },
+    {
+      "id": "l1_165",
+      "front": "brave",
+      "back": "勇敢な",
+      "example": "Be _____.",
+      "hint_image": "hint_l1_165.webp",
+      "hint_image_prompt": "A knight in shining armor standing firm before a fire-breathing dragon"
+    },
+    {
+      "id": "l1_166",
+      "front": "smart",
+      "back": "賢い",
+      "example": "She is a _____ student.",
+      "hint_image": "hint_l1_166.webp",
+      "hint_image_prompt": "A student raising their hand with the correct answer before anyone else"
+    },
+    {
+      "id": "l1_167",
+      "front": "young",
+      "back": "若い",
+      "example": "She is very _____.",
+      "hint_image": "hint_l1_167.webp",
+      "hint_image_prompt": "A young child running freely in a garden full of flowers"
+    },
+    {
+      "id": "l1_168",
+      "front": "run",
+      "back": "走る",
+      "example": "She ___s a track.",
+      "hint_image": "hint_l1_168.webp",
+      "hint_image_prompt": "A runner sprinting full speed down a track in a stadium"
+    },
+    {
+      "id": "l1_169",
+      "front": "walk",
+      "back": "歩く",
+      "example": "Let's ____ to park.",
+      "hint_image": "hint_l1_169.webp",
+      "hint_image_prompt": "A person walking calmly along a tree-lined path in a park"
+    },
+    {
+      "id": "l1_170",
+      "front": "sit",
+      "back": "座る",
+      "example": "A child ___s and listens.",
+      "hint_image": "hint_l1_170.webp",
+      "hint_image_prompt": "A child sitting cross-legged on the floor listening to a story"
+    },
+    {
+      "id": "l1_171",
+      "front": "stand",
+      "back": "立つ",
+      "example": "She _____s and waits for the bus.",
+      "hint_image": "hint_l1_171.webp",
+      "hint_image_prompt": "A person standing tall at a bus stop waiting for the next bus"
+    },
+    {
+      "id": "l1_172",
+      "front": "eat",
+      "back": "食べる",
+      "example": "The family ___s a meal.",
+      "hint_image": "hint_l1_172.webp",
+      "hint_image_prompt": "A family gathered around a dinner table eating a warm meal"
+    },
+    {
+      "id": "l1_173",
+      "front": "drink",
+      "back": "飲む",
+      "example": "_____ more water.",
+      "hint_image": "hint_l1_173.webp",
+      "hint_image_prompt": "A person lifting a glass of water to take a long refreshing drink"
+    },
+    {
+      "id": "l1_174",
+      "front": "sleep",
+      "back": "眠る",
+      "example": "_____ early tonight.",
+      "hint_image": "hint_l1_174.webp",
+      "hint_image_prompt": "A person tucked under a cozy blanket sleeping peacefully"
+    },
+    {
+      "id": "l1_175",
+      "front": "wake",
+      "back": "目を覚ます",
+      "example": "____ up early.",
+      "hint_image": "hint_l1_175.webp",
+      "hint_image_prompt": "A person sitting up in bed and stretching with eyes still half open"
+    },
+    {
+      "id": "l1_176",
+      "front": "go",
+      "back": "行く",
+      "example": "Let's __ outside.",
+      "hint_image": "hint_l1_176.webp",
+      "hint_image_prompt": "A person stepping out of a house and heading down the front path"
+    },
+    {
+      "id": "l1_177",
+      "front": "come",
+      "back": "来る",
+      "example": "Please ____ here.",
+      "hint_image": "hint_l1_177.webp",
+      "hint_image_prompt": "A person opening their arms wide to welcome a friend at the door"
+    },
+    {
+      "id": "l1_178",
+      "front": "see",
+      "back": "見る",
+      "example": "I can ___ the mountain.",
+      "hint_image": "hint_l1_178.webp",
+      "hint_image_prompt": "A person shielding their eyes and gazing at a distant mountain"
+    },
+    {
+      "id": "l1_179",
+      "front": "look",
+      "back": "見る（視線を向ける）",
+      "example": "She ____s at the painting.",
+      "hint_image": "hint_l1_179.webp",
+      "hint_image_prompt": "A person turning their head to look at a colorful poster on the wall"
+    },
+    {
+      "id": "l1_180",
+      "front": "hear",
+      "back": "聞こえる",
+      "example": "I can ____ music.",
+      "hint_image": "hint_l1_180.webp",
+      "hint_image_prompt": "A person cupping their hand behind their ear to listen carefully"
+    },
+    {
+      "id": "l1_181",
+      "front": "speak",
+      "back": "話す",
+      "example": "She _____s everyone.",
+      "hint_image": "hint_l1_181.webp",
+      "hint_image_prompt": "A person speaking into a microphone at a podium in front of a crowd"
+    },
+    {
+      "id": "l1_182",
+      "front": "say",
+      "back": "言う",
+      "example": "She ___s.",
+      "hint_image": "hint_l1_182.webp",
+      "hint_image_prompt": "A person gesturing as they tell a story to a small group"
+    },
+    {
+      "id": "l1_183",
+      "front": "read",
+      "back": "読む",
+      "example": "I ____ every night.",
+      "hint_image": "hint_l1_183.webp",
+      "hint_image_prompt": "A child curled up with a book in a cozy reading chair"
+    },
+    {
+      "id": "l1_184",
+      "front": "write",
+      "back": "書く",
+      "example": "She is ____ing in a notebook.",
+      "hint_image": "hint_l1_184.webp",
+      "hint_image_prompt": "A person writing in a notebook with a pen at a desk"
+    },
+    {
+      "id": "l1_185",
+      "front": "play",
+      "back": "遊び・脚本・遊ぶ・演奏する",
+      "example": "Let's ____ board game.",
+      "hint_image": "hint_l1_185.webp",
+      "hint_image_prompt": "Children playing a board game together on a living room floor"
+    },
+    {
+      "id": "l1_186",
+      "front": "study",
+      "back": "勉強・勉強する",
+      "example": "_____ hard.",
+      "hint_image": "hint_l1_186.webp",
+      "hint_image_prompt": "A student bent over textbooks and notes at a study desk"
+    },
+    {
+      "id": "l1_187",
+      "front": "learn",
+      "back": "学ぶ",
+      "example": "_____ by watching and trying it out yourself.",
+      "hint_image": "hint_l1_187.webp",
+      "hint_image_prompt": "A person watching a demonstration closely and then trying it themselves"
+    },
+    {
+      "id": "l1_188",
+      "front": "cook",
+      "back": "料理する",
+      "example": "She ____s well.",
+      "hint_image": "hint_l1_188.webp",
+      "hint_image_prompt": "A person stirring a pot on the stove in a warm kitchen"
+    },
+    {
+      "id": "l1_189",
+      "front": "help",
+      "back": "助ける",
+      "example": "Can you ____ me?",
+      "hint_image": "hint_l1_189.webp",
+      "hint_image_prompt": "A person reaching out a hand to help someone who has fallen"
+    },
+    {
+      "id": "l1_190",
+      "front": "like",
+      "back": "好き",
+      "example": "I ____ this stuffed animal.",
+      "hint_image": "hint_l1_190.webp",
+      "hint_image_prompt": "A person smiling and hugging a favorite stuffed animal"
+    },
+    {
+      "id": "l1_191",
+      "front": "love",
+      "back": "愛する",
+      "example": "He ____ her.",
+      "hint_image": "hint_l1_191.webp",
+      "hint_image_prompt": "Two people embracing warmly in the middle of a flower field"
+    },
+    {
+      "id": "l1_192",
+      "front": "want",
+      "back": "欲しい",
+      "example": "I ____ a stuffed animal.",
+      "hint_image": "hint_l1_192.webp",
+      "hint_image_prompt": "A child pointing eagerly at a toy in a shop window"
+    },
+    {
+      "id": "l1_193",
+      "front": "need",
+      "back": "必要とする",
+      "example": "Plants ____ water.",
+      "hint_image": "hint_l1_193.webp",
+      "hint_image_prompt": "A plant wilting because it needs water urgently"
+    },
+    {
+      "id": "l1_194",
+      "front": "give",
+      "back": "与える",
+      "example": "____ me a hand.",
+      "hint_image": "hint_l1_194.webp",
+      "hint_image_prompt": "A person passing a wrapped gift to a smiling friend"
+    },
+    {
+      "id": "l1_195",
+      "front": "take",
+      "back": "取る",
+      "example": "____ a coin.",
+      "hint_image": "hint_l1_195.webp",
+      "hint_image_prompt": "A person picking up a coin from the sidewalk"
+    },
+    {
+      "id": "l1_196",
+      "front": "make",
+      "back": "作る",
+      "example": "____ a vase.",
+      "hint_image": "hint_l1_196.webp",
+      "hint_image_prompt": "A craftsperson shaping clay on a spinning pottery wheel"
+    },
+    {
+      "id": "l1_197",
+      "front": "put",
+      "back": "置く",
+      "example": "___ a vase.",
+      "hint_image": "hint_l1_197.webp",
+      "hint_image_prompt": "A person carefully placing a vase on an empty shelf"
+    },
+    {
+      "id": "l1_198",
+      "front": "get",
+      "back": "得る・なる",
+      "example": "___ a good toy.",
+      "hint_image": "hint_l1_198.webp",
+      "hint_image_prompt": "A child reaching up to receive a toy handed down by a parent"
+    },
+    {
+      "id": "l1_199",
+      "front": "open",
+      "back": "開いている・開ける",
+      "example": "____ the door.",
+      "hint_image": "hint_l1_199.webp",
+      "hint_image_prompt": "A person pushing open the door of a shop and stepping inside"
+    },
+    {
+      "id": "l1_200",
+      "front": "close",
+      "back": "閉じている・近しい・閉める",
+      "example": "_____ the door.",
+      "hint_image": "hint_l1_200.webp",
+      "hint_image_prompt": "A person gently shutting a door without making any noise"
+    },
+    {
+      "id": "l1_201",
+      "front": "buy",
+      "back": "買う",
+      "example": "I ___ it at the supermarket.",
+      "hint_image": "hint_l1_201.webp",
+      "hint_image_prompt": "A person handing over money to a cashier at a checkout counter"
+    },
+    {
+      "id": "l1_202",
+      "front": "sell",
+      "back": "売る",
+      "example": "She ____s fresh fruit and vegetables.",
+      "hint_image": "hint_l1_202.webp",
+      "hint_image_prompt": "A market vendor displaying fresh fruit and vegetables for buyers"
+    },
+    {
+      "id": "l1_203",
+      "front": "find",
+      "back": "見つける",
+      "example": "____ your wallet.",
+      "hint_image": "hint_l1_203.webp",
+      "hint_image_prompt": "A person spotting a lost wallet under a park bench and picking it up"
+    },
+    {
+      "id": "l1_204",
+      "front": "use",
+      "back": "使う",
+      "example": "___ a laptop to complete.",
+      "hint_image": "hint_l1_204.webp",
+      "hint_image_prompt": "A person using a laptop to complete a task efficiently"
+    },
+    {
+      "id": "l1_205",
+      "front": "try",
+      "back": "試みる",
+      "example": "She ___es a dish she has never eaten before.",
+      "hint_image": "hint_l1_205.webp",
+      "hint_image_prompt": "A person tasting a new dish for the first time with curiosity"
+    },
+    {
+      "id": "l1_206",
+      "front": "think",
+      "back": "考える",
+      "example": "She _____s about her troubles.",
+      "hint_image": "hint_l1_206.webp",
+      "hint_image_prompt": "A person sitting quietly with their chin resting on one hand thinking deeply"
+    },
+    {
+      "id": "l1_207",
+      "front": "know",
+      "back": "知っている",
+      "example": "He ____s the answer.",
+      "hint_image": "hint_l1_207.webp",
+      "hint_image_prompt": "A person pointing at their temple to indicate they know the answer"
+    },
+    {
+      "id": "l1_208",
+      "front": "feel",
+      "back": "感じる",
+      "example": "He ____s happy.",
+      "hint_image": "hint_l1_208.webp",
+      "hint_image_prompt": "A person pressing their hand to their heart with a peaceful expression"
+    },
+    {
+      "id": "l1_209",
+      "front": "meet",
+      "back": "会う",
+      "example": "Boy ____s Girl.",
+      "hint_image": "hint_l1_209.webp",
+      "hint_image_prompt": "Two people greeting each other happily on a busy street"
+    },
+    {
+      "id": "l1_210",
+      "front": "bring",
+      "back": "持ってくる",
+      "example": "Someone is _____ a present.",
+      "hint_image": "hint_l1_210.webp",
+      "hint_image_prompt": "A person carrying a stack of wrapped presents to a front door"
+    },
+    {
+      "id": "l1_211",
+      "front": "keep",
+      "back": "保つ",
+      "example": "____ moisture in the flowerpot.",
+      "hint_image": "hint_l1_211.webp",
+      "hint_image_prompt": "A person carefully maintaining a small plant by watering it daily"
+    },
+    {
+      "id": "l1_212",
+      "front": "wait",
+      "back": "待つ",
+      "example": "She is ____ing for the bus.",
+      "hint_image": "hint_l1_212.webp",
+      "hint_image_prompt": "A person standing at a bus stop checking their watch impatiently"
+    },
+    {
+      "id": "l1_213",
+      "front": "start",
+      "back": "始める",
+      "example": "Let's _____.",
+      "hint_image": "hint_l1_213.webp",
+      "hint_image_prompt": "A person pressing the start button on a running machine"
+    },
+    {
+      "id": "l1_214",
+      "front": "stop",
+      "back": "止まる",
+      "example": "The car ____s at a red light.",
+      "hint_image": "hint_l1_214.webp",
+      "hint_image_prompt": "A traffic light turning red and a car braking to a stop"
+    },
+    {
+      "id": "l1_215",
+      "front": "turn",
+      "back": "曲がる・順番",
+      "example": "She ____s the street corner.",
+      "hint_image": "hint_l1_215.webp",
+      "hint_image_prompt": "A person turning a corner on a quiet street"
+    },
+    {
+      "id": "l1_216",
+      "front": "jump",
+      "back": "跳ぶ",
+      "example": "____ over a puddle.",
+      "hint_image": "hint_l1_216.webp",
+      "hint_image_prompt": "A child jumping over a puddle on a rainy sidewalk"
+    },
+    {
+      "id": "l1_217",
+      "front": "swim",
+      "back": "泳ぐ",
+      "example": "She can ____ well.",
+      "hint_image": "hint_l1_217.webp",
+      "hint_image_prompt": "A person swimming laps in a bright blue outdoor pool"
+    },
+    {
+      "id": "l1_218",
+      "front": "sing",
+      "back": "歌う",
+      "example": "She likes to ____.",
+      "hint_image": "hint_l1_218.webp",
+      "hint_image_prompt": "A singer performing on stage with a microphone under a spotlight"
+    },
+    {
+      "id": "l1_219",
+      "front": "dance",
+      "back": "踊る",
+      "example": "She can _____ well.",
+      "hint_image": "hint_l1_219.webp",
+      "hint_image_prompt": "A dancer spinning gracefully on a stage in colorful costume"
+    },
+    {
+      "id": "l1_220",
+      "front": "draw",
+      "back": "描く",
+      "example": "____ a picture.",
+      "hint_image": "hint_l1_220.webp",
+      "hint_image_prompt": "A child drawing a picture of a house with crayons on white paper"
+    },
+    {
+      "id": "l1_221",
+      "front": "climb",
+      "back": "登る",
+      "example": "_____ the mountain.",
+      "hint_image": "hint_l1_221.webp",
+      "hint_image_prompt": "A hiker climbing up a rocky mountain trail with a walking stick"
+    },
+    {
+      "id": "l1_222",
+      "front": "push",
+      "back": "押す",
+      "example": "____ the heavy wheelbarrow.",
+      "hint_image": "hint_l1_222.webp",
+      "hint_image_prompt": "A person pushing a heavy wheelbarrow up a garden path"
+    },
+    {
+      "id": "l1_223",
+      "front": "pull",
+      "back": "引く",
+      "example": "____ the heavy suitcase.",
+      "hint_image": "hint_l1_223.webp",
+      "hint_image_prompt": "A person pulling a heavy suitcase along a long airport corridor"
+    },
+    {
+      "id": "l1_224",
+      "front": "carry",
+      "back": "運ぶ",
+      "example": "She is _____ing a box.",
+      "hint_image": "hint_l1_224.webp",
+      "hint_image_prompt": "A delivery worker carrying a tall stack of boxes to the door"
+    },
+    {
+      "id": "l1_225",
+      "front": "catch",
+      "back": "捕まえる",
+      "example": "_____ the ball.",
+      "hint_image": "hint_l1_225.webp",
+      "hint_image_prompt": "A person reaching out to catch a thrown ball mid-air"
+    },
+    {
+      "id": "l1_226",
+      "front": "throw",
+      "back": "投げる",
+      "example": "_____ the ball.",
+      "hint_image": "hint_l1_226.webp",
+      "hint_image_prompt": "A baseball player winding up to throw a ball across a field"
+    },
+    {
+      "id": "l1_227",
+      "front": "hit",
+      "back": "打つ",
+      "example": "He ___ the ball.",
+      "hint_image": "hint_l1_227.webp",
+      "hint_image_prompt": "A batter hitting a home run ball with a powerful swing"
+    },
+    {
+      "id": "l1_228",
+      "front": "name",
+      "back": "名前",
+      "example": "She is wearing a ____ tag.",
+      "hint_image": "hint_l1_228.webp",
+      "hint_image_prompt": "A name tag sticker on a shirt at a business event"
+    },
+    {
+      "id": "l1_229",
+      "front": "age",
+      "back": "年齢",
+      "example": "There are candles indicating the ___ stuck in the cake.",
+      "hint_image": "hint_l1_229.webp",
+      "hint_image_prompt": "A birthday candle with the number displayed on a cake"
+    },
+    {
+      "id": "l1_230",
+      "front": "friend",
+      "back": "友だち",
+      "example": "She is my best ______.",
+      "hint_image": "hint_l1_230.webp",
+      "hint_image_prompt": "Two children laughing and running together in a schoolyard"
+    },
+    {
+      "id": "l1_231",
+      "front": "family",
+      "back": "家族",
+      "example": "I love my ______.",
+      "hint_image": "hint_l1_231.webp",
+      "hint_image_prompt": "A family portrait with parents and children smiling together"
+    },
+    {
+      "id": "l1_232",
+      "front": "mother",
+      "back": "母",
+      "example": "A ______ is reading a book to her daughter.",
+      "hint_image": "hint_l1_232.webp",
+      "hint_image_prompt": "A woman reading a bedtime story to a child at night"
+    },
+    {
+      "id": "l1_233",
+      "front": "father",
+      "back": "父",
+      "example": "My ______ fixing a bicycle.",
+      "hint_image": "hint_l1_233.webp",
+      "hint_image_prompt": "A man fixing a bicycle in the driveway with tools"
+    },
+    {
+      "id": "l1_234",
+      "front": "sister",
+      "back": "姉妹",
+      "example": "Two ______ are reading a book.",
+      "hint_image": "hint_l1_234.webp",
+      "hint_image_prompt": "Two sisters sitting together and sharing a book on a couch"
+    },
+    {
+      "id": "l1_235",
+      "front": "brother",
+      "back": "兄弟",
+      "example": "Two _______s playing a video game.",
+      "hint_image": "hint_l1_235.webp",
+      "hint_image_prompt": "Two brothers playing a video game together on the floor"
+    },
+    {
+      "id": "l1_236",
+      "front": "baby",
+      "back": "赤ちゃん",
+      "example": "The ____ is sleeping.",
+      "hint_image": "hint_l1_236.webp",
+      "hint_image_prompt": "A tiny baby sleeping in a soft crib surrounded by stuffed toys"
+    },
+    {
+      "id": "l1_237",
+      "front": "boy",
+      "back": "男の子",
+      "example": "The ___ kicking a soccer ball.",
+      "hint_image": "hint_l1_237.webp",
+      "hint_image_prompt": "A young boy kicking a soccer ball in a playground"
+    },
+    {
+      "id": "l1_238",
+      "front": "girl",
+      "back": "女の子",
+      "example": "A ____ is skipping rope.",
+      "hint_image": "hint_l1_238.webp",
+      "hint_image_prompt": "A girl in a yellow dress skipping rope in a sunny garden"
+    },
+    {
+      "id": "l1_239",
+      "front": "man",
+      "back": "男性",
+      "example": "A ___ in a suit shaking hands.",
+      "hint_image": "hint_l1_239.webp",
+      "hint_image_prompt": "A man in a suit shaking hands with a colleague in an office"
+    },
+    {
+      "id": "l1_240",
+      "front": "woman",
+      "back": "女性",
+      "example": "A _____ carrying shopping bags.",
+      "hint_image": "hint_l1_240.webp",
+      "hint_image_prompt": "A woman carrying shopping bags while walking past a row of shops"
+    },
+    {
+      "id": "l1_241",
+      "front": "people",
+      "back": "人々",
+      "example": "Many ______ came.",
+      "hint_image": "hint_l1_241.webp",
+      "hint_image_prompt": "A large group of people gathered together in a busy town square"
+    },
+    {
+      "id": "l1_242",
+      "front": "city",
+      "back": "都市",
+      "example": "I live in a big ____.",
+      "hint_image": "hint_l1_242.webp",
+      "hint_image_prompt": "A panoramic view of a city skyline with tall buildings and lights"
+    },
+    {
+      "id": "l1_243",
+      "front": "town",
+      "back": "町",
+      "example": "I live in a small ____.",
+      "hint_image": "hint_l1_243.webp",
+      "hint_image_prompt": "A peaceful small town with a church, shop, and tree-lined roads"
+    },
+    {
+      "id": "l1_244",
+      "front": "world",
+      "back": "世界",
+      "example": "Travel around the _____.",
+      "hint_image": "hint_l1_244.webp",
+      "hint_image_prompt": "A map showing all the continents and oceans of the world"
+    },
+    {
+      "id": "l1_245",
+      "front": "country",
+      "back": "国・田舎の",
+      "example": "Japan is a beautiful _______.",
+      "hint_image": "hint_l1_245.webp",
+      "hint_image_prompt": "A colorful map with different countries labeled in various colors"
+    },
+    {
+      "id": "l1_246",
+      "front": "life",
+      "back": "人生・生命",
+      "example": "____ is beautiful.",
+      "hint_image": "hint_l1_246.webp",
+      "hint_image_prompt": "A winding road through seasons showing a full journey of life"
+    },
+    {
+      "id": "l1_247",
+      "front": "time",
+      "back": "時間・時間の",
+      "example": "What ____ is it?",
+      "hint_image": "hint_l1_247.webp",
+      "hint_image_prompt": "A clock on a wall next to a calendar showing a busy schedule"
+    },
+    {
+      "id": "l1_248",
+      "front": "place",
+      "back": "場所",
+      "example": "This is a nice _____.",
+      "hint_image": "hint_l1_248.webp",
+      "hint_image_prompt": "A person standing on a map marker indicating a destination point"
+    },
+    {
+      "id": "l1_249",
+      "front": "way",
+      "back": "方法・道",
+      "example": "Several signs indicating the ___ have been set up.",
+      "hint_image": "hint_l1_249.webp",
+      "hint_image_prompt": "A signpost with multiple arrows pointing in different directions"
+    },
+    {
+      "id": "l1_250",
+      "front": "idea",
+      "back": "アイデア",
+      "example": "She comes up with an ____.",
+      "hint_image": "hint_l1_250.webp",
+      "hint_image_prompt": "A person with a lightbulb above their head having a sudden idea"
+    },
+    {
+      "id": "l1_251",
+      "front": "word",
+      "back": "単語",
+      "example": "Learn a new ____ every day.",
+      "hint_image": "hint_l1_251.webp",
+      "hint_image_prompt": "A vocabulary flashcard with a word on one side and its meaning on the other"
+    },
+    {
+      "id": "l1_252",
+      "front": "number",
+      "back": "数",
+      "example": "A calculator displaying a large ______ on its screen.",
+      "hint_image": "hint_l1_252.webp",
+      "hint_image_prompt": "A calculator displaying a large number on its screen"
+    },
+    {
+      "id": "l1_253",
+      "front": "color",
+      "back": "色",
+      "example": "A _____ wheel",
+      "hint_image": "hint_l1_253.webp",
+      "hint_image_prompt": "A color wheel showing all the different hues in a circular arrangement"
+    },
+    {
+      "id": "l1_254",
+      "front": "money",
+      "back": "お金",
+      "example": "There is _____ on the desk.",
+      "hint_image": "hint_l1_254.webp",
+      "hint_image_prompt": "A pile of gold coins and paper bills spread across a wooden table"
+    },
+    {
+      "id": "l1_255",
+      "front": "work",
+      "back": "仕事・働く",
+      "example": "She ____s using a tablet and a laptop.",
+      "hint_image": "hint_l1_255.webp",
+      "hint_image_prompt": "A person working at a desk with multiple tasks and a focused expression"
+    },
+    {
+      "id": "l1_256",
+      "front": "job",
+      "back": "仕事",
+      "example": "She has a ___ working at a construction site.",
+      "hint_image": "hint_l1_256.webp",
+      "hint_image_prompt": "A person in a hard hat arriving at a construction job site"
+    },
+    {
+      "id": "l1_257",
+      "front": "sport",
+      "back": "スポーツ・遊ぶ・～を誇示する",
+      "example": "I like _____.",
+      "hint_image": "hint_l1_257.webp",
+      "hint_image_prompt": "Athletes competing in a running race at a bright outdoor stadium"
+    },
+    {
+      "id": "l1_258",
+      "front": "game",
+      "back": "ゲーム・試合・ゲームをする",
+      "example": "Let's play a ____.",
+      "hint_image": "hint_l1_258.webp",
+      "hint_image_prompt": "A group of friends playing a board game with colorful pieces"
+    },
+    {
+      "id": "l1_259",
+      "front": "music",
+      "back": "音楽",
+      "example": "She plays _____ on the guitar.",
+      "hint_image": "hint_l1_259.webp",
+      "hint_image_prompt": "A musician playing a guitar on a small stage with warm lighting"
+    },
+    {
+      "id": "l1_260",
+      "front": "art",
+      "back": "芸術",
+      "example": "___ is displayed in the museum.",
+      "hint_image": "hint_l1_260.webp",
+      "hint_image_prompt": "A colorful painting displayed on the wall of a bright gallery"
+    },
+    {
+      "id": "l1_261",
+      "front": "photo",
+      "back": "写真",
+      "example": "She shows the _____ to the other person.",
+      "hint_image": "hint_l1_261.webp",
+      "hint_image_prompt": "A person holding up a developed photo and smiling at the image"
+    },
+    {
+      "id": "l1_262",
+      "front": "letter",
+      "back": "手紙・文字",
+      "example": "Write a ______.",
+      "hint_image": "hint_l1_262.webp",
+      "hint_image_prompt": "A sealed envelope and a handwritten letter beside a mailbox"
+    },
+    {
+      "id": "l1_263",
+      "front": "story",
+      "back": "話・物語",
+      "example": "Tell me a _____.",
+      "hint_image": "hint_l1_263.webp",
+      "hint_image_prompt": "A person animatedly telling a story to a group of listeners"
+    },
+    {
+      "id": "l1_264",
+      "front": "song",
+      "back": "歌",
+      "example": "Sing a ____.",
+      "hint_image": "hint_l1_264.webp",
+      "hint_image_prompt": "A person singing into a microphone on a karaoke stage"
+    },
+    {
+      "id": "l1_265",
+      "front": "gift",
+      "back": "贈り物",
+      "example": "She received a ____.",
+      "hint_image": "hint_l1_265.webp",
+      "hint_image_prompt": "A wrapped present with a ribbon bow under a Christmas tree"
+    },
+    {
+      "id": "l1_266",
+      "front": "key",
+      "back": "鍵・鍵となる・鍵をかける",
+      "example": "She unlock a door using a ___.",
+      "hint_image": "hint_l1_266.webp",
+      "hint_image_prompt": "A person unlocking a door using a metal key"
+    },
+    {
+      "id": "l1_267",
+      "front": "clock",
+      "back": "時計",
+      "example": "The big _____.",
+      "hint_image": "hint_l1_267.webp",
+      "hint_image_prompt": "A round wall clock with hour and minute hands showing the time"
+    },
+    {
+      "id": "l1_268",
+      "front": "ball",
+      "back": "ボール",
+      "example": "Kick the ____.",
+      "hint_image": "hint_l1_268.webp",
+      "hint_image_prompt": "A colorful bouncing ball mid-air in a sunny playground"
+    },
+    {
+      "id": "l1_269",
+      "front": "toy",
+      "back": "おもちゃ",
+      "example": "Children love ___s.",
+      "hint_image": "hint_l1_269.webp",
+      "hint_image_prompt": "A shelf full of stuffed animals and toy cars in a child's room"
+    },
+    {
+      "id": "l1_270",
+      "front": "answer",
+      "back": "答え",
+      "example": "Give me the ______.",
+      "hint_image": "hint_l1_270.webp",
+      "hint_image_prompt": "A student raising their hand with the correct answer written on a card"
+    },
+    {
+      "id": "l1_271",
+      "front": "phone",
+      "back": "電話・スマホ・電話をかける",
+      "example": "She called on the _____.",
+      "hint_image": "hint_l1_271.webp",
+      "hint_image_prompt": "A person holding a smartphone up to their ear talking"
+    },
+    {
+      "id": "l1_272",
+      "front": "cup",
+      "back": "カップ",
+      "example": "A ___ of tea.",
+      "hint_image": "hint_l1_272.webp",
+      "hint_image_prompt": "A ceramic cup filled with hot tea on a wooden table"
+    },
+    {
+      "id": "l1_273",
+      "front": "glass",
+      "back": "コップ・ガラス",
+      "example": "A _____ of water.",
+      "hint_image": "hint_l1_273.webp",
+      "hint_image_prompt": "A clear drinking glass filled with cold water and ice cubes"
+    },
+    {
+      "id": "l1_274",
+      "front": "plate",
+      "back": "皿",
+      "example": "There is food on the _____.",
+      "hint_image": "hint_l1_274.webp",
+      "hint_image_prompt": "A white plate holding a neat serving of food on a tablecloth"
+    },
+    {
+      "id": "l1_275",
+      "front": "umbrella",
+      "back": "傘",
+      "example": "Take an ________.",
+      "hint_image": "hint_l1_275.webp",
+      "hint_image_prompt": "A colorful umbrella open in the rain protecting a person below"
+    },
+    {
+      "id": "l1_276",
+      "front": "hat",
+      "back": "帽子",
+      "example": "A straw sun ___.",
+      "hint_image": "hint_l1_276.webp",
+      "hint_image_prompt": "A straw sun hat resting on a bench beside a beach bag"
+    },
+    {
+      "id": "l1_277",
+      "front": "shoe",
+      "back": "靴",
+      "example": "Put on your ____s.",
+      "hint_image": "hint_l1_277.webp",
+      "hint_image_prompt": "A pair of bright white sneakers side by side on a clean floor"
+    },
+    {
+      "id": "l1_278",
+      "front": "sock",
+      "back": "靴下",
+      "example": "A pair of colorful striped ____s hanging.",
+      "hint_image": "hint_l1_278.webp",
+      "hint_image_prompt": "A pair of colorful striped socks hanging on a clothesline"
+    },
+    {
+      "id": "l1_279",
+      "front": "coat",
+      "back": "コート",
+      "example": "A winter ____ hanging on a hook.",
+      "hint_image": "hint_l1_279.webp",
+      "hint_image_prompt": "A heavy winter coat hanging on a hook beside a front door"
+    },
+    {
+      "id": "l1_280",
+      "front": "dress",
+      "back": "ドレス・服を着る",
+      "example": "She wears a _____.",
+      "hint_image": "hint_l1_280.webp",
+      "hint_image_prompt": "A woman in an elegant floral dress walking along a sunny path"
+    },
+    {
+      "id": "l1_281",
+      "front": "shirt",
+      "back": "シャツ",
+      "example": "He has a white _____.",
+      "hint_image": "hint_l1_281.webp",
+      "hint_image_prompt": "A neatly ironed collared shirt laid flat on a bed"
+    },
+    {
+      "id": "l1_282",
+      "front": "water",
+      "back": "水",
+      "example": "_____ flowing from a mountain spring.",
+      "hint_image": "hint_l1_282.webp",
+      "hint_image_prompt": "A crystal clear stream of water pouring from a mountain spring"
+    },
+    {
+      "id": "l1_283",
+      "front": "fire",
+      "back": "火・火が付く",
+      "example": "Lighting a ____ with firewood while camping.",
+      "hint_image": "hint_l1_283.webp",
+      "hint_image_prompt": "A crackling campfire glowing orange in the dark outdoors"
+    },
+    {
+      "id": "l1_284",
+      "front": "earth",
+      "back": "地球・土",
+      "example": "Plant seedlings in the _____.",
+      "hint_image": "hint_l1_284.webp",
+      "hint_image_prompt": "A lush garden with dark fertile soil and green plants growing"
+    },
+    {
+      "id": "l1_285",
+      "front": "sun",
+      "back": "太陽",
+      "example": "The ___ is bright.",
+      "hint_image": "hint_l1_285.webp",
+      "hint_image_prompt": "A bright yellow sun shining in a clear blue sky over a field"
+    },
+    {
+      "id": "l1_286",
+      "front": "moon",
+      "back": "月",
+      "example": "The full ____ illuminates the night.",
+      "hint_image": "hint_l1_286.webp",
+      "hint_image_prompt": "A full moon glowing silver in the dark starry night sky"
+    },
+    {
+      "id": "l1_287",
+      "front": "rain",
+      "back": "雨",
+      "example": "It ____s in the morning.",
+      "hint_image": "hint_l1_287.webp",
+      "hint_image_prompt": "Rain falling on an umbrella with puddles forming on the street"
+    },
+    {
+      "id": "l1_288",
+      "front": "snow",
+      "back": "雪",
+      "example": "It ____ed last night.",
+      "hint_image": "hint_l1_288.webp",
+      "hint_image_prompt": "Snow falling gently and covering rooftops and trees in white"
+    },
+    {
+      "id": "l1_289",
+      "front": "wind",
+      "back": "風",
+      "example": "The ____ is strong.",
+      "hint_image": "hint_l1_289.webp",
+      "hint_image_prompt": "Wind blowing autumn leaves through the air along a park path"
+    },
+    {
+      "id": "l1_290",
+      "front": "flower",
+      "back": "花",
+      "example": "She likes _____s.",
+      "hint_image": "hint_l1_290.webp",
+      "hint_image_prompt": "A single red rose in full bloom surrounded by green leaves"
+    },
+    {
+      "id": "l1_291",
+      "front": "tree",
+      "back": "木",
+      "example": "There is a big ____.",
+      "hint_image": "hint_l1_291.webp",
+      "hint_image_prompt": "A tall oak tree with wide branches and thick green leaves"
+    },
+    {
+      "id": "l1_292",
+      "front": "grass",
+      "back": "草",
+      "example": "The _____ is green.",
+      "hint_image": "hint_l1_292.webp",
+      "hint_image_prompt": "A wide green lawn with blades of grass glistening in sunlight"
+    },
+    {
+      "id": "l1_293",
+      "front": "sand",
+      "back": "砂",
+      "example": "Desert ____.",
+      "hint_image": "hint_l1_293.webp",
+      "hint_image_prompt": "Golden sand dunes stretching across a vast desert landscape"
+    },
+    {
+      "id": "l1_294",
+      "front": "stone",
+      "back": "石",
+      "example": "A _____ rounded by the river.",
+      "hint_image": "hint_l1_294.webp",
+      "hint_image_prompt": "A smooth grey stone beside a mountain stream"
+    },
+    {
+      "id": "l1_295",
+      "front": "ice",
+      "back": "氷・氷で冷やす",
+      "example": "Water with ___.",
+      "hint_image": "hint_l1_295.webp",
+      "hint_image_prompt": "Ice cubes floating in a glass of cold water with condensation"
+    },
+    {
+      "id": "l1_296",
+      "front": "light",
+      "back": "光・明かり",
+      "example": "Turn on the _____.",
+      "hint_image": "hint_l1_296.webp",
+      "hint_image_prompt": "A lamp casting a warm golden circle of light in a dark room"
+    },
+    {
+      "id": "l1_297",
+      "front": "sound",
+      "back": "音・音を鳴らす",
+      "example": "I heard a strange _____.",
+      "hint_image": "hint_l1_297.webp",
+      "hint_image_prompt": "Sound waves illustrated around a ringing bell on a clear surface"
+    },
+    {
+      "id": "l1_298",
+      "front": "air",
+      "back": "空気",
+      "example": "Fresh ___ is good.",
+      "hint_image": "hint_l1_298.webp",
+      "hint_image_prompt": "Fresh outdoor air with visible trees swaying in a gentle breeze"
+    },
+    {
+      "id": "l1_299",
+      "front": "road",
+      "back": "道路",
+      "example": "The ____ is wide.",
+      "hint_image": "hint_l1_299.webp",
+      "hint_image_prompt": "A long straight road cutting through a flat countryside landscape"
+    },
+    {
+      "id": "l1_300",
+      "front": "box",
+      "back": "箱",
+      "example": "A ___ placed on the floor.",
+      "hint_image": "hint_l1_300.webp",
+      "hint_image_prompt": "A large cardboard box with a lid sitting on a wooden floor"
+    }
+  ]
+}

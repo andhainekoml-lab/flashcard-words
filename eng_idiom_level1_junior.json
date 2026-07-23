@@ -1,0 +1,1410 @@
+{
+  "deck_id": "eng_idiom_level1_junior",
+  "deck_name": "中1〜中2の熟語200語",
+  "direction_mode": "bothWays",
+  "front_label": "英語",
+  "back_label": "日本語",
+  "show_listen": true,
+  "cards": [
+    {
+      "id": "p1_001",
+      "front": "look at",
+      "back": "〜を見る",
+      "example": "Look at the sky.",
+      "hint_image": "look_at.jpg"
+    },
+    {
+      "id": "p1_002",
+      "front": "look for",
+      "back": "〜を探す",
+      "example": "I'm looking for my keys.",
+      "hint_image": "look_for.jpg"
+    },
+    {
+      "id": "p1_003",
+      "front": "look up",
+      "back": "〜を調べる",
+      "example": "Look up the word in a dictionary.",
+      "hint_image": "look_up.jpg"
+    },
+    {
+      "id": "p1_004",
+      "front": "look after",
+      "back": "〜の世話をする",
+      "example": "She looks after her little sister.",
+      "hint_image": "look_after.jpg"
+    },
+    {
+      "id": "p1_005",
+      "front": "look like",
+      "back": "〜のように見える",
+      "example": "He looks like his father.",
+      "hint_image": "look_like.jpg"
+    },
+    {
+      "id": "p1_006",
+      "front": "look forward to",
+      "back": "〜を楽しみにする",
+      "example": "I look forward to seeing you.",
+      "hint_image": "look_forward_to.jpg"
+    },
+    {
+      "id": "p1_007",
+      "front": "look out",
+      "back": "気をつける",
+      "example": "Look out for cars!",
+      "hint_image": "look_out.jpg"
+    },
+    {
+      "id": "p1_008",
+      "front": "look over",
+      "back": "〜をざっと確認する",
+      "example": "Please look over my essay.",
+      "hint_image": "look_over.jpg"
+    },
+    {
+      "id": "p1_009",
+      "front": "look around",
+      "back": "周りを見回す",
+      "example": "Look around before crossing.",
+      "hint_image": "look_around.jpg"
+    },
+    {
+      "id": "p1_010",
+      "front": "look back on",
+      "back": "〜を振り返る",
+      "example": "She looked back on her school days.",
+      "hint_image": "look_back_on.jpg"
+    },
+    {
+      "id": "p1_011",
+      "front": "get up",
+      "back": "起きる",
+      "example": "I get up at seven.",
+      "hint_image": "get_up.jpg"
+    },
+    {
+      "id": "p1_012",
+      "front": "get on",
+      "back": "〜に乗る",
+      "example": "Get on the bus.",
+      "hint_image": "get_on.jpg"
+    },
+    {
+      "id": "p1_013",
+      "front": "get off",
+      "back": "〜を降りる",
+      "example": "Get off at the next stop.",
+      "hint_image": "get_off.jpg"
+    },
+    {
+      "id": "p1_014",
+      "front": "get in",
+      "back": "〜に乗り込む",
+      "example": "Get in the car.",
+      "hint_image": "get_in.jpg"
+    },
+    {
+      "id": "p1_015",
+      "front": "get out",
+      "back": "出る",
+      "example": "Get out of the room.",
+      "hint_image": "get_out.jpg"
+    },
+    {
+      "id": "p1_016",
+      "front": "get to",
+      "back": "〜に着く",
+      "example": "We got to the station on time.",
+      "hint_image": "get_to.jpg"
+    },
+    {
+      "id": "p1_017",
+      "front": "get back",
+      "back": "戻る",
+      "example": "I got back home at six.",
+      "hint_image": "get_back.jpg"
+    },
+    {
+      "id": "p1_018",
+      "front": "get up early",
+      "back": "早く起きる",
+      "example": "Try to get up early every day.",
+      "hint_image": "get_up_early.jpg"
+    },
+    {
+      "id": "p1_019",
+      "front": "get ready",
+      "back": "準備する",
+      "example": "Get ready for school.",
+      "hint_image": "get_ready.jpg"
+    },
+    {
+      "id": "p1_020",
+      "front": "get better",
+      "back": "良くなる",
+      "example": "She is getting better.",
+      "hint_image": "get_better.jpg"
+    },
+    {
+      "id": "p1_021",
+      "front": "get worse",
+      "back": "悪化する",
+      "example": "The weather got worse.",
+      "hint_image": "get_worse.jpg"
+    },
+    {
+      "id": "p1_022",
+      "front": "get together",
+      "back": "集まる",
+      "example": "Let's get together on Sunday.",
+      "hint_image": "get_together.jpg"
+    },
+    {
+      "id": "p1_023",
+      "front": "get along with",
+      "back": "〜と仲良くやる",
+      "example": "I get along with my classmates.",
+      "hint_image": "get_along_with.jpg"
+    },
+    {
+      "id": "p1_024",
+      "front": "get lost",
+      "back": "迷う",
+      "example": "Don't get lost in the city.",
+      "hint_image": "get_lost.jpg"
+    },
+    {
+      "id": "p1_025",
+      "front": "get dressed",
+      "back": "服を着る",
+      "example": "Get dressed quickly.",
+      "hint_image": "get_dressed.jpg"
+    },
+    {
+      "id": "p1_026",
+      "front": "go on",
+      "back": "続ける",
+      "example": "Please go on with your story.",
+      "hint_image": "go_on.jpg"
+    },
+    {
+      "id": "p1_027",
+      "front": "go back",
+      "back": "戻る",
+      "example": "I want to go back home.",
+      "hint_image": "go_back.jpg"
+    },
+    {
+      "id": "p1_028",
+      "front": "go out",
+      "back": "外出する",
+      "example": "Let's go out for dinner.",
+      "hint_image": "go_out.jpg"
+    },
+    {
+      "id": "p1_029",
+      "front": "go up",
+      "back": "上がる",
+      "example": "Prices went up.",
+      "hint_image": "go_up.jpg"
+    },
+    {
+      "id": "p1_030",
+      "front": "go down",
+      "back": "下がる",
+      "example": "The sun goes down at six.",
+      "hint_image": "go_down.jpg"
+    },
+    {
+      "id": "p1_031",
+      "front": "go ahead",
+      "back": "進む・どうぞ",
+      "example": "Go ahead and start.",
+      "hint_image": "go_ahead.jpg"
+    },
+    {
+      "id": "p1_032",
+      "front": "go shopping",
+      "back": "買い物に行く",
+      "example": "She went shopping yesterday.",
+      "hint_image": "go_shopping.jpg"
+    },
+    {
+      "id": "p1_033",
+      "front": "go swimming",
+      "back": "泳ぎに行く",
+      "example": "Let's go swimming today.",
+      "hint_image": "go_swimming.jpg"
+    },
+    {
+      "id": "p1_034",
+      "front": "go camping",
+      "back": "キャンプに行く",
+      "example": "We went camping last summer.",
+      "hint_image": "go_camping.jpg"
+    },
+    {
+      "id": "p1_035",
+      "front": "go jogging",
+      "back": "ジョギングに行く",
+      "example": "He goes jogging every morning.",
+      "hint_image": "go_jogging.jpg"
+    },
+    {
+      "id": "p1_036",
+      "front": "go to bed",
+      "back": "就寝する",
+      "example": "Go to bed early.",
+      "hint_image": "go_to_bed.jpg"
+    },
+    {
+      "id": "p1_037",
+      "front": "go to school",
+      "back": "学校に行く",
+      "example": "She goes to school by bike.",
+      "hint_image": "go_to_school.jpg"
+    },
+    {
+      "id": "p1_038",
+      "front": "go home",
+      "back": "家に帰る",
+      "example": "Let's go home now.",
+      "hint_image": "go_home.jpg"
+    },
+    {
+      "id": "p1_039",
+      "front": "go abroad",
+      "back": "海外に行く",
+      "example": "I want to go abroad someday.",
+      "hint_image": "go_abroad.jpg"
+    },
+    {
+      "id": "p1_040",
+      "front": "go wrong",
+      "back": "うまくいかない",
+      "example": "Something went wrong.",
+      "hint_image": "go_wrong.jpg"
+    },
+    {
+      "id": "p1_041",
+      "front": "come back",
+      "back": "戻ってくる",
+      "example": "Please come back soon.",
+      "hint_image": "come_back.jpg"
+    },
+    {
+      "id": "p1_042",
+      "front": "come in",
+      "back": "入る",
+      "example": "Come in, please.",
+      "hint_image": "come_in.jpg"
+    },
+    {
+      "id": "p1_043",
+      "front": "come out",
+      "back": "出てくる",
+      "example": "The sun came out.",
+      "hint_image": "come_out.jpg"
+    },
+    {
+      "id": "p1_044",
+      "front": "come from",
+      "back": "〜出身である",
+      "example": "She comes from Canada.",
+      "hint_image": "come_from.jpg"
+    },
+    {
+      "id": "p1_045",
+      "front": "come on",
+      "back": "さあ・急いで",
+      "example": "Come on, let's go!",
+      "hint_image": "come_on.jpg"
+    },
+    {
+      "id": "p1_046",
+      "front": "come true",
+      "back": "実現する",
+      "example": "My dream came true.",
+      "hint_image": "come_true.jpg"
+    },
+    {
+      "id": "p1_047",
+      "front": "come across",
+      "back": "偶然出会う",
+      "example": "I came across an old friend.",
+      "hint_image": "come_across.jpg"
+    },
+    {
+      "id": "p1_048",
+      "front": "come up with",
+      "back": "〜を思いつく",
+      "example": "She came up with a great idea.",
+      "hint_image": "come_up_with.jpg"
+    },
+    {
+      "id": "p1_049",
+      "front": "make friends",
+      "back": "友達を作る",
+      "example": "She made friends easily.",
+      "hint_image": "make_friends.jpg"
+    },
+    {
+      "id": "p1_050",
+      "front": "make a mistake",
+      "back": "間違える",
+      "example": "Don't make a mistake.",
+      "hint_image": "make_a_mistake.jpg"
+    },
+    {
+      "id": "p1_051",
+      "front": "make sure",
+      "back": "確認する",
+      "example": "Make sure you lock the door.",
+      "hint_image": "make_sure.jpg"
+    },
+    {
+      "id": "p1_052",
+      "front": "make up",
+      "back": "和解する・化粧する",
+      "example": "They made up after the fight.",
+      "hint_image": "make_up.jpg"
+    },
+    {
+      "id": "p1_053",
+      "front": "make sense",
+      "back": "意味をなす",
+      "example": "That makes sense.",
+      "hint_image": "make_sense.jpg"
+    },
+    {
+      "id": "p1_054",
+      "front": "make it",
+      "back": "間に合う・成功する",
+      "example": "We made it to the game.",
+      "hint_image": "make_it.jpg"
+    },
+    {
+      "id": "p1_055",
+      "front": "make a call",
+      "back": "電話をかける",
+      "example": "I need to make a call.",
+      "hint_image": "make_a_call.jpg"
+    },
+    {
+      "id": "p1_056",
+      "front": "make a decision",
+      "back": "決断する",
+      "example": "It's hard to make a decision.",
+      "hint_image": "make_a_decision.jpg"
+    },
+    {
+      "id": "p1_057",
+      "front": "take care of",
+      "back": "〜の世話をする",
+      "example": "Please take care of the dog.",
+      "hint_image": "take_care_of.jpg"
+    },
+    {
+      "id": "p1_058",
+      "front": "take off",
+      "back": "離陸する・脱ぐ",
+      "example": "The plane took off on time.",
+      "hint_image": "take_off.jpg"
+    },
+    {
+      "id": "p1_059",
+      "front": "take part in",
+      "back": "〜に参加する",
+      "example": "She took part in the contest.",
+      "hint_image": "take_part_in.jpg"
+    },
+    {
+      "id": "p1_060",
+      "front": "take a look at",
+      "back": "〜をちょっと見る",
+      "example": "Take a look at this.",
+      "hint_image": "take_a_look_at.jpg"
+    },
+    {
+      "id": "p1_061",
+      "front": "take a walk",
+      "back": "散歩する",
+      "example": "Let's take a walk in the park.",
+      "hint_image": "take_a_walk.jpg"
+    },
+    {
+      "id": "p1_062",
+      "front": "take a break",
+      "back": "休憩する",
+      "example": "Let's take a break.",
+      "hint_image": "take_a_break.jpg"
+    },
+    {
+      "id": "p1_063",
+      "front": "take a seat",
+      "back": "座る",
+      "example": "Please take a seat.",
+      "hint_image": "take_a_seat.jpg"
+    },
+    {
+      "id": "p1_064",
+      "front": "take notes",
+      "back": "メモを取る",
+      "example": "Take notes in class.",
+      "hint_image": "take_notes.jpg"
+    },
+    {
+      "id": "p1_065",
+      "front": "take turns",
+      "back": "交代でする",
+      "example": "Let's take turns.",
+      "hint_image": "take_turns.jpg"
+    },
+    {
+      "id": "p1_066",
+      "front": "take place",
+      "back": "起こる・行われる",
+      "example": "The event takes place tomorrow.",
+      "hint_image": "take_place.jpg"
+    },
+    {
+      "id": "p1_067",
+      "front": "take out",
+      "back": "取り出す",
+      "example": "Take out your textbook.",
+      "hint_image": "take_out.jpg"
+    },
+    {
+      "id": "p1_068",
+      "front": "put on",
+      "back": "着る・かける",
+      "example": "Put on your coat.",
+      "hint_image": "put_on.jpg"
+    },
+    {
+      "id": "p1_069",
+      "front": "put off",
+      "back": "延期する",
+      "example": "We put off the meeting.",
+      "hint_image": "put_off.jpg"
+    },
+    {
+      "id": "p1_070",
+      "front": "put away",
+      "back": "片付ける",
+      "example": "Put away your toys.",
+      "hint_image": "put_away.jpg"
+    },
+    {
+      "id": "p1_071",
+      "front": "put out",
+      "back": "消す",
+      "example": "Put out the fire.",
+      "hint_image": "put_out.jpg"
+    },
+    {
+      "id": "p1_072",
+      "front": "put up with",
+      "back": "〜を我慢する",
+      "example": "I can't put up with the noise.",
+      "hint_image": "put_up_with.jpg"
+    },
+    {
+      "id": "p1_073",
+      "front": "turn on",
+      "back": "スイッチを入れる",
+      "example": "Turn on the TV.",
+      "hint_image": "turn_on.jpg"
+    },
+    {
+      "id": "p1_074",
+      "front": "turn off",
+      "back": "スイッチを切る",
+      "example": "Turn off the light.",
+      "hint_image": "turn_off.jpg"
+    },
+    {
+      "id": "p1_075",
+      "front": "turn up",
+      "back": "現れる・音を上げる",
+      "example": "She never turned up.",
+      "hint_image": "turn_up.jpg"
+    },
+    {
+      "id": "p1_076",
+      "front": "turn down",
+      "back": "断る・音を下げる",
+      "example": "He turned down the offer.",
+      "hint_image": "turn_down.jpg"
+    },
+    {
+      "id": "p1_077",
+      "front": "turn around",
+      "back": "振り返る",
+      "example": "Turn around and look.",
+      "hint_image": "turn_around.jpg"
+    },
+    {
+      "id": "p1_078",
+      "front": "turn into",
+      "back": "〜に変わる",
+      "example": "Water turns into ice.",
+      "hint_image": "turn_into.jpg"
+    },
+    {
+      "id": "p1_079",
+      "front": "pick up",
+      "back": "拾う・迎えに行く",
+      "example": "Pick up the trash.",
+      "hint_image": "pick_up.jpg"
+    },
+    {
+      "id": "p1_080",
+      "front": "bring up",
+      "back": "育てる・話題を出す",
+      "example": "She was brought up in Tokyo.",
+      "hint_image": "bring_up.jpg"
+    },
+    {
+      "id": "p1_081",
+      "front": "give up",
+      "back": "諦める",
+      "example": "Don't give up!",
+      "hint_image": "give_up.jpg"
+    },
+    {
+      "id": "p1_082",
+      "front": "give back",
+      "back": "返す",
+      "example": "Give back my book.",
+      "hint_image": "give_back.jpg"
+    },
+    {
+      "id": "p1_083",
+      "front": "give away",
+      "back": "譲る・配る",
+      "example": "She gave away her old clothes.",
+      "hint_image": "give_away.jpg"
+    },
+    {
+      "id": "p1_084",
+      "front": "run out of",
+      "back": "〜を使い果たす",
+      "example": "We ran out of time.",
+      "hint_image": "run_out_of.jpg"
+    },
+    {
+      "id": "p1_085",
+      "front": "run into",
+      "back": "〜に偶然会う",
+      "example": "I ran into my teacher.",
+      "hint_image": "run_into.jpg"
+    },
+    {
+      "id": "p1_086",
+      "front": "set up",
+      "back": "設置する・設立する",
+      "example": "We set up a new club.",
+      "hint_image": "set_up.jpg"
+    },
+    {
+      "id": "p1_087",
+      "front": "show up",
+      "back": "現れる",
+      "example": "He didn't show up.",
+      "hint_image": "show_up.jpg"
+    },
+    {
+      "id": "p1_088",
+      "front": "show off",
+      "back": "見せびらかす",
+      "example": "Stop showing off.",
+      "hint_image": "show_off.jpg"
+    },
+    {
+      "id": "p1_089",
+      "front": "at first",
+      "back": "最初は",
+      "example": "At first, it was difficult.",
+      "hint_image": "at_first.jpg"
+    },
+    {
+      "id": "p1_090",
+      "front": "at last",
+      "back": "ついに",
+      "example": "At last, we arrived.",
+      "hint_image": "at_last.jpg"
+    },
+    {
+      "id": "p1_091",
+      "front": "at once",
+      "back": "すぐに",
+      "example": "Come here at once.",
+      "hint_image": "at_once.jpg"
+    },
+    {
+      "id": "p1_092",
+      "front": "at all",
+      "back": "全く（否定で）",
+      "example": "I don't understand at all.",
+      "hint_image": "at_all.jpg"
+    },
+    {
+      "id": "p1_093",
+      "front": "at home",
+      "back": "家で・くつろいで",
+      "example": "She feels at home here.",
+      "hint_image": "at_home.jpg"
+    },
+    {
+      "id": "p1_094",
+      "front": "at school",
+      "back": "学校で",
+      "example": "I made friends at school.",
+      "hint_image": "at_school.jpg"
+    },
+    {
+      "id": "p1_095",
+      "front": "at work",
+      "back": "仕事中で",
+      "example": "He is at work.",
+      "hint_image": "at_work.jpg"
+    },
+    {
+      "id": "p1_096",
+      "front": "at night",
+      "back": "夜に",
+      "example": "It gets cold at night.",
+      "hint_image": "at_night.jpg"
+    },
+    {
+      "id": "p1_097",
+      "front": "in the morning",
+      "back": "朝に",
+      "example": "I study in the morning.",
+      "hint_image": "in_the_morning.jpg"
+    },
+    {
+      "id": "p1_098",
+      "front": "in the evening",
+      "back": "夕方に",
+      "example": "We had dinner in the evening.",
+      "hint_image": "in_the_evening.jpg"
+    },
+    {
+      "id": "p1_099",
+      "front": "in time",
+      "back": "間に合って",
+      "example": "She arrived in time.",
+      "hint_image": "in_time.jpg"
+    },
+    {
+      "id": "p1_100",
+      "front": "in front of",
+      "back": "〜の前に",
+      "example": "Stand in front of the class.",
+      "hint_image": "in_front_of.jpg"
+    },
+    {
+      "id": "p1_101",
+      "front": "in the end",
+      "back": "最終的に",
+      "example": "In the end, she agreed.",
+      "hint_image": "in_the_end.jpg"
+    },
+    {
+      "id": "p1_102",
+      "front": "on time",
+      "back": "時間通りに",
+      "example": "The train arrived on time.",
+      "hint_image": "on_time.jpg"
+    },
+    {
+      "id": "p1_103",
+      "front": "on foot",
+      "back": "徒歩で",
+      "example": "She went to school on foot.",
+      "hint_image": "on_foot.jpg"
+    },
+    {
+      "id": "p1_104",
+      "front": "on the way",
+      "back": "途中で",
+      "example": "I met him on the way home.",
+      "hint_image": "on_the_way.jpg"
+    },
+    {
+      "id": "p1_105",
+      "front": "for a while",
+      "back": "しばらくの間",
+      "example": "Wait for a while.",
+      "hint_image": "for_a_while.jpg"
+    },
+    {
+      "id": "p1_106",
+      "front": "for example",
+      "back": "たとえば",
+      "example": "For example, dogs and cats.",
+      "hint_image": "for_example.jpg"
+    },
+    {
+      "id": "p1_107",
+      "front": "for free",
+      "back": "無料で",
+      "example": "You can get it for free.",
+      "hint_image": "for_free.jpg"
+    },
+    {
+      "id": "p1_108",
+      "front": "of course",
+      "back": "もちろん",
+      "example": "Of course I will help.",
+      "hint_image": "of_course.jpg"
+    },
+    {
+      "id": "p1_109",
+      "front": "by the way",
+      "back": "ところで",
+      "example": "By the way, what time is it?",
+      "hint_image": "by_the_way.jpg"
+    },
+    {
+      "id": "p1_110",
+      "front": "by bus",
+      "back": "バスで",
+      "example": "She goes to school by bus.",
+      "hint_image": "by_bus.jpg"
+    },
+    {
+      "id": "p1_111",
+      "front": "by heart",
+      "back": "暗記して",
+      "example": "Learn it by heart.",
+      "hint_image": "by_heart.jpg"
+    },
+    {
+      "id": "p1_112",
+      "front": "one day",
+      "back": "ある日・いつか",
+      "example": "One day I'll travel the world.",
+      "hint_image": "one_day.jpg"
+    },
+    {
+      "id": "p1_113",
+      "front": "each other",
+      "back": "お互いに",
+      "example": "They helped each other.",
+      "hint_image": "each_other.jpg"
+    },
+    {
+      "id": "p1_114",
+      "front": "a lot of",
+      "back": "たくさんの",
+      "example": "She has a lot of friends.",
+      "hint_image": "a_lot_of.jpg"
+    },
+    {
+      "id": "p1_115",
+      "front": "a few",
+      "back": "少数の",
+      "example": "I have a few questions.",
+      "hint_image": "a_few.jpg"
+    },
+    {
+      "id": "p1_116",
+      "front": "a little",
+      "back": "少し",
+      "example": "Add a little salt.",
+      "hint_image": "a_little.jpg"
+    },
+    {
+      "id": "p1_117",
+      "front": "next to",
+      "back": "〜の隣に",
+      "example": "Sit next to me.",
+      "hint_image": "next_to.jpg"
+    },
+    {
+      "id": "p1_118",
+      "front": "far from",
+      "back": "〜から遠い",
+      "example": "The school is far from here.",
+      "hint_image": "far_from.jpg"
+    },
+    {
+      "id": "p1_119",
+      "front": "thanks to",
+      "back": "〜のおかげで",
+      "example": "Thanks to her help, I passed.",
+      "hint_image": "thanks_to.jpg"
+    },
+    {
+      "id": "p1_120",
+      "front": "because of",
+      "back": "〜のために（原因）",
+      "example": "We canceled because of rain.",
+      "hint_image": "because_of.jpg"
+    },
+    {
+      "id": "p1_121",
+      "front": "instead of",
+      "back": "〜の代わりに",
+      "example": "Use honey instead of sugar.",
+      "hint_image": "instead_of.jpg"
+    },
+    {
+      "id": "p1_122",
+      "front": "as well",
+      "back": "〜もまた",
+      "example": "She speaks French as well.",
+      "hint_image": "as_well.jpg"
+    },
+    {
+      "id": "p1_123",
+      "front": "as well as",
+      "back": "〜と同様に",
+      "example": "He sings as well as dances.",
+      "hint_image": "as_well_as.jpg"
+    },
+    {
+      "id": "p1_124",
+      "front": "right now",
+      "back": "今すぐ",
+      "example": "Call me right now.",
+      "hint_image": "right_now.jpg"
+    },
+    {
+      "id": "p1_125",
+      "front": "just now",
+      "back": "たった今",
+      "example": "She just left just now.",
+      "hint_image": "just_now.jpg"
+    },
+    {
+      "id": "p1_126",
+      "front": "not yet",
+      "back": "まだ〜ない",
+      "example": "I haven't finished not yet.",
+      "hint_image": "not_yet.jpg"
+    },
+    {
+      "id": "p1_127",
+      "front": "not at all",
+      "back": "全然〜ない",
+      "example": "I don't mind at all.",
+      "hint_image": "not_at_all.jpg"
+    },
+    {
+      "id": "p1_128",
+      "front": "so far",
+      "back": "今のところ",
+      "example": "So far, so good.",
+      "hint_image": "so_far.jpg"
+    },
+    {
+      "id": "p1_129",
+      "front": "long ago",
+      "back": "ずっと昔に",
+      "example": "Long ago, people lived differently.",
+      "hint_image": "long_ago.jpg"
+    },
+    {
+      "id": "p1_130",
+      "front": "hand in",
+      "back": "提出する",
+      "example": "Hand in your homework.",
+      "hint_image": "hand_in.jpg"
+    },
+    {
+      "id": "p1_131",
+      "front": "find out",
+      "back": "〜を知る・調べる",
+      "example": "I want to find out the truth.",
+      "hint_image": "find_out.jpg"
+    },
+    {
+      "id": "p1_132",
+      "front": "try on",
+      "back": "試着する",
+      "example": "Try on this shirt.",
+      "hint_image": "try_on.jpg"
+    },
+    {
+      "id": "p1_133",
+      "front": "throw away",
+      "back": "〜を捨てる",
+      "example": "Don't throw away trash here.",
+      "hint_image": "throw_away.jpg"
+    },
+    {
+      "id": "p1_134",
+      "front": "wake up",
+      "back": "目覚める",
+      "example": "Wake up early.",
+      "hint_image": "wake_up.jpg"
+    },
+    {
+      "id": "p1_135",
+      "front": "sit down",
+      "back": "座る",
+      "example": "Please sit down.",
+      "hint_image": "sit_down.jpg"
+    },
+    {
+      "id": "p1_136",
+      "front": "stand up",
+      "back": "立つ",
+      "example": "Stand up and introduce yourself.",
+      "hint_image": "stand_up.jpg"
+    },
+    {
+      "id": "p1_137",
+      "front": "slow down",
+      "back": "ゆっくりにする",
+      "example": "Slow down, please.",
+      "hint_image": "slow_down.jpg"
+    },
+    {
+      "id": "p1_138",
+      "front": "write down",
+      "back": "書き留める",
+      "example": "Write down the address.",
+      "hint_image": "write_down.jpg"
+    },
+    {
+      "id": "p1_139",
+      "front": "break down",
+      "back": "故障する",
+      "example": "The car broke down.",
+      "hint_image": "break_down.jpg"
+    },
+    {
+      "id": "p1_140",
+      "front": "cut down on",
+      "back": "〜を減らす",
+      "example": "Cut down on sugar.",
+      "hint_image": "cut_down_on.jpg"
+    },
+    {
+      "id": "p1_141",
+      "front": "calm down",
+      "back": "落ち着く",
+      "example": "Calm down and breathe.",
+      "hint_image": "calm_down.jpg"
+    },
+    {
+      "id": "p1_142",
+      "front": "count on",
+      "back": "〜を頼りにする",
+      "example": "You can count on me.",
+      "hint_image": "count_on.jpg"
+    },
+    {
+      "id": "p1_143",
+      "front": "deal with",
+      "back": "〜に対処する",
+      "example": "How do you deal with stress?",
+      "hint_image": "deal_with.jpg"
+    },
+    {
+      "id": "p1_144",
+      "front": "drop off",
+      "back": "〜を降ろす",
+      "example": "Drop me off here.",
+      "hint_image": "drop_off.jpg"
+    },
+    {
+      "id": "p1_145",
+      "front": "feel like",
+      "back": "〜したい気がする",
+      "example": "I feel like eating pizza.",
+      "hint_image": "feel_like.jpg"
+    },
+    {
+      "id": "p1_146",
+      "front": "hear from",
+      "back": "〜から連絡をもらう",
+      "example": "I haven't heard from her.",
+      "hint_image": "hear_from.jpg"
+    },
+    {
+      "id": "p1_147",
+      "front": "hold on",
+      "back": "待つ",
+      "example": "Hold on a moment.",
+      "hint_image": "hold_on.jpg"
+    },
+    {
+      "id": "p1_148",
+      "front": "keep on",
+      "back": "〜し続ける",
+      "example": "Keep on trying.",
+      "hint_image": "keep_on.jpg"
+    },
+    {
+      "id": "p1_149",
+      "front": "know about",
+      "back": "〜について知っている",
+      "example": "Do you know about this?",
+      "hint_image": "know_about.jpg"
+    },
+    {
+      "id": "p1_150",
+      "front": "laugh at",
+      "back": "〜を笑う",
+      "example": "Don't laugh at others.",
+      "hint_image": "laugh_at.jpg"
+    },
+    {
+      "id": "p1_151",
+      "front": "learn from",
+      "back": "〜から学ぶ",
+      "example": "Learn from your mistakes.",
+      "hint_image": "learn_from.jpg"
+    },
+    {
+      "id": "p1_152",
+      "front": "leave out",
+      "back": "省く",
+      "example": "Don't leave out the details.",
+      "hint_image": "leave_out.jpg"
+    },
+    {
+      "id": "p1_153",
+      "front": "let down",
+      "back": "〜を失望させる",
+      "example": "Don't let me down.",
+      "hint_image": "let_down.jpg"
+    },
+    {
+      "id": "p1_154",
+      "front": "pay for",
+      "back": "〜の代金を払う",
+      "example": "I'll pay for dinner.",
+      "hint_image": "pay_for.jpg"
+    },
+    {
+      "id": "p1_155",
+      "front": "point out",
+      "back": "〜を指摘する",
+      "example": "She pointed out my error.",
+      "hint_image": "point_out.jpg"
+    },
+    {
+      "id": "p1_156",
+      "front": "sign up for",
+      "back": "〜に登録する",
+      "example": "Sign up for the newsletter.",
+      "hint_image": "sign_up_for.jpg"
+    },
+    {
+      "id": "p1_157",
+      "front": "stay up",
+      "back": "起きている",
+      "example": "I stayed up late.",
+      "hint_image": "stay_up.jpg"
+    },
+    {
+      "id": "p1_158",
+      "front": "switch on",
+      "back": "スイッチを入れる",
+      "example": "Switch on the light.",
+      "hint_image": "switch_on.jpg"
+    },
+    {
+      "id": "p1_159",
+      "front": "switch off",
+      "back": "スイッチを切る",
+      "example": "Switch off your phone.",
+      "hint_image": "switch_off.jpg"
+    },
+    {
+      "id": "p1_160",
+      "front": "talk about",
+      "back": "〜について話す",
+      "example": "Let's talk about the plan.",
+      "hint_image": "talk_about.jpg"
+    },
+    {
+      "id": "p1_161",
+      "front": "think about",
+      "back": "〜について考える",
+      "example": "Think about your future.",
+      "hint_image": "think_about.jpg"
+    },
+    {
+      "id": "p1_162",
+      "front": "wait for",
+      "back": "〜を待つ",
+      "example": "Wait for the bus.",
+      "hint_image": "wait_for.jpg"
+    },
+    {
+      "id": "p1_163",
+      "front": "work on",
+      "back": "〜に取り組む",
+      "example": "I'm working on a project.",
+      "hint_image": "work_on.jpg"
+    },
+    {
+      "id": "p1_164",
+      "front": "worry about",
+      "back": "〜を心配する",
+      "example": "Don't worry about it.",
+      "hint_image": "worry_about.jpg"
+    },
+    {
+      "id": "p1_165",
+      "front": "be good at",
+      "back": "〜が得意だ",
+      "example": "She is good at math.",
+      "hint_image": "be_good_at.jpg"
+    },
+    {
+      "id": "p1_166",
+      "front": "be bad at",
+      "back": "〜が苦手だ",
+      "example": "I'm bad at singing.",
+      "hint_image": "be_bad_at.jpg"
+    },
+    {
+      "id": "p1_167",
+      "front": "be interested in",
+      "back": "〜に興味がある",
+      "example": "He is interested in science.",
+      "hint_image": "be_interested_in.jpg"
+    },
+    {
+      "id": "p1_168",
+      "front": "be proud of",
+      "back": "〜を誇りに思う",
+      "example": "I'm proud of you.",
+      "hint_image": "be_proud_of.jpg"
+    },
+    {
+      "id": "p1_169",
+      "front": "be full of",
+      "back": "〜で一杯だ",
+      "example": "The box is full of books.",
+      "hint_image": "be_full_of.jpg"
+    },
+    {
+      "id": "p1_170",
+      "front": "be afraid of",
+      "back": "〜を恐れている",
+      "example": "She is afraid of spiders.",
+      "hint_image": "be_afraid_of.jpg"
+    },
+    {
+      "id": "p1_171",
+      "front": "be ready for",
+      "back": "〜の準備ができている",
+      "example": "Are you ready for the test?",
+      "hint_image": "be_ready_for.jpg"
+    },
+    {
+      "id": "p1_172",
+      "front": "be late for",
+      "back": "〜に遅刻する",
+      "example": "Don't be late for class.",
+      "hint_image": "be_late_for.jpg"
+    },
+    {
+      "id": "p1_173",
+      "front": "be famous for",
+      "back": "〜で有名だ",
+      "example": "Japan is famous for sushi.",
+      "hint_image": "be_famous_for.jpg"
+    },
+    {
+      "id": "p1_174",
+      "front": "be different from",
+      "back": "〜と異なる",
+      "example": "This is different from that.",
+      "hint_image": "be_different_from.jpg"
+    },
+    {
+      "id": "p1_175",
+      "front": "be similar to",
+      "back": "〜に似ている",
+      "example": "This is similar to mine.",
+      "hint_image": "be_similar_to.jpg"
+    },
+    {
+      "id": "p1_176",
+      "front": "be tired of",
+      "back": "〜に飽き飽きしている",
+      "example": "I'm tired of waiting.",
+      "hint_image": "be_tired_of.jpg"
+    },
+    {
+      "id": "p1_177",
+      "front": "be used to",
+      "back": "〜に慣れている",
+      "example": "She is used to the cold.",
+      "hint_image": "be_used_to.jpg"
+    },
+    {
+      "id": "p1_178",
+      "front": "be kind to",
+      "back": "〜に親切にする",
+      "example": "Be kind to everyone.",
+      "hint_image": "be_kind_to.jpg"
+    },
+    {
+      "id": "p1_179",
+      "front": "be born in",
+      "back": "〜に生まれる",
+      "example": "She was born in 2005.",
+      "hint_image": "be_born_in.jpg"
+    },
+    {
+      "id": "p1_180",
+      "front": "be made of",
+      "back": "〜でできている",
+      "example": "The table is made of wood.",
+      "hint_image": "be_made_of.jpg"
+    },
+    {
+      "id": "p1_181",
+      "front": "be covered with",
+      "back": "〜で覆われている",
+      "example": "The ground is covered with snow.",
+      "hint_image": "be_covered_with.jpg"
+    },
+    {
+      "id": "p1_182",
+      "front": "be known for",
+      "back": "〜で知られている",
+      "example": "He is known for his kindness.",
+      "hint_image": "be_known_for.jpg"
+    },
+    {
+      "id": "p1_183",
+      "front": "as ... as",
+      "back": "〜と同じくらい",
+      "example": "She is as tall as her sister.",
+      "hint_image": "as_..._as.jpg"
+    },
+    {
+      "id": "p1_184",
+      "front": "such as",
+      "back": "〜のような",
+      "example": "Fruits such as apples.",
+      "hint_image": "such_as.jpg"
+    },
+    {
+      "id": "p1_185",
+      "front": "more and more",
+      "back": "ますます",
+      "example": "It's getting more and more popular.",
+      "hint_image": "more_and_more.jpg"
+    },
+    {
+      "id": "p1_001_186",
+      "front": "be absent from",
+      "back": "〜を欠席する",
+      "example": "She was absent from school.",
+      "hint_image": "be_absent_from.jpg"
+    },
+    {
+      "id": "p1_001_187",
+      "front": "be in trouble",
+      "back": "困っている",
+      "example": "She is in trouble.",
+      "hint_image": "be_in_trouble.jpg"
+    },
+    {
+      "id": "p1_001_188",
+      "front": "be made from",
+      "back": "〜から作られる（原形が変わる）",
+      "example": "Wine is made from grapes.",
+      "hint_image": "be_made_from.jpg"
+    },
+    {
+      "id": "p1_001_189",
+      "front": "be on time",
+      "back": "時間通りだ",
+      "example": "Always be on time.",
+      "hint_image": "be_on_time.jpg"
+    },
+    {
+      "id": "p1_001_190",
+      "front": "do one's best",
+      "back": "最善を尽くす",
+      "example": "Always do your best.",
+      "hint_image": "do_one's_best.jpg"
+    },
+    {
+      "id": "p1_001_191",
+      "front": "for a long time",
+      "back": "長い間",
+      "example": "She waited for a long time.",
+      "hint_image": "for_a_long_time.jpg"
+    },
+    {
+      "id": "p1_001_192",
+      "front": "for the first time",
+      "back": "初めて",
+      "example": "It was my first time abroad.",
+      "hint_image": "for_the_first_time.jpg"
+    },
+    {
+      "id": "p1_001_193",
+      "front": "go for a walk",
+      "back": "散歩に行く",
+      "example": "Let's go for a walk.",
+      "hint_image": "go_for_a_walk.jpg"
+    },
+    {
+      "id": "p1_001_194",
+      "front": "have a good time",
+      "back": "楽しい時を過ごす",
+      "example": "We had a good time.",
+      "hint_image": "have_a_good_time.jpg"
+    },
+    {
+      "id": "p1_001_195",
+      "front": "have to",
+      "back": "〜しなければならない",
+      "example": "I have to go now.",
+      "hint_image": "have_to.jpg"
+    },
+    {
+      "id": "p1_001_196",
+      "front": "in a hurry",
+      "back": "急いで",
+      "example": "She left in a hurry.",
+      "hint_image": "in_a_hurry.jpg"
+    },
+    {
+      "id": "p1_001_197",
+      "front": "now that",
+      "back": "今や〜だから",
+      "example": "Now that you mention it.",
+      "hint_image": "now_that.jpg"
+    },
+    {
+      "id": "p1_001_198",
+      "front": "take a bath",
+      "back": "入浴する",
+      "example": "Take a bath before bed.",
+      "hint_image": "take_a_bath.jpg"
+    },
+    {
+      "id": "p1_001_199",
+      "front": "used to do",
+      "back": "〜したものだった（再掲なし別形）",
+      "example": "He used to run every day.",
+      "hint_image": "used_to_do.jpg"
+    },
+    {
+      "id": "p1_001_200",
+      "front": "take a rest",
+      "back": "休憩する",
+      "example": "Take a rest when you're tired.",
+      "hint_image": "take_a_rest.jpg"
+    }
+  ]
+}

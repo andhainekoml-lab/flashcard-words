@@ -1,0 +1,2110 @@
+{
+  "deck_id": "eng_idiom_level3_high",
+  "deck_name": "高2〜日常会話の熟語300語",
+  "direction_mode": "bothWays",
+  "front_label": "英語",
+  "back_label": "日本語",
+  "show_listen": true,
+  "cards": [
+    {
+      "id": "p3_001",
+      "front": "end up with",
+      "back": "最終的に〜を得る",
+      "example": "She ended up with a great job.",
+      "hint_image": "end_up_with.jpg"
+    },
+    {
+      "id": "p3_002",
+      "front": "end up in",
+      "back": "最終的に〜になる",
+      "example": "He ended up in hospital.",
+      "hint_image": "end_up_in.jpg"
+    },
+    {
+      "id": "p3_003",
+      "front": "get away with",
+      "back": "〜をうまく逃れる",
+      "example": "He got away with the mistake.",
+      "hint_image": "get_away_with.jpg"
+    },
+    {
+      "id": "p3_004",
+      "front": "get down to",
+      "back": "〜に真剣に取り掛かる",
+      "example": "Let's get down to business.",
+      "hint_image": "get_down_to.jpg"
+    },
+    {
+      "id": "p3_005",
+      "front": "get out of",
+      "back": "〜から抜け出す",
+      "example": "Get out of your comfort zone.",
+      "hint_image": "get_out_of.jpg"
+    },
+    {
+      "id": "p3_006",
+      "front": "get through",
+      "back": "〜を乗り越える・通じる",
+      "example": "She got through the exam.",
+      "hint_image": "get_through.jpg"
+    },
+    {
+      "id": "p3_007",
+      "front": "come apart",
+      "back": "ばらばらになる",
+      "example": "The book came apart.",
+      "hint_image": "come_apart.jpg"
+    },
+    {
+      "id": "p3_008",
+      "front": "come down to",
+      "back": "〜に要約される",
+      "example": "It comes down to one thing.",
+      "hint_image": "come_down_to.jpg"
+    },
+    {
+      "id": "p3_009",
+      "front": "come into",
+      "back": "〜を受け継ぐ",
+      "example": "She came into money.",
+      "hint_image": "come_into.jpg"
+    },
+    {
+      "id": "p3_010",
+      "front": "come off",
+      "back": "はずれる・うまくいく",
+      "example": "The plan didn't come off.",
+      "hint_image": "come_off.jpg"
+    },
+    {
+      "id": "p3_011",
+      "front": "come to terms with",
+      "back": "〜を受け入れる",
+      "example": "Come to terms with the result.",
+      "hint_image": "come_to_terms_with.jpg"
+    },
+    {
+      "id": "p3_012",
+      "front": "go along with",
+      "back": "〜に同意する",
+      "example": "I'll go along with the plan.",
+      "hint_image": "go_along_with.jpg"
+    },
+    {
+      "id": "p3_013",
+      "front": "go beyond",
+      "back": "〜を超える",
+      "example": "Go beyond your limits.",
+      "hint_image": "go_beyond.jpg"
+    },
+    {
+      "id": "p3_014",
+      "front": "go through with",
+      "back": "〜をやり遂げる",
+      "example": "She went through with the plan.",
+      "hint_image": "go_through_with.jpg"
+    },
+    {
+      "id": "p3_015",
+      "front": "go over",
+      "back": "〜を見直す",
+      "example": "Go over the notes again.",
+      "hint_image": "go_over.jpg"
+    },
+    {
+      "id": "p3_016",
+      "front": "bring back",
+      "back": "〜を思い出させる・取り戻す",
+      "example": "That song brings back memories.",
+      "hint_image": "bring_back.jpg"
+    },
+    {
+      "id": "p3_017",
+      "front": "bring forward",
+      "back": "〜を前に進める・提案する",
+      "example": "Bring forward your ideas.",
+      "hint_image": "bring_forward.jpg"
+    },
+    {
+      "id": "p3_018",
+      "front": "bring out",
+      "back": "〜を引き出す",
+      "example": "She brings out the best in people.",
+      "hint_image": "bring_out.jpg"
+    },
+    {
+      "id": "p3_019",
+      "front": "hold off",
+      "back": "〜を先延ばしにする",
+      "example": "Hold off on the decision.",
+      "hint_image": "hold_off.jpg"
+    },
+    {
+      "id": "p3_020",
+      "front": "hold on to",
+      "back": "〜を保持する",
+      "example": "Hold on to your dreams.",
+      "hint_image": "hold_on_to.jpg"
+    },
+    {
+      "id": "p3_021",
+      "front": "hold out",
+      "back": "持ちこたえる",
+      "example": "How long can you hold out?",
+      "hint_image": "hold_out.jpg"
+    },
+    {
+      "id": "p3_022",
+      "front": "hold up",
+      "back": "遅らせる・耐える",
+      "example": "The traffic held us up.",
+      "hint_image": "hold_up.jpg"
+    },
+    {
+      "id": "p3_023",
+      "front": "fall apart",
+      "back": "崩壊する",
+      "example": "Their plan fell apart.",
+      "hint_image": "fall_apart.jpg"
+    },
+    {
+      "id": "p3_024",
+      "front": "fall back on",
+      "back": "〜に頼る",
+      "example": "Fall back on your savings.",
+      "hint_image": "fall_back_on.jpg"
+    },
+    {
+      "id": "p3_025",
+      "front": "fall for",
+      "back": "〜にだまされる・惚れる",
+      "example": "She fell for his trick.",
+      "hint_image": "fall_for.jpg"
+    },
+    {
+      "id": "p3_026",
+      "front": "fall out with",
+      "back": "〜と仲たがいする",
+      "example": "He fell out with his friend.",
+      "hint_image": "fall_out_with.jpg"
+    },
+    {
+      "id": "p3_027",
+      "front": "fall through",
+      "back": "失敗に終わる",
+      "example": "The deal fell through.",
+      "hint_image": "fall_through.jpg"
+    },
+    {
+      "id": "p3_028",
+      "front": "break away from",
+      "back": "〜から脱する",
+      "example": "Break away from bad habits.",
+      "hint_image": "break_away_from.jpg"
+    },
+    {
+      "id": "p3_029",
+      "front": "break in",
+      "back": "押し入る・慣らす",
+      "example": "Burglars broke in last night.",
+      "hint_image": "break_in.jpg"
+    },
+    {
+      "id": "p3_030",
+      "front": "break into",
+      "back": "〜に侵入する・突然〜し始める",
+      "example": "She broke into laughter.",
+      "hint_image": "break_into.jpg"
+    },
+    {
+      "id": "p3_031",
+      "front": "break out",
+      "back": "勃発する・逃げ出す",
+      "example": "A fire broke out.",
+      "hint_image": "break_out.jpg"
+    },
+    {
+      "id": "p3_032",
+      "front": "break through",
+      "back": "〜を突破する",
+      "example": "She broke through her limitations.",
+      "hint_image": "break_through.jpg"
+    },
+    {
+      "id": "p3_033",
+      "front": "build up",
+      "back": "〜を築き上げる",
+      "example": "Build up your confidence.",
+      "hint_image": "build_up.jpg"
+    },
+    {
+      "id": "p3_034",
+      "front": "build on",
+      "back": "〜を基に発展させる",
+      "example": "Build on your strengths.",
+      "hint_image": "build_on.jpg"
+    },
+    {
+      "id": "p3_035",
+      "front": "cut back on",
+      "back": "〜を削減する",
+      "example": "Cut back on spending.",
+      "hint_image": "cut_back_on.jpg"
+    },
+    {
+      "id": "p3_036",
+      "front": "cut off",
+      "back": "〜を切り離す・遮断する",
+      "example": "The storm cut off the power.",
+      "hint_image": "cut_off.jpg"
+    },
+    {
+      "id": "p3_037",
+      "front": "cut out",
+      "back": "取り除く・やめる",
+      "example": "Cut out junk food.",
+      "hint_image": "cut_out.jpg"
+    },
+    {
+      "id": "p3_038",
+      "front": "look into",
+      "back": "〜を調べる",
+      "example": "She looked into the issue.",
+      "hint_image": "look_into.jpg"
+    },
+    {
+      "id": "p3_039",
+      "front": "look up to",
+      "back": "〜を尊敬する",
+      "example": "She looks up to her mentor.",
+      "hint_image": "look_up_to.jpg"
+    },
+    {
+      "id": "p3_040",
+      "front": "keep away from",
+      "back": "〜から離れる",
+      "example": "Keep away from danger.",
+      "hint_image": "keep_away_from.jpg"
+    },
+    {
+      "id": "p3_041",
+      "front": "keep in touch",
+      "back": "連絡を保つ",
+      "example": "Keep in touch with old friends.",
+      "hint_image": "keep_in_touch.jpg"
+    },
+    {
+      "id": "p3_042",
+      "front": "keep up",
+      "back": "〜を続ける・維持する",
+      "example": "Keep up the good work.",
+      "hint_image": "keep_up.jpg"
+    },
+    {
+      "id": "p3_043",
+      "front": "set aside",
+      "back": "〜を確保しておく・除ける",
+      "example": "Set aside time for exercise.",
+      "hint_image": "set_aside.jpg"
+    },
+    {
+      "id": "p3_044",
+      "front": "set back",
+      "back": "〜を遅らせる",
+      "example": "The delay set us back.",
+      "hint_image": "set_back.jpg"
+    },
+    {
+      "id": "p3_045",
+      "front": "set out",
+      "back": "出発する・始める",
+      "example": "She set out to change the world.",
+      "hint_image": "set_out.jpg"
+    },
+    {
+      "id": "p3_046",
+      "front": "set in",
+      "back": "〔悪い状況が〕始まる",
+      "example": "Fatigue set in after the race.",
+      "hint_image": "set_in.jpg"
+    },
+    {
+      "id": "p3_047",
+      "front": "take on",
+      "back": "〜を引き受ける・雇う",
+      "example": "She took on more responsibility.",
+      "hint_image": "take_on.jpg"
+    },
+    {
+      "id": "p3_048",
+      "front": "take up",
+      "back": "〜を始める・占める",
+      "example": "She took up yoga.",
+      "hint_image": "take_up.jpg"
+    },
+    {
+      "id": "p3_049",
+      "front": "take after",
+      "back": "〜に似ている",
+      "example": "She takes after her mother.",
+      "hint_image": "take_after.jpg"
+    },
+    {
+      "id": "p3_050",
+      "front": "take for granted",
+      "back": "〜を当然と思う",
+      "example": "Don't take health for granted.",
+      "hint_image": "take_for_granted.jpg"
+    },
+    {
+      "id": "p3_051",
+      "front": "take into account",
+      "back": "〜を考慮する",
+      "example": "Take the cost into account.",
+      "hint_image": "take_into_account.jpg"
+    },
+    {
+      "id": "p3_052",
+      "front": "take it easy",
+      "back": "気楽にやる",
+      "example": "Take it easy this weekend.",
+      "hint_image": "take_it_easy.jpg"
+    },
+    {
+      "id": "p3_053",
+      "front": "run out",
+      "back": "なくなる",
+      "example": "Time is running out.",
+      "hint_image": "run_out.jpg"
+    },
+    {
+      "id": "p3_054",
+      "front": "run over",
+      "back": "〜をひく・超える",
+      "example": "The car ran over a branch.",
+      "hint_image": "run_over.jpg"
+    },
+    {
+      "id": "p3_055",
+      "front": "pass out",
+      "back": "気を失う",
+      "example": "She passed out from the heat.",
+      "hint_image": "pass_out.jpg"
+    },
+    {
+      "id": "p3_056",
+      "front": "pass up",
+      "back": "〜を見送る",
+      "example": "Don't pass up this chance.",
+      "hint_image": "pass_up.jpg"
+    },
+    {
+      "id": "p3_057",
+      "front": "act on",
+      "back": "〜に従って行動する",
+      "example": "Act on your instincts.",
+      "hint_image": "act_on.jpg"
+    },
+    {
+      "id": "p3_058",
+      "front": "add up to",
+      "back": "〜の合計になる",
+      "example": "The costs add up to a lot.",
+      "hint_image": "add_up_to.jpg"
+    },
+    {
+      "id": "p3_059",
+      "front": "amount to",
+      "back": "〜に相当する",
+      "example": "His words amount to a lie.",
+      "hint_image": "amount_to.jpg"
+    },
+    {
+      "id": "p3_060",
+      "front": "be apt to",
+      "back": "〜しがちだ",
+      "example": "She is apt to forget.",
+      "hint_image": "be_apt_to.jpg"
+    },
+    {
+      "id": "p3_061",
+      "front": "be bound to",
+      "back": "〜するに違いない",
+      "example": "Things are bound to improve.",
+      "hint_image": "be_bound_to.jpg"
+    },
+    {
+      "id": "p3_062",
+      "front": "be cut out for",
+      "back": "〜に向いている",
+      "example": "He is cut out for teaching.",
+      "hint_image": "be_cut_out_for.jpg"
+    },
+    {
+      "id": "p3_063",
+      "front": "be fed up with",
+      "back": "〜にうんざりしている",
+      "example": "I'm fed up with excuses.",
+      "hint_image": "be_fed_up_with.jpg"
+    },
+    {
+      "id": "p3_064",
+      "front": "be inclined to",
+      "back": "〜したいと思う",
+      "example": "I'm inclined to agree.",
+      "hint_image": "be_inclined_to.jpg"
+    },
+    {
+      "id": "p3_065",
+      "front": "be made up of",
+      "back": "〜で構成されている",
+      "example": "The team is made up of experts.",
+      "hint_image": "be_made_up_of.jpg"
+    },
+    {
+      "id": "p3_066",
+      "front": "be on the verge of",
+      "back": "〜しそうになっている",
+      "example": "She was on the verge of crying.",
+      "hint_image": "be_on_the_verge_of.jpg"
+    },
+    {
+      "id": "p3_067",
+      "front": "be prone to",
+      "back": "〜しやすい",
+      "example": "He is prone to mistakes.",
+      "hint_image": "be_prone_to.jpg"
+    },
+    {
+      "id": "p3_068",
+      "front": "be set on",
+      "back": "〜を強く望んでいる",
+      "example": "She is set on going abroad.",
+      "hint_image": "be_set_on.jpg"
+    },
+    {
+      "id": "p3_069",
+      "front": "be up for",
+      "back": "〜に乗り気だ",
+      "example": "Are you up for a hike?",
+      "hint_image": "be_up_for.jpg"
+    },
+    {
+      "id": "p3_070",
+      "front": "blow up",
+      "back": "爆発する・怒り出す",
+      "example": "He blew up at the news.",
+      "hint_image": "blow_up.jpg"
+    },
+    {
+      "id": "p3_071",
+      "front": "boil down to",
+      "back": "〜に要約される",
+      "example": "It boils down to money.",
+      "hint_image": "boil_down_to.jpg"
+    },
+    {
+      "id": "p3_072",
+      "front": "bounce back",
+      "back": "立ち直る",
+      "example": "She bounced back quickly.",
+      "hint_image": "bounce_back.jpg"
+    },
+    {
+      "id": "p3_073",
+      "front": "call for",
+      "back": "〜を必要とする・要求する",
+      "example": "The situation calls for action.",
+      "hint_image": "call_for.jpg"
+    },
+    {
+      "id": "p3_074",
+      "front": "call in",
+      "back": "〜に電話する・招集する",
+      "example": "Call in a specialist.",
+      "hint_image": "call_in.jpg"
+    },
+    {
+      "id": "p3_075",
+      "front": "capitalize on",
+      "back": "〜を活用する",
+      "example": "Capitalize on this opportunity.",
+      "hint_image": "capitalize_on.jpg"
+    },
+    {
+      "id": "p3_076",
+      "front": "carry off",
+      "back": "〜を成功させる",
+      "example": "She carried off the performance.",
+      "hint_image": "carry_off.jpg"
+    },
+    {
+      "id": "p3_077",
+      "front": "catch on",
+      "back": "流行する・理解する",
+      "example": "The trend caught on quickly.",
+      "hint_image": "catch_on.jpg"
+    },
+    {
+      "id": "p3_078",
+      "front": "chip in",
+      "back": "〜に貢献する・割り勘にする",
+      "example": "Let's chip in for a gift.",
+      "hint_image": "chip_in.jpg"
+    },
+    {
+      "id": "p3_079",
+      "front": "close down",
+      "back": "閉鎖する",
+      "example": "The shop closed down.",
+      "hint_image": "close_down.jpg"
+    },
+    {
+      "id": "p3_080",
+      "front": "come around",
+      "back": "〜に同意するようになる",
+      "example": "She finally came around.",
+      "hint_image": "come_around.jpg"
+    },
+    {
+      "id": "p3_081",
+      "front": "come forward",
+      "back": "名乗り出る",
+      "example": "No witnesses came forward.",
+      "hint_image": "come_forward.jpg"
+    },
+    {
+      "id": "p3_082",
+      "front": "confront with",
+      "back": "〜に直面させる",
+      "example": "She was confronted with the truth.",
+      "hint_image": "confront_with.jpg"
+    },
+    {
+      "id": "p3_083",
+      "front": "cool down",
+      "back": "冷静になる",
+      "example": "Cool down before talking.",
+      "hint_image": "cool_down.jpg"
+    },
+    {
+      "id": "p3_084",
+      "front": "cover up",
+      "back": "〜を隠す",
+      "example": "They tried to cover up the mistake.",
+      "hint_image": "cover_up.jpg"
+    },
+    {
+      "id": "p3_085",
+      "front": "crack down on",
+      "back": "〜を取り締まる",
+      "example": "Police cracked down on crime.",
+      "hint_image": "crack_down_on.jpg"
+    },
+    {
+      "id": "p3_086",
+      "front": "cross out",
+      "back": "〜を消す",
+      "example": "Cross out the wrong answer.",
+      "hint_image": "cross_out.jpg"
+    },
+    {
+      "id": "p3_087",
+      "front": "cut in",
+      "back": "割り込む",
+      "example": "Don't cut in line.",
+      "hint_image": "cut_in.jpg"
+    },
+    {
+      "id": "p3_088",
+      "front": "die out",
+      "back": "絶滅する",
+      "example": "Some species are dying out.",
+      "hint_image": "die_out.jpg"
+    },
+    {
+      "id": "p3_089",
+      "front": "dig into",
+      "back": "〜を深く調べる",
+      "example": "Dig into the data.",
+      "hint_image": "dig_into.jpg"
+    },
+    {
+      "id": "p3_090",
+      "front": "draw on",
+      "back": "〜を活用する",
+      "example": "She drew on her experience.",
+      "hint_image": "draw_on.jpg"
+    },
+    {
+      "id": "p3_091",
+      "front": "draw up",
+      "back": "〜を起草する",
+      "example": "Draw up a contract.",
+      "hint_image": "draw_up.jpg"
+    },
+    {
+      "id": "p3_092",
+      "front": "drive away",
+      "back": "〜を追い払う",
+      "example": "Drive away bad thoughts.",
+      "hint_image": "drive_away.jpg"
+    },
+    {
+      "id": "p3_093",
+      "front": "drop in on",
+      "back": "〜にふらりと立ち寄る",
+      "example": "Drop in on a friend.",
+      "hint_image": "drop_in_on.jpg"
+    },
+    {
+      "id": "p3_094",
+      "front": "ease up",
+      "back": "和らぐ・緩める",
+      "example": "The rain eased up.",
+      "hint_image": "ease_up.jpg"
+    },
+    {
+      "id": "p3_095",
+      "front": "fall in with",
+      "back": "〜に同意する",
+      "example": "She fell in with the idea.",
+      "hint_image": "fall_in_with.jpg"
+    },
+    {
+      "id": "p3_096",
+      "front": "fill up",
+      "back": "〜を満タンにする",
+      "example": "Fill up the tank.",
+      "hint_image": "fill_up.jpg"
+    },
+    {
+      "id": "p3_097",
+      "front": "fire up",
+      "back": "〜を燃え立たせる",
+      "example": "Fire up your enthusiasm.",
+      "hint_image": "fire_up.jpg"
+    },
+    {
+      "id": "p3_098",
+      "front": "flesh out",
+      "back": "〜を詳しくする",
+      "example": "Flesh out the plan.",
+      "hint_image": "flesh_out.jpg"
+    },
+    {
+      "id": "p3_099",
+      "front": "follow through",
+      "back": "〜をやり遂げる",
+      "example": "Follow through on your promise.",
+      "hint_image": "follow_through.jpg"
+    },
+    {
+      "id": "p3_100",
+      "front": "frown upon",
+      "back": "〜を嫌う・非難する",
+      "example": "Rudeness is frowned upon.",
+      "hint_image": "frown_upon.jpg"
+    },
+    {
+      "id": "p3_101",
+      "front": "get ahead",
+      "back": "成功する・先に進む",
+      "example": "She worked hard to get ahead.",
+      "hint_image": "get_ahead.jpg"
+    },
+    {
+      "id": "p3_102",
+      "front": "get at",
+      "back": "〜を言いたい・〜に触れる",
+      "example": "What are you getting at?",
+      "hint_image": "get_at.jpg"
+    },
+    {
+      "id": "p3_103",
+      "front": "get by",
+      "back": "なんとかやっていく",
+      "example": "We can get by with less.",
+      "hint_image": "get_by.jpg"
+    },
+    {
+      "id": "p3_104",
+      "front": "get carried away",
+      "back": "夢中になりすぎる",
+      "example": "Don't get carried away.",
+      "hint_image": "get_carried_away.jpg"
+    },
+    {
+      "id": "p3_105",
+      "front": "get in touch",
+      "back": "連絡する",
+      "example": "Get in touch with me later.",
+      "hint_image": "get_in_touch.jpg"
+    },
+    {
+      "id": "p3_106",
+      "front": "get on with",
+      "back": "〜を続ける",
+      "example": "Get on with the work.",
+      "hint_image": "get_on_with.jpg"
+    },
+    {
+      "id": "p3_107",
+      "front": "get to the point",
+      "back": "要点を言う",
+      "example": "Please get to the point.",
+      "hint_image": "get_to_the_point.jpg"
+    },
+    {
+      "id": "p3_108",
+      "front": "give off",
+      "back": "〔においなど〕を発する",
+      "example": "The flower gives off a scent.",
+      "hint_image": "give_off.jpg"
+    },
+    {
+      "id": "p3_109",
+      "front": "give out",
+      "back": "配る・尽きる",
+      "example": "She gave out flyers.",
+      "hint_image": "give_out.jpg"
+    },
+    {
+      "id": "p3_110",
+      "front": "go off",
+      "back": "爆発する・〔食べ物が〕腐る",
+      "example": "The alarm went off.",
+      "hint_image": "go_off.jpg"
+    },
+    {
+      "id": "p3_111",
+      "front": "go on to",
+      "back": "続いて〜する",
+      "example": "She went on to study abroad.",
+      "hint_image": "go_on_to.jpg"
+    },
+    {
+      "id": "p3_112",
+      "front": "hammer out",
+      "back": "〜をまとめ上げる",
+      "example": "Hammer out an agreement.",
+      "hint_image": "hammer_out.jpg"
+    },
+    {
+      "id": "p3_113",
+      "front": "hang in there",
+      "back": "頑張る・耐える",
+      "example": "Hang in there!",
+      "hint_image": "hang_in_there.jpg"
+    },
+    {
+      "id": "p3_114",
+      "front": "head off",
+      "back": "〜を未然に防ぐ",
+      "example": "Head off problems early.",
+      "hint_image": "head_off.jpg"
+    },
+    {
+      "id": "p3_115",
+      "front": "head for",
+      "back": "〜に向かう",
+      "example": "We headed for the exit.",
+      "hint_image": "head_for.jpg"
+    },
+    {
+      "id": "p3_116",
+      "front": "hit on",
+      "back": "〜を思いつく",
+      "example": "She hit on a great solution.",
+      "hint_image": "hit_on.jpg"
+    },
+    {
+      "id": "p3_117",
+      "front": "iron out",
+      "back": "〜を解決する",
+      "example": "Iron out the differences.",
+      "hint_image": "iron_out.jpg"
+    },
+    {
+      "id": "p3_118",
+      "front": "keep track of",
+      "back": "〜を把握する",
+      "example": "Keep track of expenses.",
+      "hint_image": "keep_track_of.jpg"
+    },
+    {
+      "id": "p3_119",
+      "front": "kick off",
+      "back": "〜を始める",
+      "example": "The event kicks off at noon.",
+      "hint_image": "kick_off.jpg"
+    },
+    {
+      "id": "p3_120",
+      "front": "lay out",
+      "back": "〜を配置する・説明する",
+      "example": "Lay out the plan clearly.",
+      "hint_image": "lay_out.jpg"
+    },
+    {
+      "id": "p3_121",
+      "front": "leave behind",
+      "back": "〜を置いていく",
+      "example": "Leave the past behind.",
+      "hint_image": "leave_behind.jpg"
+    },
+    {
+      "id": "p3_122",
+      "front": "let off",
+      "back": "〜を見逃す・解放する",
+      "example": "He was let off with a warning.",
+      "hint_image": "let_off.jpg"
+    },
+    {
+      "id": "p3_123",
+      "front": "live on",
+      "back": "〜を食べて生きる",
+      "example": "She lives on vegetables.",
+      "hint_image": "live_on.jpg"
+    },
+    {
+      "id": "p3_124",
+      "front": "long for",
+      "back": "〜を切望する",
+      "example": "She longs for peace.",
+      "hint_image": "long_for.jpg"
+    },
+    {
+      "id": "p3_125",
+      "front": "loom over",
+      "back": "〜に迫る",
+      "example": "Deadlines loom over us.",
+      "hint_image": "loom_over.jpg"
+    },
+    {
+      "id": "p3_126",
+      "front": "make out",
+      "back": "理解する・よく見える",
+      "example": "I can't make out what he's saying.",
+      "hint_image": "make_out.jpg"
+    },
+    {
+      "id": "p3_127",
+      "front": "narrow down",
+      "back": "〜を絞り込む",
+      "example": "Narrow down your choices.",
+      "hint_image": "narrow_down.jpg"
+    },
+    {
+      "id": "p3_128",
+      "front": "opt for",
+      "back": "〜を選ぶ",
+      "example": "She opted for the simpler plan.",
+      "hint_image": "opt_for.jpg"
+    },
+    {
+      "id": "p3_129",
+      "front": "opt out of",
+      "back": "〜から外れる",
+      "example": "He opted out of the program.",
+      "hint_image": "opt_out_of.jpg"
+    },
+    {
+      "id": "p3_130",
+      "front": "pan out",
+      "back": "うまくいく",
+      "example": "Let's hope this pans out.",
+      "hint_image": "pan_out.jpg"
+    },
+    {
+      "id": "p3_131",
+      "front": "patch up",
+      "back": "〜を修復する",
+      "example": "They patched up their friendship.",
+      "hint_image": "patch_up.jpg"
+    },
+    {
+      "id": "p3_132",
+      "front": "phase out",
+      "back": "〜を段階的に廃止する",
+      "example": "The old model is being phased out.",
+      "hint_image": "phase_out.jpg"
+    },
+    {
+      "id": "p3_133",
+      "front": "pick out",
+      "back": "〜を選び出す",
+      "example": "Pick out a dress.",
+      "hint_image": "pick_out.jpg"
+    },
+    {
+      "id": "p3_134",
+      "front": "pile up",
+      "back": "積み重なる",
+      "example": "The work piles up fast.",
+      "hint_image": "pile_up.jpg"
+    },
+    {
+      "id": "p3_135",
+      "front": "plug in",
+      "back": "〜を接続する",
+      "example": "Plug in the charger.",
+      "hint_image": "plug_in.jpg"
+    },
+    {
+      "id": "p3_136",
+      "front": "pull off",
+      "back": "〜をうまくやり遂げる",
+      "example": "She pulled off an amazing speech.",
+      "hint_image": "pull_off.jpg"
+    },
+    {
+      "id": "p3_137",
+      "front": "pull through",
+      "back": "回復する・乗り越える",
+      "example": "He pulled through surgery.",
+      "hint_image": "pull_through.jpg"
+    },
+    {
+      "id": "p3_138",
+      "front": "put across",
+      "back": "〜をうまく伝える",
+      "example": "She put her ideas across well.",
+      "hint_image": "put_across.jpg"
+    },
+    {
+      "id": "p3_139",
+      "front": "put down",
+      "back": "〜を書き留める・〔動物を〕安楽死させる",
+      "example": "Put down your thoughts.",
+      "hint_image": "put_down.jpg"
+    },
+    {
+      "id": "p3_140",
+      "front": "read into",
+      "back": "〜に深い意味を読み込む",
+      "example": "Don't read too much into it.",
+      "hint_image": "read_into.jpg"
+    },
+    {
+      "id": "p3_141",
+      "front": "rule out",
+      "back": "〜を除外する",
+      "example": "We can't rule out that option.",
+      "hint_image": "rule_out.jpg"
+    },
+    {
+      "id": "p3_142",
+      "front": "rush into",
+      "back": "〜に急いで飛び込む",
+      "example": "Don't rush into a decision.",
+      "hint_image": "rush_into.jpg"
+    },
+    {
+      "id": "p3_143",
+      "front": "see through",
+      "back": "〜を見抜く・やり遂げる",
+      "example": "She saw through his lie.",
+      "hint_image": "see_through.jpg"
+    },
+    {
+      "id": "p3_144",
+      "front": "single out",
+      "back": "〜を選び出す",
+      "example": "She singled out the best candidate.",
+      "hint_image": "single_out.jpg"
+    },
+    {
+      "id": "p3_145",
+      "front": "sort out",
+      "back": "〜を解決する・整理する",
+      "example": "Sort out the problem first.",
+      "hint_image": "sort_out.jpg"
+    },
+    {
+      "id": "p3_146",
+      "front": "stand by",
+      "back": "〜を支持する・待機する",
+      "example": "Stand by your friends.",
+      "hint_image": "stand_by.jpg"
+    },
+    {
+      "id": "p3_147",
+      "front": "stand up for",
+      "back": "〜を擁護する",
+      "example": "Stand up for what is right.",
+      "hint_image": "stand_up_for.jpg"
+    },
+    {
+      "id": "p3_148",
+      "front": "stir up",
+      "back": "〜をかき立てる",
+      "example": "Don't stir up trouble.",
+      "hint_image": "stir_up.jpg"
+    },
+    {
+      "id": "p3_149",
+      "front": "stumble upon",
+      "back": "〜に偶然出会う",
+      "example": "She stumbled upon a great book.",
+      "hint_image": "stumble_upon.jpg"
+    },
+    {
+      "id": "p3_150",
+      "front": "take a toll on",
+      "back": "〜に悪影響を与える",
+      "example": "Work takes a toll on health.",
+      "hint_image": "take_a_toll_on.jpg"
+    },
+    {
+      "id": "p3_151",
+      "front": "think over",
+      "back": "〜をじっくり考える",
+      "example": "Think it over before deciding.",
+      "hint_image": "think_over.jpg"
+    },
+    {
+      "id": "p3_152",
+      "front": "throw out",
+      "back": "〜を捨てる・拒否する",
+      "example": "Throw out the old plan.",
+      "hint_image": "throw_out.jpg"
+    },
+    {
+      "id": "p3_153",
+      "front": "tide over",
+      "back": "〜をしのぐ",
+      "example": "This money will tide us over.",
+      "hint_image": "tide_over.jpg"
+    },
+    {
+      "id": "p3_154",
+      "front": "touch on",
+      "back": "〜に触れる",
+      "example": "She touched on the main issues.",
+      "hint_image": "touch_on.jpg"
+    },
+    {
+      "id": "p3_155",
+      "front": "tune in",
+      "back": "〜を聞く・チューニングする",
+      "example": "Tune in to the show.",
+      "hint_image": "tune_in.jpg"
+    },
+    {
+      "id": "p3_156",
+      "front": "turn to",
+      "back": "〜に頼る",
+      "example": "She turned to her friends for help.",
+      "hint_image": "turn_to.jpg"
+    },
+    {
+      "id": "p3_157",
+      "front": "wear out",
+      "back": "すり減らす・疲れ果てる",
+      "example": "These shoes wore out fast.",
+      "hint_image": "wear_out.jpg"
+    },
+    {
+      "id": "p3_158",
+      "front": "weigh up",
+      "back": "〜を比較検討する",
+      "example": "Weigh up the pros and cons.",
+      "hint_image": "weigh_up.jpg"
+    },
+    {
+      "id": "p3_159",
+      "front": "a great deal of",
+      "back": "大量の",
+      "example": "A great deal of effort is needed.",
+      "hint_image": "a_great_deal_of.jpg"
+    },
+    {
+      "id": "p3_160",
+      "front": "a wide range of",
+      "back": "幅広い",
+      "example": "A wide range of products.",
+      "hint_image": "a_wide_range_of.jpg"
+    },
+    {
+      "id": "p3_161",
+      "front": "at the expense of",
+      "back": "〜を犠牲にして",
+      "example": "Success at the expense of health.",
+      "hint_image": "at_the_expense_of.jpg"
+    },
+    {
+      "id": "p3_162",
+      "front": "at the risk of",
+      "back": "〜のリスクを冒して",
+      "example": "At the risk of being wrong.",
+      "hint_image": "at_the_risk_of.jpg"
+    },
+    {
+      "id": "p3_163",
+      "front": "for the sake of",
+      "back": "〜のために",
+      "example": "For the sake of peace.",
+      "hint_image": "for_the_sake_of.jpg"
+    },
+    {
+      "id": "p3_164",
+      "front": "in a sense",
+      "back": "ある意味で",
+      "example": "In a sense, you're right.",
+      "hint_image": "in_a_sense.jpg"
+    },
+    {
+      "id": "p3_165",
+      "front": "in light of",
+      "back": "〜を考慮して",
+      "example": "In light of the results.",
+      "hint_image": "in_light_of.jpg"
+    },
+    {
+      "id": "p3_166",
+      "front": "in place of",
+      "back": "〜の代わりに",
+      "example": "Use olive oil in place of butter.",
+      "hint_image": "in_place_of.jpg"
+    },
+    {
+      "id": "p3_167",
+      "front": "in terms of",
+      "back": "〜の観点から",
+      "example": "In terms of cost, it's better.",
+      "hint_image": "in_terms_of.jpg"
+    },
+    {
+      "id": "p3_168",
+      "front": "in the face of",
+      "back": "〜に直面して",
+      "example": "She stayed calm in the face of danger.",
+      "hint_image": "in_the_face_of.jpg"
+    },
+    {
+      "id": "p3_169",
+      "front": "on account of",
+      "back": "〜のために",
+      "example": "Cancelled on account of rain.",
+      "hint_image": "on_account_of.jpg"
+    },
+    {
+      "id": "p3_170",
+      "front": "on the basis of",
+      "back": "〜に基づいて",
+      "example": "On the basis of evidence.",
+      "hint_image": "on_the_basis_of.jpg"
+    },
+    {
+      "id": "p3_171",
+      "front": "to some extent",
+      "back": "ある程度",
+      "example": "To some extent, she is right.",
+      "hint_image": "to_some_extent.jpg"
+    },
+    {
+      "id": "p3_172",
+      "front": "to a certain extent",
+      "back": "ある程度まで",
+      "example": "That is true to a certain extent.",
+      "hint_image": "to_a_certain_extent.jpg"
+    },
+    {
+      "id": "p3_173",
+      "front": "with regard to",
+      "back": "〜に関して",
+      "example": "With regard to the schedule.",
+      "hint_image": "with_regard_to.jpg"
+    },
+    {
+      "id": "p3_174",
+      "front": "with the exception of",
+      "back": "〜を除いて",
+      "example": "Everyone, with the exception of him.",
+      "hint_image": "with_the_exception_of.jpg"
+    },
+    {
+      "id": "p3_175",
+      "front": "with a view to",
+      "back": "〜を目的として",
+      "example": "With a view to improving.",
+      "hint_image": "with_a_view_to.jpg"
+    },
+    {
+      "id": "p3_176",
+      "front": "at any rate",
+      "back": "とにかく",
+      "example": "At any rate, let's try.",
+      "hint_image": "at_any_rate.jpg"
+    },
+    {
+      "id": "p3_177",
+      "front": "by no means",
+      "back": "決して〜ない",
+      "example": "This is by no means easy.",
+      "hint_image": "by_no_means.jpg"
+    },
+    {
+      "id": "p3_178",
+      "front": "needless to say",
+      "back": "言うまでもなく",
+      "example": "Needless to say, it matters.",
+      "hint_image": "needless_to_say.jpg"
+    },
+    {
+      "id": "p3_179",
+      "front": "to put it simply",
+      "back": "簡単に言うと",
+      "example": "To put it simply, no.",
+      "hint_image": "to_put_it_simply.jpg"
+    },
+    {
+      "id": "p3_180",
+      "front": "more often than not",
+      "back": "たいていの場合",
+      "example": "More often than not, she is right.",
+      "hint_image": "more_often_than_not.jpg"
+    },
+    {
+      "id": "p3_181",
+      "front": "all things considered",
+      "back": "諸事情を考慮すると",
+      "example": "All things considered, we did well.",
+      "hint_image": "all_things_considered.jpg"
+    },
+    {
+      "id": "p3_001_182",
+      "front": "act as",
+      "back": "〜として機能する",
+      "example": "She acts as team leader.",
+      "hint_image": "act_as.jpg"
+    },
+    {
+      "id": "p3_001_183",
+      "front": "add fuel to the fire",
+      "back": "火に油を注ぐ",
+      "example": "His words added fuel to the fire.",
+      "hint_image": "add_fuel_to_the_fire.jpg"
+    },
+    {
+      "id": "p3_001_184",
+      "front": "ahead of the curve",
+      "back": "時代を先取りして",
+      "example": "She is ahead of the curve.",
+      "hint_image": "ahead_of_the_curve.jpg"
+    },
+    {
+      "id": "p3_001_185",
+      "front": "at one's wit's end",
+      "back": "途方に暮れて",
+      "example": "I was at my wit's end.",
+      "hint_image": "at_one's_wit's_end.jpg"
+    },
+    {
+      "id": "p3_001_186",
+      "front": "back down",
+      "back": "主張を取り下げる",
+      "example": "She backed down from the argument.",
+      "hint_image": "back_down.jpg"
+    },
+    {
+      "id": "p3_001_187",
+      "front": "back out of",
+      "back": "〜から手を引く",
+      "example": "He backed out of the deal.",
+      "hint_image": "back_out_of.jpg"
+    },
+    {
+      "id": "p3_001_188",
+      "front": "bail out",
+      "back": "〜を救済する",
+      "example": "The bank bailed out the firm.",
+      "hint_image": "bail_out.jpg"
+    },
+    {
+      "id": "p3_001_189",
+      "front": "balance out",
+      "back": "均衡を保つ",
+      "example": "Good and bad balance out.",
+      "hint_image": "balance_out.jpg"
+    },
+    {
+      "id": "p3_001_190",
+      "front": "be at a loss",
+      "back": "途方に暮れている",
+      "example": "She was at a loss for words.",
+      "hint_image": "be_at_a_loss.jpg"
+    },
+    {
+      "id": "p3_001_191",
+      "front": "be at odds with",
+      "back": "〜と対立している",
+      "example": "He is at odds with his boss.",
+      "hint_image": "be_at_odds_with.jpg"
+    },
+    {
+      "id": "p3_001_192",
+      "front": "be better off",
+      "back": "より良い状態だ",
+      "example": "You'd be better off resting.",
+      "hint_image": "be_better_off.jpg"
+    },
+    {
+      "id": "p3_001_193",
+      "front": "be caught off guard",
+      "back": "不意をつかれる",
+      "example": "She was caught off guard.",
+      "hint_image": "be_caught_off_guard.jpg"
+    },
+    {
+      "id": "p3_001_194",
+      "front": "be hard on",
+      "back": "〜に厳しい",
+      "example": "Don't be too hard on yourself.",
+      "hint_image": "be_hard_on.jpg"
+    },
+    {
+      "id": "p3_001_195",
+      "front": "be in the dark",
+      "back": "何も知らない",
+      "example": "We were kept in the dark.",
+      "hint_image": "be_in_the_dark.jpg"
+    },
+    {
+      "id": "p3_001_196",
+      "front": "be in the loop",
+      "back": "情報に通じている",
+      "example": "Keep me in the loop.",
+      "hint_image": "be_in_the_loop.jpg"
+    },
+    {
+      "id": "p3_001_197",
+      "front": "be in two minds",
+      "back": "迷っている",
+      "example": "She was in two minds.",
+      "hint_image": "be_in_two_minds.jpg"
+    },
+    {
+      "id": "p3_001_198",
+      "front": "be out of the question",
+      "back": "論外だ",
+      "example": "That is out of the question.",
+      "hint_image": "be_out_of_the_question.jpg"
+    },
+    {
+      "id": "p3_001_199",
+      "front": "be over the moon",
+      "back": "とても喜んでいる",
+      "example": "She was over the moon.",
+      "hint_image": "be_over_the_moon.jpg"
+    },
+    {
+      "id": "p3_001_200",
+      "front": "be run down",
+      "back": "疲れ果てている",
+      "example": "She felt run down.",
+      "hint_image": "be_run_down.jpg"
+    },
+    {
+      "id": "p3_001_201",
+      "front": "be snowed under",
+      "back": "〔仕事で〕てんてこまいだ",
+      "example": "She is snowed under with work.",
+      "hint_image": "be_snowed_under.jpg"
+    },
+    {
+      "id": "p3_001_202",
+      "front": "be taken aback",
+      "back": "驚く",
+      "example": "She was taken aback.",
+      "hint_image": "be_taken_aback.jpg"
+    },
+    {
+      "id": "p3_001_203",
+      "front": "be thrown off",
+      "back": "〔計画が〕狂う",
+      "example": "Our plans were thrown off.",
+      "hint_image": "be_thrown_off.jpg"
+    },
+    {
+      "id": "p3_001_204",
+      "front": "beat around the bush",
+      "back": "遠回しに言う",
+      "example": "Stop beating around the bush.",
+      "hint_image": "beat_around_the_bush.jpg"
+    },
+    {
+      "id": "p3_001_205",
+      "front": "bit by bit",
+      "back": "少しずつ",
+      "example": "Things improve bit by bit.",
+      "hint_image": "bit_by_bit.jpg"
+    },
+    {
+      "id": "p3_001_206",
+      "front": "boil over",
+      "back": "〔感情が〕爆発する",
+      "example": "Her anger boiled over.",
+      "hint_image": "boil_over.jpg"
+    },
+    {
+      "id": "p3_001_207",
+      "front": "branch out into",
+      "back": "〜に進出する",
+      "example": "The firm branched out into Asia.",
+      "hint_image": "branch_out_into.jpg"
+    },
+    {
+      "id": "p3_001_208",
+      "front": "break even",
+      "back": "収支が合う",
+      "example": "We barely broke even.",
+      "hint_image": "break_even.jpg"
+    },
+    {
+      "id": "p3_001_209",
+      "front": "bridge the gap",
+      "back": "ギャップを埋める",
+      "example": "Bridge the gap between them.",
+      "hint_image": "bridge_the_gap.jpg"
+    },
+    {
+      "id": "p3_001_210",
+      "front": "brush up on",
+      "back": "〜を復習する",
+      "example": "Brush up on your English.",
+      "hint_image": "brush_up_on.jpg"
+    },
+    {
+      "id": "p3_001_211",
+      "front": "buckle down",
+      "back": "真剣に取り組む",
+      "example": "Buckle down and study.",
+      "hint_image": "buckle_down.jpg"
+    },
+    {
+      "id": "p3_001_212",
+      "front": "burn out",
+      "back": "燃え尽きる",
+      "example": "She burned out from overwork.",
+      "hint_image": "burn_out.jpg"
+    },
+    {
+      "id": "p3_001_213",
+      "front": "cash in on",
+      "back": "〜を利用して利益を得る",
+      "example": "Cash in on the trend.",
+      "hint_image": "cash_in_on.jpg"
+    },
+    {
+      "id": "p3_001_214",
+      "front": "catch up to",
+      "back": "〜に追いつく",
+      "example": "She caught up to the leader.",
+      "hint_image": "catch_up_to.jpg"
+    },
+    {
+      "id": "p3_001_215",
+      "front": "change one's tune",
+      "back": "態度を変える",
+      "example": "He changed his tune quickly.",
+      "hint_image": "change_one's_tune.jpg"
+    },
+    {
+      "id": "p3_001_216",
+      "front": "come a long way",
+      "back": "大きく前進する",
+      "example": "She has come a long way.",
+      "hint_image": "come_a_long_way.jpg"
+    },
+    {
+      "id": "p3_001_217",
+      "front": "come under fire",
+      "back": "批判される",
+      "example": "The policy came under fire.",
+      "hint_image": "come_under_fire.jpg"
+    },
+    {
+      "id": "p3_001_218",
+      "front": "come up against",
+      "back": "〜に直面する",
+      "example": "She came up against challenges.",
+      "hint_image": "come_up_against.jpg"
+    },
+    {
+      "id": "p3_001_219",
+      "front": "come up short",
+      "back": "不足する",
+      "example": "The team came up short.",
+      "hint_image": "come_up_short.jpg"
+    },
+    {
+      "id": "p3_001_220",
+      "front": "cross one's mind",
+      "back": "頭をよぎる",
+      "example": "It crossed my mind.",
+      "hint_image": "cross_one's_mind.jpg"
+    },
+    {
+      "id": "p3_001_221",
+      "front": "cut corners",
+      "back": "手を抜く",
+      "example": "Don't cut corners.",
+      "hint_image": "cut_corners.jpg"
+    },
+    {
+      "id": "p3_001_222",
+      "front": "day in day out",
+      "back": "来る日も来る日も",
+      "example": "She practices day in day out.",
+      "hint_image": "day_in_day_out.jpg"
+    },
+    {
+      "id": "p3_001_223",
+      "front": "dig deep",
+      "back": "深く掘り下げる",
+      "example": "Dig deep for the answer.",
+      "hint_image": "dig_deep.jpg"
+    },
+    {
+      "id": "p3_001_224",
+      "front": "do justice to",
+      "back": "〜を適切に評価する",
+      "example": "Words can't do justice to her talent.",
+      "hint_image": "do_justice_to.jpg"
+    },
+    {
+      "id": "p3_001_225",
+      "front": "do the trick",
+      "back": "うまくいく",
+      "example": "This should do the trick.",
+      "hint_image": "do_the_trick.jpg"
+    },
+    {
+      "id": "p3_001_226",
+      "front": "down to earth",
+      "back": "現実的な",
+      "example": "She is very down to earth.",
+      "hint_image": "down_to_earth.jpg"
+    },
+    {
+      "id": "p3_001_227",
+      "front": "drive home",
+      "back": "〜を強調する",
+      "example": "She drove her point home.",
+      "hint_image": "drive_home.jpg"
+    },
+    {
+      "id": "p3_001_228",
+      "front": "fall flat",
+      "back": "失敗する・不発に終わる",
+      "example": "The joke fell flat.",
+      "hint_image": "fall_flat.jpg"
+    },
+    {
+      "id": "p3_001_229",
+      "front": "flip the script",
+      "back": "状況を一変させる",
+      "example": "She flipped the script.",
+      "hint_image": "flip_the_script.jpg"
+    },
+    {
+      "id": "p3_001_230",
+      "front": "from the ground up",
+      "back": "ゼロから",
+      "example": "Built from the ground up.",
+      "hint_image": "from_the_ground_up.jpg"
+    },
+    {
+      "id": "p3_001_231",
+      "front": "gain ground",
+      "back": "進展する",
+      "example": "The new idea gained ground.",
+      "hint_image": "gain_ground.jpg"
+    },
+    {
+      "id": "p3_001_232",
+      "front": "get a grip",
+      "back": "しっかりする",
+      "example": "Get a grip on yourself.",
+      "hint_image": "get_a_grip.jpg"
+    },
+    {
+      "id": "p3_001_233",
+      "front": "get the hang of",
+      "back": "〜のコツをつかむ",
+      "example": "She got the hang of it.",
+      "hint_image": "get_the_hang_of.jpg"
+    },
+    {
+      "id": "p3_001_234",
+      "front": "get the ball rolling",
+      "back": "始動させる",
+      "example": "Let's get the ball rolling.",
+      "hint_image": "get_the_ball_rolling.jpg"
+    },
+    {
+      "id": "p3_001_235",
+      "front": "get wind of",
+      "back": "〜を聞きつける",
+      "example": "She got wind of the news.",
+      "hint_image": "get_wind_of.jpg"
+    },
+    {
+      "id": "p3_001_236",
+      "front": "give the benefit of the doubt",
+      "back": "信用して疑わない",
+      "example": "Give her the benefit of the doubt.",
+      "hint_image": "give_the_benefit_of_the_doubt.jpg"
+    },
+    {
+      "id": "p3_001_237",
+      "front": "go hand in hand",
+      "back": "密接に関係する",
+      "example": "Effort and success go hand in hand.",
+      "hint_image": "go_hand_in_hand.jpg"
+    },
+    {
+      "id": "p3_001_238",
+      "front": "hang in the balance",
+      "back": "微妙な状態にある",
+      "example": "His career hangs in the balance.",
+      "hint_image": "hang_in_the_balance.jpg"
+    },
+    {
+      "id": "p3_001_239",
+      "front": "have a say",
+      "back": "発言権がある",
+      "example": "Everyone has a say.",
+      "hint_image": "have_a_say.jpg"
+    },
+    {
+      "id": "p3_001_240",
+      "front": "have second thoughts",
+      "back": "気が変わる",
+      "example": "She had second thoughts.",
+      "hint_image": "have_second_thoughts.jpg"
+    },
+    {
+      "id": "p3_001_241",
+      "front": "hit the ground running",
+      "back": "すぐに全力で始める",
+      "example": "She hit the ground running.",
+      "hint_image": "hit_the_ground_running.jpg"
+    },
+    {
+      "id": "p3_001_242",
+      "front": "hold one's ground",
+      "back": "立場を守る",
+      "example": "He held his ground.",
+      "hint_image": "hold_one's_ground.jpg"
+    },
+    {
+      "id": "p3_001_243",
+      "front": "hold the fort",
+      "back": "留守を守る",
+      "example": "Hold the fort while I'm gone.",
+      "hint_image": "hold_the_fort.jpg"
+    },
+    {
+      "id": "p3_001_244",
+      "front": "in hindsight",
+      "back": "振り返ってみると",
+      "example": "In hindsight, we should have waited.",
+      "hint_image": "in_hindsight.jpg"
+    },
+    {
+      "id": "p3_001_245",
+      "front": "in no time",
+      "back": "すぐに",
+      "example": "She finished it in no time.",
+      "hint_image": "in_no_time.jpg"
+    },
+    {
+      "id": "p3_001_246",
+      "front": "in the wake of",
+      "back": "〜の後に",
+      "example": "In the wake of the storm.",
+      "hint_image": "in_the_wake_of.jpg"
+    },
+    {
+      "id": "p3_001_247",
+      "front": "jump to conclusions",
+      "back": "早合点する",
+      "example": "Don't jump to conclusions.",
+      "hint_image": "jump_to_conclusions.jpg"
+    },
+    {
+      "id": "p3_001_248",
+      "front": "keep a low profile",
+      "back": "目立たないようにする",
+      "example": "She keeps a low profile.",
+      "hint_image": "keep_a_low_profile.jpg"
+    },
+    {
+      "id": "p3_001_249",
+      "front": "keep one's cool",
+      "back": "冷静を保つ",
+      "example": "Keep your cool under pressure.",
+      "hint_image": "keep_one's_cool.jpg"
+    },
+    {
+      "id": "p3_001_250",
+      "front": "keep tabs on",
+      "back": "〜を把握する",
+      "example": "Keep tabs on spending.",
+      "hint_image": "keep_tabs_on.jpg"
+    },
+    {
+      "id": "p3_001_251",
+      "front": "kick the habit",
+      "back": "悪い習慣をやめる",
+      "example": "She kicked the habit.",
+      "hint_image": "kick_the_habit.jpg"
+    },
+    {
+      "id": "p3_001_252",
+      "front": "lay the groundwork",
+      "back": "基盤を作る",
+      "example": "Lay the groundwork early.",
+      "hint_image": "lay_the_groundwork.jpg"
+    },
+    {
+      "id": "p3_001_253",
+      "front": "leave no stone unturned",
+      "back": "あらゆる手を尽くす",
+      "example": "Leave no stone unturned.",
+      "hint_image": "leave_no_stone_unturned.jpg"
+    },
+    {
+      "id": "p3_001_254",
+      "front": "leave room for",
+      "back": "〜の余地を残す",
+      "example": "Leave room for improvement.",
+      "hint_image": "leave_room_for.jpg"
+    },
+    {
+      "id": "p3_001_255",
+      "front": "let the cat out of the bag",
+      "back": "秘密を漏らす",
+      "example": "She let the cat out of the bag.",
+      "hint_image": "let_the_cat_out_of_the_bag.jpg"
+    },
+    {
+      "id": "p3_001_256",
+      "front": "live and learn",
+      "back": "経験から学ぶ",
+      "example": "Live and learn.",
+      "hint_image": "live_and_learn.jpg"
+    },
+    {
+      "id": "p3_001_257",
+      "front": "make a comeback",
+      "back": "復活する",
+      "example": "She made a comeback.",
+      "hint_image": "make_a_comeback.jpg"
+    },
+    {
+      "id": "p3_001_258",
+      "front": "make headway",
+      "back": "進展する",
+      "example": "We made headway.",
+      "hint_image": "make_headway.jpg"
+    },
+    {
+      "id": "p3_001_259",
+      "front": "make waves",
+      "back": "波紋を起こす",
+      "example": "Her speech made waves.",
+      "hint_image": "make_waves.jpg"
+    },
+    {
+      "id": "p3_001_260",
+      "front": "make it work",
+      "back": "うまくやる",
+      "example": "We'll make it work.",
+      "hint_image": "make_it_work.jpg"
+    },
+    {
+      "id": "p3_001_261",
+      "front": "nail it",
+      "back": "うまくやり遂げる",
+      "example": "She nailed the presentation.",
+      "hint_image": "nail_it.jpg"
+    },
+    {
+      "id": "p3_001_262",
+      "front": "no strings attached",
+      "back": "条件なしで",
+      "example": "It's free, no strings attached.",
+      "hint_image": "no_strings_attached.jpg"
+    },
+    {
+      "id": "p3_001_263",
+      "front": "on the fence",
+      "back": "迷っている",
+      "example": "She is still on the fence.",
+      "hint_image": "on_the_fence.jpg"
+    },
+    {
+      "id": "p3_001_264",
+      "front": "on the lookout for",
+      "back": "〜を見張っている",
+      "example": "Be on the lookout for errors.",
+      "hint_image": "on_the_lookout_for.jpg"
+    },
+    {
+      "id": "p3_001_265",
+      "front": "on the mend",
+      "back": "回復中で",
+      "example": "She is on the mend.",
+      "hint_image": "on_the_mend.jpg"
+    },
+    {
+      "id": "p3_001_266",
+      "front": "on the same page",
+      "back": "意見が一致している",
+      "example": "We're all on the same page.",
+      "hint_image": "on_the_same_page.jpg"
+    },
+    {
+      "id": "p3_001_267",
+      "front": "out of the blue",
+      "back": "突然に",
+      "example": "He called out of the blue.",
+      "hint_image": "out_of_the_blue.jpg"
+    },
+    {
+      "id": "p3_001_268",
+      "front": "over time",
+      "back": "時間の経過とともに",
+      "example": "Things improve over time.",
+      "hint_image": "over_time.jpg"
+    },
+    {
+      "id": "p3_001_269",
+      "front": "pick up the slack",
+      "back": "不足を補う",
+      "example": "She picked up the slack.",
+      "hint_image": "pick_up_the_slack.jpg"
+    },
+    {
+      "id": "p3_001_270",
+      "front": "play by the rules",
+      "back": "規則通りにやる",
+      "example": "Always play by the rules.",
+      "hint_image": "play_by_the_rules.jpg"
+    },
+    {
+      "id": "p3_001_271",
+      "front": "play it by ear",
+      "back": "臨機応変にやる",
+      "example": "Let's play it by ear.",
+      "hint_image": "play_it_by_ear.jpg"
+    },
+    {
+      "id": "p3_001_272",
+      "front": "press on",
+      "back": "前進し続ける",
+      "example": "Press on despite hardship.",
+      "hint_image": "press_on.jpg"
+    },
+    {
+      "id": "p3_001_273",
+      "front": "push the envelope",
+      "back": "限界に挑む",
+      "example": "She pushes the envelope.",
+      "hint_image": "push_the_envelope.jpg"
+    },
+    {
+      "id": "p3_001_274",
+      "front": "put one's foot down",
+      "back": "断固たる態度をとる",
+      "example": "She put her foot down.",
+      "hint_image": "put_one's_foot_down.jpg"
+    },
+    {
+      "id": "p3_001_275",
+      "front": "raise the bar",
+      "back": "基準を上げる",
+      "example": "She raised the bar.",
+      "hint_image": "raise_the_bar.jpg"
+    },
+    {
+      "id": "p3_001_276",
+      "front": "ring a bell",
+      "back": "〔記憶に〕引っかかる",
+      "example": "Does that ring a bell?",
+      "hint_image": "ring_a_bell.jpg"
+    },
+    {
+      "id": "p3_001_277",
+      "front": "rise to the occasion",
+      "back": "〔大事な時に〕実力を発揮する",
+      "example": "She rose to the occasion.",
+      "hint_image": "rise_to_the_occasion.jpg"
+    },
+    {
+      "id": "p3_001_278",
+      "front": "run its course",
+      "back": "〔物事が〕自然に終わる",
+      "example": "Let the cold run its course.",
+      "hint_image": "run_its_course.jpg"
+    },
+    {
+      "id": "p3_001_279",
+      "front": "scratch the surface",
+      "back": "〜の表面をなぞる",
+      "example": "We've barely scratched the surface.",
+      "hint_image": "scratch_the_surface.jpg"
+    },
+    {
+      "id": "p3_001_280",
+      "front": "shed light on",
+      "back": "〜を明らかにする",
+      "example": "Research shed light on the issue.",
+      "hint_image": "shed_light_on.jpg"
+    },
+    {
+      "id": "p3_001_281",
+      "front": "sit on the fence",
+      "back": "態度を保留する",
+      "example": "He sat on the fence.",
+      "hint_image": "sit_on_the_fence.jpg"
+    },
+    {
+      "id": "p3_001_282",
+      "front": "speak one's mind",
+      "back": "率直に言う",
+      "example": "She spoke her mind.",
+      "hint_image": "speak_one's_mind.jpg"
+    },
+    {
+      "id": "p3_001_283",
+      "front": "start from scratch",
+      "back": "ゼロから始める",
+      "example": "Start from scratch.",
+      "hint_image": "start_from_scratch.jpg"
+    },
+    {
+      "id": "p3_001_284",
+      "front": "stay on top of",
+      "back": "〜を把握し続ける",
+      "example": "Stay on top of the news.",
+      "hint_image": "stay_on_top_of.jpg"
+    },
+    {
+      "id": "p3_001_285",
+      "front": "stir things up",
+      "back": "物事をかき乱す",
+      "example": "She stirred things up.",
+      "hint_image": "stir_things_up.jpg"
+    },
+    {
+      "id": "p3_001_286",
+      "front": "take a back seat",
+      "back": "脇に退く",
+      "example": "He took a back seat.",
+      "hint_image": "take_a_back_seat.jpg"
+    },
+    {
+      "id": "p3_001_287",
+      "front": "take one's time",
+      "back": "急がずやる",
+      "example": "Take your time.",
+      "hint_image": "take_one's_time.jpg"
+    },
+    {
+      "id": "p3_001_288",
+      "front": "throw in the towel",
+      "back": "諦める",
+      "example": "She threw in the towel.",
+      "hint_image": "throw_in_the_towel.jpg"
+    },
+    {
+      "id": "p3_001_289",
+      "front": "turn over",
+      "back": "裏返す・引き渡す",
+      "example": "Turn over the paper.",
+      "hint_image": "turn_over.jpg"
+    },
+    {
+      "id": "p3_001_290",
+      "front": "under pressure",
+      "back": "プレッシャーの下で",
+      "example": "She works well under pressure.",
+      "hint_image": "under_pressure.jpg"
+    },
+    {
+      "id": "p3_001_291",
+      "front": "up in the air",
+      "back": "未定で",
+      "example": "The plan is still up in the air.",
+      "hint_image": "up_in_the_air.jpg"
+    },
+    {
+      "id": "p3_001_292",
+      "front": "walk the talk",
+      "back": "言行一致する",
+      "example": "She walks the talk.",
+      "hint_image": "walk_the_talk.jpg"
+    },
+    {
+      "id": "p3_001_293",
+      "front": "when it comes to",
+      "back": "〜のことになると",
+      "example": "When it comes to music, she's great.",
+      "hint_image": "when_it_comes_to.jpg"
+    },
+    {
+      "id": "p3_001_294",
+      "front": "with flying colors",
+      "back": "見事に",
+      "example": "She passed with flying colors.",
+      "hint_image": "with_flying_colors.jpg"
+    },
+    {
+      "id": "p3_001_295",
+      "front": "at the drop of a hat",
+      "back": "即座に",
+      "example": "She helps at the drop of a hat.",
+      "hint_image": "at_the_drop_of_a_hat.jpg"
+    },
+    {
+      "id": "p3_001_296",
+      "front": "bend over backwards",
+      "back": "一生懸命努力する",
+      "example": "She bent over backwards to help.",
+      "hint_image": "bend_over_backwards.jpg"
+    },
+    {
+      "id": "p3_001_297",
+      "front": "bite off more than one can chew",
+      "back": "手に負えないことをする",
+      "example": "Don't bite off more than you can chew.",
+      "hint_image": "bite_off_more_than_one_can_chew.jpg"
+    },
+    {
+      "id": "p3_001_298",
+      "front": "face the music",
+      "back": "〔結果を〕潔く受け入れる",
+      "example": "It's time to face the music.",
+      "hint_image": "face_the_music.jpg"
+    },
+    {
+      "id": "p3_001_299",
+      "front": "get a feel for",
+      "back": "〜の感覚をつかむ",
+      "example": "Get a feel for the market.",
+      "hint_image": "get_a_feel_for.jpg"
+    },
+    {
+      "id": "p3_001_300",
+      "front": "run circles around",
+      "back": "〜をはるかに凌ぐ",
+      "example": "She runs circles around the rest.",
+      "hint_image": "run_circles_around.jpg"
+    }
+  ]
+}
